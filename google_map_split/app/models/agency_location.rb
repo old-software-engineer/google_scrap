@@ -1,3 +1,3 @@
 class AgencyLocation < ApplicationRecord
-	belongs_to :agencies
+	belongs_to :agency
 end

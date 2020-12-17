@@ -1,4 +1,4 @@
 class AgencyCategory < ApplicationRecord
-	belongs_to :agencies
-	belongs_to :categories
+	belongs_to :agency
+	belongs_to :category
 end

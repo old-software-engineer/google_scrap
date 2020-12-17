@@ -81,15 +81,4 @@ ActiveRecord::Schema.define(version: 2020_12_15_113521) do
     t.datetime "updated_at", null: false
   end
 
-  create_table "zipcodes", options: "ENGINE=InnoDB DEFAULT CHARSET=latin1", force: :cascade do |t|
-    t.string "zipcode", limit: 10, null: false
-    t.string "type", limit: 8, null: false
-    t.string "city", limit: 50, null: false
-    t.string "State", limit: 50, null: false
-    t.string "county", limit: 50, null: false
-    t.string "lat", limit: 20
-    t.string "lng", limit: 20
-    t.datetime "created", null: false
-  end
-
 end

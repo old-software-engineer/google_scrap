@@ -17,7 +17,7 @@ from email import encoders
 import mysql.connector
 mysql_user = 'av'
 mysql_pass = 'azad'
-mysql_db = 'test'
+mysql_db = 'google_map'
 
 mydb = mysql.connector.connect(
     host="localhost",
@@ -175,7 +175,7 @@ def scrape_data(driver):
                 address_zip = address.split(',')[3].strip().split()[1]
                 address_zip_code = int(address_zip)
                 address_country = address.split(',')[4].strip()
-            elif len(address.strip(',')) == 4:
+            elif len(address.split(',')) == 4:
                 address_street = address.split(',')[0].strip()
                 address_city = address.split(',')[1].strip()
                 address_state = address.split(',')[2].strip().split()[0]
@@ -361,7 +361,7 @@ try:
     for row in reader:
         scraping_zip = row[0].replace('ZIP Code ','')
         input_city = row[1].strip()
-########################################## Enter state manually ###############
+        ########################################## Enter state manually ###############
         input_state = "Wyoming"
         input_type = row[3]
         page_number = 0
@@ -372,7 +372,7 @@ try:
             print('\n')
             print('Scraping insurance agency near ' + scraping_zip)
             search_input.clear()
-            search_input.send_keys('insurance agency near ' + scraping_zip+' '+input_state+' USA')
+            search_input.send_keys('insurance agency near , ' + scraping_zip+' , '+input_state+' , USA')
             search_input.send_keys(Keys.ENTER)
             wait.until(EC.url_contains(input_state))
             if line != 'normal':
@@ -396,7 +396,7 @@ try:
             scraper(driver)
             div_count=0
             insert_into_db(data)
-            data=[]
+            data =[]
             done_zip.write(f'{scraping_zip},')
     log.close()
     done_zip.close()
