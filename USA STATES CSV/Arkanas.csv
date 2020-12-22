@@ -1,0 +1,706 @@
+ZIP CODE,City,County,Type
+ZIP Code 71601,Pine Bluff,Jefferson,Standard
+ZIP Code 71602,White Hall,Jefferson,Standard
+ZIP Code 71603,Pine Bluff,Jefferson,Standard
+ZIP Code 71611,Pine Bluff,Jefferson,P.O. Box
+ZIP Code 71612,White Hall,Jefferson,P.O. Box
+ZIP Code 71613,Pine Bluff,Jefferson,P.O. Box
+ZIP Code 71630,Arkansas City,Desha,P.O. Box
+ZIP Code 71631,Banks,Bradley,Standard
+ZIP Code 71635,Crossett,Ashley,Standard
+ZIP Code 71638,Dermott,Chicot,Standard
+ZIP Code 71639,Dumas,Desha,Standard
+ZIP Code 71640,Eudora,Chicot,Standard
+ZIP Code 71642,Fountain Hill,Ashley,Standard
+ZIP Code 71643,Gould,Lincoln,Standard
+ZIP Code 71644,Grady,Lincoln,Standard
+ZIP Code 71646,Hamburg,Ashley,Standard
+ZIP Code 71647,Hermitage,Bradley,Standard
+ZIP Code 71651,Jersey,Bradley,Standard
+ZIP Code 71652,Kingsland,Cleveland,Standard
+ZIP Code 71653,Lake Village,Chicot,Standard
+ZIP Code 71654,Mc Gehee,Desha,Standard
+ZIP Code 71655,Monticello,Drew,Standard
+ZIP Code 71656,Monticello,Drew,P.O. Box
+ZIP Code 71657,Monticello,Drew,P.O. Box
+ZIP Code 71658,Montrose,Ashley,Standard
+ZIP Code 71659,Moscow,Jefferson,P.O. Box
+ZIP Code 71660,New Edinburg,Cleveland,Standard
+ZIP Code 71661,Parkdale,Ashley,Standard
+ZIP Code 71662,Pickens,Desha,Standard
+ZIP Code 71663,Portland,Ashley,Standard
+ZIP Code 71665,Rison,Cleveland,Standard
+ZIP Code 71666,Rohwer,Desha,P.O. Box
+ZIP Code 71667,Star City,Lincoln,Standard
+ZIP Code 71670,Tillar,Desha,Standard
+ZIP Code 71671,Warren,Bradley,Standard
+ZIP Code 71674,Watson,Desha,Standard
+ZIP Code 71675,Wilmar,Drew,Standard
+ZIP Code 71676,Wilmot,Ashley,Standard
+ZIP Code 71677,Winchester,Drew,P.O. Box
+ZIP Code 71678,Yorktown,Lincoln,P.O. Box
+ZIP Code 71701,Camden,Ouachita,Standard
+ZIP Code 71711,Camden,Ouachita,P.O. Box
+ZIP Code 71720,Bearden,Ouachita,Standard
+ZIP Code 71721,Beirne,Clark,P.O. Box
+ZIP Code 71722,Bluff City,Nevada,Standard
+ZIP Code 71724,Calion,Union,P.O. Box
+ZIP Code 71725,Carthage,Dallas,Standard
+ZIP Code 71726,Chidester,Ouachita,Standard
+ZIP Code 71728,Curtis,Clark,P.O. Box
+ZIP Code 71730,El Dorado,Union,Standard
+ZIP Code 71731,El Dorado,Union,P.O. Box
+ZIP Code 71740,Emerson,Columbia,Standard
+ZIP Code 71742,Fordyce,Dallas,Standard
+ZIP Code 71743,Gurdon,Clark,Standard
+ZIP Code 71744,Hampton,Calhoun,Standard
+ZIP Code 71745,Harrell,Calhoun,P.O. Box
+ZIP Code 71747,Huttig,Union,Standard
+ZIP Code 71748,Ivan,Dallas,P.O. Box
+ZIP Code 71749,Junction City,Union,Standard
+ZIP Code 71750,Lawson,Union,P.O. Box
+ZIP Code 71751,Louann,Ouachita,Standard
+ZIP Code 71752,Mc Neil,Columbia,Standard
+ZIP Code 71753,Magnolia,Columbia,Standard
+ZIP Code 71754,Magnolia,Columbia,P.O. Box
+ZIP Code 71758,Mount Holly,Union,Standard
+ZIP Code 71759,Norphlet,Union,P.O. Box
+ZIP Code 71762,Smackover,Union,Standard
+ZIP Code 71763,Sparkman,Dallas,Standard
+ZIP Code 71764,Stephens,Ouachita,Standard
+ZIP Code 71765,Strong,Union,Standard
+ZIP Code 71766,Thornton,Calhoun,Standard
+ZIP Code 71770,Waldo,Columbia,Standard
+ZIP Code 71772,Whelen Springs,Clark,P.O. Box
+ZIP Code 71801,Hope,Hempstead,Standard
+ZIP Code 71802,Hope,Hempstead,P.O. Box
+ZIP Code 71820,Alleene,Little River,P.O. Box
+ZIP Code 71822,Ashdown,Little River,Standard
+ZIP Code 71823,Ben Lomond,Sevier,P.O. Box
+ZIP Code 71825,Blevins,Hempstead,Standard
+ZIP Code 71826,Bradley,Lafayette,Standard
+ZIP Code 71827,Buckner,Lafayette,Standard
+ZIP Code 71828,Cale,Nevada,P.O. Box
+ZIP Code 71831,Columbus,Hempstead,Standard
+ZIP Code 71832,De Queen,Sevier,Standard
+ZIP Code 71833,Dierks,Howard,Standard
+ZIP Code 71834,Doddridge,Miller,Standard
+ZIP Code 71835,Emmet,Nevada,Standard
+ZIP Code 71836,Foreman,Little River,Standard
+ZIP Code 71837,Fouke,Miller,Standard
+ZIP Code 71838,Fulton,Hempstead,Standard
+ZIP Code 71839,Garland City,Miller,Standard
+ZIP Code 71840,Genoa,Miller,P.O. Box
+ZIP Code 71841,Gillham,Sevier,Standard
+ZIP Code 71842,Horatio,Sevier,Standard
+ZIP Code 71845,Lewisville,Lafayette,Standard
+ZIP Code 71846,Lockesburg,Sevier,Standard
+ZIP Code 71847,Mc Caskill,Hempstead,Standard
+ZIP Code 71851,Mineral Springs,Howard,Standard
+ZIP Code 71852,Nashville,Howard,Standard
+ZIP Code 71853,Ogden,Little River,Standard
+ZIP Code 71854,Texarkana,Miller,Standard
+ZIP Code 71855,Ozan,Hempstead,Standard
+ZIP Code 71857,Prescott,Nevada,Standard
+ZIP Code 71858,Rosston,Nevada,Standard
+ZIP Code 71859,Saratoga,Howard,Standard
+ZIP Code 71860,Stamps,Lafayette,Standard
+ZIP Code 71861,Taylor,Columbia,Standard
+ZIP Code 71862,Washington,Hempstead,Standard
+ZIP Code 71864,Willisville,Nevada,P.O. Box
+ZIP Code 71865,Wilton,Little River,P.O. Box
+ZIP Code 71866,Winthrop,Little River,Standard
+ZIP Code 71901,Hot Springs National Park,Garland,Standard
+ZIP Code 71902,Hot Springs National Park,Garland,P.O. Box
+ZIP Code 71903,Hot Springs National Park,Garland,P.O. Box
+ZIP Code 71909,Hot Springs Village,Garland,Standard
+ZIP Code 71910,Hot Springs Village,Garland,P.O. Box
+ZIP Code 71913,Hot Springs National Park,Garland,Standard
+ZIP Code 71914,Hot Springs National Park,Garland,P.O. Box
+ZIP Code 71920,Alpine,Clark,Standard
+ZIP Code 71921,Amity,Clark,Standard
+ZIP Code 71922,Antoine,Pike,P.O. Box
+ZIP Code 71923,Arkadelphia,Clark,Standard
+ZIP Code 71929,Bismarck,Hot Spring,Standard
+ZIP Code 71932,Board Camp,Polk,P.O. Box
+ZIP Code 71933,Bonnerdale,Hot Spring,Standard
+ZIP Code 71935,Caddo Gap,Montgomery,Standard
+ZIP Code 71937,Cove,Polk,Standard
+ZIP Code 71940,Delight,Pike,Standard
+ZIP Code 71941,Donaldson,Hot Spring,Standard
+ZIP Code 71942,Friendship,Hot Spring,P.O. Box
+ZIP Code 71943,Glenwood,Pike,Standard
+ZIP Code 71944,Grannis,Polk,Standard
+ZIP Code 71945,Hatfield,Polk,Standard
+ZIP Code 71949,Jessieville,Garland,Standard
+ZIP Code 71950,Kirby,Pike,Standard
+ZIP Code 71952,Langley,Pike,Standard
+ZIP Code 71953,Mena,Polk,Standard
+ZIP Code 71956,Mountain Pine,Garland,Standard
+ZIP Code 71957,Mount Ida,Montgomery,Standard
+ZIP Code 71958,Murfreesboro,Pike,Standard
+ZIP Code 71959,Newhope,Pike,Standard
+ZIP Code 71960,Norman,Montgomery,Standard
+ZIP Code 71961,Oden,Montgomery,Standard
+ZIP Code 71962,Okolona,Clark,Standard
+ZIP Code 71964,Pearcy,Garland,Standard
+ZIP Code 71965,Pencil Bluff,Montgomery,Standard
+ZIP Code 71966,Oden,Montgomery,P.O. Box
+ZIP Code 71968,Royal,Garland,Standard
+ZIP Code 71969,Sims,Montgomery,Standard
+ZIP Code 71970,Story,Montgomery,Standard
+ZIP Code 71971,Umpire,Howard,Standard
+ZIP Code 71972,Vandervoort,Polk,Standard
+ZIP Code 71973,Wickes,Polk,Standard
+ZIP Code 71998,Arkadelphia,Clark,Unique
+ZIP Code 71999,Arkadelphia,Clark,Unique
+ZIP Code 72001,Adona,Perry,Standard
+ZIP Code 72002,Alexander,Saline,Standard
+ZIP Code 72003,Almyra,Arkansas,Standard
+ZIP Code 72004,Altheimer,Jefferson,Standard
+ZIP Code 72005,Amagon,Jackson,Standard
+ZIP Code 72006,Augusta,Woodruff,Standard
+ZIP Code 72007,Austin,Lonoke,Standard
+ZIP Code 72010,Bald Knob,White,Standard
+ZIP Code 72011,Bauxite,Saline,Standard
+ZIP Code 72012,Beebe,White,Standard
+ZIP Code 72013,Bee Branch,Van Buren,Standard
+ZIP Code 72014,Beedeville,Jackson,P.O. Box
+ZIP Code 72015,Benton,Saline,Standard
+ZIP Code 72016,Bigelow,Perry,Standard
+ZIP Code 72017,Biscoe,Prairie,Standard
+ZIP Code 72018,Benton,Saline,P.O. Box
+ZIP Code 72019,Benton,Saline,Standard
+ZIP Code 72020,Bradford,White,Standard
+ZIP Code 72021,Brinkley,Monroe,Standard
+ZIP Code 72022,Bryant,Saline,Standard
+ZIP Code 72023,Cabot,Lonoke,Standard
+ZIP Code 72024,Carlisle,Lonoke,Standard
+ZIP Code 72025,Casa,Perry,Standard
+ZIP Code 72026,Casscoe,Arkansas,Standard
+ZIP Code 72027,Center Ridge,Conway,Standard
+ZIP Code 72028,Choctaw,Van Buren,P.O. Box
+ZIP Code 72029,Clarendon,Monroe,Standard
+ZIP Code 72030,Cleveland,Conway,Standard
+ZIP Code 72031,Clinton,Van Buren,Standard
+ZIP Code 72032,Conway,Faulkner,Standard
+ZIP Code 72033,Conway,Faulkner,P.O. Box
+ZIP Code 72034,Conway,Faulkner,Standard
+ZIP Code 72035,Conway,Faulkner,Unique
+ZIP Code 72036,Cotton Plant,Woodruff,Standard
+ZIP Code 72037,Coy,Lonoke,P.O. Box
+ZIP Code 72038,Crocketts Bluff,Arkansas,Standard
+ZIP Code 72039,Damascus,Van Buren,Standard
+ZIP Code 72040,Des Arc,Prairie,Standard
+ZIP Code 72041,De Valls Bluff,Prairie,Standard
+ZIP Code 72042,De Witt,Arkansas,Standard
+ZIP Code 72043,Diaz,Jackson,P.O. Box
+ZIP Code 72044,Edgemont,Cleburne,Standard
+ZIP Code 72045,El Paso,White,Standard
+ZIP Code 72046,England,Lonoke,Standard
+ZIP Code 72047,Enola,Faulkner,Standard
+ZIP Code 72048,Ethel,Arkansas,Standard
+ZIP Code 72051,Fox,Stone,Standard
+ZIP Code 72052,Garner,White,P.O. Box
+ZIP Code 72053,College Station,Pulaski,P.O. Box
+ZIP Code 72055,Gillett,Arkansas,Standard
+ZIP Code 72057,Grapevine,Grant,Standard
+ZIP Code 72058,Greenbrier,Faulkner,Standard
+ZIP Code 72059,Gregory,Woodruff,P.O. Box
+ZIP Code 72060,Griffithville,White,Standard
+ZIP Code 72061,Guy,Faulkner,Standard
+ZIP Code 72063,Hattieville,Conway,Standard
+ZIP Code 72064,Hazen,Prairie,Standard
+ZIP Code 72065,Hensley,Saline,Standard
+ZIP Code 72066,Hickory Plains,Prairie,P.O. Box
+ZIP Code 72067,Higden,Cleburne,Standard
+ZIP Code 72068,Higginson,White,Standard
+ZIP Code 72069,Holly Grove,Monroe,Standard
+ZIP Code 72070,Houston,Perry,Standard
+ZIP Code 72072,Humnoke,Lonoke,Standard
+ZIP Code 72073,Humphrey,Jefferson,Standard
+ZIP Code 72074,Hunter,Woodruff,P.O. Box
+ZIP Code 72075,Jacksonport,Jackson,P.O. Box
+ZIP Code 72076,Jacksonville,Pulaski,Standard
+ZIP Code 72078,Jacksonville,Pulaski,P.O. Box
+ZIP Code 72079,Jefferson,Jefferson,Standard
+ZIP Code 72080,Jerusalem,Conway,Standard
+ZIP Code 72081,Judsonia,White,Standard
+ZIP Code 72082,Kensett,White,Standard
+ZIP Code 72083,Keo,Lonoke,P.O. Box
+ZIP Code 72084,Leola,Grant,Standard
+ZIP Code 72085,Letona,White,P.O. Box
+ZIP Code 72086,Lonoke,Lonoke,Standard
+ZIP Code 72087,Lonsdale,Garland,Standard
+ZIP Code 72088,Fairfield Bay,Van Buren,Standard
+ZIP Code 72089,Bryant,Saline,P.O. Box
+ZIP Code 72099,Little Rock Air Force Base,Pulaski,Unique
+ZIP Code 72101,Mc Crory,Woodruff,Standard
+ZIP Code 72102,Mc Rae,White,Standard
+ZIP Code 72103,Mabelvale,Saline,Standard
+ZIP Code 72104,Malvern,Hot Spring,Standard
+ZIP Code 72106,Mayflower,Faulkner,Standard
+ZIP Code 72107,Menifee,Conway,P.O. Box
+ZIP Code 72108,Monroe,Monroe,P.O. Box
+ZIP Code 72110,Morrilton,Conway,Standard
+ZIP Code 72111,Mount Vernon,Faulkner,Standard
+ZIP Code 72112,Newport,Jackson,Standard
+ZIP Code 72113,Maumelle,Pulaski,Standard
+ZIP Code 72114,North Little Rock,Pulaski,Standard
+ZIP Code 72115,North Little Rock,Pulaski,P.O. Box
+ZIP Code 72116,North Little Rock,Pulaski,Standard
+ZIP Code 72117,North Little Rock,Pulaski,Standard
+ZIP Code 72118,North Little Rock,Pulaski,Standard
+ZIP Code 72119,North Little Rock,Pulaski,P.O. Box
+ZIP Code 72120,Sherwood,Pulaski,Standard
+ZIP Code 72121,Pangburn,White,Standard
+ZIP Code 72122,Paron,Saline,Standard
+ZIP Code 72123,Patterson,Woodruff,P.O. Box
+ZIP Code 72124,North Little Rock,Pulaski,P.O. Box
+ZIP Code 72125,Perry,Perry,Standard
+ZIP Code 72126,Perryville,Perry,Standard
+ZIP Code 72127,Plumerville,Conway,Standard
+ZIP Code 72128,Poyen,Grant,Standard
+ZIP Code 72129,Prattsville,Grant,Standard
+ZIP Code 72130,Prim,Cleburne,Standard
+ZIP Code 72131,Quitman,Cleburne,Standard
+ZIP Code 72132,Redfield,Jefferson,Standard
+ZIP Code 72133,Reydell,Jefferson,P.O. Box
+ZIP Code 72134,Roe,Monroe,Standard
+ZIP Code 72135,Roland,Pulaski,Standard
+ZIP Code 72136,Romance,White,Standard
+ZIP Code 72137,Rose Bud,White,Standard
+ZIP Code 72139,Russell,White,P.O. Box
+ZIP Code 72140,Saint Charles,Arkansas,Standard
+ZIP Code 72141,Scotland,Van Buren,Standard
+ZIP Code 72142,Scott,Pulaski,Standard
+ZIP Code 72143,Searcy,White,Standard
+ZIP Code 72145,Searcy,White,P.O. Box
+ZIP Code 72149,Searcy,White,Unique
+ZIP Code 72150,Sheridan,Grant,Standard
+ZIP Code 72152,Sherrill,Jefferson,Standard
+ZIP Code 72153,Shirley,Van Buren,Standard
+ZIP Code 72156,Solgohachia,Conway,Standard
+ZIP Code 72157,Springfield,Conway,Standard
+ZIP Code 72158,Benton,Saline,P.O. Box
+ZIP Code 72160,Stuttgart,Arkansas,Standard
+ZIP Code 72164,Sweet Home,Pulaski,P.O. Box
+ZIP Code 72165,Thida,Independence,Standard
+ZIP Code 72166,Tichnor,Arkansas,Standard
+ZIP Code 72167,Traskwood,Saline,Standard
+ZIP Code 72168,Tucker,Jefferson,Standard
+ZIP Code 72169,Tupelo,Jackson,P.O. Box
+ZIP Code 72170,Ulm,Prairie,P.O. Box
+ZIP Code 72173,Vilonia,Faulkner,Standard
+ZIP Code 72175,Wabbaseka,Jefferson,Standard
+ZIP Code 72176,Ward,Lonoke,Standard
+ZIP Code 72178,West Point,White,P.O. Box
+ZIP Code 72179,Wilburn,Cleburne,Standard
+ZIP Code 72180,Woodson,Pulaski,P.O. Box
+ZIP Code 72181,Wooster,Faulkner,Standard
+ZIP Code 72182,Wright,Jefferson,P.O. Box
+ZIP Code 72183,Wrightsville,Pulaski,P.O. Box
+ZIP Code 72190,North Little Rock,Pulaski,P.O. Box
+ZIP Code 72199,North Little Rock,Pulaski,Unique
+ZIP Code 72201,Little Rock,Pulaski,Standard
+ZIP Code 72202,Little Rock,Pulaski,Standard
+ZIP Code 72203,Little Rock,Pulaski,P.O. Box
+ZIP Code 72204,Little Rock,Pulaski,Standard
+ZIP Code 72205,Little Rock,Pulaski,Standard
+ZIP Code 72206,Little Rock,Pulaski,Standard
+ZIP Code 72207,Little Rock,Pulaski,Standard
+ZIP Code 72209,Little Rock,Pulaski,Standard
+ZIP Code 72210,Little Rock,Pulaski,Standard
+ZIP Code 72211,Little Rock,Pulaski,Standard
+ZIP Code 72212,Little Rock,Pulaski,Standard
+ZIP Code 72214,Little Rock,Pulaski,P.O. Box
+ZIP Code 72215,Little Rock,Pulaski,P.O. Box
+ZIP Code 72216,Little Rock,Pulaski,P.O. Box
+ZIP Code 72217,Little Rock,Pulaski,P.O. Box
+ZIP Code 72219,Little Rock,Pulaski,P.O. Box
+ZIP Code 72221,Little Rock,Pulaski,P.O. Box
+ZIP Code 72222,Little Rock,Pulaski,P.O. Box
+ZIP Code 72223,Little Rock,Pulaski,Standard
+ZIP Code 72225,Little Rock,Pulaski,P.O. Box
+ZIP Code 72227,Little Rock,Pulaski,Standard
+ZIP Code 72231,Little Rock,Pulaski,P.O. Box
+ZIP Code 72255,Little Rock,Pulaski,Unique
+ZIP Code 72260,Little Rock,Pulaski,P.O. Box
+ZIP Code 72295,Little Rock,Pulaski,P.O. Box
+ZIP Code 72301,West Memphis,Crittenden,Standard
+ZIP Code 72303,West Memphis,Crittenden,P.O. Box
+ZIP Code 72310,Armorel,Mississippi,P.O. Box
+ZIP Code 72311,Aubrey,Lee,P.O. Box
+ZIP Code 72312,Barton,Phillips,P.O. Box
+ZIP Code 72313,Bassett,Mississippi,P.O. Box
+ZIP Code 72315,Blytheville,Mississippi,Standard
+ZIP Code 72316,Blytheville,Mississippi,P.O. Box
+ZIP Code 72319,Gosnell,Mississippi,P.O. Box
+ZIP Code 72320,Brickeys,Lee,Standard
+ZIP Code 72321,Burdette,Mississippi,P.O. Box
+ZIP Code 72322,Caldwell,Saint Francis,P.O. Box
+ZIP Code 72324,Cherry Valley,Cross,Standard
+ZIP Code 72325,Clarkedale,Crittenden,P.O. Box
+ZIP Code 72326,Colt,Saint Francis,Standard
+ZIP Code 72327,Crawfordsville,Crittenden,Standard
+ZIP Code 72328,Crumrod,Phillips,P.O. Box
+ZIP Code 72329,Driver,Mississippi,P.O. Box
+ZIP Code 72330,Dyess,Mississippi,Standard
+ZIP Code 72331,Earle,Crittenden,Standard
+ZIP Code 72332,Edmondson,Crittenden,P.O. Box
+ZIP Code 72333,Elaine,Phillips,Standard
+ZIP Code 72335,Forrest City,Saint Francis,Standard
+ZIP Code 72336,Forrest City,Saint Francis,P.O. Box
+ZIP Code 72338,Frenchmans Bayou,Mississippi,Standard
+ZIP Code 72339,Gilmore,Crittenden,P.O. Box
+ZIP Code 72340,Goodwin,Saint Francis,P.O. Box
+ZIP Code 72341,Haynes,Lee,P.O. Box
+ZIP Code 72342,Helena,Phillips,Standard
+ZIP Code 72346,Heth,Saint Francis,Standard
+ZIP Code 72347,Hickory Ridge,Cross,Standard
+ZIP Code 72348,Hughes,Saint Francis,Standard
+ZIP Code 72350,Joiner,Mississippi,Standard
+ZIP Code 72351,Keiser,Mississippi,P.O. Box
+ZIP Code 72352,La Grange,Lee,P.O. Box
+ZIP Code 72353,Lambrook,Phillips,P.O. Box
+ZIP Code 72354,Lepanto,Poinsett,Standard
+ZIP Code 72355,Lexa,Phillips,Standard
+ZIP Code 72358,Luxora,Mississippi,Standard
+ZIP Code 72359,Madison,Saint Francis,P.O. Box
+ZIP Code 72360,Marianna,Lee,Standard
+ZIP Code 72364,Marion,Crittenden,Standard
+ZIP Code 72365,Marked Tree,Poinsett,Standard
+ZIP Code 72366,Marvell,Phillips,Standard
+ZIP Code 72367,Mellwood,Phillips,P.O. Box
+ZIP Code 72368,Moro,Lee,Standard
+ZIP Code 72369,Oneida,Phillips,P.O. Box
+ZIP Code 72370,Osceola,Mississippi,Standard
+ZIP Code 72372,Palestine,Saint Francis,Standard
+ZIP Code 72373,Parkin,Cross,Standard
+ZIP Code 72374,Poplar Grove,Phillips,Standard
+ZIP Code 72376,Proctor,Crittenden,Standard
+ZIP Code 72377,Rivervale,Poinsett,P.O. Box
+ZIP Code 72379,Snow Lake,Desha,P.O. Box
+ZIP Code 72383,Turner,Phillips,P.O. Box
+ZIP Code 72384,Turrell,Crittenden,Standard
+ZIP Code 72386,Tyronza,Poinsett,Standard
+ZIP Code 72387,Vanndale,Cross,P.O. Box
+ZIP Code 72389,Wabash,Phillips,P.O. Box
+ZIP Code 72390,West Helena,Phillips,Standard
+ZIP Code 72391,West Ridge,Mississippi,P.O. Box
+ZIP Code 72392,Wheatley,Saint Francis,Standard
+ZIP Code 72394,Widener,Saint Francis,Standard
+ZIP Code 72395,Wilson,Mississippi,Standard
+ZIP Code 72396,Wynne,Cross,Standard
+ZIP Code 72401,Jonesboro,Craighead,Standard
+ZIP Code 72402,Jonesboro,Craighead,P.O. Box
+ZIP Code 72403,Jonesboro,Craighead,P.O. Box
+ZIP Code 72404,Jonesboro,Craighead,Standard
+ZIP Code 72405,Jonesboro,Craighead,Standard
+ZIP Code 72410,Alicia,Lawrence,Standard
+ZIP Code 72411,Bay,Craighead,Standard
+ZIP Code 72412,Beech Grove,Greene,Standard
+ZIP Code 72413,Biggers,Randolph,Standard
+ZIP Code 72414,Black Oak,Craighead,Standard
+ZIP Code 72415,Black Rock,Lawrence,Standard
+ZIP Code 72416,Bono,Craighead,Standard
+ZIP Code 72417,Brookland,Craighead,Standard
+ZIP Code 72419,Caraway,Craighead,Standard
+ZIP Code 72421,Cash,Craighead,Standard
+ZIP Code 72422,Corning,Clay,Standard
+ZIP Code 72424,Datto,Clay,P.O. Box
+ZIP Code 72425,Delaplaine,Greene,Standard
+ZIP Code 72426,Dell,Mississippi,P.O. Box
+ZIP Code 72427,Egypt,Craighead,P.O. Box
+ZIP Code 72428,Etowah,Mississippi,Standard
+ZIP Code 72429,Fisher,Poinsett,Standard
+ZIP Code 72430,Greenway,Clay,Standard
+ZIP Code 72431,Grubbs,Jackson,P.O. Box
+ZIP Code 72432,Harrisburg,Poinsett,Standard
+ZIP Code 72433,Hoxie,Lawrence,Standard
+ZIP Code 72434,Imboden,Lawrence,Standard
+ZIP Code 72435,Knobel,Clay,Standard
+ZIP Code 72436,Lafe,Greene,Standard
+ZIP Code 72437,Lake City,Craighead,Standard
+ZIP Code 72438,Leachville,Mississippi,Standard
+ZIP Code 72440,Lynn,Lawrence,Standard
+ZIP Code 72441,Mc Dougal,Clay,P.O. Box
+ZIP Code 72442,Manila,Mississippi,Standard
+ZIP Code 72443,Marmaduke,Greene,Standard
+ZIP Code 72444,Maynard,Randolph,Standard
+ZIP Code 72445,Minturn,Lawrence,P.O. Box
+ZIP Code 72447,Monette,Craighead,Standard
+ZIP Code 72449,O Kean,Randolph,P.O. Box
+ZIP Code 72450,Paragould,Greene,Standard
+ZIP Code 72451,Paragould,Greene,P.O. Box
+ZIP Code 72453,Peach Orchard,Clay,Standard
+ZIP Code 72454,Piggott,Clay,Standard
+ZIP Code 72455,Pocahontas,Randolph,Standard
+ZIP Code 72456,Pollard,Clay,Standard
+ZIP Code 72457,Portia,Lawrence,P.O. Box
+ZIP Code 72458,Powhatan,Lawrence,Standard
+ZIP Code 72459,Ravenden,Lawrence,Standard
+ZIP Code 72460,Ravenden Springs,Randolph,Standard
+ZIP Code 72461,Rector,Clay,Standard
+ZIP Code 72462,Reyno,Randolph,P.O. Box
+ZIP Code 72464,Saint Francis,Clay,P.O. Box
+ZIP Code 72465,Sedgwick,Lawrence,P.O. Box
+ZIP Code 72466,Smithville,Lawrence,Standard
+ZIP Code 72467,State University,Craighead,P.O. Box
+ZIP Code 72469,Strawberry,Lawrence,Standard
+ZIP Code 72470,Success,Clay,Standard
+ZIP Code 72471,Swifton,Jackson,Standard
+ZIP Code 72472,Trumann,Poinsett,Standard
+ZIP Code 72473,Tuckerman,Jackson,Standard
+ZIP Code 72474,Walcott,Greene,P.O. Box
+ZIP Code 72475,Waldenburg,Poinsett,P.O. Box
+ZIP Code 72476,Walnut Ridge,Lawrence,Standard
+ZIP Code 72478,Warm Springs,Randolph,Standard
+ZIP Code 72479,Weiner,Poinsett,Standard
+ZIP Code 72482,Williford,Sharp,Standard
+ZIP Code 72501,Batesville,Independence,Standard
+ZIP Code 72503,Batesville,Independence,P.O. Box
+ZIP Code 72512,Horseshoe Bend,Izard,Standard
+ZIP Code 72513,Ash Flat,Sharp,Standard
+ZIP Code 72515,Bexar,Fulton,Standard
+ZIP Code 72517,Brockwell,Izard,Standard
+ZIP Code 72519,Calico Rock,Izard,Standard
+ZIP Code 72520,Camp,Fulton,Standard
+ZIP Code 72521,Cave City,Sharp,Standard
+ZIP Code 72522,Charlotte,Independence,Standard
+ZIP Code 72523,Concord,Cleburne,Standard
+ZIP Code 72524,Cord,Independence,Standard
+ZIP Code 72525,Cherokee Village,Sharp,P.O. Box
+ZIP Code 72526,Cushman,Independence,P.O. Box
+ZIP Code 72527,Desha,Independence,Standard
+ZIP Code 72528,Dolph,Izard,Standard
+ZIP Code 72529,Cherokee Village,Sharp,Standard
+ZIP Code 72530,Drasco,Cleburne,Standard
+ZIP Code 72531,Elizabeth,Fulton,Standard
+ZIP Code 72532,Evening Shade,Sharp,Standard
+ZIP Code 72533,Fifty Six,Stone,Standard
+ZIP Code 72534,Floral,Independence,Standard
+ZIP Code 72536,Franklin,Izard,Standard
+ZIP Code 72537,Gamaliel,Baxter,Standard
+ZIP Code 72538,Gepp,Fulton,Standard
+ZIP Code 72539,Glencoe,Fulton,Standard
+ZIP Code 72540,Guion,Izard,Standard
+ZIP Code 72542,Hardy,Sharp,Standard
+ZIP Code 72543,Heber Springs,Cleburne,Standard
+ZIP Code 72544,Henderson,Baxter,Standard
+ZIP Code 72545,Heber Springs,Cleburne,Unique
+ZIP Code 72546,Ida,Cleburne,Standard
+ZIP Code 72550,Locust Grove,Independence,Standard
+ZIP Code 72553,Magness,Independence,P.O. Box
+ZIP Code 72554,Mammoth Spring,Fulton,Standard
+ZIP Code 72555,Marcella,Stone,Standard
+ZIP Code 72556,Melbourne,Izard,Standard
+ZIP Code 72560,Mountain View,Stone,Standard
+ZIP Code 72561,Mount Pleasant,Izard,Standard
+ZIP Code 72562,Newark,Independence,Standard
+ZIP Code 72564,Oil Trough,Independence,Standard
+ZIP Code 72565,Oxford,Izard,Standard
+ZIP Code 72566,Pineville,Izard,Standard
+ZIP Code 72567,Pleasant Grove,Stone,Standard
+ZIP Code 72568,Pleasant Plains,Independence,Standard
+ZIP Code 72569,Poughkeepsie,Sharp,Standard
+ZIP Code 72571,Rosie,Independence,Standard
+ZIP Code 72572,Saffell,Lawrence,Standard
+ZIP Code 72573,Sage,Izard,Standard
+ZIP Code 72575,Salado,Independence,P.O. Box
+ZIP Code 72576,Salem,Fulton,Standard
+ZIP Code 72577,Sidney,Sharp,Standard
+ZIP Code 72578,Sturkie,Fulton,Standard
+ZIP Code 72579,Sulphur Rock,Independence,Standard
+ZIP Code 72581,Tumbling Shoals,Cleburne,Standard
+ZIP Code 72583,Viola,Fulton,Standard
+ZIP Code 72584,Violet Hill,Izard,Standard
+ZIP Code 72585,Wideman,Izard,Standard
+ZIP Code 72587,Wiseman,Izard,Standard
+ZIP Code 72601,Harrison,Boone,Standard
+ZIP Code 72602,Harrison,Boone,P.O. Box
+ZIP Code 72611,Alpena,Boone,Standard
+ZIP Code 72613,Beaver,Carroll,P.O. Box
+ZIP Code 72615,Bergman,Boone,P.O. Box
+ZIP Code 72616,Berryville,Carroll,Standard
+ZIP Code 72617,Big Flat,Baxter,Standard
+ZIP Code 72619,Bull Shoals,Marion,Standard
+ZIP Code 72623,Clarkridge,Baxter,Standard
+ZIP Code 72624,Compton,Newton,Standard
+ZIP Code 72626,Cotter,Baxter,Standard
+ZIP Code 72628,Deer,Newton,Standard
+ZIP Code 72629,Dennard,Van Buren,Standard
+ZIP Code 72630,Diamond City,Boone,P.O. Box
+ZIP Code 72631,Eureka Springs,Carroll,Standard
+ZIP Code 72632,Eureka Springs,Carroll,Standard
+ZIP Code 72633,Everton,Boone,Standard
+ZIP Code 72634,Flippin,Marion,Standard
+ZIP Code 72635,Gassville,Baxter,Standard
+ZIP Code 72636,Gilbert,Searcy,P.O. Box
+ZIP Code 72638,Green Forest,Carroll,Standard
+ZIP Code 72639,Harriet,Searcy,Standard
+ZIP Code 72640,Hasty,Newton,Standard
+ZIP Code 72641,Jasper,Newton,Standard
+ZIP Code 72642,Lakeview,Baxter,Standard
+ZIP Code 72644,Lead Hill,Boone,Standard
+ZIP Code 72645,Leslie,Searcy,Standard
+ZIP Code 72648,Marble Falls,Newton,Standard
+ZIP Code 72650,Marshall,Searcy,Standard
+ZIP Code 72651,Midway,Baxter,Standard
+ZIP Code 72653,Mountain Home,Baxter,Standard
+ZIP Code 72654,Mountain Home,Baxter,P.O. Box
+ZIP Code 72655,Mount Judea,Newton,Standard
+ZIP Code 72657,Timbo,Stone,Standard
+ZIP Code 72658,Norfork,Baxter,Standard
+ZIP Code 72659,Norfork,Baxter,Standard
+ZIP Code 72660,Oak Grove,Carroll,Standard
+ZIP Code 72661,Oakland,Marion,Standard
+ZIP Code 72662,Omaha,Boone,Standard
+ZIP Code 72663,Onia,Stone,Standard
+ZIP Code 72666,Parthenon,Newton,Standard
+ZIP Code 72668,Peel,Marion,Standard
+ZIP Code 72669,Pindall,Searcy,P.O. Box
+ZIP Code 72670,Ponca,Newton,Standard
+ZIP Code 72672,Pyatt,Marion,P.O. Box
+ZIP Code 72675,Saint Joe,Searcy,Standard
+ZIP Code 72677,Summit,Marion,P.O. Box
+ZIP Code 72679,Tilly,Pope,Standard
+ZIP Code 72680,Timbo,Stone,Standard
+ZIP Code 72682,Valley Springs,Boone,Standard
+ZIP Code 72683,Vendor,Newton,Standard
+ZIP Code 72685,Western Grove,Newton,Standard
+ZIP Code 72686,Witts Springs,Searcy,Standard
+ZIP Code 72687,Yellville,Marion,Standard
+ZIP Code 72701,Fayetteville,Washington,Standard
+ZIP Code 72702,Fayetteville,Washington,P.O. Box
+ZIP Code 72703,Fayetteville,Washington,Standard
+ZIP Code 72704,Fayetteville,Washington,Standard
+ZIP Code 72711,Avoca,Benton,P.O. Box
+ZIP Code 72712,Bentonville,Benton,Standard
+ZIP Code 72713,Bentonville,Benton,Standard
+ZIP Code 72714,Bella Vista,Benton,Standard
+ZIP Code 72715,Bella Vista,Benton,Standard
+ZIP Code 72716,Bentonville,Benton,Unique
+ZIP Code 72717,Canehill,Washington,Standard
+ZIP Code 72718,Cave Springs,Benton,Standard
+ZIP Code 72719,Centerton,Benton,Standard
+ZIP Code 72721,Combs,Madison,Standard
+ZIP Code 72722,Decatur,Benton,Standard
+ZIP Code 72727,Elkins,Washington,Standard
+ZIP Code 72728,Elm Springs,Washington,P.O. Box
+ZIP Code 72729,Evansville,Washington,Standard
+ZIP Code 72730,Farmington,Washington,Standard
+ZIP Code 72732,Garfield,Benton,Standard
+ZIP Code 72733,Gateway,Benton,P.O. Box
+ZIP Code 72734,Gentry,Benton,Standard
+ZIP Code 72735,Goshen,Washington,P.O. Box
+ZIP Code 72736,Gravette,Benton,Standard
+ZIP Code 72737,Greenland,Washington,P.O. Box
+ZIP Code 72738,Hindsville,Madison,Standard
+ZIP Code 72739,Hiwasse,Benton,Standard
+ZIP Code 72740,Huntsville,Madison,Standard
+ZIP Code 72741,Johnson,Washington,P.O. Box
+ZIP Code 72742,Kingston,Madison,Standard
+ZIP Code 72744,Lincoln,Washington,Standard
+ZIP Code 72745,Lowell,Benton,Standard
+ZIP Code 72747,Maysville,Benton,Standard
+ZIP Code 72749,Morrow,Washington,Standard
+ZIP Code 72751,Pea Ridge,Benton,Standard
+ZIP Code 72752,Pettigrew,Madison,Standard
+ZIP Code 72753,Prairie Grove,Washington,Standard
+ZIP Code 72756,Rogers,Benton,Standard
+ZIP Code 72757,Rogers,Benton,P.O. Box
+ZIP Code 72758,Rogers,Benton,Standard
+ZIP Code 72760,Saint Paul,Madison,Standard
+ZIP Code 72761,Siloam Springs,Benton,Standard
+ZIP Code 72762,Springdale,Washington,Standard
+ZIP Code 72764,Springdale,Washington,Standard
+ZIP Code 72765,Springdale,Washington,P.O. Box
+ZIP Code 72766,Springdale,Washington,P.O. Box
+ZIP Code 72768,Sulphur Springs,Benton,Standard
+ZIP Code 72769,Summers,Washington,Standard
+ZIP Code 72770,Tontitown,Washington,P.O. Box
+ZIP Code 72773,Wesley,Madison,Standard
+ZIP Code 72774,West Fork,Washington,Standard
+ZIP Code 72776,Witter,Madison,Standard
+ZIP Code 72801,Russellville,Pope,Standard
+ZIP Code 72802,Russellville,Pope,Standard
+ZIP Code 72811,Russellville,Pope,P.O. Box
+ZIP Code 72812,Russellville,Pope,P.O. Box
+ZIP Code 72820,Alix,Franklin,P.O. Box
+ZIP Code 72821,Altus,Franklin,Standard
+ZIP Code 72823,Atkins,Pope,Standard
+ZIP Code 72824,Belleville,Yell,Standard
+ZIP Code 72826,Blue Mountain,Logan,P.O. Box
+ZIP Code 72827,Bluffton,Yell,Standard
+ZIP Code 72828,Briggsville,Yell,Standard
+ZIP Code 72829,Centerville,Yell,P.O. Box
+ZIP Code 72830,Clarksville,Johnson,Standard
+ZIP Code 72832,Coal Hill,Johnson,Standard
+ZIP Code 72833,Danville,Yell,Standard
+ZIP Code 72834,Dardanelle,Yell,Standard
+ZIP Code 72835,Delaware,Logan,Standard
+ZIP Code 72837,Dover,Pope,Standard
+ZIP Code 72838,Gravelly,Yell,Standard
+ZIP Code 72839,Hagarville,Johnson,Standard
+ZIP Code 72840,Hartman,Johnson,Standard
+ZIP Code 72841,Harvey,Scott,Standard
+ZIP Code 72842,Havana,Yell,Standard
+ZIP Code 72843,Hector,Pope,Standard
+ZIP Code 72845,Knoxville,Johnson,Standard
+ZIP Code 72846,Lamar,Johnson,Standard
+ZIP Code 72847,London,Pope,Standard
+ZIP Code 72851,New Blaine,Logan,Standard
+ZIP Code 72852,Oark,Johnson,Standard
+ZIP Code 72853,Ola,Yell,Standard
+ZIP Code 72854,Ozone,Johnson,Standard
+ZIP Code 72855,Paris,Logan,Standard
+ZIP Code 72856,Pelsor,Pope,Standard
+ZIP Code 72857,Plainview,Yell,Standard
+ZIP Code 72858,Pottsville,Pope,Standard
+ZIP Code 72860,Rover,Yell,Standard
+ZIP Code 72863,Scranton,Logan,Standard
+ZIP Code 72865,Subiaco,Logan,Standard
+ZIP Code 72901,Fort Smith,Sebastian,Standard
+ZIP Code 72902,Fort Smith,Sebastian,P.O. Box
+ZIP Code 72903,Fort Smith,Sebastian,Standard
+ZIP Code 72904,Fort Smith,Sebastian,Standard
+ZIP Code 72905,Fort Smith,Sebastian,Unique
+ZIP Code 72906,Fort Smith,Sebastian,P.O. Box
+ZIP Code 72908,Fort Smith,Sebastian,Standard
+ZIP Code 72913,Fort Smith,Sebastian,P.O. Box
+ZIP Code 72914,Fort Smith,Sebastian,P.O. Box
+ZIP Code 72916,Fort Smith,Sebastian,Standard
+ZIP Code 72917,Fort Smith,Sebastian,P.O. Box
+ZIP Code 72918,Fort Smith,Sebastian,P.O. Box
+ZIP Code 72919,Fort Smith,Sebastian,Unique
+ZIP Code 72921,Alma,Crawford,Standard
+ZIP Code 72923,Barling,Sebastian,Standard
+ZIP Code 72926,Boles,Scott,Standard
+ZIP Code 72927,Booneville,Logan,Standard
+ZIP Code 72928,Branch,Franklin,Standard
+ZIP Code 72930,Cecil,Franklin,Standard
+ZIP Code 72932,Cedarville,Crawford,Standard
+ZIP Code 72933,Charleston,Franklin,Standard
+ZIP Code 72934,Chester,Crawford,Standard
+ZIP Code 72935,Dyer,Crawford,P.O. Box
+ZIP Code 72936,Greenwood,Sebastian,Standard
+ZIP Code 72937,Hackett,Sebastian,Standard
+ZIP Code 72938,Hartford,Sebastian,Standard
+ZIP Code 72940,Huntington,Sebastian,Standard
+ZIP Code 72941,Lavaca,Sebastian,Standard
+ZIP Code 72943,Magazine,Logan,Standard
+ZIP Code 72944,Mansfield,Scott,Standard
+ZIP Code 72945,Midland,Sebastian,P.O. Box
+ZIP Code 72946,Mountainburg,Crawford,Standard
+ZIP Code 72947,Mulberry,Crawford,Standard
+ZIP Code 72948,Natural Dam,Crawford,Standard
+ZIP Code 72949,Ozark,Franklin,Standard
+ZIP Code 72950,Parks,Scott,Standard
+ZIP Code 72951,Ratcliff,Logan,Standard
+ZIP Code 72952,Rudy,Crawford,Standard
+ZIP Code 72955,Uniontown,Crawford,Standard
+ZIP Code 72956,Van Buren,Crawford,Standard
+ZIP Code 72957,Van Buren,Crawford,P.O. Box
+ZIP Code 72958,Waldron,Scott,Standard
+ZIP Code 72959,Winslow,Washington,Standard

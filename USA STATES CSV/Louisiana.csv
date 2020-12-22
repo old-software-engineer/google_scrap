@@ -1,0 +1,720 @@
+ZIP CODE,City,County,Type
+ZIP Code 70001,Metairie,Jefferson,Standard
+ZIP Code 70002,Metairie,Jefferson,Standard
+ZIP Code 70003,Metairie,Jefferson,Standard
+ZIP Code 70004,Metairie,Jefferson,P.O. Box
+ZIP Code 70005,Metairie,Jefferson,Standard
+ZIP Code 70006,Metairie,Jefferson,Standard
+ZIP Code 70009,Metairie,Jefferson,P.O. Box
+ZIP Code 70010,Metairie,Jefferson,P.O. Box
+ZIP Code 70011,Metairie,Jefferson,P.O. Box
+ZIP Code 70030,Des Allemands,Saint Charles,Standard
+ZIP Code 70031,Ama,Saint Charles,Standard
+ZIP Code 70032,Arabi,Saint Bernard,Standard
+ZIP Code 70033,Metairie,Jefferson,P.O. Box
+ZIP Code 70036,Barataria,Jefferson,Standard
+ZIP Code 70037,Belle Chasse,Plaquemines,Standard
+ZIP Code 70038,Boothville,Plaquemines,P.O. Box
+ZIP Code 70039,Boutte,Saint Charles,Standard
+ZIP Code 70040,Braithwaite,Plaquemines,Standard
+ZIP Code 70041,Buras,Plaquemines,Standard
+ZIP Code 70043,Chalmette,Saint Bernard,Standard
+ZIP Code 70044,Chalmette,Saint Bernard,P.O. Box
+ZIP Code 70047,Destrehan,Saint Charles,Standard
+ZIP Code 70049,Edgard,St John The Baptist,Standard
+ZIP Code 70050,Empire,Plaquemines,P.O. Box
+ZIP Code 70051,Garyville,St John The Baptist,Standard
+ZIP Code 70052,Gramercy,Saint James,Standard
+ZIP Code 70053,Gretna,Jefferson,Standard
+ZIP Code 70054,Gretna,Jefferson,P.O. Box
+ZIP Code 70055,Metairie,Jefferson,P.O. Box
+ZIP Code 70056,Gretna,Jefferson,Standard
+ZIP Code 70057,Hahnville,Saint Charles,Standard
+ZIP Code 70058,Harvey,Jefferson,Standard
+ZIP Code 70059,Harvey,Jefferson,P.O. Box
+ZIP Code 70060,Metairie,Jefferson,Unique
+ZIP Code 70062,Kenner,Jefferson,Standard
+ZIP Code 70063,Kenner,Jefferson,P.O. Box
+ZIP Code 70064,Kenner,Jefferson,P.O. Box
+ZIP Code 70065,Kenner,Jefferson,Standard
+ZIP Code 70067,Lafitte,Jefferson,Standard
+ZIP Code 70068,La Place,St John The Baptist,Standard
+ZIP Code 70069,La Place,St John The Baptist,P.O. Box
+ZIP Code 70070,Luling,Saint Charles,Standard
+ZIP Code 70071,Lutcher,Saint James,Standard
+ZIP Code 70072,Marrero,Jefferson,Standard
+ZIP Code 70073,Marrero,Jefferson,P.O. Box
+ZIP Code 70075,Meraux,Saint Bernard,Standard
+ZIP Code 70076,Mount Airy,St John The Baptist,Standard
+ZIP Code 70078,New Sarpy,Saint Charles,P.O. Box
+ZIP Code 70079,Norco,Saint Charles,Standard
+ZIP Code 70080,Paradis,Saint Charles,Standard
+ZIP Code 70081,Pilottown,Plaquemines,P.O. Box
+ZIP Code 70082,Pointe A La Hache,Plaquemines,P.O. Box
+ZIP Code 70083,Port Sulphur,Plaquemines,Standard
+ZIP Code 70084,Reserve,St John The Baptist,Standard
+ZIP Code 70085,Saint Bernard,Saint Bernard,Standard
+ZIP Code 70086,Saint James,Saint James,Standard
+ZIP Code 70087,Saint Rose,Saint Charles,Standard
+ZIP Code 70090,Vacherie,Saint James,Standard
+ZIP Code 70091,Venice,Plaquemines,Standard
+ZIP Code 70092,Violet,Saint Bernard,Standard
+ZIP Code 70093,Belle Chasse,Plaquemines,P.O. Box
+ZIP Code 70094,Westwego,Jefferson,Standard
+ZIP Code 70096,Westwego,Jefferson,P.O. Box
+ZIP Code 70097,Kenner,Jefferson,P.O. Box
+ZIP Code 70112,New Orleans,Orleans,Standard
+ZIP Code 70113,New Orleans,Orleans,Standard
+ZIP Code 70114,New Orleans,Orleans,Standard
+ZIP Code 70115,New Orleans,Orleans,Standard
+ZIP Code 70116,New Orleans,Orleans,Standard
+ZIP Code 70117,New Orleans,Orleans,Standard
+ZIP Code 70118,New Orleans,Orleans,Standard
+ZIP Code 70119,New Orleans,Orleans,Standard
+ZIP Code 70121,New Orleans,Jefferson,Standard
+ZIP Code 70122,New Orleans,Orleans,Standard
+ZIP Code 70123,New Orleans,Jefferson,Standard
+ZIP Code 70124,New Orleans,Orleans,Standard
+ZIP Code 70125,New Orleans,Orleans,Standard
+ZIP Code 70126,New Orleans,Orleans,Standard
+ZIP Code 70127,New Orleans,Orleans,Standard
+ZIP Code 70128,New Orleans,Orleans,Standard
+ZIP Code 70129,New Orleans,Orleans,Standard
+ZIP Code 70130,New Orleans,Orleans,Standard
+ZIP Code 70131,New Orleans,Orleans,Standard
+ZIP Code 70139,New Orleans,Orleans,Standard
+ZIP Code 70141,New Orleans,Jefferson,P.O. Box
+ZIP Code 70142,New Orleans,Orleans,Unique
+ZIP Code 70143,New Orleans,Orleans,Unique
+ZIP Code 70145,New Orleans,Orleans,Standard
+ZIP Code 70146,New Orleans,Orleans,Standard
+ZIP Code 70148,New Orleans,Orleans,Unique
+ZIP Code 70150,New Orleans,Orleans,P.O. Box
+ZIP Code 70151,New Orleans,Orleans,P.O. Box
+ZIP Code 70152,New Orleans,Orleans,P.O. Box
+ZIP Code 70153,New Orleans,Orleans,P.O. Box
+ZIP Code 70154,New Orleans,Orleans,Unique
+ZIP Code 70156,New Orleans,Orleans,P.O. Box
+ZIP Code 70157,New Orleans,Orleans,P.O. Box
+ZIP Code 70158,New Orleans,Orleans,P.O. Box
+ZIP Code 70159,New Orleans,Orleans,Unique
+ZIP Code 70160,New Orleans,Orleans,P.O. Box
+ZIP Code 70161,New Orleans,Orleans,P.O. Box
+ZIP Code 70162,New Orleans,Orleans,Unique
+ZIP Code 70163,New Orleans,Orleans,Standard
+ZIP Code 70164,New Orleans,Orleans,Unique
+ZIP Code 70165,New Orleans,Orleans,Unique
+ZIP Code 70166,New Orleans,Orleans,Unique
+ZIP Code 70167,New Orleans,Orleans,Unique
+ZIP Code 70170,New Orleans,Orleans,Standard
+ZIP Code 70172,New Orleans,Orleans,P.O. Box
+ZIP Code 70174,New Orleans,Orleans,P.O. Box
+ZIP Code 70175,New Orleans,Orleans,P.O. Box
+ZIP Code 70176,New Orleans,Orleans,P.O. Box
+ZIP Code 70177,New Orleans,Orleans,P.O. Box
+ZIP Code 70178,New Orleans,Orleans,P.O. Box
+ZIP Code 70179,New Orleans,Orleans,P.O. Box
+ZIP Code 70181,New Orleans,Jefferson,P.O. Box
+ZIP Code 70182,New Orleans,Orleans,P.O. Box
+ZIP Code 70183,New Orleans,Jefferson,P.O. Box
+ZIP Code 70184,New Orleans,Orleans,P.O. Box
+ZIP Code 70185,New Orleans,Orleans,P.O. Box
+ZIP Code 70186,New Orleans,Orleans,P.O. Box
+ZIP Code 70187,New Orleans,Orleans,P.O. Box
+ZIP Code 70189,New Orleans,Orleans,P.O. Box
+ZIP Code 70190,New Orleans,Orleans,P.O. Box
+ZIP Code 70195,New Orleans,Orleans,Unique
+ZIP Code 70301,Thibodaux,Lafourche,Standard
+ZIP Code 70302,Thibodaux,Lafourche,P.O. Box
+ZIP Code 70310,Thibodaux,Lafourche,Unique
+ZIP Code 70339,Pierre Part,Assumption,Standard
+ZIP Code 70340,Amelia,Saint Mary,P.O. Box
+ZIP Code 70341,Belle Rose,Assumption,Standard
+ZIP Code 70342,Berwick,Saint Mary,Standard
+ZIP Code 70343,Bourg,Terrebonne,Standard
+ZIP Code 70344,Chauvin,Terrebonne,Standard
+ZIP Code 70345,Cut Off,Lafourche,Standard
+ZIP Code 70346,Donaldsonville,Ascension,Standard
+ZIP Code 70352,Donner,Terrebonne,Standard
+ZIP Code 70353,Dulac,Terrebonne,Standard
+ZIP Code 70354,Galliano,Lafourche,Standard
+ZIP Code 70355,Gheens,Lafourche,Standard
+ZIP Code 70356,Gibson,Terrebonne,Standard
+ZIP Code 70357,Golden Meadow,Lafourche,Standard
+ZIP Code 70358,Grand Isle,Jefferson,Standard
+ZIP Code 70359,Gray,Terrebonne,Standard
+ZIP Code 70360,Houma,Terrebonne,Standard
+ZIP Code 70361,Houma,Terrebonne,P.O. Box
+ZIP Code 70363,Houma,Terrebonne,Standard
+ZIP Code 70364,Houma,Terrebonne,Standard
+ZIP Code 70371,Kraemer,Lafourche,P.O. Box
+ZIP Code 70372,Labadieville,Assumption,Standard
+ZIP Code 70373,Larose,Lafourche,Standard
+ZIP Code 70374,Lockport,Lafourche,Standard
+ZIP Code 70375,Mathews,Lafourche,Standard
+ZIP Code 70377,Montegut,Terrebonne,Standard
+ZIP Code 70380,Morgan City,Saint Mary,Standard
+ZIP Code 70381,Morgan City,Saint Mary,P.O. Box
+ZIP Code 70390,Napoleonville,Assumption,Standard
+ZIP Code 70391,Paincourtville,Assumption,P.O. Box
+ZIP Code 70392,Patterson,Saint Mary,Standard
+ZIP Code 70393,Plattenville,Assumption,Standard
+ZIP Code 70394,Raceland,Lafourche,Standard
+ZIP Code 70395,Schriever,Terrebonne,Standard
+ZIP Code 70397,Theriot,Terrebonne,Standard
+ZIP Code 70401,Hammond,Tangipahoa,Standard
+ZIP Code 70402,Hammond,Tangipahoa,Unique
+ZIP Code 70403,Hammond,Tangipahoa,Standard
+ZIP Code 70404,Hammond,Tangipahoa,P.O. Box
+ZIP Code 70420,Abita Springs,Saint Tammany,Standard
+ZIP Code 70421,Akers,Tangipahoa,Standard
+ZIP Code 70422,Amite,Tangipahoa,Standard
+ZIP Code 70426,Angie,Washington,Standard
+ZIP Code 70427,Bogalusa,Washington,Standard
+ZIP Code 70429,Bogalusa,Washington,P.O. Box
+ZIP Code 70431,Bush,Saint Tammany,Standard
+ZIP Code 70433,Covington,Saint Tammany,Standard
+ZIP Code 70434,Covington,Saint Tammany,P.O. Box
+ZIP Code 70435,Covington,Saint Tammany,Standard
+ZIP Code 70436,Fluker,Tangipahoa,Standard
+ZIP Code 70437,Folsom,Saint Tammany,Standard
+ZIP Code 70438,Franklinton,Washington,Standard
+ZIP Code 70441,Greensburg,Saint Helena,Standard
+ZIP Code 70442,Husser,Tangipahoa,Standard
+ZIP Code 70443,Independence,Tangipahoa,Standard
+ZIP Code 70444,Kentwood,Tangipahoa,Standard
+ZIP Code 70445,Lacombe,Saint Tammany,Standard
+ZIP Code 70446,Loranger,Tangipahoa,Standard
+ZIP Code 70447,Madisonville,Saint Tammany,Standard
+ZIP Code 70448,Mandeville,Saint Tammany,Standard
+ZIP Code 70449,Maurepas,Livingston,Standard
+ZIP Code 70450,Mount Hermon,Washington,Standard
+ZIP Code 70451,Natalbany,Tangipahoa,P.O. Box
+ZIP Code 70452,Pearl River,Saint Tammany,Standard
+ZIP Code 70453,Pine Grove,Saint Helena,Standard
+ZIP Code 70454,Ponchatoula,Tangipahoa,Standard
+ZIP Code 70455,Robert,Tangipahoa,Standard
+ZIP Code 70456,Roseland,Tangipahoa,Standard
+ZIP Code 70457,Saint Benedict,Saint Tammany,P.O. Box
+ZIP Code 70458,Slidell,Saint Tammany,Standard
+ZIP Code 70459,Slidell,Saint Tammany,P.O. Box
+ZIP Code 70460,Slidell,Saint Tammany,Standard
+ZIP Code 70461,Slidell,Saint Tammany,Standard
+ZIP Code 70462,Springfield,Livingston,Standard
+ZIP Code 70463,Sun,Saint Tammany,P.O. Box
+ZIP Code 70464,Talisheek,Saint Tammany,P.O. Box
+ZIP Code 70465,Tangipahoa,Tangipahoa,P.O. Box
+ZIP Code 70466,Tickfaw,Tangipahoa,Standard
+ZIP Code 70467,Varnado,Washington,P.O. Box
+ZIP Code 70469,Slidell,Saint Tammany,P.O. Box
+ZIP Code 70470,Mandeville,Saint Tammany,P.O. Box
+ZIP Code 70471,Mandeville,Saint Tammany,Standard
+ZIP Code 70501,Lafayette,Lafayette,Standard
+ZIP Code 70502,Lafayette,Lafayette,P.O. Box
+ZIP Code 70503,Lafayette,Lafayette,Standard
+ZIP Code 70504,Lafayette,Lafayette,Unique
+ZIP Code 70505,Lafayette,Lafayette,P.O. Box
+ZIP Code 70506,Lafayette,Lafayette,Standard
+ZIP Code 70507,Lafayette,Lafayette,Standard
+ZIP Code 70508,Lafayette,Lafayette,Standard
+ZIP Code 70509,Lafayette,Lafayette,P.O. Box
+ZIP Code 70510,Abbeville,Vermilion,Standard
+ZIP Code 70511,Abbeville,Vermilion,P.O. Box
+ZIP Code 70512,Arnaudville,Saint Landry,Standard
+ZIP Code 70513,Avery Island,Iberia,P.O. Box
+ZIP Code 70514,Baldwin,Saint Mary,Standard
+ZIP Code 70515,Basile,Evangeline,Standard
+ZIP Code 70516,Branch,Acadia,Standard
+ZIP Code 70517,Breaux Bridge,Saint Martin,Standard
+ZIP Code 70518,Broussard,Lafayette,Standard
+ZIP Code 70519,Cade,Saint Martin,P.O. Box
+ZIP Code 70520,Carencro,Lafayette,Standard
+ZIP Code 70521,Cecilia,Saint Martin,P.O. Box
+ZIP Code 70522,Centerville,Saint Mary,P.O. Box
+ZIP Code 70523,Charenton,Saint Mary,P.O. Box
+ZIP Code 70524,Chataignier,Evangeline,P.O. Box
+ZIP Code 70525,Church Point,Acadia,Standard
+ZIP Code 70526,Crowley,Acadia,Standard
+ZIP Code 70527,Crowley,Acadia,P.O. Box
+ZIP Code 70528,Delcambre,Vermilion,Standard
+ZIP Code 70529,Duson,Lafayette,Standard
+ZIP Code 70531,Egan,Acadia,Standard
+ZIP Code 70532,Elton,Jefferson Davis,Standard
+ZIP Code 70533,Erath,Vermilion,Standard
+ZIP Code 70534,Estherwood,Acadia,P.O. Box
+ZIP Code 70535,Eunice,Saint Landry,Standard
+ZIP Code 70537,Evangeline,Acadia,Standard
+ZIP Code 70538,Franklin,Saint Mary,Standard
+ZIP Code 70540,Garden City,Saint Mary,P.O. Box
+ZIP Code 70541,Grand Coteau,Saint Landry,P.O. Box
+ZIP Code 70542,Gueydan,Vermilion,Standard
+ZIP Code 70543,Iota,Acadia,Standard
+ZIP Code 70544,Jeanerette,Iberia,Standard
+ZIP Code 70546,Jennings,Jefferson Davis,Standard
+ZIP Code 70548,Kaplan,Vermilion,Standard
+ZIP Code 70549,Lake Arthur,Jefferson Davis,Standard
+ZIP Code 70550,Lawtell,Saint Landry,P.O. Box
+ZIP Code 70551,Leonville,Saint Landry,P.O. Box
+ZIP Code 70552,Loreauville,Iberia,Standard
+ZIP Code 70554,Mamou,Evangeline,Standard
+ZIP Code 70555,Maurice,Vermilion,Standard
+ZIP Code 70556,Mermentau,Acadia,P.O. Box
+ZIP Code 70558,Milton,Lafayette,P.O. Box
+ZIP Code 70559,Morse,Acadia,Standard
+ZIP Code 70560,New Iberia,Iberia,Standard
+ZIP Code 70562,New Iberia,Iberia,P.O. Box
+ZIP Code 70563,New Iberia,Iberia,Standard
+ZIP Code 70569,Lydia,Iberia,P.O. Box
+ZIP Code 70570,Opelousas,Saint Landry,Standard
+ZIP Code 70571,Opelousas,Saint Landry,P.O. Box
+ZIP Code 70575,Perry,Vermilion,P.O. Box
+ZIP Code 70576,Pine Prairie,Evangeline,P.O. Box
+ZIP Code 70577,Port Barre,Saint Landry,Standard
+ZIP Code 70578,Rayne,Acadia,Standard
+ZIP Code 70580,Reddell,Evangeline,P.O. Box
+ZIP Code 70581,Roanoke,Jefferson Davis,Standard
+ZIP Code 70582,Saint Martinville,Saint Martin,Standard
+ZIP Code 70583,Scott,Lafayette,Standard
+ZIP Code 70584,Sunset,Saint Landry,Standard
+ZIP Code 70585,Turkey Creek,Evangeline,P.O. Box
+ZIP Code 70586,Ville Platte,Evangeline,Standard
+ZIP Code 70589,Washington,Saint Landry,Standard
+ZIP Code 70591,Welsh,Jefferson Davis,Standard
+ZIP Code 70592,Youngsville,Lafayette,Standard
+ZIP Code 70593,Lafayette,Lafayette,P.O. Box
+ZIP Code 70596,Lafayette,Lafayette,P.O. Box
+ZIP Code 70598,Lafayette,Lafayette,P.O. Box
+ZIP Code 70601,Lake Charles,Calcasieu,Standard
+ZIP Code 70602,Lake Charles,Calcasieu,P.O. Box
+ZIP Code 70605,Lake Charles,Calcasieu,Standard
+ZIP Code 70606,Lake Charles,Calcasieu,P.O. Box
+ZIP Code 70607,Lake Charles,Calcasieu,Standard
+ZIP Code 70609,Lake Charles,Calcasieu,Unique
+ZIP Code 70611,Lake Charles,Calcasieu,Standard
+ZIP Code 70612,Lake Charles,Calcasieu,P.O. Box
+ZIP Code 70615,Lake Charles,Calcasieu,Standard
+ZIP Code 70616,Lake Charles,Calcasieu,P.O. Box
+ZIP Code 70629,Lake Charles,Calcasieu,Standard
+ZIP Code 70630,Bell City,Calcasieu,Standard
+ZIP Code 70631,Cameron,Cameron,Standard
+ZIP Code 70632,Creole,Cameron,Standard
+ZIP Code 70633,Dequincy,Calcasieu,Standard
+ZIP Code 70634,Deridder,Beauregard,Standard
+ZIP Code 70637,Dry Creek,Beauregard,Standard
+ZIP Code 70638,Elizabeth,Allen,P.O. Box
+ZIP Code 70639,Evans,Vernon,Standard
+ZIP Code 70640,Fenton,Jefferson Davis,P.O. Box
+ZIP Code 70643,Grand Chenier,Cameron,Standard
+ZIP Code 70644,Grant,Allen,P.O. Box
+ZIP Code 70645,Hackberry,Cameron,Standard
+ZIP Code 70646,Hayes,Calcasieu,P.O. Box
+ZIP Code 70647,Iowa,Calcasieu,Standard
+ZIP Code 70648,Kinder,Allen,Standard
+ZIP Code 70650,Lacassine,Jefferson Davis,P.O. Box
+ZIP Code 70651,Leblanc,Allen,P.O. Box
+ZIP Code 70652,Longville,Beauregard,Standard
+ZIP Code 70653,Merryville,Beauregard,Standard
+ZIP Code 70654,Mittie,Allen,Standard
+ZIP Code 70655,Oberlin,Allen,Standard
+ZIP Code 70656,Pitkin,Vernon,Standard
+ZIP Code 70657,Ragley,Beauregard,Standard
+ZIP Code 70658,Reeves,Allen,Standard
+ZIP Code 70659,Rosepine,Vernon,P.O. Box
+ZIP Code 70660,Singer,Beauregard,Standard
+ZIP Code 70661,Starks,Calcasieu,Standard
+ZIP Code 70662,Sugartown,Beauregard,Standard
+ZIP Code 70663,Sulphur,Calcasieu,Standard
+ZIP Code 70664,Sulphur,Calcasieu,P.O. Box
+ZIP Code 70665,Sulphur,Calcasieu,Standard
+ZIP Code 70668,Vinton,Calcasieu,Standard
+ZIP Code 70669,Westlake,Calcasieu,Standard
+ZIP Code 70704,Baker,East Baton Rouge,P.O. Box
+ZIP Code 70706,Denham Springs,Livingston,Standard
+ZIP Code 70707,Gonzales,Ascension,P.O. Box
+ZIP Code 70710,Addis,West Baton Rouge,Standard
+ZIP Code 70711,Albany,Livingston,Standard
+ZIP Code 70712,Angola,West Feliciana,P.O. Box
+ZIP Code 70714,Baker,East Baton Rouge,Standard
+ZIP Code 70715,Batchelor,Pointe Coupee,Standard
+ZIP Code 70718,Brittany,Ascension,P.O. Box
+ZIP Code 70719,Brusly,West Baton Rouge,Standard
+ZIP Code 70721,Carville,Iberville,Standard
+ZIP Code 70722,Clinton,East Feliciana,Standard
+ZIP Code 70723,Convent,Saint James,Standard
+ZIP Code 70725,Darrow,Ascension,Standard
+ZIP Code 70726,Denham Springs,Livingston,Standard
+ZIP Code 70727,Denham Springs,Livingston,P.O. Box
+ZIP Code 70728,Duplessis,Ascension,P.O. Box
+ZIP Code 70729,Erwinville,West Baton Rouge,Standard
+ZIP Code 70730,Ethel,East Feliciana,Standard
+ZIP Code 70732,Fordoche,Pointe Coupee,Standard
+ZIP Code 70733,French Settlement,Livingston,Standard
+ZIP Code 70734,Geismar,Ascension,Standard
+ZIP Code 70736,Glynn,Pointe Coupee,Standard
+ZIP Code 70737,Gonzales,Ascension,Standard
+ZIP Code 70738,Burnside,Ascension,P.O. Box
+ZIP Code 70739,Greenwell Springs,East Baton Rouge,Standard
+ZIP Code 70740,Grosse Tete,Iberville,Standard
+ZIP Code 70743,Hester,Saint James,P.O. Box
+ZIP Code 70744,Holden,Livingston,Standard
+ZIP Code 70747,Innis,Pointe Coupee,P.O. Box
+ZIP Code 70748,Jackson,East Feliciana,Standard
+ZIP Code 70749,Jarreau,Pointe Coupee,Standard
+ZIP Code 70750,Krotz Springs,Saint Landry,Standard
+ZIP Code 70752,Lakeland,Pointe Coupee,Standard
+ZIP Code 70753,Lettsworth,Pointe Coupee,Standard
+ZIP Code 70754,Livingston,Livingston,Standard
+ZIP Code 70755,Livonia,Pointe Coupee,Standard
+ZIP Code 70756,Lottie,Pointe Coupee,Standard
+ZIP Code 70757,Maringouin,Iberville,Standard
+ZIP Code 70759,Morganza,Pointe Coupee,Standard
+ZIP Code 70760,New Roads,Pointe Coupee,Standard
+ZIP Code 70761,Norwood,East Feliciana,Standard
+ZIP Code 70762,Oscar,Pointe Coupee,Standard
+ZIP Code 70763,Paulina,Saint James,Standard
+ZIP Code 70764,Plaquemine,Iberville,Standard
+ZIP Code 70765,Plaquemine,Iberville,P.O. Box
+ZIP Code 70767,Port Allen,West Baton Rouge,Standard
+ZIP Code 70769,Prairieville,Ascension,Standard
+ZIP Code 70770,Pride,East Baton Rouge,Standard
+ZIP Code 70772,Rosedale,Iberville,Standard
+ZIP Code 70773,Rougon,Pointe Coupee,Standard
+ZIP Code 70774,Saint Amant,Ascension,Standard
+ZIP Code 70775,Saint Francisville,West Feliciana,Standard
+ZIP Code 70776,Saint Gabriel,Iberville,Standard
+ZIP Code 70777,Slaughter,East Feliciana,Standard
+ZIP Code 70778,Sorrento,Ascension,Standard
+ZIP Code 70780,Sunshine,Iberville,Standard
+ZIP Code 70782,Tunica,West Feliciana,P.O. Box
+ZIP Code 70783,Ventress,Pointe Coupee,Standard
+ZIP Code 70784,Wakefield,West Feliciana,P.O. Box
+ZIP Code 70785,Walker,Livingston,Standard
+ZIP Code 70786,Watson,Livingston,P.O. Box
+ZIP Code 70787,Weyanoke,West Feliciana,P.O. Box
+ZIP Code 70788,White Castle,Iberville,Standard
+ZIP Code 70789,Wilson,East Feliciana,Standard
+ZIP Code 70791,Zachary,East Baton Rouge,Standard
+ZIP Code 70792,Uncle Sam,Saint James,P.O. Box
+ZIP Code 70801,Baton Rouge,East Baton Rouge,Standard
+ZIP Code 70802,Baton Rouge,East Baton Rouge,Standard
+ZIP Code 70803,Baton Rouge,East Baton Rouge,Unique
+ZIP Code 70804,Baton Rouge,East Baton Rouge,P.O. Box
+ZIP Code 70805,Baton Rouge,East Baton Rouge,Standard
+ZIP Code 70806,Baton Rouge,East Baton Rouge,Standard
+ZIP Code 70807,Baton Rouge,East Baton Rouge,Standard
+ZIP Code 70808,Baton Rouge,East Baton Rouge,Standard
+ZIP Code 70809,Baton Rouge,East Baton Rouge,Standard
+ZIP Code 70810,Baton Rouge,East Baton Rouge,Standard
+ZIP Code 70811,Baton Rouge,East Baton Rouge,Standard
+ZIP Code 70812,Baton Rouge,East Baton Rouge,Standard
+ZIP Code 70813,Baton Rouge,East Baton Rouge,Unique
+ZIP Code 70814,Baton Rouge,East Baton Rouge,Standard
+ZIP Code 70815,Baton Rouge,East Baton Rouge,Standard
+ZIP Code 70816,Baton Rouge,East Baton Rouge,Standard
+ZIP Code 70817,Baton Rouge,East Baton Rouge,Standard
+ZIP Code 70818,Baton Rouge,East Baton Rouge,Standard
+ZIP Code 70819,Baton Rouge,East Baton Rouge,Standard
+ZIP Code 70820,Baton Rouge,East Baton Rouge,Standard
+ZIP Code 70821,Baton Rouge,East Baton Rouge,P.O. Box
+ZIP Code 70822,Baton Rouge,East Baton Rouge,Unique
+ZIP Code 70823,Baton Rouge,East Baton Rouge,Unique
+ZIP Code 70825,Baton Rouge,East Baton Rouge,Standard
+ZIP Code 70826,Baton Rouge,East Baton Rouge,P.O. Box
+ZIP Code 70827,Baton Rouge,East Baton Rouge,Standard
+ZIP Code 70831,Baton Rouge,East Baton Rouge,P.O. Box
+ZIP Code 70833,Baton Rouge,East Baton Rouge,Unique
+ZIP Code 70835,Baton Rouge,East Baton Rouge,P.O. Box
+ZIP Code 70836,Baton Rouge,East Baton Rouge,Standard
+ZIP Code 70837,Baton Rouge,East Baton Rouge,P.O. Box
+ZIP Code 70873,Baton Rouge,East Baton Rouge,P.O. Box
+ZIP Code 70874,Baton Rouge,East Baton Rouge,P.O. Box
+ZIP Code 70879,Baton Rouge,East Baton Rouge,P.O. Box
+ZIP Code 70884,Baton Rouge,East Baton Rouge,P.O. Box
+ZIP Code 70891,Baton Rouge,East Baton Rouge,Unique
+ZIP Code 70892,Baton Rouge,East Baton Rouge,P.O. Box
+ZIP Code 70893,Baton Rouge,East Baton Rouge,P.O. Box
+ZIP Code 70894,Baton Rouge,East Baton Rouge,P.O. Box
+ZIP Code 70895,Baton Rouge,East Baton Rouge,P.O. Box
+ZIP Code 70896,Baton Rouge,East Baton Rouge,P.O. Box
+ZIP Code 70898,Baton Rouge,East Baton Rouge,P.O. Box
+ZIP Code 71001,Arcadia,Bienville,Standard
+ZIP Code 71002,Ashland,Natchitoches,Standard
+ZIP Code 71003,Athens,Claiborne,Standard
+ZIP Code 71004,Belcher,Caddo,Standard
+ZIP Code 71006,Benton,Bossier,Standard
+ZIP Code 71007,Bethany,Caddo,Standard
+ZIP Code 71008,Bienville,Bienville,Standard
+ZIP Code 71009,Blanchard,Caddo,P.O. Box
+ZIP Code 71016,Castor,Bienville,Standard
+ZIP Code 71018,Cotton Valley,Webster,Standard
+ZIP Code 71019,Coushatta,Red River,Standard
+ZIP Code 71021,Cullen,Webster,P.O. Box
+ZIP Code 71023,Doyline,Webster,Standard
+ZIP Code 71024,Dubberly,Webster,Standard
+ZIP Code 71027,Frierson,De Soto,Standard
+ZIP Code 71028,Gibsland,Bienville,Standard
+ZIP Code 71029,Gilliam,Caddo,Standard
+ZIP Code 71030,Gloster,De Soto,Standard
+ZIP Code 71031,Goldonna,Natchitoches,Standard
+ZIP Code 71032,Grand Cane,De Soto,Standard
+ZIP Code 71033,Greenwood,Caddo,Standard
+ZIP Code 71034,Hall Summit,Red River,Standard
+ZIP Code 71037,Haughton,Bossier,Standard
+ZIP Code 71038,Haynesville,Claiborne,Standard
+ZIP Code 71039,Heflin,Webster,Standard
+ZIP Code 71040,Homer,Claiborne,Standard
+ZIP Code 71043,Hosston,Caddo,Standard
+ZIP Code 71044,Ida,Caddo,Standard
+ZIP Code 71045,Jamestown,Bienville,Standard
+ZIP Code 71046,Keatchie,De Soto,Standard
+ZIP Code 71047,Keithville,Caddo,Standard
+ZIP Code 71048,Lisbon,Claiborne,Standard
+ZIP Code 71049,Logansport,De Soto,Standard
+ZIP Code 71050,Longstreet,De Soto,P.O. Box
+ZIP Code 71051,Elm Grove,Bossier,Standard
+ZIP Code 71052,Mansfield,De Soto,Standard
+ZIP Code 71055,Minden,Webster,Standard
+ZIP Code 71058,Minden,Webster,P.O. Box
+ZIP Code 71060,Mooringsport,Caddo,Standard
+ZIP Code 71061,Oil City,Caddo,Standard
+ZIP Code 71063,Pelican,De Soto,Standard
+ZIP Code 71064,Plain Dealing,Bossier,Standard
+ZIP Code 71065,Pleasant Hill,Sabine,Standard
+ZIP Code 71066,Powhatan,Natchitoches,P.O. Box
+ZIP Code 71067,Princeton,Bossier,Standard
+ZIP Code 71068,Ringgold,Bienville,Standard
+ZIP Code 71069,Rodessa,Caddo,Standard
+ZIP Code 71070,Saline,Bienville,Standard
+ZIP Code 71071,Sarepta,Webster,Standard
+ZIP Code 71072,Shongaloo,Webster,Standard
+ZIP Code 71073,Sibley,Webster,Standard
+ZIP Code 71075,Springhill,Webster,Standard
+ZIP Code 71078,Stonewall,De Soto,Standard
+ZIP Code 71079,Summerfield,Claiborne,Standard
+ZIP Code 71080,Taylor,Bienville,P.O. Box
+ZIP Code 71082,Vivian,Caddo,Standard
+ZIP Code 71101,Shreveport,Caddo,Standard
+ZIP Code 71102,Shreveport,Caddo,P.O. Box
+ZIP Code 71103,Shreveport,Caddo,Standard
+ZIP Code 71104,Shreveport,Caddo,Standard
+ZIP Code 71105,Shreveport,Caddo,Standard
+ZIP Code 71106,Shreveport,Caddo,Standard
+ZIP Code 71107,Shreveport,Caddo,Standard
+ZIP Code 71108,Shreveport,Caddo,Standard
+ZIP Code 71109,Shreveport,Caddo,Standard
+ZIP Code 71110,Barksdale AFB,Bossier,Standard
+ZIP Code 71111,Bossier City,Bossier,Standard
+ZIP Code 71112,Bossier City,Bossier,Standard
+ZIP Code 71113,Bossier City,Bossier,P.O. Box
+ZIP Code 71115,Shreveport,Caddo,Standard
+ZIP Code 71118,Shreveport,Caddo,Standard
+ZIP Code 71119,Shreveport,Caddo,Standard
+ZIP Code 71120,Shreveport,Caddo,P.O. Box
+ZIP Code 71129,Shreveport,Caddo,Standard
+ZIP Code 71130,Shreveport,Caddo,P.O. Box
+ZIP Code 71133,Shreveport,Caddo,P.O. Box
+ZIP Code 71134,Shreveport,Caddo,P.O. Box
+ZIP Code 71135,Shreveport,Caddo,P.O. Box
+ZIP Code 71136,Shreveport,Caddo,P.O. Box
+ZIP Code 71137,Shreveport,Caddo,P.O. Box
+ZIP Code 71138,Shreveport,Caddo,P.O. Box
+ZIP Code 71148,Shreveport,Caddo,P.O. Box
+ZIP Code 71149,Shreveport,Caddo,P.O. Box
+ZIP Code 71150,Shreveport,Caddo,P.O. Box
+ZIP Code 71151,Shreveport,Caddo,Unique
+ZIP Code 71152,Shreveport,Caddo,Unique
+ZIP Code 71153,Shreveport,Caddo,Unique
+ZIP Code 71154,Shreveport,Caddo,Unique
+ZIP Code 71156,Shreveport,Caddo,Unique
+ZIP Code 71161,Shreveport,Caddo,P.O. Box
+ZIP Code 71162,Shreveport,Caddo,P.O. Box
+ZIP Code 71163,Shreveport,Caddo,P.O. Box
+ZIP Code 71164,Shreveport,Caddo,P.O. Box
+ZIP Code 71165,Shreveport,Caddo,P.O. Box
+ZIP Code 71166,Shreveport,Caddo,P.O. Box
+ZIP Code 71171,Bossier City,Bossier,P.O. Box
+ZIP Code 71172,Bossier City,Bossier,P.O. Box
+ZIP Code 71201,Monroe,Ouachita,Standard
+ZIP Code 71202,Monroe,Ouachita,Standard
+ZIP Code 71203,Monroe,Ouachita,Standard
+ZIP Code 71207,Monroe,Ouachita,P.O. Box
+ZIP Code 71209,Monroe,Ouachita,Unique
+ZIP Code 71210,Monroe,Ouachita,P.O. Box
+ZIP Code 71211,Monroe,Ouachita,P.O. Box
+ZIP Code 71212,Monroe,Ouachita,Unique
+ZIP Code 71213,Monroe,Ouachita,P.O. Box
+ZIP Code 71217,Monroe,Ouachita,P.O. Box
+ZIP Code 71218,Archibald,Richland,P.O. Box
+ZIP Code 71219,Baskin,Franklin,Standard
+ZIP Code 71220,Bastrop,Morehouse,Standard
+ZIP Code 71221,Bastrop,Morehouse,P.O. Box
+ZIP Code 71222,Bernice,Union,Standard
+ZIP Code 71223,Bonita,Morehouse,Standard
+ZIP Code 71225,Calhoun,Ouachita,Standard
+ZIP Code 71226,Chatham,Jackson,Standard
+ZIP Code 71227,Choudrant,Lincoln,Standard
+ZIP Code 71229,Collinston,Morehouse,Standard
+ZIP Code 71230,Crowville,Franklin,P.O. Box
+ZIP Code 71232,Delhi,Richland,Standard
+ZIP Code 71233,Delta,Madison,P.O. Box
+ZIP Code 71234,Downsville,Union,Standard
+ZIP Code 71235,Dubach,Lincoln,Standard
+ZIP Code 71237,Epps,West Carroll,Standard
+ZIP Code 71238,Eros,Ouachita,Standard
+ZIP Code 71240,Fairbanks,Ouachita,P.O. Box
+ZIP Code 71241,Farmerville,Union,Standard
+ZIP Code 71242,Forest,West Carroll,P.O. Box
+ZIP Code 71243,Fort Necessity,Franklin,Standard
+ZIP Code 71245,Grambling,Lincoln,Standard
+ZIP Code 71247,Hodge,Jackson,P.O. Box
+ZIP Code 71249,Jigger,Franklin,P.O. Box
+ZIP Code 71250,Jones,Morehouse,Standard
+ZIP Code 71251,Jonesboro,Jackson,Standard
+ZIP Code 71253,Kilbourne,West Carroll,P.O. Box
+ZIP Code 71254,Lake Providence,East Carroll,Standard
+ZIP Code 71256,Lillie,Union,Standard
+ZIP Code 71259,Mangham,Richland,Standard
+ZIP Code 71260,Marion,Union,Standard
+ZIP Code 71261,Mer Rouge,Morehouse,Standard
+ZIP Code 71263,Oak Grove,West Carroll,Standard
+ZIP Code 71264,Oak Ridge,Morehouse,Standard
+ZIP Code 71266,Pioneer,West Carroll,Standard
+ZIP Code 71268,Quitman,Jackson,Standard
+ZIP Code 71269,Rayville,Richland,Standard
+ZIP Code 71270,Ruston,Lincoln,Standard
+ZIP Code 71272,Ruston,Lincoln,Unique
+ZIP Code 71273,Ruston,Lincoln,P.O. Box
+ZIP Code 71275,Simsboro,Lincoln,Standard
+ZIP Code 71276,Sondheimer,East Carroll,Standard
+ZIP Code 71277,Spearsville,Union,Standard
+ZIP Code 71279,Start,Richland,P.O. Box
+ZIP Code 71280,Sterlington,Ouachita,Standard
+ZIP Code 71281,Swartz,Ouachita,P.O. Box
+ZIP Code 71282,Tallulah,Madison,Standard
+ZIP Code 71284,Tallulah,Madison,P.O. Box
+ZIP Code 71286,Transylvania,East Carroll,Standard
+ZIP Code 71291,West Monroe,Ouachita,Standard
+ZIP Code 71292,West Monroe,Ouachita,Standard
+ZIP Code 71294,West Monroe,Ouachita,P.O. Box
+ZIP Code 71295,Winnsboro,Franklin,Standard
+ZIP Code 71301,Alexandria,Rapides,Standard
+ZIP Code 71302,Alexandria,Rapides,Standard
+ZIP Code 71303,Alexandria,Rapides,Standard
+ZIP Code 71306,Alexandria,Rapides,P.O. Box
+ZIP Code 71307,Alexandria,Rapides,P.O. Box
+ZIP Code 71309,Alexandria,Rapides,P.O. Box
+ZIP Code 71315,Alexandria,Rapides,P.O. Box
+ZIP Code 71316,Acme,Concordia,Standard
+ZIP Code 71320,Bordelonville,Avoyelles,P.O. Box
+ZIP Code 71322,Bunkie,Avoyelles,Standard
+ZIP Code 71323,Center Point,Avoyelles,Standard
+ZIP Code 71324,Chase,Franklin,P.O. Box
+ZIP Code 71325,Cheneyville,Rapides,Standard
+ZIP Code 71326,Clayton,Concordia,Standard
+ZIP Code 71327,Cottonport,Avoyelles,Standard
+ZIP Code 71328,Deville,Rapides,Standard
+ZIP Code 71329,Dupont,Avoyelles,P.O. Box
+ZIP Code 71330,Echo,Rapides,P.O. Box
+ZIP Code 71331,Effie,Avoyelles,Standard
+ZIP Code 71333,Evergreen,Avoyelles,Standard
+ZIP Code 71334,Ferriday,Concordia,Standard
+ZIP Code 71336,Gilbert,Franklin,Standard
+ZIP Code 71339,Hamburg,Avoyelles,P.O. Box
+ZIP Code 71340,Harrisonburg,Catahoula,Standard
+ZIP Code 71341,Hessmer,Avoyelles,Standard
+ZIP Code 71342,Jena,La Salle,Standard
+ZIP Code 71343,Jonesville,Catahoula,Standard
+ZIP Code 71345,Lebeau,Saint Landry,P.O. Box
+ZIP Code 71346,Lecompte,Rapides,Standard
+ZIP Code 71348,Libuse,Rapides,P.O. Box
+ZIP Code 71350,Mansura,Avoyelles,Standard
+ZIP Code 71351,Marksville,Avoyelles,Standard
+ZIP Code 71353,Melville,Saint Landry,Standard
+ZIP Code 71354,Monterey,Concordia,Standard
+ZIP Code 71355,Moreauville,Avoyelles,Standard
+ZIP Code 71356,Morrow,Saint Landry,Standard
+ZIP Code 71357,Newellton,Tensas,Standard
+ZIP Code 71358,Palmetto,Saint Landry,Standard
+ZIP Code 71359,Pineville,Rapides,Unique
+ZIP Code 71360,Pineville,Rapides,Standard
+ZIP Code 71361,Pineville,Rapides,P.O. Box
+ZIP Code 71362,Plaucheville,Avoyelles,Standard
+ZIP Code 71363,Rhinehart,Catahoula,P.O. Box
+ZIP Code 71365,Ruby,Rapides,P.O. Box
+ZIP Code 71366,Saint Joseph,Tensas,Standard
+ZIP Code 71367,Saint Landry,Evangeline,Standard
+ZIP Code 71368,Sicily Island,Catahoula,Standard
+ZIP Code 71369,Simmesport,Avoyelles,Standard
+ZIP Code 71371,Trout,La Salle,Standard
+ZIP Code 71373,Vidalia,Concordia,Standard
+ZIP Code 71375,Waterproof,Tensas,Standard
+ZIP Code 71377,Wildsville,Concordia,P.O. Box
+ZIP Code 71378,Wisner,Franklin,Standard
+ZIP Code 71401,Aimwell,Catahoula,Standard
+ZIP Code 71403,Anacoco,Vernon,Standard
+ZIP Code 71404,Atlanta,Winn,Standard
+ZIP Code 71405,Ball,Rapides,Standard
+ZIP Code 71406,Belmont,Sabine,Standard
+ZIP Code 71407,Bentley,Grant,Standard
+ZIP Code 71409,Boyce,Rapides,Standard
+ZIP Code 71410,Calvin,Winn,P.O. Box
+ZIP Code 71411,Campti,Natchitoches,Standard
+ZIP Code 71414,Clarence,Natchitoches,P.O. Box
+ZIP Code 71415,Clarks,Caldwell,P.O. Box
+ZIP Code 71416,Cloutierville,Natchitoches,Standard
+ZIP Code 71417,Colfax,Grant,Standard
+ZIP Code 71418,Columbia,Caldwell,Standard
+ZIP Code 71419,Converse,Sabine,Standard
+ZIP Code 71422,Dodson,Winn,Standard
+ZIP Code 71423,Dry Prong,Grant,Standard
+ZIP Code 71424,Elmer,Rapides,Standard
+ZIP Code 71425,Enterprise,Catahoula,Standard
+ZIP Code 71426,Fisher,Sabine,P.O. Box
+ZIP Code 71427,Flatwoods,Rapides,Standard
+ZIP Code 71428,Flora,Natchitoches,P.O. Box
+ZIP Code 71429,Florien,Sabine,Standard
+ZIP Code 71430,Forest Hill,Rapides,Standard
+ZIP Code 71431,Gardner,Rapides,P.O. Box
+ZIP Code 71432,Georgetown,Grant,Standard
+ZIP Code 71433,Glenmora,Rapides,Standard
+ZIP Code 71434,Gorum,Natchitoches,P.O. Box
+ZIP Code 71435,Grayson,Caldwell,Standard
+ZIP Code 71438,Hineston,Rapides,Standard
+ZIP Code 71439,Hornbeck,Vernon,Standard
+ZIP Code 71440,Joyce,Winn,P.O. Box
+ZIP Code 71441,Kelly,Caldwell,Standard
+ZIP Code 71443,Kurthwood,Vernon,P.O. Box
+ZIP Code 71446,Leesville,Vernon,Standard
+ZIP Code 71447,Lena,Rapides,Standard
+ZIP Code 71448,Longleaf,Rapides,P.O. Box
+ZIP Code 71449,Many,Sabine,Standard
+ZIP Code 71450,Marthaville,Natchitoches,Standard
+ZIP Code 71452,Melrose,Natchitoches,Standard
+ZIP Code 71454,Montgomery,Grant,Standard
+ZIP Code 71455,Mora,Rapides,Standard
+ZIP Code 71456,Natchez,Natchitoches,Standard
+ZIP Code 71457,Natchitoches,Natchitoches,Standard
+ZIP Code 71458,Natchitoches,Natchitoches,P.O. Box
+ZIP Code 71459,Fort Polk,Vernon,Standard
+ZIP Code 71460,Negreet,Sabine,P.O. Box
+ZIP Code 71461,New Llano,Vernon,Standard
+ZIP Code 71462,Noble,Sabine,Standard
+ZIP Code 71463,Oakdale,Allen,Standard
+ZIP Code 71465,Olla,La Salle,Standard
+ZIP Code 71466,Otis,Rapides,Standard
+ZIP Code 71467,Pollock,Grant,Standard
+ZIP Code 71468,Provencal,Natchitoches,Standard
+ZIP Code 71469,Robeline,Natchitoches,Standard
+ZIP Code 71471,Saint Maurice,Winn,P.O. Box
+ZIP Code 71472,Sieper,Rapides,Standard
+ZIP Code 71473,Sikes,Winn,Standard
+ZIP Code 71474,Simpson,Vernon,P.O. Box
+ZIP Code 71475,Slagle,Vernon,P.O. Box
+ZIP Code 71477,Tioga,Rapides,P.O. Box
+ZIP Code 71479,Tullos,La Salle,Standard
+ZIP Code 71480,Urania,La Salle,P.O. Box
+ZIP Code 71483,Winnfield,Winn,Standard
+ZIP Code 71485,Woodworth,Rapides,Standard
+ZIP Code 71486,Zwolle,Sabine,Standard
+ZIP Code 71496,Leesville,Vernon,P.O. Box
+ZIP Code 71497,Natchitoches,Natchitoches,Unique

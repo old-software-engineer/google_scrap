@@ -1,0 +1,604 @@
+ZIP CODE,City,County,Type
+ZIP Code 20588,Dhs,Howard,Unique
+ZIP Code 20601,Waldorf,Charles,Standard
+ZIP Code 20602,Waldorf,Charles,Standard
+ZIP Code 20603,Waldorf,Charles,Standard
+ZIP Code 20604,Waldorf,Charles,P.O. Box
+ZIP Code 20606,Abell,Saint Marys,Standard
+ZIP Code 20607,Accokeek,Prince Georges,Standard
+ZIP Code 20608,Aquasco,Prince Georges,Standard
+ZIP Code 20609,Avenue,Saint Marys,Standard
+ZIP Code 20610,Barstow,Calvert,P.O. Box
+ZIP Code 20611,Bel Alton,Charles,Standard
+ZIP Code 20612,Benedict,Charles,P.O. Box
+ZIP Code 20613,Brandywine,Prince Georges,Standard
+ZIP Code 20615,Broomes Island,Calvert,Standard
+ZIP Code 20616,Bryans Road,Charles,Standard
+ZIP Code 20617,Bryantown,Charles,Standard
+ZIP Code 20618,Bushwood,Saint Marys,Standard
+ZIP Code 20619,California,Saint Marys,Standard
+ZIP Code 20620,Callaway,Saint Marys,Standard
+ZIP Code 20621,Chaptico,Saint Marys,Standard
+ZIP Code 20622,Charlotte Hall,Charles,Standard
+ZIP Code 20623,Cheltenham,Prince Georges,Standard
+ZIP Code 20624,Clements,Saint Marys,Standard
+ZIP Code 20625,Cobb Island,Charles,P.O. Box
+ZIP Code 20626,Coltons Point,Saint Marys,Standard
+ZIP Code 20627,Compton,Saint Marys,P.O. Box
+ZIP Code 20628,Dameron,Saint Marys,Standard
+ZIP Code 20629,Dowell,Calvert,P.O. Box
+ZIP Code 20630,Drayden,Saint Marys,Standard
+ZIP Code 20632,Faulkner,Charles,Standard
+ZIP Code 20634,Great Mills,Saint Marys,Standard
+ZIP Code 20635,Helen,Saint Marys,P.O. Box
+ZIP Code 20636,Hollywood,Saint Marys,Standard
+ZIP Code 20637,Hughesville,Charles,Standard
+ZIP Code 20639,Huntingtown,Calvert,Standard
+ZIP Code 20640,Indian Head,Charles,Standard
+ZIP Code 20643,Ironsides,Charles,P.O. Box
+ZIP Code 20645,Issue,Charles,Standard
+ZIP Code 20646,La Plata,Charles,Standard
+ZIP Code 20650,Leonardtown,Saint Marys,Standard
+ZIP Code 20653,Lexington Park,Saint Marys,Standard
+ZIP Code 20656,Loveville,Saint Marys,Standard
+ZIP Code 20657,Lusby,Calvert,Standard
+ZIP Code 20658,Marbury,Charles,Standard
+ZIP Code 20659,Mechanicsville,Saint Marys,Standard
+ZIP Code 20660,Morganza,Saint Marys,P.O. Box
+ZIP Code 20661,Mount Victoria,Charles,P.O. Box
+ZIP Code 20662,Nanjemoy,Charles,Standard
+ZIP Code 20664,Newburg,Charles,Standard
+ZIP Code 20667,Park Hall,Saint Marys,Standard
+ZIP Code 20670,Patuxent River,Saint Marys,Standard
+ZIP Code 20674,Piney Point,Saint Marys,Standard
+ZIP Code 20675,Pomfret,Charles,Standard
+ZIP Code 20676,Port Republic,Calvert,Standard
+ZIP Code 20677,Port Tobacco,Charles,Standard
+ZIP Code 20678,Prince Frederick,Calvert,Standard
+ZIP Code 20680,Ridge,Saint Marys,Standard
+ZIP Code 20682,Rock Point,Charles,P.O. Box
+ZIP Code 20684,Saint Inigoes,Saint Marys,Standard
+ZIP Code 20685,Saint Leonard,Calvert,Standard
+ZIP Code 20686,Saint Marys City,Saint Marys,P.O. Box
+ZIP Code 20687,Scotland,Saint Marys,Standard
+ZIP Code 20688,Solomons,Calvert,Standard
+ZIP Code 20689,Sunderland,Calvert,Standard
+ZIP Code 20690,Tall Timbers,Saint Marys,Standard
+ZIP Code 20692,Valley Lee,Saint Marys,Standard
+ZIP Code 20693,Welcome,Charles,Standard
+ZIP Code 20695,White Plains,Charles,Standard
+ZIP Code 20697,Southern Md Facility,Prince Georges,Unique
+ZIP Code 20701,Annapolis Junction,Howard,Standard
+ZIP Code 20703,Lanham,Prince Georges,P.O. Box
+ZIP Code 20704,Beltsville,Prince Georges,P.O. Box
+ZIP Code 20705,Beltsville,Prince Georges,Standard
+ZIP Code 20706,Lanham,Prince Georges,Standard
+ZIP Code 20707,Laurel,Prince Georges,Standard
+ZIP Code 20708,Laurel,Prince Georges,Standard
+ZIP Code 20709,Laurel,Prince Georges,P.O. Box
+ZIP Code 20710,Bladensburg,Prince Georges,Standard
+ZIP Code 20711,Lothian,Anne Arundel,Standard
+ZIP Code 20712,Mount Rainier,Prince Georges,Standard
+ZIP Code 20714,North Beach,Calvert,Standard
+ZIP Code 20715,Bowie,Prince Georges,Standard
+ZIP Code 20716,Bowie,Prince Georges,Standard
+ZIP Code 20717,Bowie,Prince Georges,P.O. Box
+ZIP Code 20718,Bowie,Prince Georges,P.O. Box
+ZIP Code 20719,Bowie,Prince Georges,P.O. Box
+ZIP Code 20720,Bowie,Prince Georges,Standard
+ZIP Code 20721,Bowie,Prince Georges,Standard
+ZIP Code 20722,Brentwood,Prince Georges,Standard
+ZIP Code 20723,Laurel,Howard,Standard
+ZIP Code 20724,Laurel,Anne Arundel,Standard
+ZIP Code 20725,Laurel,Prince Georges,P.O. Box
+ZIP Code 20726,Laurel,Prince Georges,P.O. Box
+ZIP Code 20731,Capitol Heights,Prince Georges,P.O. Box
+ZIP Code 20732,Chesapeake Beach,Calvert,Standard
+ZIP Code 20733,Churchton,Anne Arundel,Standard
+ZIP Code 20735,Clinton,Prince Georges,Standard
+ZIP Code 20736,Owings,Calvert,Standard
+ZIP Code 20737,Riverdale,Prince Georges,Standard
+ZIP Code 20738,Riverdale,Prince Georges,P.O. Box
+ZIP Code 20740,College Park,Prince Georges,Standard
+ZIP Code 20741,College Park,Prince Georges,P.O. Box
+ZIP Code 20742,College Park,Prince Georges,Unique
+ZIP Code 20743,Capitol Heights,Prince Georges,Standard
+ZIP Code 20744,Fort Washington,Prince Georges,Standard
+ZIP Code 20745,Oxon Hill,Prince Georges,Standard
+ZIP Code 20746,Suitland,Prince Georges,Standard
+ZIP Code 20747,District Heights,Prince Georges,Standard
+ZIP Code 20748,Temple Hills,Prince Georges,Standard
+ZIP Code 20749,Fort Washington,Prince Georges,P.O. Box
+ZIP Code 20750,Oxon Hill,Prince Georges,P.O. Box
+ZIP Code 20751,Deale,Anne Arundel,Standard
+ZIP Code 20752,Suitland,Prince Georges,P.O. Box
+ZIP Code 20753,District Heights,Prince Georges,P.O. Box
+ZIP Code 20754,Dunkirk,Calvert,Standard
+ZIP Code 20755,Fort George G Meade,Anne Arundel,Standard
+ZIP Code 20757,Temple Hills,Prince Georges,P.O. Box
+ZIP Code 20758,Friendship,Anne Arundel,Standard
+ZIP Code 20759,Fulton,Howard,Standard
+ZIP Code 20762,Andrews Air Force Base,Prince Georges,Standard
+ZIP Code 20763,Savage,Howard,Standard
+ZIP Code 20764,Shady Side,Anne Arundel,Standard
+ZIP Code 20765,Galesville,Anne Arundel,P.O. Box
+ZIP Code 20768,Greenbelt,Prince Georges,P.O. Box
+ZIP Code 20769,Glenn Dale,Prince Georges,Standard
+ZIP Code 20770,Greenbelt,Prince Georges,Standard
+ZIP Code 20771,Greenbelt,Prince Georges,Unique
+ZIP Code 20772,Upper Marlboro,Prince Georges,Standard
+ZIP Code 20773,Upper Marlboro,Prince Georges,P.O. Box
+ZIP Code 20774,Upper Marlboro,Prince Georges,Standard
+ZIP Code 20775,Upper Marlboro,Prince Georges,P.O. Box
+ZIP Code 20776,Harwood,Anne Arundel,Standard
+ZIP Code 20777,Highland,Howard,Standard
+ZIP Code 20778,West River,Anne Arundel,Standard
+ZIP Code 20779,Tracys Landing,Anne Arundel,Standard
+ZIP Code 20781,Hyattsville,Prince Georges,Standard
+ZIP Code 20782,Hyattsville,Prince Georges,Standard
+ZIP Code 20783,Hyattsville,Prince Georges,Standard
+ZIP Code 20784,Hyattsville,Prince Georges,Standard
+ZIP Code 20785,Hyattsville,Prince Georges,Standard
+ZIP Code 20787,Hyattsville,Prince Georges,P.O. Box
+ZIP Code 20788,Hyattsville,Prince Georges,P.O. Box
+ZIP Code 20790,Capitol Heights,Prince Georges,Unique
+ZIP Code 20791,Capitol Heights,Prince Georges,P.O. Box
+ZIP Code 20792,Upper Marlboro,Prince Georges,P.O. Box
+ZIP Code 20794,Jessup,Howard,Standard
+ZIP Code 20797,Southern Md Facility,Prince Georges,Unique
+ZIP Code 20799,Capitol Heights,Prince Georges,Unique
+ZIP Code 20810,Bethesda,Montgomery,Unique
+ZIP Code 20811,Bethesda,Montgomery,Unique
+ZIP Code 20812,Glen Echo,Montgomery,Standard
+ZIP Code 20813,Bethesda,Montgomery,P.O. Box
+ZIP Code 20814,Bethesda,Montgomery,Standard
+ZIP Code 20815,Chevy Chase,Montgomery,Standard
+ZIP Code 20816,Bethesda,Montgomery,Standard
+ZIP Code 20817,Bethesda,Montgomery,Standard
+ZIP Code 20818,Cabin John,Montgomery,Standard
+ZIP Code 20824,Bethesda,Montgomery,P.O. Box
+ZIP Code 20825,Chevy Chase,Montgomery,P.O. Box
+ZIP Code 20827,Bethesda,Montgomery,P.O. Box
+ZIP Code 20830,Olney,Montgomery,P.O. Box
+ZIP Code 20832,Olney,Montgomery,Standard
+ZIP Code 20833,Brookeville,Montgomery,Standard
+ZIP Code 20837,Poolesville,Montgomery,Standard
+ZIP Code 20838,Barnesville,Montgomery,Standard
+ZIP Code 20839,Beallsville,Montgomery,Standard
+ZIP Code 20841,Boyds,Montgomery,Standard
+ZIP Code 20842,Dickerson,Montgomery,Standard
+ZIP Code 20847,Rockville,Montgomery,P.O. Box
+ZIP Code 20848,Rockville,Montgomery,P.O. Box
+ZIP Code 20849,Rockville,Montgomery,P.O. Box
+ZIP Code 20850,Rockville,Montgomery,Standard
+ZIP Code 20851,Rockville,Montgomery,Standard
+ZIP Code 20852,Rockville,Montgomery,Standard
+ZIP Code 20853,Rockville,Montgomery,Standard
+ZIP Code 20854,Potomac,Montgomery,Standard
+ZIP Code 20855,Derwood,Montgomery,Standard
+ZIP Code 20857,Rockville,Montgomery,Unique
+ZIP Code 20859,Potomac,Montgomery,P.O. Box
+ZIP Code 20860,Sandy Spring,Montgomery,Standard
+ZIP Code 20861,Ashton,Montgomery,Standard
+ZIP Code 20862,Brinklow,Montgomery,Standard
+ZIP Code 20866,Burtonsville,Montgomery,Standard
+ZIP Code 20868,Spencerville,Montgomery,Standard
+ZIP Code 20871,Clarksburg,Montgomery,Standard
+ZIP Code 20872,Damascus,Montgomery,Standard
+ZIP Code 20874,Germantown,Montgomery,Standard
+ZIP Code 20875,Germantown,Montgomery,P.O. Box
+ZIP Code 20876,Germantown,Montgomery,Standard
+ZIP Code 20877,Gaithersburg,Montgomery,Standard
+ZIP Code 20878,Gaithersburg,Montgomery,Standard
+ZIP Code 20879,Gaithersburg,Montgomery,Standard
+ZIP Code 20880,Washington Grove,Montgomery,P.O. Box
+ZIP Code 20882,Gaithersburg,Montgomery,Standard
+ZIP Code 20883,Gaithersburg,Montgomery,P.O. Box
+ZIP Code 20884,Gaithersburg,Montgomery,P.O. Box
+ZIP Code 20885,Gaithersburg,Montgomery,P.O. Box
+ZIP Code 20886,Montgomery Village,Montgomery,Standard
+ZIP Code 20889,Bethesda,Montgomery,Unique
+ZIP Code 20891,Kensington,Montgomery,P.O. Box
+ZIP Code 20892,Bethesda,Montgomery,Unique
+ZIP Code 20894,Bethesda,Montgomery,Unique
+ZIP Code 20895,Kensington,Montgomery,Standard
+ZIP Code 20896,Garrett Park,Montgomery,P.O. Box
+ZIP Code 20897,Suburb Maryland Fac,Montgomery,Unique
+ZIP Code 20898,Gaithersburg,Montgomery,P.O. Box
+ZIP Code 20899,Gaithersburg,Montgomery,Unique
+ZIP Code 20901,Silver Spring,Montgomery,Standard
+ZIP Code 20902,Silver Spring,Montgomery,Standard
+ZIP Code 20903,Silver Spring,Montgomery,Standard
+ZIP Code 20904,Silver Spring,Montgomery,Standard
+ZIP Code 20905,Silver Spring,Montgomery,Standard
+ZIP Code 20906,Silver Spring,Montgomery,Standard
+ZIP Code 20907,Silver Spring,Montgomery,P.O. Box
+ZIP Code 20908,Silver Spring,Montgomery,P.O. Box
+ZIP Code 20910,Silver Spring,Montgomery,Standard
+ZIP Code 20911,Silver Spring,Montgomery,P.O. Box
+ZIP Code 20912,Takoma Park,Montgomery,Standard
+ZIP Code 20913,Takoma Park,Montgomery,P.O. Box
+ZIP Code 20914,Silver Spring,Montgomery,P.O. Box
+ZIP Code 20915,Silver Spring,Montgomery,P.O. Box
+ZIP Code 20916,Silver Spring,Montgomery,P.O. Box
+ZIP Code 20918,Silver Spring,Montgomery,P.O. Box
+ZIP Code 20993,Silver Spring,Montgomery,Unique
+ZIP Code 20997,Silver Spring,Montgomery,Unique
+ZIP Code 21001,Aberdeen,Harford,Standard
+ZIP Code 21005,Aberdeen Proving Ground,Harford,Standard
+ZIP Code 21009,Abingdon,Harford,Standard
+ZIP Code 21010,Gunpowder,Harford,Standard
+ZIP Code 21012,Arnold,Anne Arundel,Standard
+ZIP Code 21013,Baldwin,Baltimore,Standard
+ZIP Code 21014,Bel Air,Harford,Standard
+ZIP Code 21015,Bel Air,Harford,Standard
+ZIP Code 21017,Belcamp,Harford,Standard
+ZIP Code 21018,Benson,Harford,P.O. Box
+ZIP Code 21020,Boring,Baltimore,P.O. Box
+ZIP Code 21022,Brooklandville,Baltimore,P.O. Box
+ZIP Code 21023,Butler,Baltimore,P.O. Box
+ZIP Code 21027,Chase,Baltimore,P.O. Box
+ZIP Code 21028,Churchville,Harford,Standard
+ZIP Code 21029,Clarksville,Howard,Standard
+ZIP Code 21030,Cockeysville,Baltimore,Standard
+ZIP Code 21031,Hunt Valley,Baltimore,Standard
+ZIP Code 21032,Crownsville,Anne Arundel,Standard
+ZIP Code 21034,Darlington,Harford,Standard
+ZIP Code 21035,Davidsonville,Anne Arundel,Standard
+ZIP Code 21036,Dayton,Howard,Standard
+ZIP Code 21037,Edgewater,Anne Arundel,Standard
+ZIP Code 21040,Edgewood,Harford,Standard
+ZIP Code 21041,Ellicott City,Howard,P.O. Box
+ZIP Code 21042,Ellicott City,Howard,Standard
+ZIP Code 21043,Ellicott City,Howard,Standard
+ZIP Code 21044,Columbia,Howard,Standard
+ZIP Code 21045,Columbia,Howard,Standard
+ZIP Code 21046,Columbia,Howard,Standard
+ZIP Code 21047,Fallston,Harford,Standard
+ZIP Code 21048,Finksburg,Carroll,Standard
+ZIP Code 21050,Forest Hill,Harford,Standard
+ZIP Code 21051,Fork,Baltimore,Standard
+ZIP Code 21052,Fort Howard,Baltimore,P.O. Box
+ZIP Code 21053,Freeland,Baltimore,Standard
+ZIP Code 21054,Gambrills,Anne Arundel,Standard
+ZIP Code 21056,Gibson Island,Anne Arundel,P.O. Box
+ZIP Code 21057,Glen Arm,Baltimore,Standard
+ZIP Code 21060,Glen Burnie,Anne Arundel,Standard
+ZIP Code 21061,Glen Burnie,Anne Arundel,Standard
+ZIP Code 21062,Glen Burnie,Anne Arundel,Unique
+ZIP Code 21065,Hunt Valley,Baltimore,Unique
+ZIP Code 21071,Glyndon,Baltimore,P.O. Box
+ZIP Code 21074,Hampstead,Carroll,Standard
+ZIP Code 21075,Elkridge,Howard,Standard
+ZIP Code 21076,Hanover,Anne Arundel,Standard
+ZIP Code 21077,Harmans,Anne Arundel,Standard
+ZIP Code 21078,Havre De Grace,Harford,Standard
+ZIP Code 21082,Hydes,Baltimore,Standard
+ZIP Code 21084,Jarrettsville,Harford,Standard
+ZIP Code 21085,Joppa,Harford,Standard
+ZIP Code 21087,Kingsville,Baltimore,Standard
+ZIP Code 21088,Lineboro,Carroll,P.O. Box
+ZIP Code 21090,Linthicum Heights,Anne Arundel,Standard
+ZIP Code 21092,Long Green,Baltimore,P.O. Box
+ZIP Code 21093,Lutherville Timonium,Baltimore,Standard
+ZIP Code 21094,Lutherville Timonium,Baltimore,P.O. Box
+ZIP Code 21102,Manchester,Carroll,Standard
+ZIP Code 21104,Marriottsville,Carroll,Standard
+ZIP Code 21105,Maryland Line,Baltimore,P.O. Box
+ZIP Code 21106,Mayo,Anne Arundel,P.O. Box
+ZIP Code 21108,Millersville,Anne Arundel,Standard
+ZIP Code 21111,Monkton,Baltimore,Standard
+ZIP Code 21113,Odenton,Anne Arundel,Standard
+ZIP Code 21114,Crofton,Anne Arundel,Standard
+ZIP Code 21117,Owings Mills,Baltimore,Standard
+ZIP Code 21120,Parkton,Baltimore,Standard
+ZIP Code 21122,Pasadena,Anne Arundel,Standard
+ZIP Code 21123,Pasadena,Anne Arundel,P.O. Box
+ZIP Code 21128,Perry Hall,Baltimore,Standard
+ZIP Code 21130,Perryman,Harford,P.O. Box
+ZIP Code 21131,Phoenix,Baltimore,Standard
+ZIP Code 21132,Pylesville,Harford,Standard
+ZIP Code 21133,Randallstown,Baltimore,Standard
+ZIP Code 21136,Reisterstown,Baltimore,Standard
+ZIP Code 21139,Riderwood,Baltimore,P.O. Box
+ZIP Code 21140,Riva,Anne Arundel,Standard
+ZIP Code 21144,Severn,Anne Arundel,Standard
+ZIP Code 21146,Severna Park,Anne Arundel,Standard
+ZIP Code 21150,Simpsonville,Howard,P.O. Box
+ZIP Code 21152,Sparks Glencoe,Baltimore,Standard
+ZIP Code 21153,Stevenson,Baltimore,P.O. Box
+ZIP Code 21154,Street,Harford,Standard
+ZIP Code 21155,Upperco,Baltimore,Standard
+ZIP Code 21156,Upper Falls,Baltimore,Standard
+ZIP Code 21157,Westminster,Carroll,Standard
+ZIP Code 21158,Westminster,Carroll,Standard
+ZIP Code 21160,Whiteford,Harford,Standard
+ZIP Code 21161,White Hall,Harford,Standard
+ZIP Code 21162,White Marsh,Baltimore,Standard
+ZIP Code 21163,Woodstock,Howard,Standard
+ZIP Code 21201,Baltimore,Baltimore City,Standard
+ZIP Code 21202,Baltimore,Baltimore City,Standard
+ZIP Code 21203,Baltimore,Baltimore City,P.O. Box
+ZIP Code 21204,Towson,Baltimore,Standard
+ZIP Code 21205,Baltimore,Baltimore City,Standard
+ZIP Code 21206,Baltimore,Baltimore City,Standard
+ZIP Code 21207,Gwynn Oak,Baltimore,Standard
+ZIP Code 21208,Pikesville,Baltimore,Standard
+ZIP Code 21209,Baltimore,Baltimore City,Standard
+ZIP Code 21210,Baltimore,Baltimore City,Standard
+ZIP Code 21211,Baltimore,Baltimore City,Standard
+ZIP Code 21212,Baltimore,Baltimore City,Standard
+ZIP Code 21213,Baltimore,Baltimore City,Standard
+ZIP Code 21214,Baltimore,Baltimore City,Standard
+ZIP Code 21215,Baltimore,Baltimore City,Standard
+ZIP Code 21216,Baltimore,Baltimore City,Standard
+ZIP Code 21217,Baltimore,Baltimore City,Standard
+ZIP Code 21218,Baltimore,Baltimore City,Standard
+ZIP Code 21219,Sparrows Point,Baltimore,Standard
+ZIP Code 21220,Middle River,Baltimore,Standard
+ZIP Code 21221,Essex,Baltimore,Standard
+ZIP Code 21222,Dundalk,Baltimore,Standard
+ZIP Code 21223,Baltimore,Baltimore City,Standard
+ZIP Code 21224,Baltimore,Baltimore City,Standard
+ZIP Code 21225,Brooklyn,Baltimore City,Standard
+ZIP Code 21226,Curtis Bay,Anne Arundel,Standard
+ZIP Code 21227,Halethorpe,Baltimore,Standard
+ZIP Code 21228,Catonsville,Baltimore,Standard
+ZIP Code 21229,Baltimore,Baltimore City,Standard
+ZIP Code 21230,Baltimore,Baltimore City,Standard
+ZIP Code 21231,Baltimore,Baltimore City,Standard
+ZIP Code 21233,Baltimore,Baltimore City,Standard
+ZIP Code 21234,Parkville,Baltimore,Standard
+ZIP Code 21235,Baltimore,Baltimore City,Unique
+ZIP Code 21236,Nottingham,Baltimore,Standard
+ZIP Code 21237,Rosedale,Baltimore,Standard
+ZIP Code 21239,Baltimore,Baltimore City,Standard
+ZIP Code 21240,Baltimore,Anne Arundel,Standard
+ZIP Code 21241,Baltimore,Baltimore City,Unique
+ZIP Code 21244,Windsor Mill,Baltimore,Standard
+ZIP Code 21250,Baltimore,Baltimore,Unique
+ZIP Code 21251,Baltimore,Baltimore City,Unique
+ZIP Code 21252,Towson,Baltimore,Unique
+ZIP Code 21263,Baltimore,Baltimore City,Unique
+ZIP Code 21264,Baltimore,Baltimore City,Unique
+ZIP Code 21270,Baltimore,Baltimore City,P.O. Box
+ZIP Code 21273,Baltimore,Baltimore City,Unique
+ZIP Code 21275,Baltimore,Baltimore City,Unique
+ZIP Code 21278,Baltimore,Baltimore City,Unique
+ZIP Code 21279,Baltimore,Baltimore City,Unique
+ZIP Code 21281,Baltimore,Baltimore City,P.O. Box
+ZIP Code 21282,Pikesville,Baltimore,P.O. Box
+ZIP Code 21284,Towson,Baltimore,P.O. Box
+ZIP Code 21285,Towson,Baltimore,P.O. Box
+ZIP Code 21286,Towson,Baltimore,Standard
+ZIP Code 21287,Baltimore,Baltimore City,Standard
+ZIP Code 21289,Baltimore,Baltimore City,Unique
+ZIP Code 21290,Baltimore,Baltimore City,Unique
+ZIP Code 21297,Baltimore,Baltimore City,P.O. Box
+ZIP Code 21298,Baltimore,Baltimore City,Unique
+ZIP Code 21401,Annapolis,Anne Arundel,Standard
+ZIP Code 21402,Annapolis,Anne Arundel,Standard
+ZIP Code 21403,Annapolis,Anne Arundel,Standard
+ZIP Code 21404,Annapolis,Anne Arundel,P.O. Box
+ZIP Code 21405,Annapolis,Anne Arundel,Standard
+ZIP Code 21409,Annapolis,Anne Arundel,Standard
+ZIP Code 21411,Annapolis,Anne Arundel,Unique
+ZIP Code 21412,Annapolis,Anne Arundel,Standard
+ZIP Code 21501,Cumberland,Allegany,P.O. Box
+ZIP Code 21502,Cumberland,Allegany,Standard
+ZIP Code 21503,Cumberland,Allegany,P.O. Box
+ZIP Code 21504,Cumberland,Allegany,P.O. Box
+ZIP Code 21505,Cumberland,Allegany,P.O. Box
+ZIP Code 21520,Accident,Garrett,Standard
+ZIP Code 21521,Barton,Allegany,Standard
+ZIP Code 21522,Bittinger,Garrett,Standard
+ZIP Code 21523,Bloomington,Garrett,Standard
+ZIP Code 21524,Corriganville,Allegany,P.O. Box
+ZIP Code 21528,Eckhart Mines,Allegany,P.O. Box
+ZIP Code 21529,Ellerslie,Allegany,P.O. Box
+ZIP Code 21530,Flintstone,Allegany,Standard
+ZIP Code 21531,Friendsville,Garrett,Standard
+ZIP Code 21532,Frostburg,Allegany,Standard
+ZIP Code 21536,Grantsville,Garrett,Standard
+ZIP Code 21538,Kitzmiller,Garrett,Standard
+ZIP Code 21539,Lonaconing,Allegany,Standard
+ZIP Code 21540,Luke,Allegany,Standard
+ZIP Code 21541,Mc Henry,Garrett,Standard
+ZIP Code 21542,Midland,Allegany,P.O. Box
+ZIP Code 21543,Midlothian,Allegany,P.O. Box
+ZIP Code 21545,Mount Savage,Allegany,Standard
+ZIP Code 21550,Oakland,Garrett,Standard
+ZIP Code 21555,Oldtown,Allegany,Standard
+ZIP Code 21556,Pinto,Allegany,P.O. Box
+ZIP Code 21557,Rawlings,Allegany,Standard
+ZIP Code 21560,Spring Gap,Allegany,P.O. Box
+ZIP Code 21561,Swanton,Garrett,Standard
+ZIP Code 21562,Westernport,Allegany,Standard
+ZIP Code 21601,Easton,Talbot,Standard
+ZIP Code 21607,Barclay,Queen Annes,Standard
+ZIP Code 21609,Bethlehem,Caroline,P.O. Box
+ZIP Code 21610,Betterton,Kent,Standard
+ZIP Code 21612,Bozman,Talbot,Standard
+ZIP Code 21613,Cambridge,Dorchester,Standard
+ZIP Code 21617,Centreville,Queen Annes,Standard
+ZIP Code 21619,Chester,Queen Annes,Standard
+ZIP Code 21620,Chestertown,Kent,Standard
+ZIP Code 21622,Church Creek,Dorchester,Standard
+ZIP Code 21623,Church Hill,Queen Annes,Standard
+ZIP Code 21624,Claiborne,Talbot,P.O. Box
+ZIP Code 21625,Cordova,Talbot,Standard
+ZIP Code 21626,Crapo,Dorchester,Standard
+ZIP Code 21627,Crocheron,Dorchester,Standard
+ZIP Code 21628,Crumpton,Queen Annes,P.O. Box
+ZIP Code 21629,Denton,Caroline,Standard
+ZIP Code 21631,East New Market,Dorchester,Standard
+ZIP Code 21632,Federalsburg,Caroline,Standard
+ZIP Code 21634,Fishing Creek,Dorchester,Standard
+ZIP Code 21635,Galena,Kent,Standard
+ZIP Code 21636,Goldsboro,Caroline,Standard
+ZIP Code 21638,Grasonville,Queen Annes,Standard
+ZIP Code 21639,Greensboro,Caroline,Standard
+ZIP Code 21640,Henderson,Caroline,Standard
+ZIP Code 21641,Hillsboro,Caroline,P.O. Box
+ZIP Code 21643,Hurlock,Dorchester,Standard
+ZIP Code 21644,Ingleside,Queen Annes,Standard
+ZIP Code 21645,Kennedyville,Kent,Standard
+ZIP Code 21647,Mcdaniel,Talbot,Standard
+ZIP Code 21648,Madison,Dorchester,Standard
+ZIP Code 21649,Marydel,Caroline,Standard
+ZIP Code 21650,Massey,Kent,Standard
+ZIP Code 21651,Millington,Kent,Standard
+ZIP Code 21652,Neavitt,Talbot,P.O. Box
+ZIP Code 21653,Newcomb,Talbot,P.O. Box
+ZIP Code 21654,Oxford,Talbot,Standard
+ZIP Code 21655,Preston,Caroline,Standard
+ZIP Code 21656,Price,Queen Annes,P.O. Box
+ZIP Code 21657,Queen Anne,Queen Annes,Standard
+ZIP Code 21658,Queenstown,Queen Annes,Standard
+ZIP Code 21659,Rhodesdale,Dorchester,Standard
+ZIP Code 21660,Ridgely,Caroline,Standard
+ZIP Code 21661,Rock Hall,Kent,Standard
+ZIP Code 21662,Royal Oak,Talbot,Standard
+ZIP Code 21663,Saint Michaels,Talbot,Standard
+ZIP Code 21664,Secretary,Dorchester,P.O. Box
+ZIP Code 21665,Sherwood,Talbot,Standard
+ZIP Code 21666,Stevensville,Queen Annes,Standard
+ZIP Code 21667,Still Pond,Kent,Standard
+ZIP Code 21668,Sudlersville,Queen Annes,Standard
+ZIP Code 21669,Taylors Island,Dorchester,P.O. Box
+ZIP Code 21670,Templeville,Caroline,P.O. Box
+ZIP Code 21671,Tilghman,Talbot,Standard
+ZIP Code 21672,Toddville,Dorchester,Standard
+ZIP Code 21673,Trappe,Talbot,Standard
+ZIP Code 21675,Wingate,Dorchester,Standard
+ZIP Code 21676,Wittman,Talbot,Standard
+ZIP Code 21677,Woolford,Dorchester,Standard
+ZIP Code 21678,Worton,Kent,Standard
+ZIP Code 21679,Wye Mills,Talbot,Standard
+ZIP Code 21690,Chestertown,Queen Annes,Unique
+ZIP Code 21701,Frederick,Frederick,Standard
+ZIP Code 21702,Frederick,Frederick,Standard
+ZIP Code 21703,Frederick,Frederick,Standard
+ZIP Code 21704,Frederick,Frederick,Standard
+ZIP Code 21705,Frederick,Frederick,P.O. Box
+ZIP Code 21709,Frederick,Frederick,Unique
+ZIP Code 21710,Adamstown,Frederick,Standard
+ZIP Code 21711,Big Pool,Washington,Standard
+ZIP Code 21713,Boonsboro,Washington,Standard
+ZIP Code 21714,Braddock Heights,Frederick,P.O. Box
+ZIP Code 21715,Brownsville,Washington,P.O. Box
+ZIP Code 21716,Brunswick,Frederick,Standard
+ZIP Code 21717,Buckeystown,Frederick,P.O. Box
+ZIP Code 21718,Burkittsville,Frederick,Standard
+ZIP Code 21719,Cascade,Washington,Standard
+ZIP Code 21720,Cavetown,Washington,P.O. Box
+ZIP Code 21721,Chewsville,Washington,P.O. Box
+ZIP Code 21722,Clear Spring,Washington,Standard
+ZIP Code 21723,Cooksville,Howard,Standard
+ZIP Code 21727,Emmitsburg,Frederick,Standard
+ZIP Code 21733,Fairplay,Washington,Standard
+ZIP Code 21734,Funkstown,Washington,P.O. Box
+ZIP Code 21737,Glenelg,Howard,Standard
+ZIP Code 21738,Glenwood,Howard,Standard
+ZIP Code 21740,Hagerstown,Washington,Standard
+ZIP Code 21741,Hagerstown,Washington,P.O. Box
+ZIP Code 21742,Hagerstown,Washington,Standard
+ZIP Code 21746,Hagerstown,Washington,Unique
+ZIP Code 21747,Hagerstown,Washington,P.O. Box
+ZIP Code 21749,Hagerstown,Washington,Unique
+ZIP Code 21750,Hancock,Washington,Standard
+ZIP Code 21754,Ijamsville,Frederick,Standard
+ZIP Code 21755,Jefferson,Frederick,Standard
+ZIP Code 21756,Keedysville,Washington,Standard
+ZIP Code 21757,Keymar,Carroll,Standard
+ZIP Code 21758,Knoxville,Frederick,Standard
+ZIP Code 21759,Ladiesburg,Frederick,P.O. Box
+ZIP Code 21762,Libertytown,Frederick,P.O. Box
+ZIP Code 21765,Lisbon,Howard,P.O. Box
+ZIP Code 21766,Little Orleans,Allegany,Standard
+ZIP Code 21767,Maugansville,Washington,Standard
+ZIP Code 21769,Middletown,Frederick,Standard
+ZIP Code 21770,Monrovia,Frederick,Standard
+ZIP Code 21771,Mount Airy,Frederick,Standard
+ZIP Code 21773,Myersville,Frederick,Standard
+ZIP Code 21774,New Market,Frederick,Standard
+ZIP Code 21775,New Midway,Frederick,P.O. Box
+ZIP Code 21776,New Windsor,Carroll,Standard
+ZIP Code 21777,Point Of Rocks,Frederick,Standard
+ZIP Code 21778,Rocky Ridge,Frederick,Standard
+ZIP Code 21779,Rohrersville,Washington,Standard
+ZIP Code 21780,Sabillasville,Frederick,Standard
+ZIP Code 21781,Saint James,Washington,P.O. Box
+ZIP Code 21782,Sharpsburg,Washington,Standard
+ZIP Code 21783,Smithsburg,Washington,Standard
+ZIP Code 21784,Sykesville,Carroll,Standard
+ZIP Code 21787,Taneytown,Carroll,Standard
+ZIP Code 21788,Thurmont,Frederick,Standard
+ZIP Code 21790,Tuscarora,Frederick,Standard
+ZIP Code 21791,Union Bridge,Carroll,Standard
+ZIP Code 21792,Unionville,Frederick,P.O. Box
+ZIP Code 21793,Walkersville,Frederick,Standard
+ZIP Code 21794,West Friendship,Howard,Standard
+ZIP Code 21795,Williamsport,Washington,Standard
+ZIP Code 21797,Woodbine,Howard,Standard
+ZIP Code 21798,Woodsboro,Frederick,Standard
+ZIP Code 21801,Salisbury,Wicomico,Standard
+ZIP Code 21802,Salisbury,Wicomico,P.O. Box
+ZIP Code 21803,Salisbury,Wicomico,P.O. Box
+ZIP Code 21804,Salisbury,Wicomico,Standard
+ZIP Code 21810,Allen,Wicomico,P.O. Box
+ZIP Code 21811,Berlin,Worcester,Standard
+ZIP Code 21813,Bishopville,Worcester,Standard
+ZIP Code 21814,Bivalve,Wicomico,Standard
+ZIP Code 21817,Crisfield,Somerset,Standard
+ZIP Code 21821,Deal Island,Somerset,Standard
+ZIP Code 21822,Eden,Worcester,Standard
+ZIP Code 21824,Ewell,Somerset,Standard
+ZIP Code 21826,Fruitland,Wicomico,Standard
+ZIP Code 21829,Girdletree,Worcester,Standard
+ZIP Code 21830,Hebron,Wicomico,Standard
+ZIP Code 21835,Linkwood,Dorchester,Standard
+ZIP Code 21836,Manokin,Somerset,P.O. Box
+ZIP Code 21837,Mardela Springs,Wicomico,Standard
+ZIP Code 21838,Marion Station,Somerset,Standard
+ZIP Code 21840,Nanticoke,Wicomico,Standard
+ZIP Code 21841,Newark,Worcester,Standard
+ZIP Code 21842,Ocean City,Worcester,Standard
+ZIP Code 21843,Ocean City,Worcester,P.O. Box
+ZIP Code 21849,Parsonsburg,Wicomico,Standard
+ZIP Code 21850,Pittsville,Wicomico,Standard
+ZIP Code 21851,Pocomoke City,Worcester,Standard
+ZIP Code 21852,Powellville,Wicomico,P.O. Box
+ZIP Code 21853,Princess Anne,Somerset,Standard
+ZIP Code 21856,Quantico,Wicomico,Standard
+ZIP Code 21857,Rehobeth,Somerset,P.O. Box
+ZIP Code 21861,Sharptown,Wicomico,P.O. Box
+ZIP Code 21862,Showell,Worcester,Standard
+ZIP Code 21863,Snow Hill,Worcester,Standard
+ZIP Code 21864,Stockton,Worcester,Standard
+ZIP Code 21865,Tyaskin,Wicomico,Standard
+ZIP Code 21866,Tylerton,Somerset,P.O. Box
+ZIP Code 21867,Upper Fairmount,Somerset,P.O. Box
+ZIP Code 21869,Vienna,Dorchester,Standard
+ZIP Code 21871,Westover,Somerset,Standard
+ZIP Code 21872,Whaleyville,Worcester,Standard
+ZIP Code 21874,Willards,Wicomico,Standard
+ZIP Code 21875,Delmar,Wicomico,Standard
+ZIP Code 21890,Westover,Somerset,Unique
+ZIP Code 21901,North East,Cecil,Standard
+ZIP Code 21902,Perry Point,Cecil,P.O. Box
+ZIP Code 21903,Perryville,Cecil,Standard
+ZIP Code 21904,Port Deposit,Cecil,Standard
+ZIP Code 21911,Rising Sun,Cecil,Standard
+ZIP Code 21912,Warwick,Cecil,Standard
+ZIP Code 21913,Cecilton,Cecil,P.O. Box
+ZIP Code 21914,Charlestown,Cecil,P.O. Box
+ZIP Code 21915,Chesapeake City,Cecil,Standard
+ZIP Code 21916,Childs,Cecil,P.O. Box
+ZIP Code 21917,Colora,Cecil,Standard
+ZIP Code 21918,Conowingo,Cecil,Standard
+ZIP Code 21919,Earleville,Cecil,Standard
+ZIP Code 21920,Elk Mills,Cecil,P.O. Box
+ZIP Code 21921,Elkton,Cecil,Standard
+ZIP Code 21922,Elkton,Cecil,P.O. Box
+ZIP Code 21930,Georgetown,Cecil,P.O. Box

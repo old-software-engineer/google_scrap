@@ -1,0 +1,813 @@
+ZIP CODE,City,County,Type
+ZIP Code 35004,Moody,Saint Clair,Standard
+ZIP Code 35005,Adamsville,Jefferson,Standard
+ZIP Code 35006,Adger,Jefferson,Standard
+ZIP Code 35007,Alabaster,Shelby,Standard
+ZIP Code 35010,Alexander City,Tallapoosa,Standard
+ZIP Code 35011,Alexander City,Tallapoosa,P.O. Box
+ZIP Code 35013,Allgood,Blount,P.O. Box
+ZIP Code 35014,Alpine,Talladega,Standard
+ZIP Code 35015,Alton,Jefferson,P.O. Box
+ZIP Code 35016,Arab,Marshall,Standard
+ZIP Code 35019,Baileyton,Cullman,Standard
+ZIP Code 35020,Bessemer,Jefferson,Standard
+ZIP Code 35021,Bessemer,Jefferson,P.O. Box
+ZIP Code 35022,Bessemer,Jefferson,Standard
+ZIP Code 35023,Bessemer,Jefferson,Standard
+ZIP Code 35031,Blountsville,Blount,Standard
+ZIP Code 35032,Bon Air,Talladega,P.O. Box
+ZIP Code 35033,Bremen,Cullman,Standard
+ZIP Code 35034,Brent,Bibb,Standard
+ZIP Code 35035,Brierfield,Bibb,Standard
+ZIP Code 35036,Brookside,Jefferson,P.O. Box
+ZIP Code 35038,Burnwell,Walker,P.O. Box
+ZIP Code 35040,Calera,Shelby,Standard
+ZIP Code 35042,Centreville,Bibb,Standard
+ZIP Code 35043,Chelsea,Shelby,Standard
+ZIP Code 35044,Childersburg,Talladega,Standard
+ZIP Code 35045,Clanton,Chilton,Standard
+ZIP Code 35046,Clanton,Chilton,Standard
+ZIP Code 35048,Clay,Jefferson,P.O. Box
+ZIP Code 35049,Cleveland,Blount,Standard
+ZIP Code 35051,Columbiana,Shelby,Standard
+ZIP Code 35052,Cook Springs,Saint Clair,P.O. Box
+ZIP Code 35053,Crane Hill,Cullman,Standard
+ZIP Code 35054,Cropwell,Saint Clair,Standard
+ZIP Code 35055,Cullman,Cullman,Standard
+ZIP Code 35056,Cullman,Cullman,P.O. Box
+ZIP Code 35057,Cullman,Cullman,Standard
+ZIP Code 35058,Cullman,Cullman,Standard
+ZIP Code 35060,Docena,Jefferson,P.O. Box
+ZIP Code 35061,Dolomite,Jefferson,Standard
+ZIP Code 35062,Dora,Jefferson,Standard
+ZIP Code 35063,Empire,Walker,Standard
+ZIP Code 35064,Fairfield,Jefferson,Standard
+ZIP Code 35068,Fultondale,Jefferson,Standard
+ZIP Code 35070,Garden City,Cullman,P.O. Box
+ZIP Code 35071,Gardendale,Jefferson,Standard
+ZIP Code 35072,Goodwater,Coosa,Standard
+ZIP Code 35073,Graysville,Jefferson,Standard
+ZIP Code 35074,Green Pond,Bibb,P.O. Box
+ZIP Code 35077,Hanceville,Cullman,Standard
+ZIP Code 35078,Harpersville,Shelby,Standard
+ZIP Code 35079,Hayden,Blount,Standard
+ZIP Code 35080,Helena,Shelby,Standard
+ZIP Code 35082,Hollins,Clay,P.O. Box
+ZIP Code 35083,Holly Pond,Cullman,Standard
+ZIP Code 35085,Jemison,Chilton,Standard
+ZIP Code 35087,Joppa,Cullman,Standard
+ZIP Code 35089,Kellyton,Coosa,Standard
+ZIP Code 35091,Kimberly,Jefferson,Standard
+ZIP Code 35094,Leeds,Jefferson,Standard
+ZIP Code 35096,Lincoln,Talladega,Standard
+ZIP Code 35097,Locust Fork,Blount,Standard
+ZIP Code 35098,Logan,Cullman,Standard
+ZIP Code 35111,Mc Calla,Jefferson,Standard
+ZIP Code 35112,Margaret,Saint Clair,P.O. Box
+ZIP Code 35114,Alabaster,Shelby,Standard
+ZIP Code 35115,Montevallo,Shelby,Standard
+ZIP Code 35116,Morris,Jefferson,Standard
+ZIP Code 35117,Mount Olive,Jefferson,Standard
+ZIP Code 35118,Mulga,Jefferson,Standard
+ZIP Code 35119,New Castle,Jefferson,P.O. Box
+ZIP Code 35120,Odenville,Saint Clair,Standard
+ZIP Code 35121,Oneonta,Blount,Standard
+ZIP Code 35123,Palmerdale,Jefferson,P.O. Box
+ZIP Code 35124,Pelham,Shelby,Standard
+ZIP Code 35125,Pell City,Saint Clair,Standard
+ZIP Code 35126,Pinson,Jefferson,Standard
+ZIP Code 35127,Pleasant Grove,Jefferson,Standard
+ZIP Code 35128,Pell City,Saint Clair,Standard
+ZIP Code 35130,Quinton,Walker,Standard
+ZIP Code 35131,Ragland,Saint Clair,Standard
+ZIP Code 35133,Remlap,Blount,Standard
+ZIP Code 35135,Riverside,Saint Clair,Standard
+ZIP Code 35136,Rockford,Coosa,Standard
+ZIP Code 35137,Saginaw,Shelby,P.O. Box
+ZIP Code 35139,Sayre,Jefferson,P.O. Box
+ZIP Code 35142,Shannon,Jefferson,P.O. Box
+ZIP Code 35143,Shelby,Shelby,Standard
+ZIP Code 35144,Siluria,Shelby,P.O. Box
+ZIP Code 35146,Springville,Saint Clair,Standard
+ZIP Code 35147,Sterrett,Shelby,Standard
+ZIP Code 35148,Sumiton,Walker,Standard
+ZIP Code 35149,Sycamore,Talladega,P.O. Box
+ZIP Code 35150,Sylacauga,Talladega,Standard
+ZIP Code 35151,Sylacauga,Talladega,Standard
+ZIP Code 35160,Talladega,Talladega,Standard
+ZIP Code 35161,Talladega,Talladega,P.O. Box
+ZIP Code 35171,Thorsby,Chilton,Standard
+ZIP Code 35172,Trafford,Jefferson,Standard
+ZIP Code 35173,Trussville,Jefferson,Standard
+ZIP Code 35175,Union Grove,Marshall,Standard
+ZIP Code 35176,Vandiver,Shelby,Standard
+ZIP Code 35178,Vincent,Shelby,Standard
+ZIP Code 35179,Vinemont,Cullman,Standard
+ZIP Code 35180,Warrior,Jefferson,Standard
+ZIP Code 35181,Watson,Jefferson,P.O. Box
+ZIP Code 35182,Wattsville,Saint Clair,P.O. Box
+ZIP Code 35183,Weogufka,Coosa,Standard
+ZIP Code 35184,West Blocton,Bibb,Standard
+ZIP Code 35185,Westover,Shelby,P.O. Box
+ZIP Code 35186,Wilsonville,Shelby,Standard
+ZIP Code 35187,Wilton,Shelby,P.O. Box
+ZIP Code 35188,Woodstock,Bibb,Standard
+ZIP Code 35201,Birmingham,Jefferson,P.O. Box
+ZIP Code 35202,Birmingham,Jefferson,P.O. Box
+ZIP Code 35203,Birmingham,Jefferson,Standard
+ZIP Code 35204,Birmingham,Jefferson,Standard
+ZIP Code 35205,Birmingham,Jefferson,Standard
+ZIP Code 35206,Birmingham,Jefferson,Standard
+ZIP Code 35207,Birmingham,Jefferson,Standard
+ZIP Code 35208,Birmingham,Jefferson,Standard
+ZIP Code 35209,Birmingham,Jefferson,Standard
+ZIP Code 35210,Birmingham,Jefferson,Standard
+ZIP Code 35211,Birmingham,Jefferson,Standard
+ZIP Code 35212,Birmingham,Jefferson,Standard
+ZIP Code 35213,Birmingham,Jefferson,Standard
+ZIP Code 35214,Birmingham,Jefferson,Standard
+ZIP Code 35215,Birmingham,Jefferson,Standard
+ZIP Code 35216,Birmingham,Jefferson,Standard
+ZIP Code 35217,Birmingham,Jefferson,Standard
+ZIP Code 35218,Birmingham,Jefferson,Standard
+ZIP Code 35219,Birmingham,Jefferson,P.O. Box
+ZIP Code 35220,Birmingham,Jefferson,P.O. Box
+ZIP Code 35221,Birmingham,Jefferson,Standard
+ZIP Code 35222,Birmingham,Jefferson,Standard
+ZIP Code 35223,Birmingham,Jefferson,Standard
+ZIP Code 35224,Birmingham,Jefferson,Standard
+ZIP Code 35226,Birmingham,Jefferson,Standard
+ZIP Code 35228,Birmingham,Jefferson,Standard
+ZIP Code 35229,Birmingham,Jefferson,Unique
+ZIP Code 35231,Birmingham,Jefferson,P.O. Box
+ZIP Code 35232,Birmingham,Jefferson,P.O. Box
+ZIP Code 35233,Birmingham,Jefferson,Standard
+ZIP Code 35234,Birmingham,Jefferson,Standard
+ZIP Code 35235,Birmingham,Jefferson,Standard
+ZIP Code 35236,Birmingham,Jefferson,P.O. Box
+ZIP Code 35237,Birmingham,Jefferson,P.O. Box
+ZIP Code 35238,Birmingham,Shelby,P.O. Box
+ZIP Code 35242,Birmingham,Shelby,Standard
+ZIP Code 35243,Birmingham,Jefferson,Standard
+ZIP Code 35244,Birmingham,Jefferson,Standard
+ZIP Code 35246,Birmingham,Jefferson,Unique
+ZIP Code 35249,Birmingham,Jefferson,Unique
+ZIP Code 35253,Birmingham,Jefferson,P.O. Box
+ZIP Code 35254,Birmingham,Jefferson,Unique
+ZIP Code 35255,Birmingham,Jefferson,P.O. Box
+ZIP Code 35259,Birmingham,Jefferson,P.O. Box
+ZIP Code 35260,Birmingham,Jefferson,P.O. Box
+ZIP Code 35261,Birmingham,Jefferson,P.O. Box
+ZIP Code 35266,Birmingham,Jefferson,P.O. Box
+ZIP Code 35270,Birmingham,Jefferson,Unique
+ZIP Code 35282,Birmingham,Jefferson,Unique
+ZIP Code 35283,Birmingham,Jefferson,P.O. Box
+ZIP Code 35285,Birmingham,Jefferson,Unique
+ZIP Code 35287,Birmingham,Jefferson,Unique
+ZIP Code 35288,Birmingham,Jefferson,Unique
+ZIP Code 35290,Birmingham,Jefferson,Unique
+ZIP Code 35291,Birmingham,Jefferson,Unique
+ZIP Code 35292,Birmingham,Jefferson,Unique
+ZIP Code 35293,Birmingham,Jefferson,Unique
+ZIP Code 35294,Birmingham,Jefferson,Unique
+ZIP Code 35295,Birmingham,Jefferson,Unique
+ZIP Code 35296,Birmingham,Jefferson,Unique
+ZIP Code 35297,Birmingham,Jefferson,Unique
+ZIP Code 35298,Birmingham,Jefferson,Unique
+ZIP Code 35401,Tuscaloosa,Tuscaloosa,Standard
+ZIP Code 35402,Tuscaloosa,Tuscaloosa,P.O. Box
+ZIP Code 35403,Tuscaloosa,Tuscaloosa,P.O. Box
+ZIP Code 35404,Tuscaloosa,Tuscaloosa,Standard
+ZIP Code 35405,Tuscaloosa,Tuscaloosa,Standard
+ZIP Code 35406,Tuscaloosa,Tuscaloosa,Standard
+ZIP Code 35407,Tuscaloosa,Tuscaloosa,P.O. Box
+ZIP Code 35440,Abernant,Tuscaloosa,P.O. Box
+ZIP Code 35441,Akron,Hale,Standard
+ZIP Code 35442,Aliceville,Pickens,Standard
+ZIP Code 35443,Boligee,Greene,Standard
+ZIP Code 35444,Brookwood,Tuscaloosa,Standard
+ZIP Code 35446,Buhl,Tuscaloosa,Standard
+ZIP Code 35447,Carrollton,Pickens,Standard
+ZIP Code 35448,Clinton,Greene,P.O. Box
+ZIP Code 35449,Coaling,Tuscaloosa,P.O. Box
+ZIP Code 35452,Coker,Tuscaloosa,Standard
+ZIP Code 35453,Cottondale,Tuscaloosa,Standard
+ZIP Code 35456,Duncanville,Tuscaloosa,Standard
+ZIP Code 35457,Echola,Tuscaloosa,Standard
+ZIP Code 35458,Elrod,Tuscaloosa,Standard
+ZIP Code 35459,Emelle,Sumter,Standard
+ZIP Code 35460,Epes,Sumter,Standard
+ZIP Code 35461,Ethelsville,Pickens,Standard
+ZIP Code 35462,Eutaw,Greene,Standard
+ZIP Code 35463,Fosters,Tuscaloosa,Standard
+ZIP Code 35464,Gainesville,Sumter,Standard
+ZIP Code 35466,Gordo,Pickens,Standard
+ZIP Code 35468,Kellerman,Tuscaloosa,P.O. Box
+ZIP Code 35469,Knoxville,Greene,Standard
+ZIP Code 35470,Livingston,Sumter,Standard
+ZIP Code 35471,Mc Shan,Pickens,P.O. Box
+ZIP Code 35473,Northport,Tuscaloosa,Standard
+ZIP Code 35474,Moundville,Hale,Standard
+ZIP Code 35475,Northport,Tuscaloosa,Standard
+ZIP Code 35476,Northport,Tuscaloosa,Standard
+ZIP Code 35477,Panola,Sumter,P.O. Box
+ZIP Code 35478,Peterson,Tuscaloosa,P.O. Box
+ZIP Code 35480,Ralph,Tuscaloosa,Standard
+ZIP Code 35481,Reform,Pickens,Standard
+ZIP Code 35482,Samantha,Tuscaloosa,P.O. Box
+ZIP Code 35486,Tuscaloosa,Tuscaloosa,P.O. Box
+ZIP Code 35487,Tuscaloosa,Tuscaloosa,Unique
+ZIP Code 35490,Vance,Tuscaloosa,Standard
+ZIP Code 35491,West Greene,Greene,P.O. Box
+ZIP Code 35501,Jasper,Walker,Standard
+ZIP Code 35502,Jasper,Walker,P.O. Box
+ZIP Code 35503,Jasper,Walker,Standard
+ZIP Code 35504,Jasper,Walker,Standard
+ZIP Code 35540,Addison,Winston,Standard
+ZIP Code 35541,Arley,Winston,Standard
+ZIP Code 35542,Bankston,Fayette,Standard
+ZIP Code 35543,Bear Creek,Marion,Standard
+ZIP Code 35544,Beaverton,Lamar,Standard
+ZIP Code 35545,Belk,Fayette,P.O. Box
+ZIP Code 35546,Berry,Fayette,Standard
+ZIP Code 35548,Brilliant,Marion,Standard
+ZIP Code 35549,Carbon Hill,Walker,Standard
+ZIP Code 35550,Cordova,Walker,Standard
+ZIP Code 35551,Delmar,Winston,P.O. Box
+ZIP Code 35552,Detroit,Lamar,Standard
+ZIP Code 35553,Double Springs,Winston,Standard
+ZIP Code 35554,Eldridge,Walker,Standard
+ZIP Code 35555,Fayette,Fayette,Standard
+ZIP Code 35559,Glen Allen,Fayette,P.O. Box
+ZIP Code 35560,Goodsprings,Walker,P.O. Box
+ZIP Code 35563,Guin,Marion,Standard
+ZIP Code 35564,Hackleburg,Marion,Standard
+ZIP Code 35565,Haleyville,Winston,Standard
+ZIP Code 35570,Hamilton,Marion,Standard
+ZIP Code 35571,Hodges,Franklin,Standard
+ZIP Code 35572,Houston,Winston,Standard
+ZIP Code 35573,Kansas,Walker,P.O. Box
+ZIP Code 35574,Kennedy,Lamar,Standard
+ZIP Code 35575,Lynn,Winston,Standard
+ZIP Code 35576,Millport,Lamar,Standard
+ZIP Code 35577,Natural Bridge,Winston,P.O. Box
+ZIP Code 35578,Nauvoo,Walker,Standard
+ZIP Code 35579,Oakman,Walker,Standard
+ZIP Code 35580,Parrish,Walker,Standard
+ZIP Code 35581,Phil Campbell,Franklin,Standard
+ZIP Code 35582,Red Bay,Franklin,Standard
+ZIP Code 35584,Sipsey,Walker,P.O. Box
+ZIP Code 35585,Spruce Pine,Franklin,Standard
+ZIP Code 35586,Sulligent,Lamar,Standard
+ZIP Code 35587,Townley,Walker,Standard
+ZIP Code 35592,Vernon,Lamar,Standard
+ZIP Code 35593,Vina,Franklin,Standard
+ZIP Code 35594,Winfield,Marion,Standard
+ZIP Code 35601,Decatur,Morgan,Standard
+ZIP Code 35602,Decatur,Morgan,P.O. Box
+ZIP Code 35603,Decatur,Morgan,Standard
+ZIP Code 35609,Decatur,Morgan,P.O. Box
+ZIP Code 35610,Anderson,Lauderdale,Standard
+ZIP Code 35611,Athens,Limestone,Standard
+ZIP Code 35612,Athens,Limestone,P.O. Box
+ZIP Code 35613,Athens,Limestone,Standard
+ZIP Code 35614,Athens,Limestone,Standard
+ZIP Code 35615,Belle Mina,Limestone,P.O. Box
+ZIP Code 35616,Cherokee,Colbert,Standard
+ZIP Code 35617,Cloverdale,Lauderdale,P.O. Box
+ZIP Code 35618,Courtland,Lawrence,Standard
+ZIP Code 35619,Danville,Morgan,Standard
+ZIP Code 35620,Elkmont,Limestone,Standard
+ZIP Code 35621,Eva,Morgan,Standard
+ZIP Code 35622,Falkville,Morgan,Standard
+ZIP Code 35630,Florence,Lauderdale,Standard
+ZIP Code 35631,Florence,Lauderdale,P.O. Box
+ZIP Code 35632,Florence,Lauderdale,Unique
+ZIP Code 35633,Florence,Lauderdale,Standard
+ZIP Code 35634,Florence,Lauderdale,Standard
+ZIP Code 35640,Hartselle,Morgan,Standard
+ZIP Code 35643,Hillsboro,Lawrence,Standard
+ZIP Code 35645,Killen,Lauderdale,Standard
+ZIP Code 35646,Leighton,Colbert,Standard
+ZIP Code 35647,Lester,Limestone,Standard
+ZIP Code 35648,Lexington,Lauderdale,Standard
+ZIP Code 35649,Mooresville,Limestone,P.O. Box
+ZIP Code 35650,Moulton,Lawrence,Standard
+ZIP Code 35651,Mount Hope,Lawrence,Standard
+ZIP Code 35652,Rogersville,Lauderdale,Standard
+ZIP Code 35653,Russellville,Franklin,Standard
+ZIP Code 35654,Russellville,Franklin,Standard
+ZIP Code 35660,Sheffield,Colbert,Standard
+ZIP Code 35661,Muscle Shoals,Colbert,Standard
+ZIP Code 35662,Muscle Shoals,Colbert,P.O. Box
+ZIP Code 35670,Somerville,Morgan,Standard
+ZIP Code 35671,Tanner,Limestone,Standard
+ZIP Code 35672,Town Creek,Lawrence,Standard
+ZIP Code 35673,Trinity,Morgan,Standard
+ZIP Code 35674,Tuscumbia,Colbert,Standard
+ZIP Code 35677,Waterloo,Lauderdale,Standard
+ZIP Code 35699,Decatur,Morgan,Unique
+ZIP Code 35739,Ardmore,Limestone,Standard
+ZIP Code 35740,Bridgeport,Jackson,Standard
+ZIP Code 35741,Brownsboro,Madison,Standard
+ZIP Code 35742,Capshaw,Limestone,P.O. Box
+ZIP Code 35744,Dutton,Jackson,Standard
+ZIP Code 35745,Estillfork,Jackson,Standard
+ZIP Code 35746,Fackler,Jackson,Standard
+ZIP Code 35747,Grant,Marshall,Standard
+ZIP Code 35748,Gurley,Madison,Standard
+ZIP Code 35749,Harvest,Madison,Standard
+ZIP Code 35750,Hazel Green,Madison,Standard
+ZIP Code 35751,Hollytree,Jackson,Standard
+ZIP Code 35752,Hollywood,Jackson,Standard
+ZIP Code 35754,Laceys Spring,Morgan,Standard
+ZIP Code 35755,Langston,Jackson,Standard
+ZIP Code 35756,Madison,Limestone,Standard
+ZIP Code 35757,Madison,Madison,Standard
+ZIP Code 35758,Madison,Madison,Standard
+ZIP Code 35759,Meridianville,Madison,Standard
+ZIP Code 35760,New Hope,Madison,Standard
+ZIP Code 35761,New Market,Madison,Standard
+ZIP Code 35762,Normal,Madison,P.O. Box
+ZIP Code 35763,Owens Cross Roads,Madison,Standard
+ZIP Code 35764,Paint Rock,Jackson,Standard
+ZIP Code 35765,Pisgah,Jackson,Standard
+ZIP Code 35766,Princeton,Jackson,Standard
+ZIP Code 35767,Ryland,Madison,P.O. Box
+ZIP Code 35768,Scottsboro,Jackson,Standard
+ZIP Code 35769,Scottsboro,Jackson,Standard
+ZIP Code 35771,Section,Jackson,Standard
+ZIP Code 35772,Stevenson,Jackson,Standard
+ZIP Code 35773,Toney,Madison,Standard
+ZIP Code 35774,Trenton,Jackson,Standard
+ZIP Code 35775,Valhermoso Springs,Morgan,Standard
+ZIP Code 35776,Woodville,Jackson,Standard
+ZIP Code 35801,Huntsville,Madison,Standard
+ZIP Code 35802,Huntsville,Madison,Standard
+ZIP Code 35803,Huntsville,Madison,Standard
+ZIP Code 35804,Huntsville,Madison,P.O. Box
+ZIP Code 35805,Huntsville,Madison,Standard
+ZIP Code 35806,Huntsville,Madison,Standard
+ZIP Code 35807,Huntsville,Madison,P.O. Box
+ZIP Code 35808,Huntsville,Madison,Standard
+ZIP Code 35809,Huntsville,Madison,P.O. Box
+ZIP Code 35810,Huntsville,Madison,Standard
+ZIP Code 35811,Huntsville,Madison,Standard
+ZIP Code 35812,Huntsville,Madison,P.O. Box
+ZIP Code 35813,Huntsville,Madison,Standard
+ZIP Code 35814,Huntsville,Madison,P.O. Box
+ZIP Code 35815,Huntsville,Madison,P.O. Box
+ZIP Code 35816,Huntsville,Madison,Standard
+ZIP Code 35824,Huntsville,Madison,Standard
+ZIP Code 35893,Huntsville,Madison,Unique
+ZIP Code 35894,Huntsville,Madison,Unique
+ZIP Code 35895,Huntsville,Madison,Unique
+ZIP Code 35896,Huntsville,Madison,Unique
+ZIP Code 35897,Huntsville,Madison,Unique
+ZIP Code 35898,Huntsville,Madison,Unique
+ZIP Code 35899,Huntsville,Madison,Unique
+ZIP Code 35901,Gadsden,Etowah,Standard
+ZIP Code 35902,Gadsden,Etowah,P.O. Box
+ZIP Code 35903,Gadsden,Etowah,Standard
+ZIP Code 35904,Gadsden,Etowah,Standard
+ZIP Code 35905,Gadsden,Etowah,Standard
+ZIP Code 35906,Gadsden,Etowah,Standard
+ZIP Code 35906,Rainbow City,Etowah,Standard
+ZIP Code 35907,Gadsden,Etowah,Standard
+ZIP Code 35950,Albertville,Marshall,Standard
+ZIP Code 35951,Albertville,Marshall,Standard
+ZIP Code 35952,Altoona,Etowah,Standard
+ZIP Code 35953,Ashville,Saint Clair,Standard
+ZIP Code 35954,Attalla,Etowah,Standard
+ZIP Code 35956,Boaz,Etowah,Standard
+ZIP Code 35957,Boaz,Marshall,Standard
+ZIP Code 35958,Bryant,Jackson,Standard
+ZIP Code 35959,Cedar Bluff,Cherokee,Standard
+ZIP Code 35960,Centre,Cherokee,Standard
+ZIP Code 35961,Collinsville,De Kalb,Standard
+ZIP Code 35962,Crossville,De Kalb,Standard
+ZIP Code 35963,Dawson,De Kalb,Standard
+ZIP Code 35964,Douglas,Marshall,P.O. Box
+ZIP Code 35966,Flat Rock,Jackson,Standard
+ZIP Code 35967,Fort Payne,De Kalb,Standard
+ZIP Code 35968,Fort Payne,De Kalb,Standard
+ZIP Code 35971,Fyffe,De Kalb,Standard
+ZIP Code 35972,Gallant,Etowah,Standard
+ZIP Code 35973,Gaylesville,Cherokee,Standard
+ZIP Code 35974,Geraldine,De Kalb,Standard
+ZIP Code 35975,Groveoak,De Kalb,Standard
+ZIP Code 35976,Guntersville,Marshall,Standard
+ZIP Code 35978,Henagar,De Kalb,Standard
+ZIP Code 35979,Higdon,Jackson,Standard
+ZIP Code 35980,Horton,Marshall,Standard
+ZIP Code 35981,Ider,De Kalb,Standard
+ZIP Code 35983,Leesburg,Cherokee,Standard
+ZIP Code 35984,Mentone,De Kalb,Standard
+ZIP Code 35986,Rainsville,De Kalb,Standard
+ZIP Code 35987,Steele,Saint Clair,Standard
+ZIP Code 35988,Sylvania,De Kalb,Standard
+ZIP Code 35989,Valley Head,De Kalb,Standard
+ZIP Code 35990,Walnut Grove,Etowah,P.O. Box
+ZIP Code 36003,Autaugaville,Autauga,Standard
+ZIP Code 36005,Banks,Pike,Standard
+ZIP Code 36006,Billingsley,Autauga,Standard
+ZIP Code 36008,Booth,Autauga,Standard
+ZIP Code 36009,Brantley,Crenshaw,Standard
+ZIP Code 36010,Brundidge,Pike,Standard
+ZIP Code 36013,Cecil,Montgomery,Standard
+ZIP Code 36015,Chapman,Butler,P.O. Box
+ZIP Code 36016,Clayton,Barbour,Standard
+ZIP Code 36017,Clio,Barbour,Standard
+ZIP Code 36020,Coosada,Elmore,Standard
+ZIP Code 36022,Deatsville,Elmore,Standard
+ZIP Code 36023,East Tallassee,Tallapoosa,P.O. Box
+ZIP Code 36024,Eclectic,Elmore,Standard
+ZIP Code 36025,Elmore,Elmore,Standard
+ZIP Code 36026,Equality,Coosa,Standard
+ZIP Code 36027,Eufaula,Barbour,Standard
+ZIP Code 36028,Dozier,Crenshaw,Standard
+ZIP Code 36029,Fitzpatrick,Bullock,Standard
+ZIP Code 36030,Forest Home,Butler,Standard
+ZIP Code 36031,Fort Davis,Macon,P.O. Box
+ZIP Code 36032,Fort Deposit,Lowndes,Standard
+ZIP Code 36033,Georgiana,Butler,Standard
+ZIP Code 36034,Glenwood,Crenshaw,Standard
+ZIP Code 36035,Goshen,Pike,Standard
+ZIP Code 36036,Grady,Montgomery,Standard
+ZIP Code 36037,Greenville,Butler,Standard
+ZIP Code 36038,Gantt,Covington,P.O. Box
+ZIP Code 36039,Hardaway,Macon,Standard
+ZIP Code 36040,Hayneville,Lowndes,Standard
+ZIP Code 36041,Highland Home,Crenshaw,Standard
+ZIP Code 36042,Honoraville,Crenshaw,Standard
+ZIP Code 36043,Hope Hull,Montgomery,Standard
+ZIP Code 36045,Kent,Elmore,P.O. Box
+ZIP Code 36046,Lapine,Montgomery,Standard
+ZIP Code 36047,Letohatchee,Lowndes,Standard
+ZIP Code 36048,Louisville,Barbour,Standard
+ZIP Code 36049,Luverne,Crenshaw,Standard
+ZIP Code 36051,Marbury,Autauga,Standard
+ZIP Code 36052,Mathews,Montgomery,Standard
+ZIP Code 36053,Midway,Bullock,Standard
+ZIP Code 36054,Millbrook,Elmore,Standard
+ZIP Code 36057,Mount Meigs,Montgomery,P.O. Box
+ZIP Code 36061,Perote,Bullock,P.O. Box
+ZIP Code 36062,Petrey,Crenshaw,P.O. Box
+ZIP Code 36064,Pike Road,Montgomery,Standard
+ZIP Code 36065,Pine Level,Montgomery,P.O. Box
+ZIP Code 36066,Prattville,Autauga,Standard
+ZIP Code 36067,Prattville,Autauga,Standard
+ZIP Code 36068,Prattville,Autauga,P.O. Box
+ZIP Code 36069,Ramer,Montgomery,Standard
+ZIP Code 36071,Rutledge,Crenshaw,Standard
+ZIP Code 36072,Eufaula,Barbour,P.O. Box
+ZIP Code 36075,Shorter,Macon,Standard
+ZIP Code 36078,Tallassee,Elmore,Standard
+ZIP Code 36079,Troy,Pike,Standard
+ZIP Code 36080,Titus,Elmore,Standard
+ZIP Code 36081,Troy,Pike,Standard
+ZIP Code 36082,Troy,Pike,Unique
+ZIP Code 36083,Tuskegee,Macon,Standard
+ZIP Code 36087,Tuskegee Institute,Macon,P.O. Box
+ZIP Code 36088,Tuskegee Institute,Macon,Standard
+ZIP Code 36089,Union Springs,Bullock,Standard
+ZIP Code 36091,Verbena,Chilton,Standard
+ZIP Code 36092,Wetumpka,Elmore,Standard
+ZIP Code 36093,Wetumpka,Elmore,Standard
+ZIP Code 36101,Montgomery,Montgomery,P.O. Box
+ZIP Code 36102,Montgomery,Montgomery,P.O. Box
+ZIP Code 36103,Montgomery,Montgomery,P.O. Box
+ZIP Code 36104,Montgomery,Montgomery,Standard
+ZIP Code 36105,Montgomery,Montgomery,Standard
+ZIP Code 36106,Montgomery,Montgomery,Standard
+ZIP Code 36107,Montgomery,Montgomery,Standard
+ZIP Code 36108,Montgomery,Montgomery,Standard
+ZIP Code 36109,Montgomery,Montgomery,Standard
+ZIP Code 36110,Montgomery,Montgomery,Standard
+ZIP Code 36111,Montgomery,Montgomery,Standard
+ZIP Code 36112,Montgomery,Montgomery,Standard
+ZIP Code 36113,Montgomery,Montgomery,Standard
+ZIP Code 36114,Montgomery,Montgomery,Standard
+ZIP Code 36115,Montgomery,Montgomery,Standard
+ZIP Code 36116,Montgomery,Montgomery,Standard
+ZIP Code 36117,Montgomery,Montgomery,Standard
+ZIP Code 36118,Montgomery,Montgomery,Unique
+ZIP Code 36119,Montgomery,Montgomery,Standard
+ZIP Code 36120,Montgomery,Montgomery,P.O. Box
+ZIP Code 36121,Montgomery,Montgomery,P.O. Box
+ZIP Code 36123,Montgomery,Montgomery,P.O. Box
+ZIP Code 36124,Montgomery,Montgomery,P.O. Box
+ZIP Code 36125,Montgomery,Montgomery,P.O. Box
+ZIP Code 36130,Montgomery,Montgomery,Unique
+ZIP Code 36131,Montgomery,Montgomery,Unique
+ZIP Code 36132,Montgomery,Montgomery,Unique
+ZIP Code 36135,Montgomery,Montgomery,Unique
+ZIP Code 36140,Montgomery,Montgomery,Unique
+ZIP Code 36141,Montgomery,Montgomery,Unique
+ZIP Code 36142,Montgomery,Montgomery,Unique
+ZIP Code 36177,Montgomery,Montgomery,Unique
+ZIP Code 36191,Montgomery,Montgomery,Unique
+ZIP Code 36201,Anniston,Calhoun,Standard
+ZIP Code 36202,Anniston,Calhoun,P.O. Box
+ZIP Code 36203,Oxford,Calhoun,Standard
+ZIP Code 36204,Anniston,Calhoun,P.O. Box
+ZIP Code 36205,Anniston,Calhoun,Standard
+ZIP Code 36206,Anniston,Calhoun,Standard
+ZIP Code 36207,Anniston,Calhoun,Standard
+ZIP Code 36250,Alexandria,Calhoun,Standard
+ZIP Code 36251,Ashland,Clay,Standard
+ZIP Code 36253,Bynum,Calhoun,P.O. Box
+ZIP Code 36254,Choccolocco,Calhoun,P.O. Box
+ZIP Code 36255,Cragford,Clay,Standard
+ZIP Code 36256,Daviston,Tallapoosa,Standard
+ZIP Code 36257,De Armanville,Calhoun,P.O. Box
+ZIP Code 36258,Delta,Clay,Standard
+ZIP Code 36260,Eastaboga,Calhoun,Standard
+ZIP Code 36261,Edwardsville,Cleburne,P.O. Box
+ZIP Code 36262,Fruithurst,Cleburne,Standard
+ZIP Code 36263,Graham,Randolph,Standard
+ZIP Code 36264,Heflin,Cleburne,Standard
+ZIP Code 36265,Jacksonville,Calhoun,Standard
+ZIP Code 36266,Lineville,Clay,Standard
+ZIP Code 36267,Millerville,Clay,P.O. Box
+ZIP Code 36268,Munford,Talladega,Standard
+ZIP Code 36269,Muscadine,Cleburne,Standard
+ZIP Code 36271,Ohatchee,Calhoun,Standard
+ZIP Code 36272,Piedmont,Calhoun,Standard
+ZIP Code 36273,Ranburne,Cleburne,Standard
+ZIP Code 36274,Roanoke,Randolph,Standard
+ZIP Code 36275,Spring Garden,Cherokee,P.O. Box
+ZIP Code 36276,Wadley,Randolph,Standard
+ZIP Code 36277,Weaver,Calhoun,Standard
+ZIP Code 36278,Wedowee,Randolph,Standard
+ZIP Code 36279,Wellington,Calhoun,Standard
+ZIP Code 36280,Woodland,Randolph,Standard
+ZIP Code 36301,Dothan,Houston,Standard
+ZIP Code 36302,Dothan,Houston,P.O. Box
+ZIP Code 36303,Dothan,Houston,Standard
+ZIP Code 36304,Dothan,Houston,P.O. Box
+ZIP Code 36305,Dothan,Houston,Standard
+ZIP Code 36310,Abbeville,Henry,Standard
+ZIP Code 36311,Ariton,Dale,Standard
+ZIP Code 36312,Ashford,Houston,Standard
+ZIP Code 36313,Bellwood,Geneva,P.O. Box
+ZIP Code 36314,Black,Geneva,Standard
+ZIP Code 36316,Chancellor,Geneva,Standard
+ZIP Code 36317,Clopton,Henry,Standard
+ZIP Code 36318,Coffee Springs,Geneva,Standard
+ZIP Code 36319,Columbia,Houston,Standard
+ZIP Code 36320,Cottonwood,Houston,Standard
+ZIP Code 36321,Cowarts,Houston,Standard
+ZIP Code 36322,Daleville,Dale,Standard
+ZIP Code 36323,Elba,Coffee,Standard
+ZIP Code 36330,Enterprise,Coffee,Standard
+ZIP Code 36331,Enterprise,Coffee,P.O. Box
+ZIP Code 36340,Geneva,Geneva,Standard
+ZIP Code 36343,Gordon,Houston,Standard
+ZIP Code 36344,Hartford,Geneva,Standard
+ZIP Code 36345,Headland,Henry,Standard
+ZIP Code 36346,Jack,Coffee,Standard
+ZIP Code 36349,Malvern,Geneva,P.O. Box
+ZIP Code 36350,Midland City,Dale,Standard
+ZIP Code 36351,New Brockton,Coffee,Standard
+ZIP Code 36352,Newton,Dale,Standard
+ZIP Code 36353,Newville,Henry,Standard
+ZIP Code 36360,Ozark,Dale,Standard
+ZIP Code 36361,Ozark,Dale,P.O. Box
+ZIP Code 36362,Fort Rucker,Dale,Standard
+ZIP Code 36370,Pansey,Houston,Standard
+ZIP Code 36371,Pinckard,Dale,P.O. Box
+ZIP Code 36373,Shorterville,Henry,Standard
+ZIP Code 36374,Skipperville,Dale,Standard
+ZIP Code 36375,Slocomb,Geneva,Standard
+ZIP Code 36376,Webb,Houston,Standard
+ZIP Code 36401,Evergreen,Conecuh,Standard
+ZIP Code 36420,Andalusia,Covington,Standard
+ZIP Code 36421,Andalusia,Covington,Standard
+ZIP Code 36425,Beatrice,Monroe,Standard
+ZIP Code 36426,Brewton,Escambia,Standard
+ZIP Code 36427,Brewton,Escambia,P.O. Box
+ZIP Code 36429,Brooklyn,Conecuh,P.O. Box
+ZIP Code 36432,Castleberry,Conecuh,Standard
+ZIP Code 36435,Coy,Wilcox,Standard
+ZIP Code 36436,Dickinson,Clarke,Standard
+ZIP Code 36439,Excel,Monroe,P.O. Box
+ZIP Code 36441,Flomaton,Escambia,Standard
+ZIP Code 36442,Florala,Covington,Standard
+ZIP Code 36444,Franklin,Monroe,Standard
+ZIP Code 36445,Frisco City,Monroe,Standard
+ZIP Code 36446,Fulton,Clarke,P.O. Box
+ZIP Code 36449,Uriah,Monroe,P.O. Box
+ZIP Code 36451,Grove Hill,Clarke,Standard
+ZIP Code 36453,Kinston,Coffee,Standard
+ZIP Code 36454,Lenox,Conecuh,Standard
+ZIP Code 36455,Lockhart,Covington,P.O. Box
+ZIP Code 36456,Mc Kenzie,Butler,Standard
+ZIP Code 36457,Megargel,Monroe,P.O. Box
+ZIP Code 36458,Mexia,Monroe,P.O. Box
+ZIP Code 36460,Monroeville,Monroe,Standard
+ZIP Code 36461,Monroeville,Monroe,P.O. Box
+ZIP Code 36467,Opp,Covington,Standard
+ZIP Code 36470,Perdue Hill,Monroe,P.O. Box
+ZIP Code 36471,Peterman,Monroe,Standard
+ZIP Code 36473,Range,Conecuh,Standard
+ZIP Code 36474,Red Level,Covington,Standard
+ZIP Code 36475,Repton,Conecuh,Standard
+ZIP Code 36476,River Falls,Covington,P.O. Box
+ZIP Code 36477,Samson,Geneva,Standard
+ZIP Code 36480,Uriah,Monroe,Standard
+ZIP Code 36481,Vredenburgh,Monroe,Standard
+ZIP Code 36482,Whatley,Clarke,Standard
+ZIP Code 36483,Wing,Covington,Standard
+ZIP Code 36502,Atmore,Escambia,Standard
+ZIP Code 36503,Atmore,Escambia,P.O. Box
+ZIP Code 36504,Atmore,Escambia,P.O. Box
+ZIP Code 36505,Axis,Mobile,Standard
+ZIP Code 36507,Bay Minette,Baldwin,Standard
+ZIP Code 36509,Bayou La Batre,Mobile,Standard
+ZIP Code 36511,Bon Secour,Baldwin,Standard
+ZIP Code 36512,Bucks,Mobile,P.O. Box
+ZIP Code 36513,Calvert,Washington,P.O. Box
+ZIP Code 36518,Chatom,Washington,Standard
+ZIP Code 36521,Chunchula,Mobile,Standard
+ZIP Code 36522,Citronelle,Mobile,Standard
+ZIP Code 36523,Coden,Mobile,Standard
+ZIP Code 36524,Coffeeville,Clarke,Standard
+ZIP Code 36525,Creola,Mobile,Standard
+ZIP Code 36526,Daphne,Baldwin,Standard
+ZIP Code 36527,Daphne,Baldwin,Standard
+ZIP Code 36528,Dauphin Island,Mobile,Standard
+ZIP Code 36529,Deer Park,Washington,Standard
+ZIP Code 36530,Elberta,Baldwin,Standard
+ZIP Code 36532,Fairhope,Baldwin,Standard
+ZIP Code 36533,Fairhope,Baldwin,P.O. Box
+ZIP Code 36535,Foley,Baldwin,Standard
+ZIP Code 36536,Foley,Baldwin,P.O. Box
+ZIP Code 36538,Frankville,Washington,Standard
+ZIP Code 36539,Fruitdale,Washington,Standard
+ZIP Code 36540,Gainestown,Clarke,Standard
+ZIP Code 36541,Grand Bay,Mobile,Standard
+ZIP Code 36542,Gulf Shores,Baldwin,Standard
+ZIP Code 36543,Huxford,Escambia,P.O. Box
+ZIP Code 36544,Irvington,Mobile,Standard
+ZIP Code 36545,Jackson,Clarke,Standard
+ZIP Code 36547,Gulf Shores,Baldwin,P.O. Box
+ZIP Code 36548,Leroy,Washington,Standard
+ZIP Code 36549,Lillian,Baldwin,Standard
+ZIP Code 36550,Little River,Baldwin,Standard
+ZIP Code 36551,Loxley,Baldwin,Standard
+ZIP Code 36553,Mc Intosh,Washington,Standard
+ZIP Code 36555,Magnolia Springs,Baldwin,Standard
+ZIP Code 36556,Malcolm,Washington,P.O. Box
+ZIP Code 36558,Millry,Washington,Standard
+ZIP Code 36559,Montrose,Baldwin,P.O. Box
+ZIP Code 36560,Mount Vernon,Mobile,Standard
+ZIP Code 36561,Orange Beach,Baldwin,Standard
+ZIP Code 36562,Perdido,Baldwin,Standard
+ZIP Code 36564,Point Clear,Baldwin,P.O. Box
+ZIP Code 36567,Robertsdale,Baldwin,Standard
+ZIP Code 36568,Saint Elmo,Mobile,P.O. Box
+ZIP Code 36569,Saint Stephens,Washington,Standard
+ZIP Code 36571,Saraland,Mobile,Standard
+ZIP Code 36572,Satsuma,Mobile,Standard
+ZIP Code 36574,Seminole,Baldwin,Standard
+ZIP Code 36575,Semmes,Mobile,Standard
+ZIP Code 36576,Silverhill,Baldwin,Standard
+ZIP Code 36577,Spanish Fort,Baldwin,P.O. Box
+ZIP Code 36578,Stapleton,Baldwin,Standard
+ZIP Code 36579,Stockton,Baldwin,Standard
+ZIP Code 36580,Summerdale,Baldwin,Standard
+ZIP Code 36581,Sunflower,Washington,Standard
+ZIP Code 36582,Theodore,Mobile,Standard
+ZIP Code 36583,Tibbie,Washington,Standard
+ZIP Code 36584,Vinegar Bend,Washington,Standard
+ZIP Code 36585,Wagarville,Washington,Standard
+ZIP Code 36587,Wilmer,Mobile,Standard
+ZIP Code 36590,Theodore,Mobile,P.O. Box
+ZIP Code 36601,Mobile,Mobile,P.O. Box
+ZIP Code 36602,Mobile,Mobile,Standard
+ZIP Code 36603,Mobile,Mobile,Standard
+ZIP Code 36604,Mobile,Mobile,Standard
+ZIP Code 36605,Mobile,Mobile,Standard
+ZIP Code 36606,Mobile,Mobile,Standard
+ZIP Code 36607,Mobile,Mobile,Standard
+ZIP Code 36608,Mobile,Mobile,Standard
+ZIP Code 36609,Mobile,Mobile,Standard
+ZIP Code 36610,Mobile,Mobile,Standard
+ZIP Code 36611,Mobile,Mobile,Standard
+ZIP Code 36612,Mobile,Mobile,Standard
+ZIP Code 36613,Eight Mile,Mobile,Standard
+ZIP Code 36615,Mobile,Mobile,Standard
+ZIP Code 36616,Mobile,Mobile,P.O. Box
+ZIP Code 36617,Mobile,Mobile,Standard
+ZIP Code 36618,Mobile,Mobile,Standard
+ZIP Code 36619,Mobile,Mobile,Standard
+ZIP Code 36628,Mobile,Mobile,Unique
+ZIP Code 36633,Mobile,Mobile,P.O. Box
+ZIP Code 36640,Mobile,Mobile,P.O. Box
+ZIP Code 36641,Mobile,Mobile,P.O. Box
+ZIP Code 36644,Mobile,Mobile,Unique
+ZIP Code 36652,Mobile,Mobile,P.O. Box
+ZIP Code 36660,Mobile,Mobile,P.O. Box
+ZIP Code 36663,Mobile,Mobile,P.O. Box
+ZIP Code 36670,Mobile,Mobile,P.O. Box
+ZIP Code 36671,Mobile,Mobile,P.O. Box
+ZIP Code 36675,Mobile,Mobile,Unique
+ZIP Code 36685,Mobile,Mobile,P.O. Box
+ZIP Code 36688,Mobile,Mobile,Unique
+ZIP Code 36689,Mobile,Mobile,P.O. Box
+ZIP Code 36691,Mobile,Mobile,P.O. Box
+ZIP Code 36693,Mobile,Mobile,Standard
+ZIP Code 36695,Mobile,Mobile,Standard
+ZIP Code 36701,Selma,Dallas,Standard
+ZIP Code 36702,Selma,Dallas,P.O. Box
+ZIP Code 36703,Selma,Dallas,Standard
+ZIP Code 36720,Alberta,Wilcox,Standard
+ZIP Code 36722,Arlington,Wilcox,Standard
+ZIP Code 36723,Boykin,Wilcox,P.O. Box
+ZIP Code 36726,Camden,Wilcox,Standard
+ZIP Code 36727,Campbell,Clarke,Standard
+ZIP Code 36728,Catherine,Wilcox,Standard
+ZIP Code 36732,Demopolis,Marengo,Standard
+ZIP Code 36736,Dixons Mills,Marengo,Standard
+ZIP Code 36738,Faunsdale,Marengo,Standard
+ZIP Code 36740,Forkland,Greene,Standard
+ZIP Code 36741,Furman,Wilcox,P.O. Box
+ZIP Code 36742,Gallion,Hale,Standard
+ZIP Code 36744,Greensboro,Hale,Standard
+ZIP Code 36745,Jefferson,Marengo,P.O. Box
+ZIP Code 36748,Linden,Marengo,Standard
+ZIP Code 36749,Jones,Autauga,Standard
+ZIP Code 36750,Maplesville,Chilton,Standard
+ZIP Code 36751,Lower Peach Tree,Wilcox,Standard
+ZIP Code 36752,Lowndesboro,Lowndes,Standard
+ZIP Code 36753,Mc Williams,Wilcox,P.O. Box
+ZIP Code 36754,Magnolia,Marengo,Standard
+ZIP Code 36756,Marion,Perry,Standard
+ZIP Code 36758,Plantersville,Dallas,Standard
+ZIP Code 36759,Marion Junction,Dallas,Standard
+ZIP Code 36761,Minter,Dallas,Standard
+ZIP Code 36763,Myrtlewood,Marengo,P.O. Box
+ZIP Code 36764,Nanafalia,Marengo,P.O. Box
+ZIP Code 36765,Newbern,Hale,Standard
+ZIP Code 36766,Oak Hill,Wilcox,P.O. Box
+ZIP Code 36767,Orrville,Dallas,Standard
+ZIP Code 36768,Pine Apple,Wilcox,Standard
+ZIP Code 36769,Pine Hill,Wilcox,Standard
+ZIP Code 36773,Safford,Dallas,Standard
+ZIP Code 36775,Sardis,Dallas,Standard
+ZIP Code 36776,Sawyerville,Hale,Standard
+ZIP Code 36782,Sweet Water,Marengo,Standard
+ZIP Code 36783,Thomaston,Marengo,Standard
+ZIP Code 36784,Thomasville,Clarke,Standard
+ZIP Code 36785,Tyler,Lowndes,Standard
+ZIP Code 36786,Uniontown,Perry,Standard
+ZIP Code 36790,Stanton,Chilton,Standard
+ZIP Code 36792,Randolph,Bibb,Standard
+ZIP Code 36793,Lawley,Bibb,Standard
+ZIP Code 36801,Opelika,Lee,Standard
+ZIP Code 36802,Opelika,Lee,P.O. Box
+ZIP Code 36803,Opelika,Lee,P.O. Box
+ZIP Code 36804,Opelika,Lee,Standard
+ZIP Code 36830,Auburn,Lee,Standard
+ZIP Code 36831,Auburn,Lee,P.O. Box
+ZIP Code 36832,Auburn,Lee,Standard
+ZIP Code 36849,Auburn University,Lee,Unique
+ZIP Code 36850,Camp Hill,Tallapoosa,Standard
+ZIP Code 36851,Cottonton,Russell,P.O. Box
+ZIP Code 36852,Cusseta,Lee,Standard
+ZIP Code 36853,Dadeville,Tallapoosa,Standard
+ZIP Code 36854,Valley,Chambers,Standard
+ZIP Code 36855,Five Points,Chambers,Standard
+ZIP Code 36856,Fort Mitchell,Russell,Standard
+ZIP Code 36858,Hatchechubbee,Russell,Standard
+ZIP Code 36859,Holy Trinity,Russell,P.O. Box
+ZIP Code 36860,Hurtsboro,Russell,Standard
+ZIP Code 36861,Jacksons Gap,Tallapoosa,Standard
+ZIP Code 36862,Lafayette,Chambers,Standard
+ZIP Code 36863,Lanett,Chambers,Standard
+ZIP Code 36865,Loachapoka,Lee,P.O. Box
+ZIP Code 36866,Notasulga,Macon,Standard
+ZIP Code 36867,Phenix City,Russell,Standard
+ZIP Code 36868,Phenix City,Russell,P.O. Box
+ZIP Code 36869,Phenix City,Russell,Standard
+ZIP Code 36870,Phenix City,Lee,Standard
+ZIP Code 36871,Pittsview,Russell,Standard
+ZIP Code 36872,Valley,Lee,P.O. Box
+ZIP Code 36874,Salem,Lee,Standard
+ZIP Code 36875,Seale,Russell,Standard
+ZIP Code 36877,Smiths Station,Lee,Standard
+ZIP Code 36879,Waverly,Lee,Standard
+ZIP Code 36901,Bellamy,Sumter,P.O. Box
+ZIP Code 36904,Butler,Choctaw,Standard
+ZIP Code 36907,Cuba,Sumter,Standard
+ZIP Code 36908,Gilbertown,Choctaw,Standard
+ZIP Code 36910,Jachin,Choctaw,Standard
+ZIP Code 36912,Lisman,Choctaw,Standard
+ZIP Code 36913,Melvin,Choctaw,Standard
+ZIP Code 36915,Needham,Choctaw,Standard
+ZIP Code 36916,Pennington,Choctaw,Standard
+ZIP Code 36919,Silas,Choctaw,Standard
+ZIP Code 36921,Toxey,Choctaw,Standard
+ZIP Code 36922,Ward,Choctaw,Standard
+ZIP Code 36925,York,Sumter,Standard

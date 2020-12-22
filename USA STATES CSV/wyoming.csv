@@ -1,0 +1,195 @@
+ZIP Code,City,County,Type
+ZIP Code 82001,Cheyenne,Laramie,Standard
+ZIP Code 82002,Cheyenne,Laramie,Unique
+ZIP Code 82003,Cheyenne,Laramie,P.O. Box
+ZIP Code 82005,Fe Warren AFB,Laramie,Standard
+ZIP Code 82006,Cheyenne,Laramie,Unique
+ZIP Code 82007,Cheyenne,Laramie,Standard
+ZIP Code 82009,Cheyenne,Laramie,Standard
+ZIP Code 82010,Cheyenne,Laramie,Unique
+ZIP Code 82050,Albin,Laramie,Standard
+ZIP Code 82051,Bosler,Albany,Standard
+ZIP Code 82052,Buford,Albany,Standard
+ZIP Code 82053,Burns,Laramie,Standard
+ZIP Code 82054,Carpenter,Laramie,Standard
+ZIP Code 82055,Centennial,Albany,P.O. Box
+ZIP Code 82058,Garrett,Albany,Standard
+ZIP Code 82059,Granite Canon,Laramie,P.O. Box
+ZIP Code 82060,Hillsdale,Laramie,P.O. Box
+ZIP Code 82061,Horse Creek,Laramie,P.O. Box
+ZIP Code 82063,Jelm,Albany,Standard
+ZIP Code 82070,Laramie,Albany,Standard
+ZIP Code 82071,Laramie,Albany,P.O. Box
+ZIP Code 82072,Laramie,Albany,Standard
+ZIP Code 82073,Laramie,Albany,P.O. Box
+ZIP Code 82081,Meriden,Laramie,Standard
+ZIP Code 82082,Pine Bluffs,Laramie,Standard
+ZIP Code 82083,Rock River,Albany,Standard
+ZIP Code 82084,Tie Siding,Albany,P.O. Box
+ZIP Code 82190,Yellowstone National Park,Park,Standard
+ZIP Code 82201,Wheatland,Platte,Standard
+ZIP Code 82210,Chugwater,Platte,Standard
+ZIP Code 82212,Fort Laramie,Goshen,Standard
+ZIP Code 82213,Glendo,Platte,Standard
+ZIP Code 82214,Guernsey,Platte,Standard
+ZIP Code 82215,Hartville,Platte,Standard
+ZIP Code 82217,Hawk Springs,Goshen,Standard
+ZIP Code 82218,Huntley,Goshen,P.O. Box
+ZIP Code 82219,Jay Em,Goshen,Standard
+ZIP Code 82221,Lagrange,Goshen,Standard
+ZIP Code 82222,Lance Creek,Niobrara,Standard
+ZIP Code 82223,Lingle,Goshen,Standard
+ZIP Code 82224,Lost Springs,Converse,Standard
+ZIP Code 82225,Lusk,Niobrara,Standard
+ZIP Code 82227,Manville,Niobrara,Standard
+ZIP Code 82229,Shawnee,Converse,Standard
+ZIP Code 82240,Torrington,Goshen,Standard
+ZIP Code 82242,Van Tassell,Niobrara,Standard
+ZIP Code 82243,Veteran,Goshen,Standard
+ZIP Code 82244,Yoder,Goshen,Standard
+ZIP Code 82301,Rawlins,Carbon,Standard
+ZIP Code 82310,Jeffrey City,Fremont,P.O. Box
+ZIP Code 82321,Baggs,Carbon,Standard
+ZIP Code 82322,Bairoil,Sweetwater,P.O. Box
+ZIP Code 82323,Dixon,Carbon,Standard
+ZIP Code 82324,Elk Mountain,Carbon,P.O. Box
+ZIP Code 82325,Encampment,Carbon,Standard
+ZIP Code 82327,Hanna,Carbon,Standard
+ZIP Code 82329,Medicine Bow,Carbon,Standard
+ZIP Code 82331,Saratoga,Carbon,Standard
+ZIP Code 82332,Savery,Carbon,Standard
+ZIP Code 82334,Sinclair,Carbon,Standard
+ZIP Code 82335,Walcott,Carbon,P.O. Box
+ZIP Code 82336,Wamsutter,Sweetwater,P.O. Box
+ZIP Code 82401,Worland,Washakie,Standard
+ZIP Code 82410,Basin,Big Horn,Standard
+ZIP Code 82411,Burlington,Big Horn,Standard
+ZIP Code 82412,Byron,Big Horn,P.O. Box
+ZIP Code 82414,Cody,Park,Standard
+ZIP Code 82420,Cowley,Big Horn,P.O. Box
+ZIP Code 82421,Deaver,Big Horn,Standard
+ZIP Code 82422,Emblem,Big Horn,P.O. Box
+ZIP Code 82423,Frannie,Park,P.O. Box
+ZIP Code 82426,Greybull,Big Horn,Standard
+ZIP Code 82428,Hyattville,Big Horn,Standard
+ZIP Code 82430,Kirby,Hot Springs,Standard
+ZIP Code 82431,Lovell,Big Horn,Standard
+ZIP Code 82432,Manderson,Big Horn,Standard
+ZIP Code 82433,Meeteetse,Park,Standard
+ZIP Code 82434,Otto,Big Horn,Standard
+ZIP Code 82435,Powell,Park,Standard
+ZIP Code 82440,Ralston,Park,P.O. Box
+ZIP Code 82441,Shell,Big Horn,Standard
+ZIP Code 82442,Ten Sleep,Washakie,Standard
+ZIP Code 82443,Thermopolis,Hot Springs,Standard
+ZIP Code 82450,Wapiti,Park,P.O. Box
+ZIP Code 82501,Riverton,Fremont,Standard
+ZIP Code 82510,Arapahoe,Fremont,Standard
+ZIP Code 82512,Crowheart,Fremont,Standard
+ZIP Code 82513,Dubois,Fremont,Standard
+ZIP Code 82514,Fort Washakie,Fremont,Standard
+ZIP Code 82515,Hudson,Fremont,P.O. Box
+ZIP Code 82516,Kinnear,Fremont,Standard
+ZIP Code 82520,Lander,Fremont,Standard
+ZIP Code 82523,Pavillion,Fremont,Standard
+ZIP Code 82524,Saint Stephens,Fremont,P.O. Box
+ZIP Code 82601,Casper,Natrona,Standard
+ZIP Code 82602,Casper,Natrona,P.O. Box
+ZIP Code 82604,Casper,Natrona,Standard
+ZIP Code 82605,Casper,Natrona,P.O. Box
+ZIP Code 82609,Casper,Natrona,Standard
+ZIP Code 82615,Shirley Basin,Carbon,Standard
+ZIP Code 82620,Alcova,Natrona,Standard
+ZIP Code 82630,Arminto,Natrona,Standard
+ZIP Code 82633,Douglas,Converse,Standard
+ZIP Code 82635,Edgerton,Natrona,P.O. Box
+ZIP Code 82636,Evansville,Natrona,Standard
+ZIP Code 82637,Glenrock,Converse,Standard
+ZIP Code 82638,Hiland,Natrona,Standard
+ZIP Code 82639,Kaycee,Johnson,Standard
+ZIP Code 82640,Linch,Johnson,P.O. Box
+ZIP Code 82642,Lysite,Fremont,Standard
+ZIP Code 82643,Midwest,Natrona,Standard
+ZIP Code 82644,Mills,Natrona,P.O. Box
+ZIP Code 82646,Natrona,Natrona,Standard
+ZIP Code 82648,Powder River,Natrona,P.O. Box
+ZIP Code 82649,Shoshoni,Fremont,Standard
+ZIP Code 82701,Newcastle,Weston,Standard
+ZIP Code 82710,Aladdin,Crook,Standard
+ZIP Code 82711,Alva,Crook,Standard
+ZIP Code 82712,Beulah,Crook,Standard
+ZIP Code 82714,Devils Tower,Crook,Standard
+ZIP Code 82715,Four Corners,Weston,Standard
+ZIP Code 82716,Gillette,Campbell,Standard
+ZIP Code 82717,Gillette,Campbell,P.O. Box
+ZIP Code 82718,Gillette,Campbell,Standard
+ZIP Code 82720,Hulett,Crook,Standard
+ZIP Code 82721,Moorcroft,Crook,Standard
+ZIP Code 82723,Osage,Weston,Standard
+ZIP Code 82725,Recluse,Campbell,Standard
+ZIP Code 82727,Rozet,Campbell,Standard
+ZIP Code 82729,Sundance,Crook,Standard
+ZIP Code 82730,Upton,Weston,Standard
+ZIP Code 82731,Weston,Campbell,Standard
+ZIP Code 82732,Wright,Campbell,P.O. Box
+ZIP Code 82801,Sheridan,Sheridan,Standard
+ZIP Code 82831,Arvada,Sheridan,Standard
+ZIP Code 82832,Banner,Sheridan,Standard
+ZIP Code 82833,Big Horn,Sheridan,P.O. Box
+ZIP Code 82834,Buffalo,Johnson,Standard
+ZIP Code 82835,Clearmont,Sheridan,Standard
+ZIP Code 82836,Dayton,Sheridan,Standard
+ZIP Code 82837,Leiter,Sheridan,P.O. Box
+ZIP Code 82838,Parkman,Sheridan,Standard
+ZIP Code 82839,Ranchester,Sheridan,Standard
+ZIP Code 82840,Saddlestring,Johnson,P.O. Box
+ZIP Code 82842,Story,Sheridan,Standard
+ZIP Code 82844,Wolf,Sheridan,Standard
+ZIP Code 82845,Wyarno,Sheridan,P.O. Box
+ZIP Code 82901,Rock Springs,Sweetwater,Standard
+ZIP Code 82902,Rock Springs,Sweetwater,P.O. Box
+ZIP Code 82922,Bondurant,Sublette,Standard
+ZIP Code 82923,Boulder,Sublette,Standard
+ZIP Code 82925,Cora,Sublette,Standard
+ZIP Code 82929,Little America,Sweetwater,P.O. Box
+ZIP Code 82930,Evanston,Uinta,Standard
+ZIP Code 82931,Evanston,Uinta,P.O. Box
+ZIP Code 82932,Farson,Sweetwater,Standard
+ZIP Code 82933,Fort Bridger,Uinta,Standard
+ZIP Code 82934,Granger,Sweetwater,P.O. Box
+ZIP Code 82935,Green River,Sweetwater,Standard
+ZIP Code 82936,Lonetree,Uinta,Standard
+ZIP Code 82937,Lyman,Uinta,Standard
+ZIP Code 82938,Mc Kinnon,Sweetwater,P.O. Box
+ZIP Code 82939,Mountain View,Uinta,P.O. Box
+ZIP Code 82941,Pinedale,Sublette,Standard
+ZIP Code 82942,Point Of Rocks,Sweetwater,P.O. Box
+ZIP Code 82943,Reliance,Sweetwater,P.O. Box
+ZIP Code 82944,Robertson,Uinta,P.O. Box
+ZIP Code 82945,Superior,Sweetwater,P.O. Box
+ZIP Code 83001,Jackson,Teton,Standard
+ZIP Code 83002,Jackson,Teton,P.O. Box
+ZIP Code 83011,Kelly,Teton,Standard
+ZIP Code 83012,Moose,Teton,Standard
+ZIP Code 83013,Moran,Teton,Standard
+ZIP Code 83014,Wilson,Teton,Standard
+ZIP Code 83025,Teton Village,Teton,P.O. Box
+ZIP Code 83101,Kemmerer,Lincoln,Standard
+ZIP Code 83110,Afton,Lincoln,Standard
+ZIP Code 83111,Auburn,Lincoln,Standard
+ZIP Code 83112,Bedford,Lincoln,Standard
+ZIP Code 83113,Big Piney,Sublette,Standard
+ZIP Code 83114,Cokeville,Lincoln,Standard
+ZIP Code 83115,Daniel,Sublette,Standard
+ZIP Code 83116,Diamondville,Lincoln,P.O. Box
+ZIP Code 83118,Etna,Lincoln,Standard
+ZIP Code 83119,Fairview,Lincoln,P.O. Box
+ZIP Code 83120,Freedom,Lincoln,Standard
+ZIP Code 83121,Frontier,Lincoln,P.O. Box
+ZIP Code 83122,Grover,Lincoln,Standard
+ZIP Code 83123,La Barge,Lincoln,Standard
+ZIP Code 83124,Opal,Lincoln,P.O. Box
+ZIP Code 83126,Smoot,Lincoln,Standard
+ZIP Code 83127,Thayne,Lincoln,Standard
+ZIP Code 83128,Alpine,Lincoln,Standard
+ZIP Code 83414,Alta,Teton,Standard

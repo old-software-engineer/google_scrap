@@ -1,0 +1,716 @@
+ZIP Code,City,County,Type
+ZIP Code 98001,Auburn,King,Standard
+ZIP Code 98002,Auburn,King,Standard
+ZIP Code 98003,Federal Way,King,Standard
+ZIP Code 98004,Bellevue,King,Standard
+ZIP Code 98005,Bellevue,King,Standard
+ZIP Code 98006,Bellevue,King,Standard
+ZIP Code 98007,Bellevue,King,Standard
+ZIP Code 98008,Bellevue,King,Standard
+ZIP Code 98009,Bellevue,King,P.O. Box
+ZIP Code 98010,Black Diamond,King,Standard
+ZIP Code 98011,Bothell,King,Standard
+ZIP Code 98012,Bothell,Snohomish,Standard
+ZIP Code 98013,Burton,King,P.O. Box
+ZIP Code 98014,Carnation,King,Standard
+ZIP Code 98015,Bellevue,King,P.O. Box
+ZIP Code 98019,Duvall,King,Standard
+ZIP Code 98020,Edmonds,Snohomish,Standard
+ZIP Code 98021,Bothell,Snohomish,Standard
+ZIP Code 98022,Enumclaw,King,Standard
+ZIP Code 98023,Federal Way,King,Standard
+ZIP Code 98024,Fall City,King,Standard
+ZIP Code 98025,Hobart,King,P.O. Box
+ZIP Code 98026,Edmonds,Snohomish,Standard
+ZIP Code 98027,Issaquah,King,Standard
+ZIP Code 98028,Kenmore,King,Standard
+ZIP Code 98029,Issaquah,King,Standard
+ZIP Code 98030,Kent,King,Standard
+ZIP Code 98031,Kent,King,Standard
+ZIP Code 98032,Kent,King,Standard
+ZIP Code 98033,Kirkland,King,Standard
+ZIP Code 98034,Kirkland,King,Standard
+ZIP Code 98035,Kent,King,P.O. Box
+ZIP Code 98036,Lynnwood,Snohomish,Standard
+ZIP Code 98037,Lynnwood,Snohomish,Standard
+ZIP Code 98038,Maple Valley,King,Standard
+ZIP Code 98039,Medina,King,Standard
+ZIP Code 98040,Mercer Island,King,Standard
+ZIP Code 98041,Bothell,King,P.O. Box
+ZIP Code 98042,Kent,King,Standard
+ZIP Code 98043,Mountlake Terrace,Snohomish,Standard
+ZIP Code 98045,North Bend,King,Standard
+ZIP Code 98046,Lynnwood,Snohomish,P.O. Box
+ZIP Code 98047,Pacific,King,Standard
+ZIP Code 98050,Preston,King,P.O. Box
+ZIP Code 98051,Ravensdale,King,Standard
+ZIP Code 98052,Redmond,King,Standard
+ZIP Code 98053,Redmond,King,Standard
+ZIP Code 98055,Renton,King,Standard
+ZIP Code 98056,Renton,King,Standard
+ZIP Code 98057,Renton,King,Standard
+ZIP Code 98058,Renton,King,Standard
+ZIP Code 98059,Renton,King,Standard
+ZIP Code 98061,Rollingbay,Kitsap,P.O. Box
+ZIP Code 98062,Seahurst,King,P.O. Box
+ZIP Code 98063,Federal Way,King,P.O. Box
+ZIP Code 98064,Kent,King,P.O. Box
+ZIP Code 98065,Snoqualmie,King,Standard
+ZIP Code 98068,Snoqualmie Pass,Kittitas,P.O. Box
+ZIP Code 98070,Vashon,King,Standard
+ZIP Code 98071,Auburn,King,P.O. Box
+ZIP Code 98072,Woodinville,King,Standard
+ZIP Code 98073,Redmond,King,P.O. Box
+ZIP Code 98074,Sammamish,King,Standard
+ZIP Code 98075,Sammamish,King,Standard
+ZIP Code 98077,Woodinville,King,Standard
+ZIP Code 98082,Mill Creek,Snohomish,P.O. Box
+ZIP Code 98083,Kirkland,King,P.O. Box
+ZIP Code 98087,Lynnwood,Snohomish,Standard
+ZIP Code 98089,Kent,King,P.O. Box
+ZIP Code 98092,Auburn,King,Standard
+ZIP Code 98093,Federal Way,King,P.O. Box
+ZIP Code 98101,Seattle,King,Standard
+ZIP Code 98102,Seattle,King,Standard
+ZIP Code 98103,Seattle,King,Standard
+ZIP Code 98104,Seattle,King,Standard
+ZIP Code 98105,Seattle,King,Standard
+ZIP Code 98106,Seattle,King,Standard
+ZIP Code 98107,Seattle,King,Standard
+ZIP Code 98108,Seattle,King,Standard
+ZIP Code 98109,Seattle,King,Standard
+ZIP Code 98110,Bainbridge Island,Kitsap,Standard
+ZIP Code 98111,Seattle,King,P.O. Box
+ZIP Code 98112,Seattle,King,Standard
+ZIP Code 98113,Seattle,King,P.O. Box
+ZIP Code 98114,Seattle,King,P.O. Box
+ZIP Code 98115,Seattle,King,Standard
+ZIP Code 98116,Seattle,King,Standard
+ZIP Code 98117,Seattle,King,Standard
+ZIP Code 98118,Seattle,King,Standard
+ZIP Code 98119,Seattle,King,Standard
+ZIP Code 98121,Seattle,King,Standard
+ZIP Code 98122,Seattle,King,Standard
+ZIP Code 98124,Seattle,King,P.O. Box
+ZIP Code 98125,Seattle,King,Standard
+ZIP Code 98126,Seattle,King,Standard
+ZIP Code 98127,Seattle,King,P.O. Box
+ZIP Code 98129,Seattle,King,Unique
+ZIP Code 98131,Seattle,King,Standard
+ZIP Code 98133,Seattle,King,Standard
+ZIP Code 98134,Seattle,King,Standard
+ZIP Code 98136,Seattle,King,Standard
+ZIP Code 98138,Seattle,King,P.O. Box
+ZIP Code 98139,Seattle,King,P.O. Box
+ZIP Code 98141,Seattle,King,P.O. Box
+ZIP Code 98144,Seattle,King,Standard
+ZIP Code 98145,Seattle,King,P.O. Box
+ZIP Code 98146,Seattle,King,Standard
+ZIP Code 98148,Seattle,King,Standard
+ZIP Code 98154,Seattle,King,Standard
+ZIP Code 98155,Seattle,King,Standard
+ZIP Code 98158,Seattle,King,Standard
+ZIP Code 98160,Seattle,King,P.O. Box
+ZIP Code 98161,Seattle,King,Standard
+ZIP Code 98164,Seattle,King,Standard
+ZIP Code 98165,Seattle,King,P.O. Box
+ZIP Code 98166,Seattle,King,Standard
+ZIP Code 98168,Seattle,King,Standard
+ZIP Code 98170,Seattle,King,Unique
+ZIP Code 98174,Seattle,King,Standard
+ZIP Code 98175,Seattle,King,P.O. Box
+ZIP Code 98177,Seattle,King,Standard
+ZIP Code 98178,Seattle,King,Standard
+ZIP Code 98181,Seattle,King,Unique
+ZIP Code 98185,Seattle,King,Unique
+ZIP Code 98188,Seattle,King,Standard
+ZIP Code 98190,Seattle,King,Unique
+ZIP Code 98191,Seattle,King,Unique
+ZIP Code 98194,Seattle,King,P.O. Box
+ZIP Code 98195,Seattle,King,Unique
+ZIP Code 98198,Seattle,King,Standard
+ZIP Code 98199,Seattle,King,Standard
+ZIP Code 98201,Everett,Snohomish,Standard
+ZIP Code 98203,Everett,Snohomish,Standard
+ZIP Code 98204,Everett,Snohomish,Standard
+ZIP Code 98206,Everett,Snohomish,P.O. Box
+ZIP Code 98207,Everett,Snohomish,Unique
+ZIP Code 98208,Everett,Snohomish,Standard
+ZIP Code 98213,Everett,Snohomish,P.O. Box
+ZIP Code 98220,Acme,Whatcom,Standard
+ZIP Code 98221,Anacortes,Skagit,Standard
+ZIP Code 98222,Blakely Island,San Juan,Standard
+ZIP Code 98223,Arlington,Snohomish,Standard
+ZIP Code 98224,Baring,King,P.O. Box
+ZIP Code 98225,Bellingham,Whatcom,Standard
+ZIP Code 98226,Bellingham,Whatcom,Standard
+ZIP Code 98227,Bellingham,Whatcom,P.O. Box
+ZIP Code 98228,Bellingham,Whatcom,P.O. Box
+ZIP Code 98229,Bellingham,Whatcom,Standard
+ZIP Code 98230,Blaine,Whatcom,Standard
+ZIP Code 98231,Blaine,Whatcom,P.O. Box
+ZIP Code 98232,Bow,Skagit,Standard
+ZIP Code 98233,Burlington,Skagit,Standard
+ZIP Code 98235,Clearlake,Skagit,P.O. Box
+ZIP Code 98236,Clinton,Island,Standard
+ZIP Code 98237,Concrete,Skagit,Standard
+ZIP Code 98238,Conway,Skagit,P.O. Box
+ZIP Code 98239,Coupeville,Island,Standard
+ZIP Code 98240,Custer,Whatcom,Standard
+ZIP Code 98241,Darrington,Snohomish,Standard
+ZIP Code 98243,Deer Harbor,San Juan,P.O. Box
+ZIP Code 98244,Deming,Whatcom,Standard
+ZIP Code 98245,Eastsound,San Juan,Standard
+ZIP Code 98247,Everson,Whatcom,Standard
+ZIP Code 98248,Ferndale,Whatcom,Standard
+ZIP Code 98249,Freeland,Island,Standard
+ZIP Code 98250,Friday Harbor,San Juan,Standard
+ZIP Code 98251,Gold Bar,Snohomish,Standard
+ZIP Code 98252,Granite Falls,Snohomish,Standard
+ZIP Code 98253,Greenbank,Island,Standard
+ZIP Code 98255,Hamilton,Skagit,P.O. Box
+ZIP Code 98256,Index,Snohomish,P.O. Box
+ZIP Code 98257,La Conner,Skagit,Standard
+ZIP Code 98258,Lake Stevens,Snohomish,Standard
+ZIP Code 98259,North Lakewood,Snohomish,P.O. Box
+ZIP Code 98260,Langley,Island,Standard
+ZIP Code 98261,Lopez Island,San Juan,Standard
+ZIP Code 98262,Lummi Island,Whatcom,Standard
+ZIP Code 98263,Lyman,Skagit,P.O. Box
+ZIP Code 98264,Lynden,Whatcom,Standard
+ZIP Code 98266,Maple Falls,Whatcom,Standard
+ZIP Code 98267,Marblemount,Skagit,Standard
+ZIP Code 98270,Marysville,Snohomish,Standard
+ZIP Code 98271,Marysville,Snohomish,Standard
+ZIP Code 98272,Monroe,Snohomish,Standard
+ZIP Code 98273,Mount Vernon,Skagit,Standard
+ZIP Code 98274,Mount Vernon,Skagit,Standard
+ZIP Code 98275,Mukilteo,Snohomish,Standard
+ZIP Code 98276,Nooksack,Whatcom,Standard
+ZIP Code 98277,Oak Harbor,Island,Standard
+ZIP Code 98278,Oak Harbor,Island,Unique
+ZIP Code 98279,Olga,San Juan,Standard
+ZIP Code 98280,Orcas,San Juan,P.O. Box
+ZIP Code 98281,Point Roberts,Whatcom,Standard
+ZIP Code 98282,Camano Island,Island,Standard
+ZIP Code 98283,Rockport,Skagit,Standard
+ZIP Code 98284,Sedro Woolley,Skagit,Standard
+ZIP Code 98286,Shaw Island,San Juan,P.O. Box
+ZIP Code 98287,Silvana,Snohomish,P.O. Box
+ZIP Code 98288,Skykomish,King,P.O. Box
+ZIP Code 98290,Snohomish,Snohomish,Standard
+ZIP Code 98291,Snohomish,Snohomish,P.O. Box
+ZIP Code 98292,Stanwood,Snohomish,Standard
+ZIP Code 98293,Startup,Snohomish,P.O. Box
+ZIP Code 98294,Sultan,Snohomish,Standard
+ZIP Code 98295,Sumas,Whatcom,Standard
+ZIP Code 98296,Snohomish,Snohomish,Standard
+ZIP Code 98297,Waldron,San Juan,P.O. Box
+ZIP Code 98303,Anderson Island,Pierce,Standard
+ZIP Code 98304,Ashford,Pierce,Standard
+ZIP Code 98305,Beaver,Clallam,Standard
+ZIP Code 98310,Bremerton,Kitsap,Standard
+ZIP Code 98311,Bremerton,Kitsap,Standard
+ZIP Code 98312,Bremerton,Kitsap,Standard
+ZIP Code 98314,Bremerton,Kitsap,Unique
+ZIP Code 98315,Silverdale,Kitsap,Standard
+ZIP Code 98320,Brinnon,Jefferson,Standard
+ZIP Code 98321,Buckley,Pierce,Standard
+ZIP Code 98322,Burley,Kitsap,P.O. Box
+ZIP Code 98323,Carbonado,Pierce,Standard
+ZIP Code 98324,Carlsborg,Clallam,P.O. Box
+ZIP Code 98325,Chimacum,Jefferson,Standard
+ZIP Code 98326,Clallam Bay,Clallam,Standard
+ZIP Code 98327,Dupont,Pierce,Standard
+ZIP Code 98328,Eatonville,Pierce,Standard
+ZIP Code 98329,Gig Harbor,Pierce,Standard
+ZIP Code 98330,Elbe,Pierce,Standard
+ZIP Code 98331,Forks,Clallam,Standard
+ZIP Code 98332,Gig Harbor,Pierce,Standard
+ZIP Code 98333,Fox Island,Pierce,Standard
+ZIP Code 98335,Gig Harbor,Pierce,Standard
+ZIP Code 98336,Glenoma,Lewis,Standard
+ZIP Code 98337,Bremerton,Kitsap,Standard
+ZIP Code 98338,Graham,Pierce,Standard
+ZIP Code 98339,Port Hadlock,Jefferson,Standard
+ZIP Code 98340,Hansville,Kitsap,Standard
+ZIP Code 98342,Indianola,Kitsap,Standard
+ZIP Code 98343,Joyce,Clallam,P.O. Box
+ZIP Code 98344,Kapowsin,Pierce,P.O. Box
+ZIP Code 98345,Keyport,Kitsap,P.O. Box
+ZIP Code 98346,Kingston,Kitsap,Standard
+ZIP Code 98348,La Grande,Pierce,P.O. Box
+ZIP Code 98349,Lakebay,Pierce,Standard
+ZIP Code 98350,La Push,Clallam,P.O. Box
+ZIP Code 98351,Longbranch,Pierce,Standard
+ZIP Code 98352,Sumner,Pierce,Unique
+ZIP Code 98353,Manchester,Kitsap,P.O. Box
+ZIP Code 98354,Milton,Pierce,Standard
+ZIP Code 98355,Mineral,Lewis,Standard
+ZIP Code 98356,Morton,Lewis,Standard
+ZIP Code 98357,Neah Bay,Clallam,P.O. Box
+ZIP Code 98358,Nordland,Jefferson,Standard
+ZIP Code 98359,Olalla,Kitsap,Standard
+ZIP Code 98360,Orting,Pierce,Standard
+ZIP Code 98361,Packwood,Lewis,Standard
+ZIP Code 98362,Port Angeles,Clallam,Standard
+ZIP Code 98363,Port Angeles,Clallam,Standard
+ZIP Code 98364,Port Gamble,Kitsap,P.O. Box
+ZIP Code 98365,Port Ludlow,Jefferson,Standard
+ZIP Code 98366,Port Orchard,Kitsap,Standard
+ZIP Code 98367,Port Orchard,Kitsap,Standard
+ZIP Code 98368,Port Townsend,Jefferson,Standard
+ZIP Code 98370,Poulsbo,Kitsap,Standard
+ZIP Code 98371,Puyallup,Pierce,Standard
+ZIP Code 98372,Puyallup,Pierce,Standard
+ZIP Code 98373,Puyallup,Pierce,Standard
+ZIP Code 98374,Puyallup,Pierce,Standard
+ZIP Code 98375,Puyallup,Pierce,Standard
+ZIP Code 98376,Quilcene,Jefferson,Standard
+ZIP Code 98377,Randle,Lewis,Standard
+ZIP Code 98378,Retsil,Kitsap,P.O. Box
+ZIP Code 98380,Seabeck,Kitsap,Standard
+ZIP Code 98381,Sekiu,Clallam,Standard
+ZIP Code 98382,Sequim,Clallam,Standard
+ZIP Code 98383,Silverdale,Kitsap,Standard
+ZIP Code 98384,South Colby,Kitsap,P.O. Box
+ZIP Code 98385,South Prairie,Pierce,P.O. Box
+ZIP Code 98386,Southworth,Kitsap,P.O. Box
+ZIP Code 98387,Spanaway,Pierce,Standard
+ZIP Code 98388,Steilacoom,Pierce,Standard
+ZIP Code 98390,Sumner,Pierce,Standard
+ZIP Code 98391,Bonney Lake,Pierce,Standard
+ZIP Code 98392,Suquamish,Kitsap,Standard
+ZIP Code 98393,Tracyton,Kitsap,P.O. Box
+ZIP Code 98394,Vaughn,Pierce,Standard
+ZIP Code 98395,Wauna,Pierce,P.O. Box
+ZIP Code 98396,Wilkeson,Pierce,P.O. Box
+ZIP Code 98397,Longmire,Pierce,P.O. Box
+ZIP Code 98398,Paradise Inn,Pierce,P.O. Box
+ZIP Code 98401,Tacoma,Pierce,P.O. Box
+ZIP Code 98402,Tacoma,Pierce,Standard
+ZIP Code 98403,Tacoma,Pierce,Standard
+ZIP Code 98404,Tacoma,Pierce,Standard
+ZIP Code 98405,Tacoma,Pierce,Standard
+ZIP Code 98406,Tacoma,Pierce,Standard
+ZIP Code 98407,Tacoma,Pierce,Standard
+ZIP Code 98408,Tacoma,Pierce,Standard
+ZIP Code 98409,Tacoma,Pierce,Standard
+ZIP Code 98411,Tacoma,Pierce,P.O. Box
+ZIP Code 98412,Tacoma,Pierce,P.O. Box
+ZIP Code 98413,Tacoma,Pierce,Standard
+ZIP Code 98415,Tacoma,Pierce,P.O. Box
+ZIP Code 98416,Tacoma,Pierce,Unique
+ZIP Code 98417,Tacoma,Pierce,P.O. Box
+ZIP Code 98418,Tacoma,Pierce,Standard
+ZIP Code 98419,Tacoma,Pierce,P.O. Box
+ZIP Code 98421,Tacoma,Pierce,Standard
+ZIP Code 98422,Tacoma,Pierce,Standard
+ZIP Code 98424,Fife,Pierce,Standard
+ZIP Code 98430,Camp Murray,Pierce,Unique
+ZIP Code 98431,Tacoma,Pierce,Unique
+ZIP Code 98433,Tacoma,Pierce,Standard
+ZIP Code 98438,Mcchord AFB,Pierce,P.O. Box
+ZIP Code 98439,Lakewood,Pierce,Standard
+ZIP Code 98443,Tacoma,Pierce,Standard
+ZIP Code 98444,Tacoma,Pierce,Standard
+ZIP Code 98445,Tacoma,Pierce,Standard
+ZIP Code 98446,Tacoma,Pierce,Standard
+ZIP Code 98447,Tacoma,Pierce,Unique
+ZIP Code 98448,Tacoma,Pierce,P.O. Box
+ZIP Code 98464,Tacoma,Pierce,P.O. Box
+ZIP Code 98465,Tacoma,Pierce,Standard
+ZIP Code 98466,Tacoma,Pierce,Standard
+ZIP Code 98467,University Place,Pierce,Standard
+ZIP Code 98471,Tacoma,Pierce,Unique
+ZIP Code 98481,Tacoma,Pierce,Unique
+ZIP Code 98490,Tacoma,Pierce,P.O. Box
+ZIP Code 98493,Tacoma,Pierce,Unique
+ZIP Code 98496,Lakewood,Pierce,P.O. Box
+ZIP Code 98497,Lakewood,Pierce,P.O. Box
+ZIP Code 98498,Lakewood,Pierce,Standard
+ZIP Code 98499,Lakewood,Pierce,Standard
+ZIP Code 98501,Olympia,Thurston,Standard
+ZIP Code 98502,Olympia,Thurston,Standard
+ZIP Code 98503,Lacey,Thurston,Standard
+ZIP Code 98504,Olympia,Thurston,Unique
+ZIP Code 98505,Olympia,Thurston,Unique
+ZIP Code 98506,Olympia,Thurston,Standard
+ZIP Code 98507,Olympia,Thurston,P.O. Box
+ZIP Code 98508,Olympia,Thurston,P.O. Box
+ZIP Code 98509,Lacey,Thurston,P.O. Box
+ZIP Code 98511,Tumwater,Thurston,P.O. Box
+ZIP Code 98512,Olympia,Thurston,Standard
+ZIP Code 98513,Olympia,Thurston,Standard
+ZIP Code 98516,Olympia,Thurston,Standard
+ZIP Code 98520,Aberdeen,Grays Harbor,Standard
+ZIP Code 98522,Adna,Lewis,P.O. Box
+ZIP Code 98524,Allyn,Mason,Standard
+ZIP Code 98526,Amanda Park,Grays Harbor,Standard
+ZIP Code 98527,Bay Center,Pacific,P.O. Box
+ZIP Code 98528,Belfair,Mason,Standard
+ZIP Code 98530,Bucoda,Thurston,P.O. Box
+ZIP Code 98531,Centralia,Lewis,Standard
+ZIP Code 98532,Chehalis,Lewis,Standard
+ZIP Code 98533,Cinebar,Lewis,Standard
+ZIP Code 98535,Copalis Beach,Grays Harbor,Standard
+ZIP Code 98536,Copalis Crossing,Grays Harbor,Standard
+ZIP Code 98537,Cosmopolis,Grays Harbor,Standard
+ZIP Code 98538,Curtis,Lewis,Standard
+ZIP Code 98539,Doty,Lewis,P.O. Box
+ZIP Code 98540,East Olympia,Thurston,P.O. Box
+ZIP Code 98541,Elma,Grays Harbor,Standard
+ZIP Code 98542,Ethel,Lewis,Standard
+ZIP Code 98544,Galvin,Lewis,P.O. Box
+ZIP Code 98546,Grapeview,Mason,Standard
+ZIP Code 98547,Grayland,Grays Harbor,Standard
+ZIP Code 98548,Hoodsport,Mason,Standard
+ZIP Code 98550,Hoquiam,Grays Harbor,Standard
+ZIP Code 98552,Humptulips,Grays Harbor,Standard
+ZIP Code 98554,Lebam,Pacific,P.O. Box
+ZIP Code 98555,Lilliwaup,Mason,Standard
+ZIP Code 98556,Littlerock,Thurston,P.O. Box
+ZIP Code 98557,Mccleary,Grays Harbor,Standard
+ZIP Code 98558,Mckenna,Pierce,P.O. Box
+ZIP Code 98559,Malone,Grays Harbor,P.O. Box
+ZIP Code 98560,Matlock,Mason,Standard
+ZIP Code 98561,Menlo,Pacific,P.O. Box
+ZIP Code 98562,Moclips,Grays Harbor,P.O. Box
+ZIP Code 98563,Montesano,Grays Harbor,Standard
+ZIP Code 98564,Mossyrock,Lewis,Standard
+ZIP Code 98565,Napavine,Lewis,P.O. Box
+ZIP Code 98566,Neilton,Grays Harbor,P.O. Box
+ZIP Code 98568,Oakville,Grays Harbor,Standard
+ZIP Code 98569,Ocean Shores,Grays Harbor,Standard
+ZIP Code 98570,Onalaska,Lewis,Standard
+ZIP Code 98571,Pacific Beach,Grays Harbor,P.O. Box
+ZIP Code 98572,Pe Ell,Lewis,Standard
+ZIP Code 98575,Quinault,Grays Harbor,Standard
+ZIP Code 98576,Rainier,Thurston,Standard
+ZIP Code 98577,Raymond,Pacific,Standard
+ZIP Code 98579,Rochester,Thurston,Standard
+ZIP Code 98580,Roy,Pierce,Standard
+ZIP Code 98581,Ryderwood,Cowlitz,Standard
+ZIP Code 98582,Salkum,Lewis,Standard
+ZIP Code 98583,Satsop,Grays Harbor,P.O. Box
+ZIP Code 98584,Shelton,Mason,Standard
+ZIP Code 98585,Silver Creek,Lewis,Standard
+ZIP Code 98586,South Bend,Pacific,Standard
+ZIP Code 98587,Taholah,Grays Harbor,P.O. Box
+ZIP Code 98588,Tahuya,Mason,Standard
+ZIP Code 98589,Tenino,Thurston,Standard
+ZIP Code 98590,Tokeland,Pacific,Standard
+ZIP Code 98591,Toledo,Lewis,Standard
+ZIP Code 98592,Union,Mason,Standard
+ZIP Code 98593,Vader,Lewis,Standard
+ZIP Code 98595,Westport,Grays Harbor,Standard
+ZIP Code 98596,Winlock,Lewis,Standard
+ZIP Code 98597,Yelm,Thurston,Standard
+ZIP Code 98599,Olympia,Thurston,Unique
+ZIP Code 98601,Amboy,Clark,Standard
+ZIP Code 98602,Appleton,Klickitat,Standard
+ZIP Code 98603,Ariel,Cowlitz,Standard
+ZIP Code 98604,Battle Ground,Clark,Standard
+ZIP Code 98605,Bingen,Klickitat,Standard
+ZIP Code 98606,Brush Prairie,Clark,Standard
+ZIP Code 98607,Camas,Clark,Standard
+ZIP Code 98609,Carrolls,Cowlitz,Standard
+ZIP Code 98610,Carson,Skamania,Standard
+ZIP Code 98611,Castle Rock,Cowlitz,Standard
+ZIP Code 98612,Cathlamet,Wahkiakum,Standard
+ZIP Code 98613,Centerville,Klickitat,Standard
+ZIP Code 98614,Chinook,Pacific,P.O. Box
+ZIP Code 98616,Cougar,Cowlitz,Standard
+ZIP Code 98617,Dallesport,Klickitat,P.O. Box
+ZIP Code 98619,Glenwood,Klickitat,Standard
+ZIP Code 98620,Goldendale,Klickitat,Standard
+ZIP Code 98621,Grays River,Wahkiakum,Standard
+ZIP Code 98622,Heisson,Clark,P.O. Box
+ZIP Code 98623,Husum,Klickitat,P.O. Box
+ZIP Code 98624,Ilwaco,Pacific,Standard
+ZIP Code 98625,Kalama,Cowlitz,Standard
+ZIP Code 98626,Kelso,Cowlitz,Standard
+ZIP Code 98628,Klickitat,Klickitat,Standard
+ZIP Code 98629,La Center,Clark,Standard
+ZIP Code 98631,Long Beach,Pacific,Standard
+ZIP Code 98632,Longview,Cowlitz,Standard
+ZIP Code 98635,Lyle,Klickitat,Standard
+ZIP Code 98637,Nahcotta,Pacific,P.O. Box
+ZIP Code 98638,Naselle,Pacific,Standard
+ZIP Code 98639,North Bonneville,Skamania,P.O. Box
+ZIP Code 98640,Ocean Park,Pacific,Standard
+ZIP Code 98641,Oysterville,Pacific,P.O. Box
+ZIP Code 98642,Ridgefield,Clark,Standard
+ZIP Code 98643,Rosburg,Wahkiakum,Standard
+ZIP Code 98644,Seaview,Pacific,P.O. Box
+ZIP Code 98645,Silverlake,Cowlitz,Standard
+ZIP Code 98647,Skamokawa,Wahkiakum,Standard
+ZIP Code 98648,Stevenson,Skamania,Standard
+ZIP Code 98649,Toutle,Cowlitz,Standard
+ZIP Code 98650,Trout Lake,Klickitat,Standard
+ZIP Code 98651,Underwood,Skamania,Standard
+ZIP Code 98660,Vancouver,Clark,Standard
+ZIP Code 98661,Vancouver,Clark,Standard
+ZIP Code 98662,Vancouver,Clark,Standard
+ZIP Code 98663,Vancouver,Clark,Standard
+ZIP Code 98664,Vancouver,Clark,Standard
+ZIP Code 98665,Vancouver,Clark,Standard
+ZIP Code 98666,Vancouver,Clark,P.O. Box
+ZIP Code 98668,Vancouver,Clark,P.O. Box
+ZIP Code 98670,Wahkiacus,Klickitat,Standard
+ZIP Code 98671,Washougal,Clark,Standard
+ZIP Code 98672,White Salmon,Klickitat,Standard
+ZIP Code 98673,Wishram,Klickitat,P.O. Box
+ZIP Code 98674,Woodland,Cowlitz,Standard
+ZIP Code 98675,Yacolt,Clark,Standard
+ZIP Code 98682,Vancouver,Clark,Standard
+ZIP Code 98683,Vancouver,Clark,Standard
+ZIP Code 98684,Vancouver,Clark,Standard
+ZIP Code 98685,Vancouver,Clark,Standard
+ZIP Code 98686,Vancouver,Clark,Standard
+ZIP Code 98687,Vancouver,Clark,P.O. Box
+ZIP Code 98801,Wenatchee,Chelan,Standard
+ZIP Code 98802,East Wenatchee,Douglas,Standard
+ZIP Code 98807,Wenatchee,Chelan,P.O. Box
+ZIP Code 98811,Ardenvoir,Chelan,P.O. Box
+ZIP Code 98812,Brewster,Okanogan,Standard
+ZIP Code 98813,Bridgeport,Douglas,Standard
+ZIP Code 98814,Carlton,Okanogan,Standard
+ZIP Code 98815,Cashmere,Chelan,Standard
+ZIP Code 98816,Chelan,Chelan,Standard
+ZIP Code 98817,Chelan Falls,Chelan,P.O. Box
+ZIP Code 98819,Conconully,Okanogan,P.O. Box
+ZIP Code 98821,Dryden,Chelan,P.O. Box
+ZIP Code 98822,Entiat,Chelan,Standard
+ZIP Code 98823,Ephrata,Grant,Standard
+ZIP Code 98824,George,Grant,P.O. Box
+ZIP Code 98826,Leavenworth,Chelan,Standard
+ZIP Code 98827,Loomis,Okanogan,Standard
+ZIP Code 98828,Malaga,Chelan,Standard
+ZIP Code 98829,Malott,Okanogan,P.O. Box
+ZIP Code 98830,Mansfield,Douglas,Standard
+ZIP Code 98831,Manson,Chelan,Standard
+ZIP Code 98832,Marlin,Grant,Standard
+ZIP Code 98833,Mazama,Okanogan,Standard
+ZIP Code 98834,Methow,Okanogan,Standard
+ZIP Code 98836,Monitor,Chelan,P.O. Box
+ZIP Code 98837,Moses Lake,Grant,Standard
+ZIP Code 98840,Okanogan,Okanogan,Standard
+ZIP Code 98841,Omak,Okanogan,Standard
+ZIP Code 98843,Orondo,Douglas,Standard
+ZIP Code 98844,Oroville,Okanogan,Standard
+ZIP Code 98845,Palisades,Douglas,Standard
+ZIP Code 98846,Pateros,Okanogan,Standard
+ZIP Code 98847,Peshastin,Chelan,Standard
+ZIP Code 98848,Quincy,Grant,Standard
+ZIP Code 98849,Riverside,Okanogan,Standard
+ZIP Code 98850,Rock Island,Douglas,Standard
+ZIP Code 98851,Soap Lake,Grant,Standard
+ZIP Code 98852,Stehekin,Chelan,P.O. Box
+ZIP Code 98853,Stratford,Grant,P.O. Box
+ZIP Code 98855,Tonasket,Okanogan,Standard
+ZIP Code 98856,Twisp,Okanogan,Standard
+ZIP Code 98857,Warden,Grant,Standard
+ZIP Code 98858,Waterville,Douglas,Standard
+ZIP Code 98859,Wauconda,Okanogan,Standard
+ZIP Code 98860,Wilson Creek,Grant,P.O. Box
+ZIP Code 98862,Winthrop,Okanogan,Standard
+ZIP Code 98901,Yakima,Yakima,Standard
+ZIP Code 98902,Yakima,Yakima,Standard
+ZIP Code 98903,Yakima,Yakima,Standard
+ZIP Code 98904,Yakima,Yakima,P.O. Box
+ZIP Code 98907,Yakima,Yakima,P.O. Box
+ZIP Code 98908,Yakima,Yakima,Standard
+ZIP Code 98909,Yakima,Yakima,P.O. Box
+ZIP Code 98920,Brownstown,Yakima,P.O. Box
+ZIP Code 98921,Buena,Yakima,P.O. Box
+ZIP Code 98922,Cle Elum,Kittitas,Standard
+ZIP Code 98923,Cowiche,Yakima,Standard
+ZIP Code 98925,Easton,Kittitas,P.O. Box
+ZIP Code 98926,Ellensburg,Kittitas,Standard
+ZIP Code 98930,Grandview,Yakima,Standard
+ZIP Code 98932,Granger,Yakima,Standard
+ZIP Code 98933,Harrah,Yakima,Standard
+ZIP Code 98934,Kittitas,Kittitas,P.O. Box
+ZIP Code 98935,Mabton,Yakima,Standard
+ZIP Code 98936,Moxee,Yakima,Standard
+ZIP Code 98937,Naches,Yakima,Standard
+ZIP Code 98938,Outlook,Yakima,Standard
+ZIP Code 98939,Parker,Yakima,P.O. Box
+ZIP Code 98940,Ronald,Kittitas,P.O. Box
+ZIP Code 98941,Roslyn,Kittitas,P.O. Box
+ZIP Code 98942,Selah,Yakima,Standard
+ZIP Code 98943,South Cle Elum,Kittitas,P.O. Box
+ZIP Code 98944,Sunnyside,Yakima,Standard
+ZIP Code 98946,Thorp,Kittitas,Standard
+ZIP Code 98947,Tieton,Yakima,Standard
+ZIP Code 98948,Toppenish,Yakima,Standard
+ZIP Code 98950,Vantage,Kittitas,P.O. Box
+ZIP Code 98951,Wapato,Yakima,Standard
+ZIP Code 98952,White Swan,Yakima,Standard
+ZIP Code 98953,Zillah,Yakima,Standard
+ZIP Code 99001,Airway Heights,Spokane,Standard
+ZIP Code 99003,Chattaroy,Spokane,Standard
+ZIP Code 99004,Cheney,Spokane,Standard
+ZIP Code 99005,Colbert,Spokane,Standard
+ZIP Code 99006,Deer Park,Spokane,Standard
+ZIP Code 99008,Edwall,Lincoln,Standard
+ZIP Code 99009,Elk,Spokane,Standard
+ZIP Code 99011,Fairchild Air Force Base,Spokane,Standard
+ZIP Code 99012,Fairfield,Spokane,Standard
+ZIP Code 99013,Ford,Stevens,Standard
+ZIP Code 99014,Four Lakes,Spokane,P.O. Box
+ZIP Code 99016,Greenacres,Spokane,Standard
+ZIP Code 99017,Lamont,Whitman,Standard
+ZIP Code 99018,Latah,Spokane,Standard
+ZIP Code 99019,Liberty Lake,Spokane,Standard
+ZIP Code 99020,Marshall,Spokane,P.O. Box
+ZIP Code 99021,Mead,Spokane,Standard
+ZIP Code 99022,Medical Lake,Spokane,Standard
+ZIP Code 99023,Mica,Spokane,Standard
+ZIP Code 99025,Newman Lake,Spokane,Standard
+ZIP Code 99026,Nine Mile Falls,Spokane,Standard
+ZIP Code 99027,Otis Orchards,Spokane,Standard
+ZIP Code 99029,Reardan,Lincoln,Standard
+ZIP Code 99030,Rockford,Spokane,Standard
+ZIP Code 99031,Spangle,Spokane,Standard
+ZIP Code 99032,Sprague,Lincoln,Standard
+ZIP Code 99033,Tekoa,Whitman,Standard
+ZIP Code 99034,Tumtum,Stevens,Standard
+ZIP Code 99036,Valleyford,Spokane,Standard
+ZIP Code 99037,Veradale,Spokane,Standard
+ZIP Code 99039,Waverly,Spokane,P.O. Box
+ZIP Code 99040,Wellpinit,Stevens,Standard
+ZIP Code 99101,Addy,Stevens,Standard
+ZIP Code 99102,Albion,Whitman,P.O. Box
+ZIP Code 99103,Almira,Lincoln,Standard
+ZIP Code 99104,Belmont,Whitman,Standard
+ZIP Code 99105,Benge,Adams,Standard
+ZIP Code 99109,Chewelah,Stevens,Standard
+ZIP Code 99110,Clayton,Stevens,Standard
+ZIP Code 99111,Colfax,Whitman,Standard
+ZIP Code 99113,Colton,Whitman,Standard
+ZIP Code 99114,Colville,Stevens,Standard
+ZIP Code 99115,Coulee City,Grant,Standard
+ZIP Code 99116,Coulee Dam,Okanogan,Standard
+ZIP Code 99117,Creston,Lincoln,Standard
+ZIP Code 99118,Curlew,Ferry,Standard
+ZIP Code 99119,Cusick,Pend Oreille,Standard
+ZIP Code 99121,Danville,Ferry,Standard
+ZIP Code 99122,Davenport,Lincoln,Standard
+ZIP Code 99123,Electric City,Grant,Standard
+ZIP Code 99124,Elmer City,Okanogan,P.O. Box
+ZIP Code 99125,Endicott,Whitman,Standard
+ZIP Code 99126,Evans,Stevens,Standard
+ZIP Code 99128,Farmington,Whitman,Standard
+ZIP Code 99129,Fruitland,Stevens,Standard
+ZIP Code 99130,Garfield,Whitman,Standard
+ZIP Code 99131,Gifford,Stevens,Standard
+ZIP Code 99133,Grand Coulee,Grant,Standard
+ZIP Code 99134,Harrington,Lincoln,Standard
+ZIP Code 99135,Hartline,Grant,Standard
+ZIP Code 99136,Hay,Whitman,Standard
+ZIP Code 99137,Hunters,Stevens,Standard
+ZIP Code 99138,Inchelium,Ferry,Standard
+ZIP Code 99139,Ione,Pend Oreille,Standard
+ZIP Code 99140,Keller,Ferry,Standard
+ZIP Code 99141,Kettle Falls,Stevens,Standard
+ZIP Code 99143,Lacrosse,Whitman,Standard
+ZIP Code 99144,Lamona,Lincoln,Standard
+ZIP Code 99146,Laurier,Ferry,P.O. Box
+ZIP Code 99147,Lincoln,Lincoln,Standard
+ZIP Code 99148,Loon Lake,Stevens,Standard
+ZIP Code 99149,Malden,Whitman,P.O. Box
+ZIP Code 99150,Malo,Ferry,Standard
+ZIP Code 99151,Marcus,Stevens,P.O. Box
+ZIP Code 99152,Metaline,Pend Oreille,P.O. Box
+ZIP Code 99153,Metaline Falls,Pend Oreille,Standard
+ZIP Code 99154,Mohler,Lincoln,Standard
+ZIP Code 99155,Nespelem,Okanogan,P.O. Box
+ZIP Code 99156,Newport,Pend Oreille,Standard
+ZIP Code 99157,Northport,Stevens,Standard
+ZIP Code 99158,Oakesdale,Whitman,Standard
+ZIP Code 99159,Odessa,Lincoln,Standard
+ZIP Code 99160,Orient,Ferry,Standard
+ZIP Code 99161,Palouse,Whitman,Standard
+ZIP Code 99163,Pullman,Whitman,Standard
+ZIP Code 99164,Pullman,Whitman,Unique
+ZIP Code 99166,Republic,Ferry,Standard
+ZIP Code 99167,Rice,Stevens,Standard
+ZIP Code 99169,Ritzville,Adams,Standard
+ZIP Code 99170,Rosalia,Whitman,Standard
+ZIP Code 99171,Saint John,Whitman,Standard
+ZIP Code 99173,Springdale,Stevens,Standard
+ZIP Code 99174,Steptoe,Whitman,P.O. Box
+ZIP Code 99176,Thornton,Whitman,Standard
+ZIP Code 99179,Uniontown,Whitman,Standard
+ZIP Code 99180,Usk,Pend Oreille,Standard
+ZIP Code 99181,Valley,Stevens,Standard
+ZIP Code 99185,Wilbur,Lincoln,Standard
+ZIP Code 99201,Spokane,Spokane,Standard
+ZIP Code 99202,Spokane,Spokane,Standard
+ZIP Code 99203,Spokane,Spokane,Standard
+ZIP Code 99204,Spokane,Spokane,Standard
+ZIP Code 99205,Spokane,Spokane,Standard
+ZIP Code 99206,Spokane,Spokane,Standard
+ZIP Code 99207,Spokane,Spokane,Standard
+ZIP Code 99208,Spokane,Spokane,Standard
+ZIP Code 99209,Spokane,Spokane,P.O. Box
+ZIP Code 99210,Spokane,Spokane,P.O. Box
+ZIP Code 99211,Spokane,Spokane,P.O. Box
+ZIP Code 99212,Spokane,Spokane,Standard
+ZIP Code 99213,Spokane,Spokane,P.O. Box
+ZIP Code 99214,Spokane,Spokane,P.O. Box
+ZIP Code 99215,Spokane,Spokane,P.O. Box
+ZIP Code 99216,Spokane,Spokane,Standard
+ZIP Code 99217,Spokane,Spokane,Standard
+ZIP Code 99218,Spokane,Spokane,Standard
+ZIP Code 99219,Spokane,Spokane,P.O. Box
+ZIP Code 99220,Spokane,Spokane,P.O. Box
+ZIP Code 99223,Spokane,Spokane,Standard
+ZIP Code 99224,Spokane,Spokane,Standard
+ZIP Code 99228,Spokane,Spokane,P.O. Box
+ZIP Code 99251,Spokane,Spokane,Unique
+ZIP Code 99252,Spokane,Spokane,Unique
+ZIP Code 99256,Spokane,Spokane,Unique
+ZIP Code 99258,Spokane,Spokane,Unique
+ZIP Code 99260,Spokane,Spokane,Unique
+ZIP Code 99301,Pasco,Franklin,Standard
+ZIP Code 99302,Pasco,Franklin,P.O. Box
+ZIP Code 99320,Benton City,Benton,Standard
+ZIP Code 99321,Beverly,Grant,Standard
+ZIP Code 99322,Bickleton,Klickitat,Standard
+ZIP Code 99323,Burbank,Walla Walla,Standard
+ZIP Code 99324,College Place,Walla Walla,Standard
+ZIP Code 99326,Connell,Franklin,Standard
+ZIP Code 99328,Dayton,Columbia,Standard
+ZIP Code 99329,Dixie,Walla Walla,Standard
+ZIP Code 99330,Eltopia,Franklin,Standard
+ZIP Code 99333,Hooper,Whitman,P.O. Box
+ZIP Code 99335,Kahlotus,Franklin,P.O. Box
+ZIP Code 99336,Kennewick,Benton,Standard
+ZIP Code 99337,Kennewick,Benton,Standard
+ZIP Code 99338,Kennewick,Benton,Standard
+ZIP Code 99341,Lind,Adams,Standard
+ZIP Code 99343,Mesa,Franklin,Standard
+ZIP Code 99344,Othello,Adams,Standard
+ZIP Code 99345,Paterson,Benton,P.O. Box
+ZIP Code 99346,Plymouth,Benton,P.O. Box
+ZIP Code 99347,Pomeroy,Garfield,Standard
+ZIP Code 99348,Prescott,Walla Walla,Standard
+ZIP Code 99349,Mattawa,Grant,Standard
+ZIP Code 99350,Prosser,Benton,Standard
+ZIP Code 99352,Richland,Benton,Standard
+ZIP Code 99353,West Richland,Benton,Standard
+ZIP Code 99354,Richland,Benton,Standard
+ZIP Code 99356,Roosevelt,Klickitat,Standard
+ZIP Code 99357,Royal City,Grant,Standard
+ZIP Code 99359,Starbuck,Columbia,P.O. Box
+ZIP Code 99360,Touchet,Walla Walla,Standard
+ZIP Code 99361,Waitsburg,Walla Walla,Standard
+ZIP Code 99362,Walla Walla,Walla Walla,Standard
+ZIP Code 99363,Wallula,Walla Walla,P.O. Box
+ZIP Code 99371,Washtucna,Adams,Standard
+ZIP Code 99401,Anatone,Asotin,Standard
+ZIP Code 99402,Asotin,Asotin,Standard
+ZIP Code 99403,Clarkston,Asotin,Standard

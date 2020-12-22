@@ -1,0 +1,945 @@
+ZIP CODE,City,County,Type
+ZIP Code 40003,Bagdad,Shelby,Standard
+ZIP Code 40004,Bardstown,Nelson,Standard
+ZIP Code 40006,Bedford,Trimble,Standard
+ZIP Code 40007,Bethlehem,Henry,Standard
+ZIP Code 40008,Bloomfield,Nelson,Standard
+ZIP Code 40009,Bradfordsville,Marion,Standard
+ZIP Code 40010,Buckner,Oldham,Standard
+ZIP Code 40011,Campbellsburg,Henry,Standard
+ZIP Code 40012,Chaplin,Nelson,Standard
+ZIP Code 40013,Coxs Creek,Nelson,Standard
+ZIP Code 40014,Crestwood,Oldham,Standard
+ZIP Code 40018,Eastwood,Jefferson,P.O. Box
+ZIP Code 40019,Eminence,Henry,Standard
+ZIP Code 40020,Fairfield,Nelson,P.O. Box
+ZIP Code 40022,Finchville,Shelby,Standard
+ZIP Code 40023,Fisherville,Jefferson,Standard
+ZIP Code 40025,Glenview,Jefferson,P.O. Box
+ZIP Code 40026,Goshen,Oldham,Standard
+ZIP Code 40027,Harrods Creek,Jefferson,P.O. Box
+ZIP Code 40031,La Grange,Oldham,Standard
+ZIP Code 40032,La Grange,Oldham,Unique
+ZIP Code 40033,Lebanon,Marion,Standard
+ZIP Code 40036,Lockport,Henry,Standard
+ZIP Code 40037,Loretto,Marion,Standard
+ZIP Code 40040,Mackville,Washington,Standard
+ZIP Code 40041,Masonic Home,Jefferson,Standard
+ZIP Code 40045,Milton,Trimble,Standard
+ZIP Code 40046,Mount Eden,Spencer,Standard
+ZIP Code 40047,Mount Washington,Bullitt,Standard
+ZIP Code 40048,Nazareth,Nelson,P.O. Box
+ZIP Code 40049,Nerinx,Marion,P.O. Box
+ZIP Code 40050,New Castle,Henry,Standard
+ZIP Code 40051,New Haven,Nelson,Standard
+ZIP Code 40052,New Hope,Nelson,Standard
+ZIP Code 40055,Pendleton,Henry,Standard
+ZIP Code 40056,Pewee Valley,Oldham,Standard
+ZIP Code 40057,Pleasureville,Henry,Standard
+ZIP Code 40058,Port Royal,Henry,P.O. Box
+ZIP Code 40059,Prospect,Jefferson,Standard
+ZIP Code 40060,Raywick,Marion,Standard
+ZIP Code 40061,Saint Catharine,Washington,P.O. Box
+ZIP Code 40062,Saint Francis,Marion,Standard
+ZIP Code 40063,Saint Mary,Marion,P.O. Box
+ZIP Code 40065,Shelbyville,Shelby,Standard
+ZIP Code 40066,Shelbyville,Shelby,P.O. Box
+ZIP Code 40067,Simpsonville,Shelby,Standard
+ZIP Code 40068,Smithfield,Henry,Standard
+ZIP Code 40069,Springfield,Washington,Standard
+ZIP Code 40070,Sulphur,Henry,Standard
+ZIP Code 40071,Taylorsville,Spencer,Standard
+ZIP Code 40075,Turners Station,Henry,Standard
+ZIP Code 40076,Waddy,Shelby,Standard
+ZIP Code 40077,Westport,Oldham,Standard
+ZIP Code 40078,Willisburg,Washington,Standard
+ZIP Code 40104,Battletown,Meade,Standard
+ZIP Code 40107,Boston,Nelson,Standard
+ZIP Code 40108,Brandenburg,Meade,Standard
+ZIP Code 40109,Brooks,Bullitt,Standard
+ZIP Code 40110,Clermont,Bullitt,P.O. Box
+ZIP Code 40111,Cloverport,Breckinridge,Standard
+ZIP Code 40115,Custer,Breckinridge,Standard
+ZIP Code 40117,Ekron,Meade,Standard
+ZIP Code 40118,Fairdale,Jefferson,Standard
+ZIP Code 40119,Falls Of Rough,Grayson,Standard
+ZIP Code 40121,Fort Knox,Hardin,Standard
+ZIP Code 40122,Fort Knox,Hardin,Standard
+ZIP Code 40129,Hillview,Bullitt,P.O. Box
+ZIP Code 40140,Garfield,Breckinridge,Standard
+ZIP Code 40142,Guston,Meade,Standard
+ZIP Code 40143,Hardinsburg,Breckinridge,Standard
+ZIP Code 40144,Harned,Breckinridge,Standard
+ZIP Code 40145,Hudson,Breckinridge,Standard
+ZIP Code 40146,Irvington,Breckinridge,Standard
+ZIP Code 40150,Lebanon Junction,Bullitt,Standard
+ZIP Code 40152,Mc Daniels,Breckinridge,Standard
+ZIP Code 40153,Mc Quady,Breckinridge,P.O. Box
+ZIP Code 40155,Muldraugh,Meade,Standard
+ZIP Code 40157,Payneville,Meade,Standard
+ZIP Code 40159,Radcliff,Hardin,P.O. Box
+ZIP Code 40160,Radcliff,Hardin,Standard
+ZIP Code 40161,Rhodelia,Meade,Standard
+ZIP Code 40162,Rineyville,Hardin,Standard
+ZIP Code 40165,Shepherdsville,Bullitt,Standard
+ZIP Code 40166,Shepherdsville,Bullitt,Unique
+ZIP Code 40170,Stephensport,Breckinridge,Standard
+ZIP Code 40171,Union Star,Breckinridge,Standard
+ZIP Code 40175,Vine Grove,Hardin,Standard
+ZIP Code 40176,Webster,Breckinridge,Standard
+ZIP Code 40177,West Point,Hardin,Standard
+ZIP Code 40178,Westview,Breckinridge,Standard
+ZIP Code 40201,Louisville,Jefferson,P.O. Box
+ZIP Code 40202,Louisville,Jefferson,Standard
+ZIP Code 40203,Louisville,Jefferson,Standard
+ZIP Code 40204,Louisville,Jefferson,Standard
+ZIP Code 40205,Louisville,Jefferson,Standard
+ZIP Code 40206,Louisville,Jefferson,Standard
+ZIP Code 40207,Louisville,Jefferson,Standard
+ZIP Code 40208,Louisville,Jefferson,Standard
+ZIP Code 40209,Louisville,Jefferson,Standard
+ZIP Code 40210,Louisville,Jefferson,Standard
+ZIP Code 40211,Louisville,Jefferson,Standard
+ZIP Code 40212,Louisville,Jefferson,Standard
+ZIP Code 40213,Louisville,Jefferson,Standard
+ZIP Code 40214,Louisville,Jefferson,Standard
+ZIP Code 40215,Louisville,Jefferson,Standard
+ZIP Code 40216,Louisville,Jefferson,Standard
+ZIP Code 40217,Louisville,Jefferson,Standard
+ZIP Code 40218,Louisville,Jefferson,Standard
+ZIP Code 40219,Louisville,Jefferson,Standard
+ZIP Code 40220,Louisville,Jefferson,Standard
+ZIP Code 40221,Louisville,Jefferson,P.O. Box
+ZIP Code 40222,Louisville,Jefferson,Standard
+ZIP Code 40223,Louisville,Jefferson,Standard
+ZIP Code 40224,Louisville,Jefferson,P.O. Box
+ZIP Code 40225,Louisville,Jefferson,Unique
+ZIP Code 40228,Louisville,Jefferson,Standard
+ZIP Code 40229,Louisville,Jefferson,Standard
+ZIP Code 40231,Louisville,Jefferson,P.O. Box
+ZIP Code 40232,Louisville,Jefferson,P.O. Box
+ZIP Code 40233,Louisville,Jefferson,P.O. Box
+ZIP Code 40241,Louisville,Jefferson,Standard
+ZIP Code 40242,Louisville,Jefferson,Standard
+ZIP Code 40243,Louisville,Jefferson,Standard
+ZIP Code 40245,Louisville,Jefferson,Standard
+ZIP Code 40250,Louisville,Jefferson,P.O. Box
+ZIP Code 40251,Louisville,Jefferson,P.O. Box
+ZIP Code 40252,Louisville,Jefferson,P.O. Box
+ZIP Code 40253,Louisville,Jefferson,P.O. Box
+ZIP Code 40255,Louisville,Jefferson,P.O. Box
+ZIP Code 40256,Louisville,Jefferson,P.O. Box
+ZIP Code 40257,Louisville,Jefferson,P.O. Box
+ZIP Code 40258,Louisville,Jefferson,Standard
+ZIP Code 40259,Louisville,Jefferson,P.O. Box
+ZIP Code 40261,Louisville,Jefferson,P.O. Box
+ZIP Code 40266,Louisville,Jefferson,Unique
+ZIP Code 40268,Louisville,Jefferson,P.O. Box
+ZIP Code 40269,Louisville,Jefferson,P.O. Box
+ZIP Code 40270,Louisville,Jefferson,P.O. Box
+ZIP Code 40272,Louisville,Jefferson,Standard
+ZIP Code 40280,Louisville,Jefferson,Unique
+ZIP Code 40281,Louisville,Jefferson,Unique
+ZIP Code 40282,Louisville,Jefferson,Unique
+ZIP Code 40283,Louisville,Jefferson,Unique
+ZIP Code 40285,Louisville,Jefferson,P.O. Box
+ZIP Code 40287,Louisville,Jefferson,Unique
+ZIP Code 40289,Louisville,Jefferson,Unique
+ZIP Code 40290,Louisville,Jefferson,P.O. Box
+ZIP Code 40291,Louisville,Jefferson,Standard
+ZIP Code 40292,Louisville,Jefferson,Unique
+ZIP Code 40293,Louisville,Jefferson,Standard
+ZIP Code 40294,Louisville,Jefferson,Unique
+ZIP Code 40295,Louisville,Jefferson,P.O. Box
+ZIP Code 40296,Louisville,Jefferson,Unique
+ZIP Code 40297,Louisville,Jefferson,Unique
+ZIP Code 40298,Louisville,Jefferson,P.O. Box
+ZIP Code 40299,Louisville,Jefferson,Standard
+ZIP Code 40310,Burgin,Mercer,P.O. Box
+ZIP Code 40311,Carlisle,Nicholas,Standard
+ZIP Code 40312,Clay City,Powell,Standard
+ZIP Code 40313,Clearfield,Rowan,Standard
+ZIP Code 40316,Denniston,Menifee,Standard
+ZIP Code 40317,Elliottville,Rowan,P.O. Box
+ZIP Code 40319,Farmers,Rowan,P.O. Box
+ZIP Code 40322,Frenchburg,Menifee,Standard
+ZIP Code 40324,Georgetown,Scott,Standard
+ZIP Code 40328,Gravel Switch,Marion,Standard
+ZIP Code 40330,Harrodsburg,Mercer,Standard
+ZIP Code 40334,Hope,Bath,Standard
+ZIP Code 40336,Irvine,Estill,Standard
+ZIP Code 40337,Jeffersonville,Montgomery,Standard
+ZIP Code 40339,Keene,Jessamine,P.O. Box
+ZIP Code 40340,Nicholasville,Jessamine,P.O. Box
+ZIP Code 40342,Lawrenceburg,Anderson,Standard
+ZIP Code 40346,Means,Menifee,Standard
+ZIP Code 40347,Midway,Woodford,Standard
+ZIP Code 40348,Millersburg,Bourbon,P.O. Box
+ZIP Code 40350,Moorefield,Nicholas,Standard
+ZIP Code 40351,Morehead,Rowan,Standard
+ZIP Code 40353,Mount Sterling,Montgomery,Standard
+ZIP Code 40355,New Liberty,Owen,Standard
+ZIP Code 40356,Nicholasville,Jessamine,Standard
+ZIP Code 40357,North Middletown,Bourbon,P.O. Box
+ZIP Code 40358,Olympia,Bath,Standard
+ZIP Code 40359,Owenton,Owen,Standard
+ZIP Code 40360,Owingsville,Bath,Standard
+ZIP Code 40361,Paris,Bourbon,Standard
+ZIP Code 40362,Paris,Bourbon,P.O. Box
+ZIP Code 40363,Perry Park,Owen,P.O. Box
+ZIP Code 40370,Sadieville,Scott,Standard
+ZIP Code 40371,Salt Lick,Bath,Standard
+ZIP Code 40372,Salvisa,Mercer,Standard
+ZIP Code 40374,Sharpsburg,Bath,Standard
+ZIP Code 40376,Slade,Powell,Standard
+ZIP Code 40379,Stamping Ground,Scott,Standard
+ZIP Code 40380,Stanton,Powell,Standard
+ZIP Code 40383,Versailles,Woodford,Standard
+ZIP Code 40384,Versailles,Woodford,Unique
+ZIP Code 40385,Waco,Madison,Standard
+ZIP Code 40387,Wellington,Menifee,Standard
+ZIP Code 40390,Wilmore,Jessamine,Standard
+ZIP Code 40391,Winchester,Clark,Standard
+ZIP Code 40392,Winchester,Clark,P.O. Box
+ZIP Code 40402,Annville,Jackson,Standard
+ZIP Code 40403,Berea,Madison,Standard
+ZIP Code 40404,Berea,Madison,Unique
+ZIP Code 40405,Bighill,Madison,P.O. Box
+ZIP Code 40409,Brodhead,Rockcastle,Standard
+ZIP Code 40410,Bryantsville,Garrard,P.O. Box
+ZIP Code 40419,Crab Orchard,Lincoln,Standard
+ZIP Code 40422,Danville,Boyle,Standard
+ZIP Code 40423,Danville,Boyle,P.O. Box
+ZIP Code 40434,Gray Hawk,Jackson,P.O. Box
+ZIP Code 40437,Hustonville,Lincoln,Standard
+ZIP Code 40440,Junction City,Boyle,Standard
+ZIP Code 40442,Kings Mountain,Lincoln,Standard
+ZIP Code 40444,Lancaster,Garrard,Standard
+ZIP Code 40445,Livingston,Rockcastle,Standard
+ZIP Code 40447,Mc Kee,Jackson,Standard
+ZIP Code 40448,Mc Kinney,Lincoln,P.O. Box
+ZIP Code 40452,Mitchellsburg,Boyle,P.O. Box
+ZIP Code 40456,Mount Vernon,Rockcastle,Standard
+ZIP Code 40460,Orlando,Rockcastle,Standard
+ZIP Code 40461,Paint Lick,Garrard,Standard
+ZIP Code 40464,Parksville,Boyle,Standard
+ZIP Code 40468,Perryville,Boyle,Standard
+ZIP Code 40472,Ravenna,Estill,Standard
+ZIP Code 40473,Renfro Valley,Rockcastle,P.O. Box
+ZIP Code 40475,Richmond,Madison,Standard
+ZIP Code 40476,Richmond,Madison,P.O. Box
+ZIP Code 40481,Sandgap,Jackson,Standard
+ZIP Code 40484,Stanford,Lincoln,Standard
+ZIP Code 40486,Tyner,Jackson,Standard
+ZIP Code 40488,Waneta,Jackson,P.O. Box
+ZIP Code 40489,Waynesburg,Lincoln,Standard
+ZIP Code 40492,Wildie,Rockcastle,P.O. Box
+ZIP Code 40502,Lexington,Fayette,Standard
+ZIP Code 40503,Lexington,Fayette,Standard
+ZIP Code 40504,Lexington,Fayette,Standard
+ZIP Code 40505,Lexington,Fayette,Standard
+ZIP Code 40506,Lexington,Fayette,Unique
+ZIP Code 40507,Lexington,Fayette,Standard
+ZIP Code 40508,Lexington,Fayette,Standard
+ZIP Code 40509,Lexington,Fayette,Standard
+ZIP Code 40510,Lexington,Fayette,Standard
+ZIP Code 40511,Lexington,Fayette,Standard
+ZIP Code 40512,Lexington,Fayette,P.O. Box
+ZIP Code 40513,Lexington,Fayette,Standard
+ZIP Code 40514,Lexington,Fayette,Standard
+ZIP Code 40515,Lexington,Fayette,Standard
+ZIP Code 40516,Lexington,Fayette,Standard
+ZIP Code 40517,Lexington,Fayette,Standard
+ZIP Code 40522,Lexington,Fayette,P.O. Box
+ZIP Code 40523,Lexington,Fayette,P.O. Box
+ZIP Code 40524,Lexington,Fayette,P.O. Box
+ZIP Code 40526,Lexington,Fayette,Unique
+ZIP Code 40533,Lexington,Fayette,P.O. Box
+ZIP Code 40536,Lexington,Fayette,Unique
+ZIP Code 40544,Lexington,Fayette,P.O. Box
+ZIP Code 40546,Lexington,Fayette,Unique
+ZIP Code 40550,Lexington,Fayette,Unique
+ZIP Code 40555,Lexington,Fayette,P.O. Box
+ZIP Code 40574,Lexington,Fayette,P.O. Box
+ZIP Code 40575,Lexington,Fayette,P.O. Box
+ZIP Code 40576,Lexington,Fayette,P.O. Box
+ZIP Code 40577,Lexington,Fayette,P.O. Box
+ZIP Code 40578,Lexington,Fayette,P.O. Box
+ZIP Code 40579,Lexington,Fayette,P.O. Box
+ZIP Code 40580,Lexington,Fayette,P.O. Box
+ZIP Code 40581,Lexington,Fayette,P.O. Box
+ZIP Code 40582,Lexington,Fayette,P.O. Box
+ZIP Code 40583,Lexington,Fayette,P.O. Box
+ZIP Code 40588,Lexington,Fayette,P.O. Box
+ZIP Code 40591,Lexington,Fayette,P.O. Box
+ZIP Code 40598,Lexington,Fayette,Unique
+ZIP Code 40601,Frankfort,Franklin,Standard
+ZIP Code 40602,Frankfort,Franklin,P.O. Box
+ZIP Code 40603,Frankfort,Franklin,P.O. Box
+ZIP Code 40604,Frankfort,Franklin,P.O. Box
+ZIP Code 40618,Frankfort,Franklin,Unique
+ZIP Code 40619,Frankfort,Franklin,Unique
+ZIP Code 40620,Frankfort,Franklin,Unique
+ZIP Code 40621,Frankfort,Franklin,Unique
+ZIP Code 40622,Frankfort,Franklin,Unique
+ZIP Code 40701,Corbin,Whitley,Standard
+ZIP Code 40702,Corbin,Whitley,P.O. Box
+ZIP Code 40724,Bush,Laurel,P.O. Box
+ZIP Code 40729,East Bernstadt,Laurel,Standard
+ZIP Code 40730,Emlyn,Whitley,P.O. Box
+ZIP Code 40734,Gray,Knox,Standard
+ZIP Code 40737,Keavy,Laurel,Standard
+ZIP Code 40740,Lily,Laurel,Standard
+ZIP Code 40741,London,Laurel,Standard
+ZIP Code 40742,London,Laurel,P.O. Box
+ZIP Code 40743,London,Laurel,P.O. Box
+ZIP Code 40744,London,Laurel,Standard
+ZIP Code 40745,London,Laurel,P.O. Box
+ZIP Code 40750,London,Laurel,Unique
+ZIP Code 40755,Pittsburg,Laurel,P.O. Box
+ZIP Code 40759,Rockholds,Whitley,Standard
+ZIP Code 40763,Siler,Whitley,Standard
+ZIP Code 40769,Williamsburg,Whitley,Standard
+ZIP Code 40771,Woodbine,Knox,Standard
+ZIP Code 40801,Ages Brookside,Harlan,P.O. Box
+ZIP Code 40803,Asher,Leslie,P.O. Box
+ZIP Code 40806,Baxter,Harlan,Standard
+ZIP Code 40807,Benham,Harlan,P.O. Box
+ZIP Code 40808,Big Laurel,Harlan,Standard
+ZIP Code 40810,Bledsoe,Harlan,Standard
+ZIP Code 40813,Calvin,Bell,Standard
+ZIP Code 40815,Cawood,Harlan,Standard
+ZIP Code 40816,Chappell,Leslie,Standard
+ZIP Code 40818,Coalgood,Harlan,Standard
+ZIP Code 40819,Coldiron,Harlan,Standard
+ZIP Code 40820,Cranks,Harlan,Standard
+ZIP Code 40823,Cumberland,Harlan,Standard
+ZIP Code 40824,Dayhoit,Harlan,P.O. Box
+ZIP Code 40826,Eolia,Letcher,Standard
+ZIP Code 40827,Essie,Leslie,Standard
+ZIP Code 40828,Evarts,Harlan,Standard
+ZIP Code 40829,Grays Knob,Harlan,P.O. Box
+ZIP Code 40830,Gulston,Harlan,Standard
+ZIP Code 40831,Harlan,Harlan,Standard
+ZIP Code 40840,Helton,Leslie,Standard
+ZIP Code 40843,Holmes Mill,Harlan,Standard
+ZIP Code 40844,Hoskinston,Leslie,P.O. Box
+ZIP Code 40845,Hulen,Bell,Standard
+ZIP Code 40847,Kenvir,Harlan,P.O. Box
+ZIP Code 40849,Lejunior,Harlan,P.O. Box
+ZIP Code 40854,Loyall,Harlan,P.O. Box
+ZIP Code 40855,Lynch,Harlan,P.O. Box
+ZIP Code 40856,Miracle,Bell,Standard
+ZIP Code 40858,Mozelle,Leslie,Standard
+ZIP Code 40862,Partridge,Letcher,Standard
+ZIP Code 40863,Pathfork,Harlan,Standard
+ZIP Code 40865,Putney,Harlan,Standard
+ZIP Code 40868,Stinnett,Leslie,Standard
+ZIP Code 40870,Totz,Harlan,Standard
+ZIP Code 40873,Wallins Creek,Harlan,Standard
+ZIP Code 40874,Warbranch,Leslie,Standard
+ZIP Code 40902,Arjay,Bell,Standard
+ZIP Code 40903,Artemus,Knox,Standard
+ZIP Code 40906,Barbourville,Knox,Standard
+ZIP Code 40913,Beverly,Bell,Standard
+ZIP Code 40914,Big Creek,Clay,Standard
+ZIP Code 40915,Bimble,Knox,Standard
+ZIP Code 40921,Bryants Store,Knox,Standard
+ZIP Code 40923,Cannon,Knox,Standard
+ZIP Code 40927,Closplint,Harlan,Standard
+ZIP Code 40930,Dewitt,Knox,P.O. Box
+ZIP Code 40932,Fall Rock,Clay,P.O. Box
+ZIP Code 40935,Flat Lick,Knox,Standard
+ZIP Code 40939,Fourmile,Bell,Standard
+ZIP Code 40940,Frakes,Bell,Standard
+ZIP Code 40941,Garrard,Clay,P.O. Box
+ZIP Code 40943,Girdler,Knox,Standard
+ZIP Code 40944,Goose Rock,Clay,P.O. Box
+ZIP Code 40946,Green Road,Knox,Standard
+ZIP Code 40949,Heidrick,Knox,Standard
+ZIP Code 40951,Hima,Clay,P.O. Box
+ZIP Code 40953,Hinkle,Knox,Standard
+ZIP Code 40955,Ingram,Bell,P.O. Box
+ZIP Code 40958,Kettle Island,Bell,Standard
+ZIP Code 40962,Manchester,Clay,Standard
+ZIP Code 40964,Mary Alice,Harlan,Standard
+ZIP Code 40965,Middlesboro,Bell,Standard
+ZIP Code 40972,Oneida,Clay,Standard
+ZIP Code 40977,Pineville,Bell,Standard
+ZIP Code 40979,Roark,Leslie,Standard
+ZIP Code 40981,Saul,Perry,P.O. Box
+ZIP Code 40982,Scalf,Knox,Standard
+ZIP Code 40983,Sextons Creek,Clay,Standard
+ZIP Code 40988,Stoney Fork,Bell,Standard
+ZIP Code 40995,Trosper,Knox,Standard
+ZIP Code 40997,Walker,Knox,Standard
+ZIP Code 41001,Alexandria,Campbell,Standard
+ZIP Code 41002,Augusta,Bracken,Standard
+ZIP Code 41003,Berry,Harrison,Standard
+ZIP Code 41004,Brooksville,Bracken,Standard
+ZIP Code 41005,Burlington,Boone,Standard
+ZIP Code 41006,Butler,Pendleton,Standard
+ZIP Code 41007,California,Campbell,Standard
+ZIP Code 41008,Carrollton,Carroll,Standard
+ZIP Code 41010,Corinth,Grant,Standard
+ZIP Code 41011,Covington,Kenton,Standard
+ZIP Code 41012,Covington,Kenton,P.O. Box
+ZIP Code 41014,Covington,Kenton,Standard
+ZIP Code 41015,Latonia,Kenton,Standard
+ZIP Code 41016,Covington,Kenton,Standard
+ZIP Code 41017,Ft Mitchell,Kenton,Standard
+ZIP Code 41018,Erlanger,Kenton,Standard
+ZIP Code 41019,Covington,Kenton,Unique
+ZIP Code 41021,Hebron,Boone,Unique
+ZIP Code 41022,Florence,Boone,P.O. Box
+ZIP Code 41025,Erlanger,Kenton,Unique
+ZIP Code 41030,Crittenden,Grant,Standard
+ZIP Code 41031,Cynthiana,Harrison,Standard
+ZIP Code 41033,De Mossville,Pendleton,Standard
+ZIP Code 41034,Dover,Mason,Standard
+ZIP Code 41035,Dry Ridge,Grant,Standard
+ZIP Code 41037,Elizaville,Fleming,P.O. Box
+ZIP Code 41039,Ewing,Fleming,Standard
+ZIP Code 41040,Falmouth,Pendleton,Standard
+ZIP Code 41041,Flemingsburg,Fleming,Standard
+ZIP Code 41042,Florence,Boone,Standard
+ZIP Code 41043,Foster,Bracken,Standard
+ZIP Code 41044,Germantown,Bracken,Standard
+ZIP Code 41045,Ghent,Carroll,Standard
+ZIP Code 41046,Glencoe,Gallatin,Standard
+ZIP Code 41048,Hebron,Boone,Standard
+ZIP Code 41049,Hillsboro,Fleming,Standard
+ZIP Code 41051,Independence,Kenton,Standard
+ZIP Code 41052,Jonesville,Grant,Standard
+ZIP Code 41053,Kenton,Kenton,P.O. Box
+ZIP Code 41054,Mason,Grant,P.O. Box
+ZIP Code 41055,Mayslick,Mason,Standard
+ZIP Code 41056,Maysville,Mason,Standard
+ZIP Code 41059,Melbourne,Campbell,Standard
+ZIP Code 41061,Milford,Bracken,P.O. Box
+ZIP Code 41062,Minerva,Mason,P.O. Box
+ZIP Code 41063,Morning View,Kenton,Standard
+ZIP Code 41064,Mount Olivet,Robertson,Standard
+ZIP Code 41071,Newport,Campbell,Standard
+ZIP Code 41072,Newport,Campbell,P.O. Box
+ZIP Code 41073,Bellevue,Campbell,Standard
+ZIP Code 41074,Dayton,Campbell,Standard
+ZIP Code 41075,Fort Thomas,Campbell,Standard
+ZIP Code 41076,Newport,Campbell,Standard
+ZIP Code 41080,Petersburg,Boone,Standard
+ZIP Code 41081,Plummers Landing,Fleming,P.O. Box
+ZIP Code 41083,Sanders,Carroll,Standard
+ZIP Code 41085,Silver Grove,Campbell,P.O. Box
+ZIP Code 41086,Sparta,Gallatin,Standard
+ZIP Code 41091,Union,Boone,Standard
+ZIP Code 41092,Verona,Boone,Standard
+ZIP Code 41093,Wallingford,Fleming,Standard
+ZIP Code 41094,Walton,Boone,Standard
+ZIP Code 41095,Warsaw,Gallatin,Standard
+ZIP Code 41096,Washington,Mason,P.O. Box
+ZIP Code 41097,Williamstown,Grant,Standard
+ZIP Code 41098,Worthville,Carroll,Standard
+ZIP Code 41099,Newport,Campbell,Unique
+ZIP Code 41101,Ashland,Boyd,Standard
+ZIP Code 41102,Ashland,Boyd,Standard
+ZIP Code 41105,Ashland,Boyd,P.O. Box
+ZIP Code 41114,Ashland,Boyd,Unique
+ZIP Code 41121,Argillite,Greenup,Standard
+ZIP Code 41124,Blaine,Lawrence,Standard
+ZIP Code 41128,Carter,Carter,P.O. Box
+ZIP Code 41129,Catlettsburg,Boyd,Standard
+ZIP Code 41132,Denton,Carter,Standard
+ZIP Code 41135,Emerson,Lewis,Standard
+ZIP Code 41139,Flatwoods,Greenup,Standard
+ZIP Code 41141,Garrison,Lewis,Standard
+ZIP Code 41142,Grahn,Carter,P.O. Box
+ZIP Code 41143,Grayson,Carter,Standard
+ZIP Code 41144,Greenup,Greenup,Standard
+ZIP Code 41146,Hitchins,Carter,Standard
+ZIP Code 41149,Isonville,Elliott,Standard
+ZIP Code 41159,Martha,Lawrence,Standard
+ZIP Code 41160,Mazie,Lawrence,Standard
+ZIP Code 41164,Olive Hill,Carter,Standard
+ZIP Code 41166,Quincy,Lewis,Standard
+ZIP Code 41168,Rush,Boyd,Standard
+ZIP Code 41169,Russell,Greenup,Standard
+ZIP Code 41171,Sandy Hook,Elliott,Standard
+ZIP Code 41173,Soldier,Carter,P.O. Box
+ZIP Code 41174,South Portsmouth,Greenup,Standard
+ZIP Code 41175,South Shore,Greenup,Standard
+ZIP Code 41179,Vanceburg,Lewis,Standard
+ZIP Code 41180,Webbville,Lawrence,Standard
+ZIP Code 41181,Willard,Carter,P.O. Box
+ZIP Code 41183,Worthington,Greenup,Standard
+ZIP Code 41189,Tollesboro,Lewis,Standard
+ZIP Code 41201,Adams,Lawrence,Standard
+ZIP Code 41203,Beauty,Martin,Standard
+ZIP Code 41204,Boons Camp,Johnson,Standard
+ZIP Code 41214,Debord,Martin,Standard
+ZIP Code 41216,East Point,Johnson,Standard
+ZIP Code 41219,Flatgap,Johnson,Standard
+ZIP Code 41222,Hagerhill,Johnson,Standard
+ZIP Code 41224,Inez,Martin,Standard
+ZIP Code 41226,Keaton,Johnson,Standard
+ZIP Code 41230,Louisa,Lawrence,Standard
+ZIP Code 41231,Lovely,Martin,Standard
+ZIP Code 41232,Lowmansville,Lawrence,Standard
+ZIP Code 41234,Meally,Johnson,Standard
+ZIP Code 41238,Oil Springs,Johnson,Standard
+ZIP Code 41240,Paintsville,Johnson,Standard
+ZIP Code 41250,Pilgrim,Martin,Standard
+ZIP Code 41254,River,Johnson,Standard
+ZIP Code 41255,Sitka,Johnson,Standard
+ZIP Code 41256,Staffordsville,Johnson,Standard
+ZIP Code 41257,Stambaugh,Johnson,Standard
+ZIP Code 41260,Thelma,Johnson,Standard
+ZIP Code 41262,Tomahawk,Martin,Standard
+ZIP Code 41263,Tutor Key,Johnson,Standard
+ZIP Code 41264,Ulysses,Lawrence,Standard
+ZIP Code 41265,Van Lear,Johnson,Standard
+ZIP Code 41267,Warfield,Martin,Standard
+ZIP Code 41268,West Van Lear,Johnson,Standard
+ZIP Code 41271,Williamsport,Johnson,Standard
+ZIP Code 41274,Wittensville,Johnson,Standard
+ZIP Code 41301,Campton,Wolfe,Standard
+ZIP Code 41310,Bays,Breathitt,Standard
+ZIP Code 41311,Beattyville,Lee,Standard
+ZIP Code 41314,Booneville,Owsley,Standard
+ZIP Code 41317,Clayhole,Breathitt,Standard
+ZIP Code 41332,Hazel Green,Wolfe,Standard
+ZIP Code 41339,Jackson,Breathitt,Standard
+ZIP Code 41347,Lone,Lee,P.O. Box
+ZIP Code 41348,Lost Creek,Breathitt,Standard
+ZIP Code 41351,Mistletoe,Owsley,Standard
+ZIP Code 41352,Mize,Morgan,Standard
+ZIP Code 41360,Pine Ridge,Wolfe,Standard
+ZIP Code 41364,Ricetown,Owsley,Standard
+ZIP Code 41365,Rogers,Wolfe,Standard
+ZIP Code 41366,Rousseau,Breathitt,Standard
+ZIP Code 41367,Rowdy,Perry,Standard
+ZIP Code 41368,Saint Helens,Lee,P.O. Box
+ZIP Code 41385,Vancleve,Breathitt,Standard
+ZIP Code 41386,Vincent,Owsley,Standard
+ZIP Code 41390,Whick,Breathitt,Standard
+ZIP Code 41397,Zoe,Lee,Standard
+ZIP Code 41408,Cannel City,Morgan,Standard
+ZIP Code 41413,Crockett,Morgan,P.O. Box
+ZIP Code 41421,Elkfork,Morgan,Standard
+ZIP Code 41425,Ezel,Morgan,Standard
+ZIP Code 41426,Falcon,Magoffin,P.O. Box
+ZIP Code 41451,Malone,Morgan,P.O. Box
+ZIP Code 41464,Royalton,Magoffin,Standard
+ZIP Code 41465,Salyersville,Magoffin,Standard
+ZIP Code 41472,West Liberty,Morgan,Standard
+ZIP Code 41477,Wrigley,Morgan,P.O. Box
+ZIP Code 41501,Pikeville,Pike,Standard
+ZIP Code 41502,Pikeville,Pike,P.O. Box
+ZIP Code 41503,South Williamson,Pike,Standard
+ZIP Code 41512,Ashcamp,Pike,Standard
+ZIP Code 41513,Belcher,Pike,Standard
+ZIP Code 41514,Belfry,Pike,Standard
+ZIP Code 41517,Burdine,Letcher,Standard
+ZIP Code 41519,Canada,Pike,Standard
+ZIP Code 41520,Dorton,Pike,P.O. Box
+ZIP Code 41522,Elkhorn City,Pike,Standard
+ZIP Code 41524,Fedscreek,Pike,Standard
+ZIP Code 41526,Fords Branch,Pike,P.O. Box
+ZIP Code 41527,Forest Hills,Pike,Standard
+ZIP Code 41528,Freeburn,Pike,Standard
+ZIP Code 41531,Hardy,Pike,Standard
+ZIP Code 41534,Hellier,Pike,Standard
+ZIP Code 41535,Huddy,Pike,Standard
+ZIP Code 41537,Jenkins,Letcher,Standard
+ZIP Code 41538,Jonancy,Pike,P.O. Box
+ZIP Code 41539,Kimper,Pike,Standard
+ZIP Code 41540,Lick Creek,Pike,Standard
+ZIP Code 41542,Lookout,Pike,P.O. Box
+ZIP Code 41543,Mc Andrews,Pike,Standard
+ZIP Code 41544,Mc Carr,Pike,Standard
+ZIP Code 41547,Majestic,Pike,Standard
+ZIP Code 41548,Mouthcard,Pike,Standard
+ZIP Code 41549,Myra,Pike,P.O. Box
+ZIP Code 41553,Phelps,Pike,Standard
+ZIP Code 41554,Phyllis,Pike,Standard
+ZIP Code 41555,Pinsonfork,Pike,Standard
+ZIP Code 41557,Raccoon,Pike,Standard
+ZIP Code 41558,Ransom,Pike,Standard
+ZIP Code 41559,Regina,Pike,Standard
+ZIP Code 41560,Robinson Creek,Pike,Standard
+ZIP Code 41561,Rockhouse,Pike,P.O. Box
+ZIP Code 41562,Shelbiana,Pike,Standard
+ZIP Code 41563,Shelby Gap,Pike,Standard
+ZIP Code 41564,Sidney,Pike,Standard
+ZIP Code 41566,Steele,Pike,Standard
+ZIP Code 41567,Stone,Pike,Standard
+ZIP Code 41568,Stopover,Pike,Standard
+ZIP Code 41571,Varney,Pike,Standard
+ZIP Code 41572,Virgie,Pike,Standard
+ZIP Code 41601,Allen,Floyd,Standard
+ZIP Code 41602,Auxier,Floyd,Standard
+ZIP Code 41603,Banner,Floyd,Standard
+ZIP Code 41604,Beaver,Floyd,Standard
+ZIP Code 41605,Betsy Layne,Floyd,Standard
+ZIP Code 41606,Bevinsville,Floyd,Standard
+ZIP Code 41607,Blue River,Floyd,Standard
+ZIP Code 41612,Bypro,Floyd,Standard
+ZIP Code 41615,Dana,Floyd,Standard
+ZIP Code 41616,David,Floyd,Standard
+ZIP Code 41619,Drift,Floyd,Standard
+ZIP Code 41621,Dwale,Floyd,Standard
+ZIP Code 41622,Eastern,Floyd,Standard
+ZIP Code 41630,Garrett,Floyd,Standard
+ZIP Code 41631,Grethel,Floyd,Standard
+ZIP Code 41632,Gunlock,Magoffin,Standard
+ZIP Code 41635,Harold,Floyd,Standard
+ZIP Code 41636,Hi Hat,Floyd,Standard
+ZIP Code 41640,Hueysville,Floyd,Standard
+ZIP Code 41642,Ivel,Floyd,Standard
+ZIP Code 41643,Lackey,Floyd,Standard
+ZIP Code 41645,Langley,Floyd,Standard
+ZIP Code 41647,Mc Dowell,Floyd,Standard
+ZIP Code 41649,Martin,Floyd,Standard
+ZIP Code 41650,Melvin,Floyd,Standard
+ZIP Code 41651,Minnie,Floyd,Standard
+ZIP Code 41653,Prestonsburg,Floyd,Standard
+ZIP Code 41655,Printer,Floyd,Standard
+ZIP Code 41659,Stanville,Floyd,Standard
+ZIP Code 41660,Teaberry,Floyd,Standard
+ZIP Code 41663,Tram,Floyd,Standard
+ZIP Code 41666,Wayland,Floyd,Standard
+ZIP Code 41667,Weeksbury,Floyd,Standard
+ZIP Code 41669,Wheelwright,Floyd,Standard
+ZIP Code 41701,Hazard,Perry,Standard
+ZIP Code 41702,Hazard,Perry,P.O. Box
+ZIP Code 41712,Ary,Perry,Standard
+ZIP Code 41713,Avawam,Perry,P.O. Box
+ZIP Code 41714,Bear Branch,Leslie,Standard
+ZIP Code 41719,Bonnyman,Perry,Standard
+ZIP Code 41721,Buckhorn,Perry,Standard
+ZIP Code 41722,Bulan,Perry,Standard
+ZIP Code 41723,Busy,Perry,Standard
+ZIP Code 41725,Carrie,Knott,P.O. Box
+ZIP Code 41727,Chavies,Perry,Standard
+ZIP Code 41729,Combs,Perry,Standard
+ZIP Code 41731,Cornettsville,Perry,Standard
+ZIP Code 41735,Delphia,Perry,Standard
+ZIP Code 41736,Dice,Perry,P.O. Box
+ZIP Code 41739,Dwarf,Perry,P.O. Box
+ZIP Code 41740,Emmalena,Knott,Standard
+ZIP Code 41743,Fisty,Knott,P.O. Box
+ZIP Code 41745,Gays Creek,Perry,Standard
+ZIP Code 41746,Happy,Perry,Standard
+ZIP Code 41749,Hyden,Leslie,Standard
+ZIP Code 41751,Jeff,Perry,Standard
+ZIP Code 41754,Krypton,Perry,Standard
+ZIP Code 41759,Sassafras,Knott,Standard
+ZIP Code 41760,Scuddy,Perry,Standard
+ZIP Code 41762,Sizerock,Leslie,Standard
+ZIP Code 41763,Slemp,Perry,Standard
+ZIP Code 41764,Smilax,Leslie,Standard
+ZIP Code 41766,Thousandsticks,Leslie,Standard
+ZIP Code 41772,Vest,Knott,Standard
+ZIP Code 41773,Vicco,Perry,Standard
+ZIP Code 41774,Viper,Perry,Standard
+ZIP Code 41775,Wendover,Leslie,Standard
+ZIP Code 41776,Wooton,Leslie,Standard
+ZIP Code 41777,Yeaddiss,Leslie,Standard
+ZIP Code 41778,Yerkes,Perry,P.O. Box
+ZIP Code 41804,Blackey,Letcher,Standard
+ZIP Code 41810,Cromona,Letcher,P.O. Box
+ZIP Code 41812,Deane,Letcher,Standard
+ZIP Code 41815,Ermine,Letcher,Standard
+ZIP Code 41817,Garner,Knott,Standard
+ZIP Code 41819,Gordon,Letcher,Standard
+ZIP Code 41821,Hallie,Letcher,Standard
+ZIP Code 41822,Hindman,Knott,Standard
+ZIP Code 41824,Isom,Letcher,Standard
+ZIP Code 41825,Jackhorn,Letcher,Standard
+ZIP Code 41826,Jeremiah,Letcher,Standard
+ZIP Code 41828,Kite,Knott,Standard
+ZIP Code 41831,Leburn,Knott,Standard
+ZIP Code 41832,Letcher,Letcher,Standard
+ZIP Code 41833,Linefork,Letcher,Standard
+ZIP Code 41834,Littcarr,Knott,Standard
+ZIP Code 41835,Mc Roberts,Letcher,Standard
+ZIP Code 41836,Mallie,Knott,Standard
+ZIP Code 41837,Mayking,Letcher,Standard
+ZIP Code 41838,Millstone,Letcher,Standard
+ZIP Code 41839,Mousie,Knott,Standard
+ZIP Code 41840,Neon,Letcher,Standard
+ZIP Code 41843,Pine Top,Knott,Standard
+ZIP Code 41844,Pippa Passes,Knott,Standard
+ZIP Code 41845,Premium,Letcher,Standard
+ZIP Code 41847,Redfox,Knott,Standard
+ZIP Code 41848,Roxana,Letcher,Standard
+ZIP Code 41849,Seco,Letcher,P.O. Box
+ZIP Code 41855,Thornton,Letcher,Standard
+ZIP Code 41858,Whitesburg,Letcher,Standard
+ZIP Code 41859,Dema,Knott,Standard
+ZIP Code 41861,Raven,Knott,Standard
+ZIP Code 41862,Topmost,Knott,Standard
+ZIP Code 42001,Paducah,Mccracken,Standard
+ZIP Code 42002,Paducah,Mccracken,P.O. Box
+ZIP Code 42003,Paducah,Mccracken,Standard
+ZIP Code 42020,Almo,Calloway,Standard
+ZIP Code 42021,Arlington,Carlisle,Standard
+ZIP Code 42022,Bandana,Ballard,P.O. Box
+ZIP Code 42023,Bardwell,Carlisle,Standard
+ZIP Code 42024,Barlow,Ballard,Standard
+ZIP Code 42025,Benton,Marshall,Standard
+ZIP Code 42027,Boaz,Graves,Standard
+ZIP Code 42028,Burna,Livingston,Standard
+ZIP Code 42029,Calvert City,Marshall,Standard
+ZIP Code 42031,Clinton,Hickman,Standard
+ZIP Code 42032,Columbus,Hickman,Standard
+ZIP Code 42033,Crayne,Crittenden,P.O. Box
+ZIP Code 42035,Cunningham,Carlisle,Standard
+ZIP Code 42036,Dexter,Calloway,Standard
+ZIP Code 42037,Dycusburg,Crittenden,P.O. Box
+ZIP Code 42038,Eddyville,Lyon,Standard
+ZIP Code 42039,Fancy Farm,Graves,Standard
+ZIP Code 42040,Farmington,Graves,Standard
+ZIP Code 42041,Fulton,Fulton,Standard
+ZIP Code 42044,Gilbertsville,Marshall,Standard
+ZIP Code 42045,Grand Rivers,Livingston,Standard
+ZIP Code 42047,Hampton,Livingston,Standard
+ZIP Code 42048,Hardin,Marshall,Standard
+ZIP Code 42049,Hazel,Calloway,Standard
+ZIP Code 42050,Hickman,Fulton,Standard
+ZIP Code 42051,Hickory,Graves,Standard
+ZIP Code 42053,Kevil,Mccracken,Standard
+ZIP Code 42054,Kirksey,Calloway,Standard
+ZIP Code 42055,Kuttawa,Lyon,Standard
+ZIP Code 42056,La Center,Ballard,Standard
+ZIP Code 42058,Ledbetter,Livingston,Standard
+ZIP Code 42060,Lovelaceville,Ballard,P.O. Box
+ZIP Code 42061,Lowes,Graves,P.O. Box
+ZIP Code 42063,Lynnville,Graves,P.O. Box
+ZIP Code 42064,Marion,Crittenden,Standard
+ZIP Code 42066,Mayfield,Graves,Standard
+ZIP Code 42069,Melber,Graves,Standard
+ZIP Code 42070,Milburn,Carlisle,P.O. Box
+ZIP Code 42071,Murray,Calloway,Standard
+ZIP Code 42076,New Concord,Calloway,Standard
+ZIP Code 42078,Salem,Livingston,Standard
+ZIP Code 42079,Sedalia,Graves,Standard
+ZIP Code 42081,Smithland,Livingston,Standard
+ZIP Code 42082,Symsonia,Graves,Standard
+ZIP Code 42083,Tiline,Livingston,Standard
+ZIP Code 42085,Water Valley,Graves,Standard
+ZIP Code 42086,West Paducah,Mccracken,Standard
+ZIP Code 42087,Wickliffe,Ballard,Standard
+ZIP Code 42088,Wingo,Graves,Standard
+ZIP Code 42101,Bowling Green,Warren,Standard
+ZIP Code 42102,Bowling Green,Warren,P.O. Box
+ZIP Code 42103,Bowling Green,Warren,Standard
+ZIP Code 42104,Bowling Green,Warren,Standard
+ZIP Code 42120,Adolphus,Allen,Standard
+ZIP Code 42122,Alvaton,Warren,Standard
+ZIP Code 42123,Austin,Barren,Standard
+ZIP Code 42124,Beaumont,Metcalfe,Standard
+ZIP Code 42127,Cave City,Barren,Standard
+ZIP Code 42128,Bowling Green,Warren,P.O. Box
+ZIP Code 42129,Edmonton,Metcalfe,Standard
+ZIP Code 42130,Eighty Eight,Barren,Standard
+ZIP Code 42131,Etoile,Barren,Standard
+ZIP Code 42133,Fountain Run,Monroe,Standard
+ZIP Code 42134,Franklin,Simpson,Standard
+ZIP Code 42135,Franklin,Simpson,P.O. Box
+ZIP Code 42140,Gamaliel,Monroe,Standard
+ZIP Code 42141,Glasgow,Barren,Standard
+ZIP Code 42142,Glasgow,Barren,P.O. Box
+ZIP Code 42151,Hestand,Monroe,Standard
+ZIP Code 42152,Hiseville,Barren,P.O. Box
+ZIP Code 42153,Holland,Allen,Standard
+ZIP Code 42154,Knob Lick,Metcalfe,Standard
+ZIP Code 42156,Lucas,Barren,Standard
+ZIP Code 42157,Mount Hermon,Monroe,Standard
+ZIP Code 42159,Oakland,Warren,Standard
+ZIP Code 42160,Park City,Barren,Standard
+ZIP Code 42163,Rocky Hill,Edmonson,Standard
+ZIP Code 42164,Scottsville,Allen,Standard
+ZIP Code 42166,Summer Shade,Metcalfe,Standard
+ZIP Code 42167,Tompkinsville,Monroe,Standard
+ZIP Code 42170,Woodburn,Warren,Standard
+ZIP Code 42171,Smiths Grove,Warren,Standard
+ZIP Code 42201,Aberdeen,Butler,P.O. Box
+ZIP Code 42202,Adairville,Logan,Standard
+ZIP Code 42204,Allensville,Todd,Standard
+ZIP Code 42206,Auburn,Logan,Standard
+ZIP Code 42207,Bee Spring,Edmonson,Standard
+ZIP Code 42210,Brownsville,Edmonson,Standard
+ZIP Code 42211,Cadiz,Trigg,Standard
+ZIP Code 42214,Center,Metcalfe,Standard
+ZIP Code 42215,Cerulean,Trigg,Standard
+ZIP Code 42216,Clifty,Todd,P.O. Box
+ZIP Code 42217,Crofton,Christian,Standard
+ZIP Code 42219,Dunbar,Butler,P.O. Box
+ZIP Code 42220,Elkton,Todd,Standard
+ZIP Code 42221,Fairview,Christian,P.O. Box
+ZIP Code 42223,Fort Campbell,Christian,Standard
+ZIP Code 42232,Gracey,Christian,Standard
+ZIP Code 42234,Guthrie,Todd,Standard
+ZIP Code 42236,Herndon,Christian,Standard
+ZIP Code 42240,Hopkinsville,Christian,Standard
+ZIP Code 42241,Hopkinsville,Christian,P.O. Box
+ZIP Code 42252,Jetson,Butler,Standard
+ZIP Code 42254,La Fayette,Christian,Standard
+ZIP Code 42256,Lewisburg,Logan,Standard
+ZIP Code 42259,Mammoth Cave,Edmonson,Standard
+ZIP Code 42261,Morgantown,Butler,Standard
+ZIP Code 42262,Oak Grove,Christian,Standard
+ZIP Code 42265,Olmstead,Logan,Standard
+ZIP Code 42266,Pembroke,Christian,Standard
+ZIP Code 42273,Rochester,Butler,Standard
+ZIP Code 42274,Rockfield,Warren,Standard
+ZIP Code 42275,Roundhill,Edmonson,Standard
+ZIP Code 42276,Russellville,Logan,Standard
+ZIP Code 42280,Sharon Grove,Todd,Standard
+ZIP Code 42285,Sweeden,Edmonson,Standard
+ZIP Code 42286,Trenton,Todd,Standard
+ZIP Code 42288,Woodbury,Butler,P.O. Box
+ZIP Code 42301,Owensboro,Daviess,Standard
+ZIP Code 42302,Owensboro,Daviess,P.O. Box
+ZIP Code 42303,Owensboro,Daviess,Standard
+ZIP Code 42304,Owensboro,Daviess,P.O. Box
+ZIP Code 42320,Beaver Dam,Ohio,Standard
+ZIP Code 42321,Beech Creek,Muhlenberg,Standard
+ZIP Code 42322,Beech Grove,Mclean,P.O. Box
+ZIP Code 42323,Beechmont,Muhlenberg,Standard
+ZIP Code 42324,Belton,Muhlenberg,Standard
+ZIP Code 42325,Bremen,Muhlenberg,Standard
+ZIP Code 42326,Browder,Muhlenberg,Standard
+ZIP Code 42327,Calhoun,Mclean,Standard
+ZIP Code 42328,Centertown,Ohio,Standard
+ZIP Code 42330,Central City,Muhlenberg,Standard
+ZIP Code 42332,Cleaton,Muhlenberg,P.O. Box
+ZIP Code 42333,Cromwell,Ohio,Standard
+ZIP Code 42334,Curdsville,Daviess,P.O. Box
+ZIP Code 42337,Drakesboro,Muhlenberg,Standard
+ZIP Code 42338,Dundee,Ohio,Standard
+ZIP Code 42339,Dunmor,Muhlenberg,Standard
+ZIP Code 42343,Fordsville,Ohio,Standard
+ZIP Code 42344,Graham,Muhlenberg,Standard
+ZIP Code 42345,Greenville,Muhlenberg,Standard
+ZIP Code 42347,Hartford,Ohio,Standard
+ZIP Code 42348,Hawesville,Hancock,Standard
+ZIP Code 42349,Horse Branch,Ohio,Standard
+ZIP Code 42350,Island,Mclean,Standard
+ZIP Code 42351,Lewisport,Hancock,Standard
+ZIP Code 42352,Livermore,Mclean,Standard
+ZIP Code 42354,Mc Henry,Ohio,Standard
+ZIP Code 42355,Maceo,Daviess,Standard
+ZIP Code 42356,Maple Mount,Daviess,P.O. Box
+ZIP Code 42361,Olaton,Ohio,Standard
+ZIP Code 42364,Hawesville,Hancock,P.O. Box
+ZIP Code 42366,Philpot,Daviess,Standard
+ZIP Code 42367,Powderly,Muhlenberg,Standard
+ZIP Code 42368,Reynolds Station,Ohio,Standard
+ZIP Code 42369,Rockport,Ohio,Standard
+ZIP Code 42370,Rosine,Ohio,P.O. Box
+ZIP Code 42371,Rumsey,Mclean,Standard
+ZIP Code 42372,Sacramento,Mclean,Standard
+ZIP Code 42374,South Carrollton,Muhlenberg,P.O. Box
+ZIP Code 42376,Utica,Daviess,Standard
+ZIP Code 42377,West Louisville,Daviess,P.O. Box
+ZIP Code 42378,Whitesville,Daviess,Standard
+ZIP Code 42402,Baskett,Henderson,P.O. Box
+ZIP Code 42404,Clay,Webster,Standard
+ZIP Code 42406,Corydon,Henderson,Standard
+ZIP Code 42408,Dawson Springs,Hopkins,Standard
+ZIP Code 42409,Dixon,Webster,Standard
+ZIP Code 42410,Earlington,Hopkins,Standard
+ZIP Code 42411,Fredonia,Caldwell,Standard
+ZIP Code 42413,Hanson,Hopkins,Standard
+ZIP Code 42419,Henderson,Henderson,P.O. Box
+ZIP Code 42420,Henderson,Henderson,Standard
+ZIP Code 42431,Madisonville,Hopkins,Standard
+ZIP Code 42436,Manitou,Hopkins,Standard
+ZIP Code 42437,Morganfield,Union,Standard
+ZIP Code 42440,Mortons Gap,Hopkins,P.O. Box
+ZIP Code 42441,Nebo,Hopkins,Standard
+ZIP Code 42442,Nortonville,Hopkins,Standard
+ZIP Code 42444,Poole,Webster,P.O. Box
+ZIP Code 42445,Princeton,Caldwell,Standard
+ZIP Code 42450,Providence,Webster,Standard
+ZIP Code 42451,Reed,Henderson,Standard
+ZIP Code 42452,Robards,Henderson,Standard
+ZIP Code 42453,Saint Charles,Hopkins,Standard
+ZIP Code 42455,Sebree,Webster,Standard
+ZIP Code 42456,Slaughters,Webster,Standard
+ZIP Code 42457,Smith Mills,Henderson,P.O. Box
+ZIP Code 42458,Spottsville,Henderson,Standard
+ZIP Code 42459,Sturgis,Union,Standard
+ZIP Code 42460,Sullivan,Union,P.O. Box
+ZIP Code 42461,Uniontown,Union,Standard
+ZIP Code 42462,Waverly,Union,Standard
+ZIP Code 42463,Wheatcroft,Webster,P.O. Box
+ZIP Code 42464,White Plains,Hopkins,Standard
+ZIP Code 42501,Somerset,Pulaski,Standard
+ZIP Code 42502,Somerset,Pulaski,P.O. Box
+ZIP Code 42503,Somerset,Pulaski,Standard
+ZIP Code 42516,Bethelridge,Casey,Standard
+ZIP Code 42518,Bronston,Pulaski,Standard
+ZIP Code 42519,Burnside,Pulaski,Standard
+ZIP Code 42528,Dunnville,Casey,Standard
+ZIP Code 42533,Ferguson,Pulaski,Standard
+ZIP Code 42539,Liberty,Casey,Standard
+ZIP Code 42541,Middleburg,Casey,Standard
+ZIP Code 42544,Nancy,Pulaski,Standard
+ZIP Code 42553,Science Hill,Pulaski,Standard
+ZIP Code 42558,Tateville,Pulaski,P.O. Box
+ZIP Code 42564,West Somerset,Pulaski,P.O. Box
+ZIP Code 42565,Windsor,Casey,Standard
+ZIP Code 42566,Yosemite,Casey,Standard
+ZIP Code 42567,Eubank,Pulaski,Standard
+ZIP Code 42602,Albany,Clinton,Standard
+ZIP Code 42603,Alpha,Clinton,Standard
+ZIP Code 42629,Jamestown,Russell,Standard
+ZIP Code 42631,Marshes Siding,Mccreary,P.O. Box
+ZIP Code 42633,Monticello,Wayne,Standard
+ZIP Code 42634,Parkers Lake,Mccreary,Standard
+ZIP Code 42635,Pine Knot,Mccreary,Standard
+ZIP Code 42638,Revelo,Mccreary,P.O. Box
+ZIP Code 42642,Russell Springs,Russell,Standard
+ZIP Code 42647,Stearns,Mccreary,Standard
+ZIP Code 42649,Strunk,Mccreary,Standard
+ZIP Code 42653,Whitley City,Mccreary,Standard
+ZIP Code 42701,Elizabethtown,Hardin,Standard
+ZIP Code 42702,Elizabethtown,Hardin,P.O. Box
+ZIP Code 42712,Big Clifty,Grayson,Standard
+ZIP Code 42713,Bonnieville,Hart,Standard
+ZIP Code 42715,Breeding,Adair,Standard
+ZIP Code 42716,Buffalo,Larue,Standard
+ZIP Code 42717,Burkesville,Cumberland,Standard
+ZIP Code 42718,Campbellsville,Taylor,Standard
+ZIP Code 42719,Campbellsville,Taylor,P.O. Box
+ZIP Code 42720,Cane Valley,Adair,P.O. Box
+ZIP Code 42721,Caneyville,Grayson,Standard
+ZIP Code 42722,Canmer,Hart,Standard
+ZIP Code 42724,Cecilia,Hardin,Standard
+ZIP Code 42726,Clarkson,Grayson,Standard
+ZIP Code 42728,Columbia,Adair,Standard
+ZIP Code 42729,Cub Run,Hart,Standard
+ZIP Code 42732,Eastview,Hardin,Standard
+ZIP Code 42733,Elk Horn,Taylor,Standard
+ZIP Code 42740,Glendale,Hardin,Standard
+ZIP Code 42741,Glens Fork,Adair,Standard
+ZIP Code 42742,Gradyville,Adair,Standard
+ZIP Code 42743,Greensburg,Green,Standard
+ZIP Code 42746,Hardyville,Hart,Standard
+ZIP Code 42748,Hodgenville,Larue,Standard
+ZIP Code 42749,Horse Cave,Hart,Standard
+ZIP Code 42753,Knifley,Adair,Standard
+ZIP Code 42754,Leitchfield,Grayson,Standard
+ZIP Code 42755,Leitchfield,Grayson,P.O. Box
+ZIP Code 42757,Magnolia,Larue,Standard
+ZIP Code 42758,Mannsville,Taylor,P.O. Box
+ZIP Code 42759,Marrowbone,Cumberland,P.O. Box
+ZIP Code 42762,Millwood,Grayson,Standard
+ZIP Code 42764,Mount Sherman,Larue,Standard
+ZIP Code 42765,Munfordville,Hart,Standard
+ZIP Code 42776,Sonora,Hardin,Standard
+ZIP Code 42782,Summersville,Green,Standard
+ZIP Code 42784,Upton,Hardin,Standard
+ZIP Code 42788,White Mills,Hardin,Standard

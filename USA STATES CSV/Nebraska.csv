@@ -1,0 +1,618 @@
+ZIP CODE,City,County,Type
+ZIP Code 68001,Abie,Butler,Standard
+ZIP Code 68002,Arlington,Washington,Standard
+ZIP Code 68003,Ashland,Saunders,Standard
+ZIP Code 68004,Bancroft,Cuming,Standard
+ZIP Code 68005,Bellevue,Sarpy,Standard
+ZIP Code 68007,Bennington,Douglas,Standard
+ZIP Code 68008,Blair,Washington,Standard
+ZIP Code 68010,Boys Town,Douglas,P.O. Box
+ZIP Code 68014,Bruno,Butler,Standard
+ZIP Code 68015,Cedar Bluffs,Saunders,Standard
+ZIP Code 68016,Cedar Creek,Cass,P.O. Box
+ZIP Code 68017,Ceresco,Saunders,Standard
+ZIP Code 68018,Colon,Saunders,Standard
+ZIP Code 68019,Craig,Burt,Standard
+ZIP Code 68020,Decatur,Burt,Standard
+ZIP Code 68022,Elkhorn,Douglas,Standard
+ZIP Code 68023,Fort Calhoun,Washington,Standard
+ZIP Code 68025,Fremont,Dodge,Standard
+ZIP Code 68026,Fremont,Dodge,P.O. Box
+ZIP Code 68028,Gretna,Sarpy,Standard
+ZIP Code 68029,Herman,Washington,Standard
+ZIP Code 68030,Homer,Dakota,Standard
+ZIP Code 68031,Hooper,Dodge,Standard
+ZIP Code 68033,Ithaca,Saunders,Standard
+ZIP Code 68034,Kennard,Washington,Standard
+ZIP Code 68036,Linwood,Butler,Standard
+ZIP Code 68037,Louisville,Cass,Standard
+ZIP Code 68038,Lyons,Burt,Standard
+ZIP Code 68039,Macy,Thurston,Standard
+ZIP Code 68040,Malmo,Saunders,Standard
+ZIP Code 68041,Mead,Saunders,Standard
+ZIP Code 68042,Memphis,Saunders,Standard
+ZIP Code 68044,Nickerson,Dodge,Standard
+ZIP Code 68045,Oakland,Burt,Standard
+ZIP Code 68046,Papillion,Sarpy,Standard
+ZIP Code 68047,Pender,Thurston,Standard
+ZIP Code 68048,Plattsmouth,Cass,Standard
+ZIP Code 68050,Prague,Saunders,Standard
+ZIP Code 68055,Rosalie,Thurston,Standard
+ZIP Code 68056,St Columbans,Sarpy,Standard
+ZIP Code 68057,Scribner,Dodge,Standard
+ZIP Code 68058,South Bend,Cass,P.O. Box
+ZIP Code 68059,Springfield,Sarpy,Standard
+ZIP Code 68061,Tekamah,Burt,Standard
+ZIP Code 68062,Thurston,Thurston,Standard
+ZIP Code 68063,Uehling,Dodge,P.O. Box
+ZIP Code 68064,Valley,Douglas,Standard
+ZIP Code 68065,Valparaiso,Saunders,Standard
+ZIP Code 68066,Wahoo,Saunders,Standard
+ZIP Code 68067,Walthill,Thurston,Standard
+ZIP Code 68068,Washington,Washington,Standard
+ZIP Code 68069,Waterloo,Douglas,Standard
+ZIP Code 68070,Weston,Saunders,Standard
+ZIP Code 68071,Winnebago,Thurston,Standard
+ZIP Code 68072,Winslow,Dodge,P.O. Box
+ZIP Code 68073,Yutan,Saunders,Standard
+ZIP Code 68101,Omaha,Douglas,P.O. Box
+ZIP Code 68102,Omaha,Douglas,Standard
+ZIP Code 68103,Omaha,Douglas,P.O. Box
+ZIP Code 68104,Omaha,Douglas,Standard
+ZIP Code 68105,Omaha,Douglas,Standard
+ZIP Code 68106,Omaha,Douglas,Standard
+ZIP Code 68107,Omaha,Douglas,Standard
+ZIP Code 68108,Omaha,Douglas,Standard
+ZIP Code 68109,Omaha,Douglas,P.O. Box
+ZIP Code 68110,Omaha,Douglas,Standard
+ZIP Code 68111,Omaha,Douglas,Standard
+ZIP Code 68112,Omaha,Douglas,Standard
+ZIP Code 68113,Offutt AFB,Sarpy,Standard
+ZIP Code 68114,Omaha,Douglas,Standard
+ZIP Code 68116,Omaha,Douglas,Standard
+ZIP Code 68117,Omaha,Douglas,Standard
+ZIP Code 68118,Omaha,Douglas,Standard
+ZIP Code 68119,Omaha,Douglas,P.O. Box
+ZIP Code 68122,Omaha,Douglas,Standard
+ZIP Code 68123,Bellevue,Sarpy,Standard
+ZIP Code 68124,Omaha,Douglas,Standard
+ZIP Code 68127,Omaha,Douglas,Standard
+ZIP Code 68128,La Vista,Sarpy,Standard
+ZIP Code 68130,Omaha,Douglas,Standard
+ZIP Code 68131,Omaha,Douglas,Standard
+ZIP Code 68132,Omaha,Douglas,Standard
+ZIP Code 68133,Papillion,Sarpy,Standard
+ZIP Code 68134,Omaha,Douglas,Standard
+ZIP Code 68135,Omaha,Douglas,Standard
+ZIP Code 68136,Omaha,Sarpy,Standard
+ZIP Code 68137,Omaha,Douglas,Standard
+ZIP Code 68138,Omaha,Sarpy,Standard
+ZIP Code 68139,Omaha,Douglas,P.O. Box
+ZIP Code 68142,Omaha,Douglas,Standard
+ZIP Code 68144,Omaha,Douglas,Standard
+ZIP Code 68145,Omaha,Douglas,P.O. Box
+ZIP Code 68147,Bellevue,Sarpy,Standard
+ZIP Code 68152,Omaha,Douglas,Standard
+ZIP Code 68154,Omaha,Douglas,Standard
+ZIP Code 68157,Omaha,Sarpy,Standard
+ZIP Code 68164,Omaha,Douglas,Standard
+ZIP Code 68172,Omaha,Douglas,Unique
+ZIP Code 68175,Omaha,Douglas,Unique
+ZIP Code 68176,Omaha,Douglas,Standard
+ZIP Code 68178,Omaha,Douglas,Unique
+ZIP Code 68179,Omaha,Douglas,Unique
+ZIP Code 68180,Omaha,Douglas,Unique
+ZIP Code 68182,Omaha,Douglas,Unique
+ZIP Code 68183,Omaha,Douglas,Unique
+ZIP Code 68197,Omaha,Douglas,Unique
+ZIP Code 68198,Omaha,Douglas,Unique
+ZIP Code 68301,Adams,Gage,Standard
+ZIP Code 68303,Alexandria,Thayer,Standard
+ZIP Code 68304,Alvo,Cass,Standard
+ZIP Code 68305,Auburn,Nemaha,Standard
+ZIP Code 68307,Avoca,Cass,Standard
+ZIP Code 68309,Barneston,Gage,Standard
+ZIP Code 68310,Beatrice,Gage,Standard
+ZIP Code 68313,Beaver Crossing,Seward,Standard
+ZIP Code 68314,Bee,Seward,Standard
+ZIP Code 68315,Belvidere,Thayer,Standard
+ZIP Code 68316,Benedict,York,Standard
+ZIP Code 68317,Bennet,Lancaster,Standard
+ZIP Code 68318,Blue Springs,Gage,Standard
+ZIP Code 68319,Bradshaw,York,Standard
+ZIP Code 68320,Brock,Nemaha,Standard
+ZIP Code 68321,Brownville,Nemaha,Standard
+ZIP Code 68322,Bruning,Thayer,Standard
+ZIP Code 68323,Burchard,Pawnee,Standard
+ZIP Code 68324,Burr,Otoe,Standard
+ZIP Code 68325,Byron,Thayer,Standard
+ZIP Code 68326,Carleton,Thayer,Standard
+ZIP Code 68327,Chester,Thayer,Standard
+ZIP Code 68328,Clatonia,Gage,Standard
+ZIP Code 68329,Cook,Johnson,Standard
+ZIP Code 68330,Cordova,Seward,P.O. Box
+ZIP Code 68331,Cortland,Gage,Standard
+ZIP Code 68332,Crab Orchard,Johnson,Standard
+ZIP Code 68333,Crete,Saline,Standard
+ZIP Code 68335,Davenport,Thayer,Standard
+ZIP Code 68336,Davey,Lancaster,Standard
+ZIP Code 68337,Dawson,Richardson,Standard
+ZIP Code 68338,Daykin,Jefferson,Standard
+ZIP Code 68339,Denton,Lancaster,Standard
+ZIP Code 68340,Deshler,Thayer,Standard
+ZIP Code 68341,De Witt,Saline,Standard
+ZIP Code 68342,Diller,Jefferson,Standard
+ZIP Code 68343,Dorchester,Saline,Standard
+ZIP Code 68344,Douglas,Otoe,Standard
+ZIP Code 68345,Du Bois,Pawnee,Standard
+ZIP Code 68346,Dunbar,Otoe,Standard
+ZIP Code 68347,Eagle,Cass,Standard
+ZIP Code 68348,Elk Creek,Johnson,Standard
+ZIP Code 68349,Elmwood,Cass,Standard
+ZIP Code 68350,Endicott,Jefferson,Standard
+ZIP Code 68351,Exeter,Fillmore,Standard
+ZIP Code 68352,Fairbury,Jefferson,Standard
+ZIP Code 68354,Fairmont,Fillmore,Standard
+ZIP Code 68355,Falls City,Richardson,Standard
+ZIP Code 68357,Filley,Gage,Standard
+ZIP Code 68358,Firth,Lancaster,Standard
+ZIP Code 68359,Friend,Saline,Standard
+ZIP Code 68360,Garland,Seward,Standard
+ZIP Code 68361,Geneva,Fillmore,Standard
+ZIP Code 68362,Gilead,Thayer,P.O. Box
+ZIP Code 68364,Goehner,Seward,P.O. Box
+ZIP Code 68365,Grafton,Fillmore,Standard
+ZIP Code 68366,Greenwood,Cass,Standard
+ZIP Code 68367,Gresham,York,Standard
+ZIP Code 68368,Hallam,Lancaster,Standard
+ZIP Code 68370,Hebron,Thayer,Standard
+ZIP Code 68371,Henderson,York,Standard
+ZIP Code 68372,Hickman,Lancaster,Standard
+ZIP Code 68375,Hubbell,Thayer,Standard
+ZIP Code 68376,Humboldt,Richardson,Standard
+ZIP Code 68377,Jansen,Jefferson,Standard
+ZIP Code 68378,Johnson,Nemaha,Standard
+ZIP Code 68379,Julian,Nemaha,Standard
+ZIP Code 68380,Lewiston,Pawnee,Standard
+ZIP Code 68381,Liberty,Gage,Standard
+ZIP Code 68382,Lorton,Otoe,Standard
+ZIP Code 68401,Mc Cool Junction,York,Standard
+ZIP Code 68402,Malcolm,Lancaster,Standard
+ZIP Code 68403,Manley,Cass,P.O. Box
+ZIP Code 68404,Martell,Lancaster,Standard
+ZIP Code 68405,Milford,Seward,Standard
+ZIP Code 68406,Milligan,Fillmore,Standard
+ZIP Code 68407,Murdock,Cass,Standard
+ZIP Code 68409,Murray,Cass,Standard
+ZIP Code 68410,Nebraska City,Otoe,Standard
+ZIP Code 68413,Nehawka,Cass,Standard
+ZIP Code 68414,Nemaha,Nemaha,Standard
+ZIP Code 68415,Odell,Gage,Standard
+ZIP Code 68416,Ohiowa,Fillmore,Standard
+ZIP Code 68417,Otoe,Otoe,Standard
+ZIP Code 68418,Palmyra,Otoe,Standard
+ZIP Code 68419,Panama,Lancaster,P.O. Box
+ZIP Code 68420,Pawnee City,Pawnee,Standard
+ZIP Code 68421,Peru,Nemaha,Standard
+ZIP Code 68422,Pickrell,Gage,Standard
+ZIP Code 68423,Pleasant Dale,Seward,Standard
+ZIP Code 68424,Plymouth,Jefferson,Standard
+ZIP Code 68428,Raymond,Lancaster,Standard
+ZIP Code 68429,Reynolds,Thayer,Standard
+ZIP Code 68430,Roca,Lancaster,Standard
+ZIP Code 68431,Rulo,Richardson,Standard
+ZIP Code 68433,Salem,Richardson,Standard
+ZIP Code 68434,Seward,Seward,Standard
+ZIP Code 68436,Shickley,Fillmore,Standard
+ZIP Code 68437,Shubert,Richardson,Standard
+ZIP Code 68438,Sprague,Lancaster,P.O. Box
+ZIP Code 68439,Staplehurst,Seward,Standard
+ZIP Code 68440,Steele City,Jefferson,Standard
+ZIP Code 68441,Steinauer,Pawnee,Standard
+ZIP Code 68442,Stella,Richardson,Standard
+ZIP Code 68443,Sterling,Johnson,Standard
+ZIP Code 68444,Strang,Fillmore,Standard
+ZIP Code 68445,Swanton,Saline,Standard
+ZIP Code 68446,Syracuse,Otoe,Standard
+ZIP Code 68447,Table Rock,Pawnee,Standard
+ZIP Code 68448,Talmage,Otoe,Standard
+ZIP Code 68450,Tecumseh,Johnson,Standard
+ZIP Code 68452,Ong,Clay,Standard
+ZIP Code 68453,Tobias,Saline,Standard
+ZIP Code 68454,Unadilla,Otoe,Standard
+ZIP Code 68455,Union,Cass,Standard
+ZIP Code 68456,Utica,Seward,Standard
+ZIP Code 68457,Verdon,Richardson,Standard
+ZIP Code 68458,Virginia,Gage,Standard
+ZIP Code 68460,Waco,York,Standard
+ZIP Code 68461,Walton,Lancaster,Standard
+ZIP Code 68462,Waverly,Lancaster,Standard
+ZIP Code 68463,Weeping Water,Cass,Standard
+ZIP Code 68464,Western,Saline,Standard
+ZIP Code 68465,Wilber,Saline,Standard
+ZIP Code 68466,Wymore,Gage,Standard
+ZIP Code 68467,York,York,Standard
+ZIP Code 68501,Lincoln,Lancaster,P.O. Box
+ZIP Code 68502,Lincoln,Lancaster,Standard
+ZIP Code 68503,Lincoln,Lancaster,Standard
+ZIP Code 68504,Lincoln,Lancaster,Standard
+ZIP Code 68505,Lincoln,Lancaster,Standard
+ZIP Code 68506,Lincoln,Lancaster,Standard
+ZIP Code 68507,Lincoln,Lancaster,Standard
+ZIP Code 68508,Lincoln,Lancaster,Standard
+ZIP Code 68509,Lincoln,Lancaster,P.O. Box
+ZIP Code 68510,Lincoln,Lancaster,Standard
+ZIP Code 68512,Lincoln,Lancaster,Standard
+ZIP Code 68514,Lincoln,Lancaster,Standard
+ZIP Code 68516,Lincoln,Lancaster,Standard
+ZIP Code 68517,Lincoln,Lancaster,Standard
+ZIP Code 68520,Lincoln,Lancaster,Standard
+ZIP Code 68521,Lincoln,Lancaster,Standard
+ZIP Code 68522,Lincoln,Lancaster,Standard
+ZIP Code 68523,Lincoln,Lancaster,Standard
+ZIP Code 68524,Lincoln,Lancaster,Standard
+ZIP Code 68526,Lincoln,Lancaster,Standard
+ZIP Code 68527,Lincoln,Lancaster,Standard
+ZIP Code 68528,Lincoln,Lancaster,Standard
+ZIP Code 68529,Lincoln,Lancaster,P.O. Box
+ZIP Code 68531,Lincoln,Lancaster,Standard
+ZIP Code 68532,Lincoln,Lancaster,Standard
+ZIP Code 68542,Lincoln,Lancaster,P.O. Box
+ZIP Code 68544,Lincoln,Lancaster,Unique
+ZIP Code 68583,Lincoln,Lancaster,P.O. Box
+ZIP Code 68588,Lincoln,Lancaster,Standard
+ZIP Code 68601,Columbus,Platte,Standard
+ZIP Code 68602,Columbus,Platte,P.O. Box
+ZIP Code 68620,Albion,Boone,Standard
+ZIP Code 68621,Ames,Dodge,Standard
+ZIP Code 68622,Bartlett,Wheeler,Standard
+ZIP Code 68623,Belgrade,Boone,Standard
+ZIP Code 68624,Bellwood,Butler,Standard
+ZIP Code 68626,Brainard,Butler,Standard
+ZIP Code 68627,Cedar Rapids,Boone,Standard
+ZIP Code 68628,Clarks,Merrick,Standard
+ZIP Code 68629,Clarkson,Colfax,Standard
+ZIP Code 68631,Creston,Platte,Standard
+ZIP Code 68632,David City,Butler,Standard
+ZIP Code 68633,Dodge,Dodge,Standard
+ZIP Code 68634,Duncan,Platte,P.O. Box
+ZIP Code 68635,Dwight,Butler,Standard
+ZIP Code 68636,Elgin,Antelope,Standard
+ZIP Code 68637,Ericson,Wheeler,Standard
+ZIP Code 68638,Fullerton,Nance,Standard
+ZIP Code 68640,Genoa,Nance,Standard
+ZIP Code 68641,Howells,Colfax,Standard
+ZIP Code 68642,Humphrey,Platte,Standard
+ZIP Code 68643,Leigh,Colfax,Standard
+ZIP Code 68644,Lindsay,Platte,Standard
+ZIP Code 68647,Monroe,Platte,Standard
+ZIP Code 68648,Morse Bluff,Saunders,Standard
+ZIP Code 68649,North Bend,Dodge,Standard
+ZIP Code 68651,Osceola,Polk,Standard
+ZIP Code 68652,Petersburg,Boone,Standard
+ZIP Code 68653,Platte Center,Platte,Standard
+ZIP Code 68654,Polk,Polk,Standard
+ZIP Code 68655,Primrose,Boone,Standard
+ZIP Code 68658,Rising City,Butler,Standard
+ZIP Code 68659,Rogers,Colfax,Standard
+ZIP Code 68660,Saint Edward,Boone,Standard
+ZIP Code 68661,Schuyler,Colfax,Standard
+ZIP Code 68662,Shelby,Polk,Standard
+ZIP Code 68663,Silver Creek,Merrick,Standard
+ZIP Code 68664,Snyder,Dodge,P.O. Box
+ZIP Code 68665,Spalding,Greeley,Standard
+ZIP Code 68666,Stromsburg,Polk,Standard
+ZIP Code 68667,Surprise,Butler,Standard
+ZIP Code 68669,Ulysses,Butler,Standard
+ZIP Code 68701,Norfolk,Madison,Standard
+ZIP Code 68702,Norfolk,Madison,P.O. Box
+ZIP Code 68710,Allen,Dixon,Standard
+ZIP Code 68711,Amelia,Holt,Standard
+ZIP Code 68713,Atkinson,Holt,Standard
+ZIP Code 68714,Bassett,Rock,Standard
+ZIP Code 68715,Battle Creek,Madison,Standard
+ZIP Code 68716,Beemer,Cuming,Standard
+ZIP Code 68717,Belden,Cedar,Standard
+ZIP Code 68718,Bloomfield,Knox,Standard
+ZIP Code 68719,Bristow,Boyd,Standard
+ZIP Code 68720,Brunswick,Antelope,Standard
+ZIP Code 68722,Butte,Boyd,Standard
+ZIP Code 68723,Carroll,Wayne,Standard
+ZIP Code 68724,Center,Knox,Standard
+ZIP Code 68725,Chambers,Holt,Standard
+ZIP Code 68726,Clearwater,Antelope,Standard
+ZIP Code 68727,Coleridge,Cedar,Standard
+ZIP Code 68728,Concord,Dixon,Standard
+ZIP Code 68729,Creighton,Knox,Standard
+ZIP Code 68730,Crofton,Knox,Standard
+ZIP Code 68731,Dakota City,Dakota,Standard
+ZIP Code 68732,Dixon,Dixon,Standard
+ZIP Code 68733,Emerson,Dakota,Standard
+ZIP Code 68734,Emmet,Holt,Standard
+ZIP Code 68735,Ewing,Holt,Standard
+ZIP Code 68736,Fordyce,Cedar,Standard
+ZIP Code 68738,Hadar,Pierce,P.O. Box
+ZIP Code 68739,Hartington,Cedar,Standard
+ZIP Code 68740,Hoskins,Wayne,Standard
+ZIP Code 68741,Hubbard,Dakota,Standard
+ZIP Code 68742,Inman,Holt,Standard
+ZIP Code 68743,Jackson,Dakota,Standard
+ZIP Code 68745,Laurel,Cedar,Standard
+ZIP Code 68746,Lynch,Boyd,Standard
+ZIP Code 68747,Mclean,Pierce,Standard
+ZIP Code 68748,Madison,Madison,Standard
+ZIP Code 68749,Magnet,Cedar,P.O. Box
+ZIP Code 68751,Maskell,Dixon,Standard
+ZIP Code 68752,Meadow Grove,Madison,Standard
+ZIP Code 68753,Mills,Keya Paha,Standard
+ZIP Code 68755,Naper,Boyd,Standard
+ZIP Code 68756,Neligh,Antelope,Standard
+ZIP Code 68757,Newcastle,Dixon,Standard
+ZIP Code 68758,Newman Grove,Madison,Standard
+ZIP Code 68759,Newport,Keya Paha,Standard
+ZIP Code 68760,Niobrara,Knox,Standard
+ZIP Code 68761,Oakdale,Antelope,Standard
+ZIP Code 68763,Oneill,Holt,Standard
+ZIP Code 68764,Orchard,Antelope,Standard
+ZIP Code 68765,Osmond,Pierce,Standard
+ZIP Code 68766,Page,Holt,Standard
+ZIP Code 68767,Pierce,Pierce,Standard
+ZIP Code 68768,Pilger,Stanton,Standard
+ZIP Code 68769,Plainview,Pierce,Standard
+ZIP Code 68770,Ponca,Dixon,Standard
+ZIP Code 68771,Randolph,Cedar,Standard
+ZIP Code 68773,Royal,Antelope,Standard
+ZIP Code 68774,Saint Helena,Cedar,Standard
+ZIP Code 68776,South Sioux City,Dakota,Standard
+ZIP Code 68777,Spencer,Boyd,Standard
+ZIP Code 68778,Springview,Keya Paha,Standard
+ZIP Code 68779,Stanton,Stanton,Standard
+ZIP Code 68780,Stuart,Holt,Standard
+ZIP Code 68781,Tilden,Madison,Standard
+ZIP Code 68783,Verdigre,Knox,Standard
+ZIP Code 68784,Wakefield,Dixon,Standard
+ZIP Code 68785,Waterbury,Dixon,Standard
+ZIP Code 68786,Wausa,Knox,Standard
+ZIP Code 68787,Wayne,Wayne,Standard
+ZIP Code 68788,West Point,Cuming,Standard
+ZIP Code 68789,Winnetoon,Knox,Standard
+ZIP Code 68790,Winside,Wayne,Standard
+ZIP Code 68791,Wisner,Cuming,Standard
+ZIP Code 68792,Wynot,Cedar,Standard
+ZIP Code 68801,Grand Island,Hall,Standard
+ZIP Code 68802,Grand Island,Hall,P.O. Box
+ZIP Code 68803,Grand Island,Hall,Standard
+ZIP Code 68810,Alda,Hall,Standard
+ZIP Code 68812,Amherst,Buffalo,Standard
+ZIP Code 68813,Anselmo,Custer,Standard
+ZIP Code 68814,Ansley,Custer,Standard
+ZIP Code 68815,Arcadia,Valley,Standard
+ZIP Code 68816,Archer,Merrick,Standard
+ZIP Code 68817,Ashton,Sherman,Standard
+ZIP Code 68818,Aurora,Hamilton,Standard
+ZIP Code 68820,Boelus,Howard,Standard
+ZIP Code 68821,Brewster,Blaine,Standard
+ZIP Code 68822,Broken Bow,Custer,Standard
+ZIP Code 68823,Burwell,Garfield,Standard
+ZIP Code 68824,Cairo,Hall,Standard
+ZIP Code 68825,Callaway,Custer,Standard
+ZIP Code 68826,Central City,Merrick,Standard
+ZIP Code 68827,Chapman,Merrick,Standard
+ZIP Code 68828,Comstock,Custer,Standard
+ZIP Code 68831,Dannebrog,Howard,Standard
+ZIP Code 68832,Doniphan,Hall,Standard
+ZIP Code 68833,Dunning,Blaine,Standard
+ZIP Code 68834,Eddyville,Dawson,Standard
+ZIP Code 68835,Elba,Howard,Standard
+ZIP Code 68836,Elm Creek,Buffalo,Standard
+ZIP Code 68837,Elyria,Valley,Standard
+ZIP Code 68838,Farwell,Howard,Standard
+ZIP Code 68840,Gibbon,Buffalo,Standard
+ZIP Code 68841,Giltner,Hamilton,Standard
+ZIP Code 68842,Greeley,Greeley,Standard
+ZIP Code 68843,Hampton,Hamilton,Standard
+ZIP Code 68844,Hazard,Sherman,Standard
+ZIP Code 68845,Kearney,Buffalo,Standard
+ZIP Code 68846,Hordville,Hamilton,Standard
+ZIP Code 68847,Kearney,Buffalo,Standard
+ZIP Code 68848,Kearney,Buffalo,P.O. Box
+ZIP Code 68849,Kearney,Buffalo,Unique
+ZIP Code 68850,Lexington,Dawson,Standard
+ZIP Code 68852,Litchfield,Sherman,Standard
+ZIP Code 68853,Loup City,Sherman,Standard
+ZIP Code 68854,Marquette,Hamilton,Standard
+ZIP Code 68855,Mason City,Custer,Standard
+ZIP Code 68856,Merna,Custer,Standard
+ZIP Code 68858,Miller,Buffalo,Standard
+ZIP Code 68859,North Loup,Valley,Standard
+ZIP Code 68860,Oconto,Custer,Standard
+ZIP Code 68861,Odessa,Buffalo,Standard
+ZIP Code 68862,Ord,Valley,Standard
+ZIP Code 68863,Overton,Dawson,Standard
+ZIP Code 68864,Palmer,Merrick,Standard
+ZIP Code 68865,Phillips,Hamilton,Standard
+ZIP Code 68866,Pleasanton,Buffalo,Standard
+ZIP Code 68869,Ravenna,Buffalo,Standard
+ZIP Code 68870,Riverdale,Buffalo,Standard
+ZIP Code 68871,Rockville,Sherman,Standard
+ZIP Code 68872,Saint Libory,Howard,Standard
+ZIP Code 68873,Saint Paul,Howard,Standard
+ZIP Code 68874,Sargent,Custer,Standard
+ZIP Code 68875,Scotia,Greeley,Standard
+ZIP Code 68876,Shelton,Buffalo,Standard
+ZIP Code 68878,Sumner,Dawson,Standard
+ZIP Code 68879,Taylor,Loup,Standard
+ZIP Code 68881,Westerville,Custer,Standard
+ZIP Code 68882,Wolbach,Greeley,Standard
+ZIP Code 68883,Wood River,Hall,Standard
+ZIP Code 68901,Hastings,Adams,Standard
+ZIP Code 68902,Hastings,Adams,P.O. Box
+ZIP Code 68920,Alma,Harlan,Standard
+ZIP Code 68922,Arapahoe,Furnas,Standard
+ZIP Code 68923,Atlanta,Phelps,P.O. Box
+ZIP Code 68924,Axtell,Kearney,Standard
+ZIP Code 68925,Ayr,Adams,Standard
+ZIP Code 68926,Beaver City,Furnas,Standard
+ZIP Code 68927,Bertrand,Phelps,Standard
+ZIP Code 68928,Bladen,Webster,Standard
+ZIP Code 68929,Bloomington,Franklin,Standard
+ZIP Code 68930,Blue Hill,Webster,Standard
+ZIP Code 68932,Campbell,Franklin,Standard
+ZIP Code 68933,Clay Center,Clay,Standard
+ZIP Code 68934,Deweese,Clay,Standard
+ZIP Code 68935,Edgar,Clay,Standard
+ZIP Code 68936,Edison,Furnas,Standard
+ZIP Code 68937,Elwood,Gosper,Standard
+ZIP Code 68938,Fairfield,Clay,Standard
+ZIP Code 68939,Franklin,Franklin,Standard
+ZIP Code 68940,Funk,Phelps,Standard
+ZIP Code 68941,Glenvil,Clay,Standard
+ZIP Code 68942,Guide Rock,Webster,Standard
+ZIP Code 68943,Hardy,Nuckolls,Standard
+ZIP Code 68944,Harvard,Clay,Standard
+ZIP Code 68945,Heartwell,Kearney,Standard
+ZIP Code 68946,Hendley,Furnas,Standard
+ZIP Code 68947,Hildreth,Franklin,Standard
+ZIP Code 68948,Holbrook,Furnas,Standard
+ZIP Code 68949,Holdrege,Phelps,Standard
+ZIP Code 68950,Holstein,Adams,Standard
+ZIP Code 68952,Inavale,Webster,Standard
+ZIP Code 68954,Inland,Clay,Standard
+ZIP Code 68955,Juniata,Adams,Standard
+ZIP Code 68956,Kenesaw,Adams,Standard
+ZIP Code 68957,Lawrence,Nuckolls,Standard
+ZIP Code 68958,Loomis,Phelps,Standard
+ZIP Code 68959,Minden,Kearney,Standard
+ZIP Code 68960,Naponee,Franklin,Standard
+ZIP Code 68961,Nelson,Nuckolls,Standard
+ZIP Code 68964,Oak,Nuckolls,Standard
+ZIP Code 68966,Orleans,Harlan,Standard
+ZIP Code 68967,Oxford,Furnas,Standard
+ZIP Code 68969,Ragan,Harlan,P.O. Box
+ZIP Code 68970,Red Cloud,Webster,Standard
+ZIP Code 68971,Republican City,Harlan,Standard
+ZIP Code 68972,Riverton,Franklin,Standard
+ZIP Code 68973,Roseland,Adams,Standard
+ZIP Code 68974,Ruskin,Nuckolls,Standard
+ZIP Code 68975,Saronville,Clay,Standard
+ZIP Code 68976,Smithfield,Gosper,Standard
+ZIP Code 68977,Stamford,Harlan,Standard
+ZIP Code 68978,Superior,Nuckolls,Standard
+ZIP Code 68979,Sutton,Clay,Standard
+ZIP Code 68980,Trumbull,Clay,Standard
+ZIP Code 68981,Upland,Franklin,Standard
+ZIP Code 68982,Wilcox,Kearney,Standard
+ZIP Code 69001,Mc Cook,Red Willow,Standard
+ZIP Code 69020,Bartley,Red Willow,Standard
+ZIP Code 69021,Benkelman,Dundy,Standard
+ZIP Code 69022,Cambridge,Furnas,Standard
+ZIP Code 69023,Champion,Chase,Standard
+ZIP Code 69024,Culbertson,Hitchcock,Standard
+ZIP Code 69025,Curtis,Frontier,Standard
+ZIP Code 69026,Danbury,Red Willow,Standard
+ZIP Code 69027,Enders,Chase,Standard
+ZIP Code 69028,Eustis,Frontier,Standard
+ZIP Code 69029,Farnam,Dawson,Standard
+ZIP Code 69030,Haigler,Dundy,Standard
+ZIP Code 69032,Hayes Center,Hayes,Standard
+ZIP Code 69033,Imperial,Chase,Standard
+ZIP Code 69034,Indianola,Red Willow,Standard
+ZIP Code 69036,Lebanon,Red Willow,Standard
+ZIP Code 69037,Max,Dundy,Standard
+ZIP Code 69038,Maywood,Frontier,Standard
+ZIP Code 69039,Moorefield,Frontier,Standard
+ZIP Code 69040,Palisade,Hitchcock,Standard
+ZIP Code 69041,Parks,Dundy,Standard
+ZIP Code 69042,Stockville,Frontier,Standard
+ZIP Code 69043,Stratton,Hitchcock,Standard
+ZIP Code 69044,Trenton,Hitchcock,Standard
+ZIP Code 69045,Wauneta,Chase,Standard
+ZIP Code 69046,Wilsonville,Furnas,Standard
+ZIP Code 69101,North Platte,Lincoln,Standard
+ZIP Code 69103,North Platte,Lincoln,P.O. Box
+ZIP Code 69120,Arnold,Custer,Standard
+ZIP Code 69121,Arthur,Arthur,Standard
+ZIP Code 69122,Big Springs,Deuel,Standard
+ZIP Code 69123,Brady,Lincoln,Standard
+ZIP Code 69125,Broadwater,Morrill,Standard
+ZIP Code 69127,Brule,Keith,Standard
+ZIP Code 69128,Bushnell,Kimball,Standard
+ZIP Code 69129,Chappell,Deuel,Standard
+ZIP Code 69130,Cozad,Dawson,Standard
+ZIP Code 69131,Dalton,Cheyenne,Standard
+ZIP Code 69132,Dickens,Lincoln,Standard
+ZIP Code 69133,Dix,Kimball,Standard
+ZIP Code 69134,Elsie,Perkins,Standard
+ZIP Code 69135,Elsmere,Cherry,Standard
+ZIP Code 69138,Gothenburg,Dawson,Standard
+ZIP Code 69140,Grant,Perkins,Standard
+ZIP Code 69141,Gurley,Cheyenne,Standard
+ZIP Code 69142,Halsey,Thomas,Standard
+ZIP Code 69143,Hershey,Lincoln,Standard
+ZIP Code 69144,Keystone,Keith,Standard
+ZIP Code 69145,Kimball,Kimball,Standard
+ZIP Code 69146,Lemoyne,Keith,Standard
+ZIP Code 69147,Lewellen,Garden,Standard
+ZIP Code 69148,Lisco,Garden,Standard
+ZIP Code 69149,Lodgepole,Cheyenne,Standard
+ZIP Code 69150,Madrid,Perkins,Standard
+ZIP Code 69151,Maxwell,Lincoln,Standard
+ZIP Code 69152,Mullen,Hooker,Standard
+ZIP Code 69153,Ogallala,Keith,Standard
+ZIP Code 69154,Oshkosh,Garden,Standard
+ZIP Code 69155,Paxton,Keith,Standard
+ZIP Code 69156,Potter,Cheyenne,Standard
+ZIP Code 69157,Purdum,Blaine,Standard
+ZIP Code 69160,Sidney,Cheyenne,Unique
+ZIP Code 69161,Seneca,Thomas,Standard
+ZIP Code 69162,Sidney,Cheyenne,Standard
+ZIP Code 69163,Stapleton,Logan,Standard
+ZIP Code 69165,Sutherland,Lincoln,Standard
+ZIP Code 69166,Thedford,Thomas,Standard
+ZIP Code 69167,Tryon,Mcpherson,Standard
+ZIP Code 69168,Venango,Perkins,Standard
+ZIP Code 69169,Wallace,Lincoln,Standard
+ZIP Code 69170,Wellfleet,Lincoln,Standard
+ZIP Code 69171,Willow Island,Dawson,Standard
+ZIP Code 69190,Oshkosh,Garden,Unique
+ZIP Code 69201,Valentine,Cherry,Standard
+ZIP Code 69210,Ainsworth,Brown,Standard
+ZIP Code 69211,Cody,Cherry,Standard
+ZIP Code 69212,Crookston,Cherry,Standard
+ZIP Code 69214,Johnstown,Brown,Standard
+ZIP Code 69216,Kilgore,Cherry,Standard
+ZIP Code 69217,Long Pine,Brown,Standard
+ZIP Code 69218,Merriman,Cherry,Standard
+ZIP Code 69219,Nenzel,Cherry,Standard
+ZIP Code 69220,Sparks,Cherry,Standard
+ZIP Code 69221,Wood Lake,Cherry,Standard
+ZIP Code 69301,Alliance,Box Butte,Standard
+ZIP Code 69331,Angora,Morrill,Standard
+ZIP Code 69333,Ashby,Grant,Standard
+ZIP Code 69334,Bayard,Morrill,Standard
+ZIP Code 69335,Bingham,Sheridan,Standard
+ZIP Code 69336,Bridgeport,Morrill,Standard
+ZIP Code 69337,Chadron,Dawes,Standard
+ZIP Code 69339,Crawford,Dawes,Standard
+ZIP Code 69340,Ellsworth,Sheridan,Standard
+ZIP Code 69341,Gering,Scotts Bluff,Standard
+ZIP Code 69343,Gordon,Sheridan,Standard
+ZIP Code 69345,Harrisburg,Banner,Standard
+ZIP Code 69346,Harrison,Sioux,Standard
+ZIP Code 69347,Hay Springs,Sheridan,Standard
+ZIP Code 69348,Hemingford,Box Butte,Standard
+ZIP Code 69350,Hyannis,Grant,Standard
+ZIP Code 69351,Lakeside,Sheridan,Standard
+ZIP Code 69352,Lyman,Scotts Bluff,Standard
+ZIP Code 69353,Mcgrew,Scotts Bluff,P.O. Box
+ZIP Code 69354,Marsland,Dawes,Standard
+ZIP Code 69355,Melbeta,Scotts Bluff,P.O. Box
+ZIP Code 69356,Minatare,Scotts Bluff,Standard
+ZIP Code 69357,Mitchell,Scotts Bluff,Standard
+ZIP Code 69358,Morrill,Scotts Bluff,Standard
+ZIP Code 69360,Rushville,Sheridan,Standard
+ZIP Code 69361,Scottsbluff,Scotts Bluff,Standard
+ZIP Code 69363,Scottsbluff,Scotts Bluff,P.O. Box
+ZIP Code 69365,Whiteclay,Sheridan,P.O. Box
+ZIP Code 69366,Whitman,Grant,Standard
+ZIP Code 69367,Whitney,Dawes,Standard

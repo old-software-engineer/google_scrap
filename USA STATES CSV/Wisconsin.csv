@@ -1,0 +1,880 @@
+ZIP Code,City,County,Type
+ZIP Code 53001,Adell,Sheboygan,Standard
+ZIP Code 53002,Allenton,Washington,Standard
+ZIP Code 53003,Ashippun,Dodge,P.O. Box
+ZIP Code 53004,Belgium,Ozaukee,Standard
+ZIP Code 53005,Brookfield,Waukesha,Standard
+ZIP Code 53006,Brownsville,Dodge,Standard
+ZIP Code 53007,Butler,Waukesha,Standard
+ZIP Code 53008,Brookfield,Waukesha,P.O. Box
+ZIP Code 53010,Campbellsport,Fond Du Lac,Standard
+ZIP Code 53011,Cascade,Sheboygan,Standard
+ZIP Code 53012,Cedarburg,Ozaukee,Standard
+ZIP Code 53013,Cedar Grove,Sheboygan,Standard
+ZIP Code 53014,Chilton,Calumet,Standard
+ZIP Code 53015,Cleveland,Manitowoc,Standard
+ZIP Code 53016,Clyman,Dodge,P.O. Box
+ZIP Code 53017,Colgate,Washington,Standard
+ZIP Code 53018,Delafield,Waukesha,Standard
+ZIP Code 53019,Eden,Fond Du Lac,Standard
+ZIP Code 53020,Elkhart Lake,Sheboygan,Standard
+ZIP Code 53021,Fredonia,Ozaukee,Standard
+ZIP Code 53022,Germantown,Washington,Standard
+ZIP Code 53023,Glenbeulah,Sheboygan,Standard
+ZIP Code 53024,Grafton,Ozaukee,Standard
+ZIP Code 53026,Greenbush,Sheboygan,P.O. Box
+ZIP Code 53027,Hartford,Washington,Standard
+ZIP Code 53029,Hartland,Waukesha,Standard
+ZIP Code 53031,Hingham,Sheboygan,P.O. Box
+ZIP Code 53032,Horicon,Dodge,Standard
+ZIP Code 53033,Hubertus,Washington,Standard
+ZIP Code 53034,Hustisford,Dodge,Standard
+ZIP Code 53035,Iron Ridge,Dodge,Standard
+ZIP Code 53036,Ixonia,Jefferson,Standard
+ZIP Code 53037,Jackson,Washington,Standard
+ZIP Code 53038,Johnson Creek,Jefferson,Standard
+ZIP Code 53039,Juneau,Dodge,Standard
+ZIP Code 53040,Kewaskum,Washington,Standard
+ZIP Code 53042,Kiel,Manitowoc,Standard
+ZIP Code 53044,Kohler,Sheboygan,Standard
+ZIP Code 53045,Brookfield,Waukesha,Standard
+ZIP Code 53046,Lannon,Waukesha,Standard
+ZIP Code 53047,Lebanon,Dodge,P.O. Box
+ZIP Code 53048,Lomira,Dodge,Standard
+ZIP Code 53049,Malone,Fond Du Lac,Standard
+ZIP Code 53050,Mayville,Dodge,Standard
+ZIP Code 53051,Menomonee Falls,Waukesha,Standard
+ZIP Code 53052,Menomonee Falls,Waukesha,P.O. Box
+ZIP Code 53056,Merton,Waukesha,P.O. Box
+ZIP Code 53057,Mount Calvary,Fond Du Lac,Standard
+ZIP Code 53058,Nashotah,Waukesha,Standard
+ZIP Code 53059,Neosho,Dodge,Standard
+ZIP Code 53060,Newburg,Washington,P.O. Box
+ZIP Code 53061,New Holstein,Calumet,Standard
+ZIP Code 53062,New Holstein,Calumet,Unique
+ZIP Code 53063,Newton,Manitowoc,Standard
+ZIP Code 53064,North Lake,Waukesha,P.O. Box
+ZIP Code 53065,Oakfield,Fond Du Lac,Standard
+ZIP Code 53066,Oconomowoc,Waukesha,Standard
+ZIP Code 53069,Okauchee,Waukesha,Standard
+ZIP Code 53070,Oostburg,Sheboygan,Standard
+ZIP Code 53072,Pewaukee,Waukesha,Standard
+ZIP Code 53073,Plymouth,Sheboygan,Standard
+ZIP Code 53074,Port Washington,Ozaukee,Standard
+ZIP Code 53075,Random Lake,Sheboygan,Standard
+ZIP Code 53076,Richfield,Washington,Standard
+ZIP Code 53078,Rubicon,Dodge,Standard
+ZIP Code 53079,Saint Cloud,Fond Du Lac,Standard
+ZIP Code 53080,Saukville,Ozaukee,Standard
+ZIP Code 53081,Sheboygan,Sheboygan,Standard
+ZIP Code 53082,Sheboygan,Sheboygan,P.O. Box
+ZIP Code 53083,Sheboygan,Sheboygan,Standard
+ZIP Code 53085,Sheboygan Falls,Sheboygan,Standard
+ZIP Code 53086,Slinger,Washington,Standard
+ZIP Code 53088,Stockbridge,Calumet,P.O. Box
+ZIP Code 53089,Sussex,Waukesha,Standard
+ZIP Code 53090,West Bend,Washington,Standard
+ZIP Code 53091,Theresa,Dodge,Standard
+ZIP Code 53092,Mequon,Ozaukee,Standard
+ZIP Code 53093,Waldo,Sheboygan,Standard
+ZIP Code 53094,Watertown,Jefferson,Standard
+ZIP Code 53095,West Bend,Washington,Standard
+ZIP Code 53097,Mequon,Ozaukee,Standard
+ZIP Code 53098,Watertown,Dodge,Standard
+ZIP Code 53099,Woodland,Dodge,Standard
+ZIP Code 53101,Bassett,Kenosha,P.O. Box
+ZIP Code 53102,Benet Lake,Kenosha,P.O. Box
+ZIP Code 53103,Big Bend,Waukesha,Standard
+ZIP Code 53104,Bristol,Kenosha,Standard
+ZIP Code 53105,Burlington,Racine,Standard
+ZIP Code 53108,Caledonia,Racine,Standard
+ZIP Code 53109,Camp Lake,Kenosha,P.O. Box
+ZIP Code 53110,Cudahy,Milwaukee,Standard
+ZIP Code 53114,Darien,Walworth,Standard
+ZIP Code 53115,Delavan,Walworth,Standard
+ZIP Code 53118,Dousman,Waukesha,Standard
+ZIP Code 53119,Eagle,Waukesha,Standard
+ZIP Code 53120,East Troy,Walworth,Standard
+ZIP Code 53121,Elkhorn,Walworth,Standard
+ZIP Code 53122,Elm Grove,Waukesha,Standard
+ZIP Code 53125,Fontana,Walworth,Standard
+ZIP Code 53126,Franksville,Racine,Standard
+ZIP Code 53127,Genesee Depot,Waukesha,P.O. Box
+ZIP Code 53128,Genoa City,Walworth,Standard
+ZIP Code 53129,Greendale,Milwaukee,Standard
+ZIP Code 53130,Hales Corners,Milwaukee,Standard
+ZIP Code 53132,Franklin,Milwaukee,Standard
+ZIP Code 53137,Helenville,Jefferson,Standard
+ZIP Code 53138,Honey Creek,Walworth,P.O. Box
+ZIP Code 53139,Kansasville,Racine,Standard
+ZIP Code 53140,Kenosha,Kenosha,Standard
+ZIP Code 53141,Kenosha,Kenosha,P.O. Box
+ZIP Code 53142,Kenosha,Kenosha,Standard
+ZIP Code 53143,Kenosha,Kenosha,Standard
+ZIP Code 53144,Kenosha,Kenosha,Standard
+ZIP Code 53146,New Berlin,Waukesha,Standard
+ZIP Code 53147,Lake Geneva,Walworth,Standard
+ZIP Code 53148,Lyons,Walworth,P.O. Box
+ZIP Code 53149,Mukwonago,Waukesha,Standard
+ZIP Code 53150,Muskego,Waukesha,Standard
+ZIP Code 53151,New Berlin,Waukesha,Standard
+ZIP Code 53152,New Munster,Kenosha,P.O. Box
+ZIP Code 53153,North Prairie,Waukesha,Standard
+ZIP Code 53154,Oak Creek,Milwaukee,Standard
+ZIP Code 53156,Palmyra,Jefferson,Standard
+ZIP Code 53157,Pell Lake,Walworth,P.O. Box
+ZIP Code 53158,Pleasant Prairie,Kenosha,Standard
+ZIP Code 53159,Powers Lake,Kenosha,P.O. Box
+ZIP Code 53167,Rochester,Racine,P.O. Box
+ZIP Code 53168,Salem,Kenosha,Standard
+ZIP Code 53170,Silver Lake,Kenosha,Standard
+ZIP Code 53171,Somers,Kenosha,P.O. Box
+ZIP Code 53172,South Milwaukee,Milwaukee,Standard
+ZIP Code 53176,Springfield,Walworth,P.O. Box
+ZIP Code 53177,Sturtevant,Racine,Standard
+ZIP Code 53178,Sullivan,Jefferson,Standard
+ZIP Code 53179,Trevor,Kenosha,Standard
+ZIP Code 53181,Twin Lakes,Kenosha,Standard
+ZIP Code 53182,Union Grove,Racine,Standard
+ZIP Code 53183,Wales,Waukesha,Standard
+ZIP Code 53184,Walworth,Walworth,Standard
+ZIP Code 53185,Waterford,Racine,Standard
+ZIP Code 53186,Waukesha,Waukesha,Standard
+ZIP Code 53187,Waukesha,Waukesha,P.O. Box
+ZIP Code 53188,Waukesha,Waukesha,Standard
+ZIP Code 53189,Waukesha,Waukesha,Standard
+ZIP Code 53190,Whitewater,Walworth,Standard
+ZIP Code 53191,Williams Bay,Walworth,Standard
+ZIP Code 53192,Wilmot,Kenosha,P.O. Box
+ZIP Code 53194,Woodworth,Kenosha,P.O. Box
+ZIP Code 53195,Zenda,Walworth,P.O. Box
+ZIP Code 53201,Milwaukee,Milwaukee,P.O. Box
+ZIP Code 53202,Milwaukee,Milwaukee,Standard
+ZIP Code 53203,Milwaukee,Milwaukee,Standard
+ZIP Code 53204,Milwaukee,Milwaukee,Standard
+ZIP Code 53205,Milwaukee,Milwaukee,Standard
+ZIP Code 53206,Milwaukee,Milwaukee,Standard
+ZIP Code 53207,Milwaukee,Milwaukee,Standard
+ZIP Code 53208,Milwaukee,Milwaukee,Standard
+ZIP Code 53209,Milwaukee,Milwaukee,Standard
+ZIP Code 53210,Milwaukee,Milwaukee,Standard
+ZIP Code 53211,Milwaukee,Milwaukee,Standard
+ZIP Code 53212,Milwaukee,Milwaukee,Standard
+ZIP Code 53213,Milwaukee,Milwaukee,Standard
+ZIP Code 53214,Milwaukee,Milwaukee,Standard
+ZIP Code 53215,Milwaukee,Milwaukee,Standard
+ZIP Code 53216,Milwaukee,Milwaukee,Standard
+ZIP Code 53217,Milwaukee,Milwaukee,Standard
+ZIP Code 53218,Milwaukee,Milwaukee,Standard
+ZIP Code 53219,Milwaukee,Milwaukee,Standard
+ZIP Code 53220,Milwaukee,Milwaukee,Standard
+ZIP Code 53221,Milwaukee,Milwaukee,Standard
+ZIP Code 53222,Milwaukee,Milwaukee,Standard
+ZIP Code 53223,Milwaukee,Milwaukee,Standard
+ZIP Code 53224,Milwaukee,Milwaukee,Standard
+ZIP Code 53225,Milwaukee,Milwaukee,Standard
+ZIP Code 53226,Milwaukee,Milwaukee,Standard
+ZIP Code 53227,Milwaukee,Milwaukee,Standard
+ZIP Code 53228,Milwaukee,Milwaukee,Standard
+ZIP Code 53233,Milwaukee,Milwaukee,Standard
+ZIP Code 53234,Milwaukee,Milwaukee,P.O. Box
+ZIP Code 53235,Saint Francis,Milwaukee,Standard
+ZIP Code 53237,Milwaukee,Milwaukee,P.O. Box
+ZIP Code 53259,Milwaukee,Milwaukee,Unique
+ZIP Code 53263,Milwaukee,Milwaukee,Unique
+ZIP Code 53274,Milwaukee,Milwaukee,Unique
+ZIP Code 53278,Milwaukee,Milwaukee,Unique
+ZIP Code 53288,Milwaukee,Milwaukee,Unique
+ZIP Code 53290,Milwaukee,Milwaukee,Unique
+ZIP Code 53293,Milwaukee,Milwaukee,Unique
+ZIP Code 53295,Milwaukee,Milwaukee,Unique
+ZIP Code 53401,Racine,Racine,P.O. Box
+ZIP Code 53402,Racine,Racine,Standard
+ZIP Code 53403,Racine,Racine,Standard
+ZIP Code 53404,Racine,Racine,Standard
+ZIP Code 53405,Racine,Racine,Standard
+ZIP Code 53406,Racine,Racine,Standard
+ZIP Code 53407,Racine,Racine,Unique
+ZIP Code 53408,Racine,Racine,P.O. Box
+ZIP Code 53501,Afton,Rock,P.O. Box
+ZIP Code 53502,Albany,Green,Standard
+ZIP Code 53503,Arena,Iowa,Standard
+ZIP Code 53504,Argyle,Lafayette,Standard
+ZIP Code 53505,Avalon,Rock,Standard
+ZIP Code 53506,Avoca,Iowa,Standard
+ZIP Code 53507,Barneveld,Iowa,Standard
+ZIP Code 53508,Belleville,Dane,Standard
+ZIP Code 53510,Belmont,Lafayette,Standard
+ZIP Code 53511,Beloit,Rock,Standard
+ZIP Code 53512,Beloit,Rock,P.O. Box
+ZIP Code 53515,Black Earth,Dane,Standard
+ZIP Code 53516,Blanchardville,Lafayette,Standard
+ZIP Code 53517,Blue Mounds,Dane,Standard
+ZIP Code 53518,Blue River,Grant,Standard
+ZIP Code 53520,Brodhead,Green,Standard
+ZIP Code 53521,Brooklyn,Green,Standard
+ZIP Code 53522,Browntown,Green,Standard
+ZIP Code 53523,Cambridge,Dane,Standard
+ZIP Code 53525,Clinton,Rock,Standard
+ZIP Code 53526,Cobb,Iowa,Standard
+ZIP Code 53527,Cottage Grove,Dane,Standard
+ZIP Code 53528,Cross Plains,Dane,Standard
+ZIP Code 53529,Dane,Dane,Standard
+ZIP Code 53530,Darlington,Lafayette,Standard
+ZIP Code 53531,Deerfield,Dane,Standard
+ZIP Code 53532,Deforest,Dane,Standard
+ZIP Code 53533,Dodgeville,Iowa,Standard
+ZIP Code 53534,Edgerton,Rock,Standard
+ZIP Code 53535,Edmund,Iowa,P.O. Box
+ZIP Code 53536,Evansville,Rock,Standard
+ZIP Code 53537,Footville,Rock,P.O. Box
+ZIP Code 53538,Fort Atkinson,Jefferson,Standard
+ZIP Code 53540,Gotham,Richland,P.O. Box
+ZIP Code 53541,Gratiot,Lafayette,Standard
+ZIP Code 53542,Hanover,Rock,P.O. Box
+ZIP Code 53543,Highland,Iowa,Standard
+ZIP Code 53544,Hollandale,Iowa,Standard
+ZIP Code 53545,Janesville,Rock,Standard
+ZIP Code 53546,Janesville,Rock,Standard
+ZIP Code 53547,Janesville,Rock,P.O. Box
+ZIP Code 53548,Janesville,Rock,Standard
+ZIP Code 53549,Jefferson,Jefferson,Standard
+ZIP Code 53550,Juda,Green,Standard
+ZIP Code 53551,Lake Mills,Jefferson,Standard
+ZIP Code 53553,Linden,Iowa,Standard
+ZIP Code 53554,Livingston,Grant,Standard
+ZIP Code 53555,Lodi,Columbia,Standard
+ZIP Code 53556,Lone Rock,Richland,Standard
+ZIP Code 53557,Lowell,Dodge,Standard
+ZIP Code 53558,Mcfarland,Dane,Standard
+ZIP Code 53559,Marshall,Dane,Standard
+ZIP Code 53560,Mazomanie,Dane,Standard
+ZIP Code 53561,Merrimac,Sauk,Standard
+ZIP Code 53562,Middleton,Dane,Standard
+ZIP Code 53563,Milton,Rock,Standard
+ZIP Code 53565,Mineral Point,Iowa,Standard
+ZIP Code 53566,Monroe,Green,Standard
+ZIP Code 53569,Montfort,Grant,Standard
+ZIP Code 53570,Monticello,Green,Standard
+ZIP Code 53571,Morrisonville,Dane,P.O. Box
+ZIP Code 53572,Mount Horeb,Dane,Standard
+ZIP Code 53573,Muscoda,Grant,Standard
+ZIP Code 53574,New Glarus,Green,Standard
+ZIP Code 53575,Oregon,Dane,Standard
+ZIP Code 53576,Orfordville,Rock,Standard
+ZIP Code 53577,Plain,Sauk,Standard
+ZIP Code 53578,Prairie Du Sac,Sauk,Standard
+ZIP Code 53579,Reeseville,Dodge,Standard
+ZIP Code 53580,Rewey,Iowa,Standard
+ZIP Code 53581,Richland Center,Richland,Standard
+ZIP Code 53582,Ridgeway,Iowa,Standard
+ZIP Code 53583,Sauk City,Sauk,Standard
+ZIP Code 53584,Sextonville,Richland,P.O. Box
+ZIP Code 53585,Sharon,Walworth,Standard
+ZIP Code 53586,Shullsburg,Lafayette,Standard
+ZIP Code 53587,South Wayne,Lafayette,Standard
+ZIP Code 53588,Spring Green,Sauk,Standard
+ZIP Code 53589,Stoughton,Dane,Standard
+ZIP Code 53590,Sun Prairie,Dane,Standard
+ZIP Code 53593,Verona,Dane,Standard
+ZIP Code 53594,Waterloo,Jefferson,Standard
+ZIP Code 53595,Dodgeville,Iowa,Unique
+ZIP Code 53596,Sun Prairie,Dane,Unique
+ZIP Code 53597,Waunakee,Dane,Standard
+ZIP Code 53598,Windsor,Dane,Standard
+ZIP Code 53599,Woodford,Lafayette,P.O. Box
+ZIP Code 53701,Madison,Dane,P.O. Box
+ZIP Code 53702,Madison,Dane,Unique
+ZIP Code 53703,Madison,Dane,Standard
+ZIP Code 53704,Madison,Dane,Standard
+ZIP Code 53705,Madison,Dane,Standard
+ZIP Code 53706,Madison,Dane,Standard
+ZIP Code 53707,Madison,Dane,P.O. Box
+ZIP Code 53708,Madison,Dane,P.O. Box
+ZIP Code 53711,Madison,Dane,Standard
+ZIP Code 53713,Madison,Dane,Standard
+ZIP Code 53714,Madison,Dane,Standard
+ZIP Code 53715,Madison,Dane,Standard
+ZIP Code 53716,Madison,Dane,Standard
+ZIP Code 53717,Madison,Dane,Standard
+ZIP Code 53718,Madison,Dane,Standard
+ZIP Code 53719,Madison,Dane,Standard
+ZIP Code 53725,Madison,Dane,P.O. Box
+ZIP Code 53726,Madison,Dane,Standard
+ZIP Code 53744,Madison,Dane,P.O. Box
+ZIP Code 53774,Madison,Dane,Unique
+ZIP Code 53777,Madison,Dane,Unique
+ZIP Code 53782,Madison,Dane,Unique
+ZIP Code 53783,Madison,Dane,Unique
+ZIP Code 53784,Madison,Dane,Unique
+ZIP Code 53785,Madison,Dane,Unique
+ZIP Code 53786,Madison,Dane,Unique
+ZIP Code 53788,Madison,Dane,Unique
+ZIP Code 53790,Madison,Dane,Unique
+ZIP Code 53791,Madison,Dane,Unique
+ZIP Code 53792,Madison,Dane,Unique
+ZIP Code 53793,Madison,Dane,Unique
+ZIP Code 53794,Madison,Dane,Unique
+ZIP Code 53801,Bagley,Grant,Standard
+ZIP Code 53802,Beetown,Grant,P.O. Box
+ZIP Code 53803,Benton,Lafayette,Standard
+ZIP Code 53804,Bloomington,Grant,Standard
+ZIP Code 53805,Boscobel,Grant,Standard
+ZIP Code 53806,Cassville,Grant,Standard
+ZIP Code 53807,Cuba City,Grant,Standard
+ZIP Code 53808,Dickeyville,Grant,P.O. Box
+ZIP Code 53809,Fennimore,Grant,Standard
+ZIP Code 53810,Glen Haven,Grant,Standard
+ZIP Code 53811,Hazel Green,Grant,Standard
+ZIP Code 53812,Kieler,Grant,P.O. Box
+ZIP Code 53813,Lancaster,Grant,Standard
+ZIP Code 53816,Mount Hope,Grant,Standard
+ZIP Code 53817,Patch Grove,Grant,P.O. Box
+ZIP Code 53818,Platteville,Grant,Standard
+ZIP Code 53820,Potosi,Grant,Standard
+ZIP Code 53821,Prairie Du Chien,Crawford,Standard
+ZIP Code 53824,Sinsinawa,Grant,P.O. Box
+ZIP Code 53825,Stitzer,Grant,Standard
+ZIP Code 53826,Wauzeka,Crawford,Standard
+ZIP Code 53827,Woodman,Grant,Standard
+ZIP Code 53901,Portage,Columbia,Standard
+ZIP Code 53910,Adams,Adams,Standard
+ZIP Code 53911,Arlington,Columbia,Standard
+ZIP Code 53913,Baraboo,Sauk,Standard
+ZIP Code 53916,Beaver Dam,Dodge,Standard
+ZIP Code 53919,Brandon,Fond Du Lac,Standard
+ZIP Code 53920,Briggsville,Marquette,Standard
+ZIP Code 53922,Burnett,Dodge,Standard
+ZIP Code 53923,Cambria,Columbia,Standard
+ZIP Code 53924,Cazenovia,Richland,Standard
+ZIP Code 53925,Columbus,Columbia,Standard
+ZIP Code 53926,Dalton,Green Lake,Standard
+ZIP Code 53928,Doylestown,Columbia,P.O. Box
+ZIP Code 53929,Elroy,Juneau,Standard
+ZIP Code 53930,Endeavor,Marquette,Standard
+ZIP Code 53931,Fairwater,Fond Du Lac,P.O. Box
+ZIP Code 53932,Fall River,Columbia,Standard
+ZIP Code 53933,Fox Lake,Dodge,Standard
+ZIP Code 53934,Friendship,Adams,Standard
+ZIP Code 53935,Friesland,Columbia,P.O. Box
+ZIP Code 53936,Grand Marsh,Adams,Standard
+ZIP Code 53937,Hillpoint,Sauk,Standard
+ZIP Code 53939,Kingston,Green Lake,P.O. Box
+ZIP Code 53940,Lake Delton,Sauk,P.O. Box
+ZIP Code 53941,La Valle,Sauk,Standard
+ZIP Code 53942,Lime Ridge,Sauk,P.O. Box
+ZIP Code 53943,Loganville,Sauk,Standard
+ZIP Code 53944,Lyndon Station,Juneau,Standard
+ZIP Code 53946,Markesan,Green Lake,Standard
+ZIP Code 53947,Marquette,Green Lake,P.O. Box
+ZIP Code 53948,Mauston,Juneau,Standard
+ZIP Code 53949,Montello,Marquette,Standard
+ZIP Code 53950,New Lisbon,Juneau,Standard
+ZIP Code 53951,North Freedom,Sauk,Standard
+ZIP Code 53952,Oxford,Marquette,Standard
+ZIP Code 53953,Packwaukee,Marquette,P.O. Box
+ZIP Code 53954,Pardeeville,Columbia,Standard
+ZIP Code 53955,Poynette,Columbia,Standard
+ZIP Code 53956,Randolph,Dodge,Standard
+ZIP Code 53957,Randolph,Columbia,Unique
+ZIP Code 53958,Reedsburg,Sauk,Unique
+ZIP Code 53959,Reedsburg,Sauk,Standard
+ZIP Code 53960,Rio,Columbia,Standard
+ZIP Code 53961,Rock Springs,Sauk,Standard
+ZIP Code 53962,Union Center,Juneau,P.O. Box
+ZIP Code 53963,Waupun,Dodge,Standard
+ZIP Code 53964,Westfield,Marquette,Standard
+ZIP Code 53965,Wisconsin Dells,Columbia,Standard
+ZIP Code 53968,Wonewoc,Juneau,Standard
+ZIP Code 53969,Wyocena,Columbia,P.O. Box
+ZIP Code 54001,Amery,Polk,Standard
+ZIP Code 54002,Baldwin,Saint Croix,Standard
+ZIP Code 54003,Beldenville,Pierce,Standard
+ZIP Code 54004,Clayton,Polk,Standard
+ZIP Code 54005,Clear Lake,Polk,Standard
+ZIP Code 54006,Cushing,Polk,Standard
+ZIP Code 54007,Deer Park,Saint Croix,Standard
+ZIP Code 54009,Dresser,Polk,Standard
+ZIP Code 54011,Ellsworth,Pierce,Standard
+ZIP Code 54013,Glenwood City,Saint Croix,Standard
+ZIP Code 54014,Hager City,Pierce,Standard
+ZIP Code 54015,Hammond,Saint Croix,Standard
+ZIP Code 54016,Hudson,Saint Croix,Standard
+ZIP Code 54017,New Richmond,Saint Croix,Standard
+ZIP Code 54020,Osceola,Polk,Standard
+ZIP Code 54021,Prescott,Pierce,Standard
+ZIP Code 54022,River Falls,Pierce,Standard
+ZIP Code 54023,Roberts,Saint Croix,Standard
+ZIP Code 54024,Saint Croix Falls,Polk,Standard
+ZIP Code 54025,Somerset,Saint Croix,Standard
+ZIP Code 54026,Star Prairie,Polk,Standard
+ZIP Code 54027,Wilson,Saint Croix,Standard
+ZIP Code 54028,Woodville,Saint Croix,Standard
+ZIP Code 54082,Houlton,Saint Croix,Standard
+ZIP Code 54101,Abrams,Oconto,Standard
+ZIP Code 54102,Amberg,Marinette,Standard
+ZIP Code 54103,Armstrong Creek,Forest,Standard
+ZIP Code 54104,Athelstane,Marinette,Standard
+ZIP Code 54106,Black Creek,Outagamie,Standard
+ZIP Code 54107,Bonduel,Shawano,Standard
+ZIP Code 54110,Brillion,Calumet,Standard
+ZIP Code 54111,Cecil,Shawano,Standard
+ZIP Code 54112,Coleman,Marinette,Standard
+ZIP Code 54113,Combined Locks,Outagamie,Standard
+ZIP Code 54114,Crivitz,Marinette,Standard
+ZIP Code 54115,De Pere,Brown,Standard
+ZIP Code 54119,Dunbar,Marinette,Standard
+ZIP Code 54120,Fence,Florence,Standard
+ZIP Code 54121,Florence,Florence,Standard
+ZIP Code 54123,Forest Junction,Calumet,Standard
+ZIP Code 54124,Gillett,Oconto,Standard
+ZIP Code 54125,Goodman,Marinette,Standard
+ZIP Code 54126,Greenleaf,Brown,Standard
+ZIP Code 54127,Green Valley,Shawano,Standard
+ZIP Code 54128,Gresham,Shawano,Standard
+ZIP Code 54129,Hilbert,Calumet,Standard
+ZIP Code 54130,Kaukauna,Outagamie,Standard
+ZIP Code 54131,Freedom,Outagamie,P.O. Box
+ZIP Code 54135,Keshena,Menominee,Standard
+ZIP Code 54136,Kimberly,Outagamie,Standard
+ZIP Code 54137,Krakow,Shawano,Standard
+ZIP Code 54138,Lakewood,Oconto,Standard
+ZIP Code 54139,Lena,Oconto,Standard
+ZIP Code 54140,Little Chute,Outagamie,Standard
+ZIP Code 54141,Little Suamico,Oconto,Standard
+ZIP Code 54143,Marinette,Marinette,Standard
+ZIP Code 54149,Mountain,Oconto,Standard
+ZIP Code 54150,Neopit,Menominee,Standard
+ZIP Code 54151,Niagara,Marinette,Standard
+ZIP Code 54152,Nichols,Outagamie,P.O. Box
+ZIP Code 54153,Oconto,Oconto,Standard
+ZIP Code 54154,Oconto Falls,Oconto,Standard
+ZIP Code 54155,Oneida,Brown,Standard
+ZIP Code 54156,Pembine,Marinette,Standard
+ZIP Code 54157,Peshtigo,Marinette,Standard
+ZIP Code 54159,Porterfield,Marinette,Standard
+ZIP Code 54160,Potter,Calumet,P.O. Box
+ZIP Code 54161,Pound,Marinette,Standard
+ZIP Code 54162,Pulaski,Brown,Standard
+ZIP Code 54165,Seymour,Outagamie,Standard
+ZIP Code 54166,Shawano,Shawano,Standard
+ZIP Code 54169,Sherwood,Calumet,Standard
+ZIP Code 54170,Shiocton,Outagamie,Standard
+ZIP Code 54171,Sobieski,Oconto,Standard
+ZIP Code 54173,Suamico,Brown,Standard
+ZIP Code 54174,Suring,Oconto,Standard
+ZIP Code 54175,Townsend,Oconto,Standard
+ZIP Code 54177,Wausaukee,Marinette,Standard
+ZIP Code 54180,Wrightstown,Brown,Standard
+ZIP Code 54201,Algoma,Kewaunee,Standard
+ZIP Code 54202,Baileys Harbor,Door,Standard
+ZIP Code 54204,Brussels,Door,Standard
+ZIP Code 54205,Casco,Kewaunee,Standard
+ZIP Code 54207,Collins,Manitowoc,P.O. Box
+ZIP Code 54208,Denmark,Brown,Standard
+ZIP Code 54209,Egg Harbor,Door,Standard
+ZIP Code 54210,Ellison Bay,Door,Standard
+ZIP Code 54211,Ephraim,Door,P.O. Box
+ZIP Code 54212,Fish Creek,Door,Standard
+ZIP Code 54213,Forestville,Door,Standard
+ZIP Code 54214,Francis Creek,Manitowoc,P.O. Box
+ZIP Code 54215,Kellnersville,Manitowoc,P.O. Box
+ZIP Code 54216,Kewaunee,Kewaunee,Standard
+ZIP Code 54217,Luxemburg,Kewaunee,Standard
+ZIP Code 54220,Manitowoc,Manitowoc,Standard
+ZIP Code 54221,Manitowoc,Manitowoc,P.O. Box
+ZIP Code 54226,Maplewood,Door,P.O. Box
+ZIP Code 54227,Maribel,Manitowoc,Standard
+ZIP Code 54228,Mishicot,Manitowoc,Standard
+ZIP Code 54229,New Franken,Brown,Standard
+ZIP Code 54230,Reedsville,Manitowoc,Standard
+ZIP Code 54232,Saint Nazianz,Manitowoc,P.O. Box
+ZIP Code 54234,Sister Bay,Door,Standard
+ZIP Code 54235,Sturgeon Bay,Door,Standard
+ZIP Code 54240,Tisch Mills,Manitowoc,P.O. Box
+ZIP Code 54241,Two Rivers,Manitowoc,Standard
+ZIP Code 54245,Valders,Manitowoc,Standard
+ZIP Code 54246,Washington Island,Door,Standard
+ZIP Code 54247,Whitelaw,Manitowoc,Standard
+ZIP Code 54301,Green Bay,Brown,Standard
+ZIP Code 54302,Green Bay,Brown,Standard
+ZIP Code 54303,Green Bay,Brown,Standard
+ZIP Code 54304,Green Bay,Brown,Standard
+ZIP Code 54305,Green Bay,Brown,P.O. Box
+ZIP Code 54306,Green Bay,Brown,P.O. Box
+ZIP Code 54307,Green Bay,Brown,P.O. Box
+ZIP Code 54308,Green Bay,Brown,P.O. Box
+ZIP Code 54311,Green Bay,Brown,Standard
+ZIP Code 54313,Green Bay,Brown,Standard
+ZIP Code 54324,Green Bay,Brown,P.O. Box
+ZIP Code 54344,Green Bay,Brown,Unique
+ZIP Code 54401,Wausau,Marathon,Standard
+ZIP Code 54402,Wausau,Marathon,P.O. Box
+ZIP Code 54403,Wausau,Marathon,Standard
+ZIP Code 54404,Marshfield,Wood,Standard
+ZIP Code 54405,Abbotsford,Clark,Standard
+ZIP Code 54406,Amherst,Portage,Standard
+ZIP Code 54407,Amherst Junction,Portage,Standard
+ZIP Code 54408,Aniwa,Marathon,Standard
+ZIP Code 54409,Antigo,Langlade,Standard
+ZIP Code 54410,Arpin,Wood,Standard
+ZIP Code 54411,Athens,Marathon,Standard
+ZIP Code 54412,Auburndale,Wood,Standard
+ZIP Code 54413,Babcock,Wood,P.O. Box
+ZIP Code 54414,Birnamwood,Shawano,Standard
+ZIP Code 54415,Blenker,Wood,P.O. Box
+ZIP Code 54416,Bowler,Shawano,Standard
+ZIP Code 54417,Brokaw,Marathon,P.O. Box
+ZIP Code 54418,Bryant,Langlade,Standard
+ZIP Code 54420,Chili,Clark,Standard
+ZIP Code 54421,Colby,Clark,Standard
+ZIP Code 54422,Curtiss,Clark,Standard
+ZIP Code 54423,Custer,Portage,Standard
+ZIP Code 54424,Deerbrook,Langlade,Standard
+ZIP Code 54425,Dorchester,Clark,Standard
+ZIP Code 54426,Edgar,Marathon,Standard
+ZIP Code 54427,Eland,Marathon,Standard
+ZIP Code 54428,Elcho,Langlade,Standard
+ZIP Code 54429,Elderon,Marathon,P.O. Box
+ZIP Code 54430,Elton,Langlade,Standard
+ZIP Code 54433,Gilman,Taylor,Standard
+ZIP Code 54435,Gleason,Lincoln,Standard
+ZIP Code 54436,Granton,Clark,Standard
+ZIP Code 54437,Greenwood,Clark,Standard
+ZIP Code 54440,Hatley,Marathon,Standard
+ZIP Code 54441,Hewitt,Wood,Standard
+ZIP Code 54442,Irma,Lincoln,Standard
+ZIP Code 54443,Junction City,Portage,Standard
+ZIP Code 54446,Loyal,Clark,Standard
+ZIP Code 54447,Lublin,Taylor,Standard
+ZIP Code 54448,Marathon,Marathon,Standard
+ZIP Code 54449,Marshfield,Wood,Standard
+ZIP Code 54450,Mattoon,Shawano,P.O. Box
+ZIP Code 54451,Medford,Taylor,Standard
+ZIP Code 54452,Merrill,Lincoln,Standard
+ZIP Code 54454,Milladore,Wood,Standard
+ZIP Code 54455,Mosinee,Marathon,Standard
+ZIP Code 54456,Neillsville,Clark,Standard
+ZIP Code 54457,Nekoosa,Wood,Standard
+ZIP Code 54458,Nelsonville,Portage,P.O. Box
+ZIP Code 54459,Ogema,Price,Standard
+ZIP Code 54460,Owen,Clark,Standard
+ZIP Code 54462,Pearson,Langlade,Standard
+ZIP Code 54463,Pelican Lake,Oneida,Standard
+ZIP Code 54464,Phlox,Langlade,P.O. Box
+ZIP Code 54465,Pickerel,Langlade,Standard
+ZIP Code 54466,Pittsville,Wood,Standard
+ZIP Code 54467,Plover,Portage,Standard
+ZIP Code 54469,Port Edwards,Wood,Standard
+ZIP Code 54470,Rib Lake,Taylor,Standard
+ZIP Code 54471,Ringle,Marathon,Standard
+ZIP Code 54473,Rosholt,Portage,Standard
+ZIP Code 54474,Rothschild,Marathon,Standard
+ZIP Code 54475,Rudolph,Wood,Standard
+ZIP Code 54476,Schofield,Marathon,Standard
+ZIP Code 54479,Spencer,Marathon,Standard
+ZIP Code 54480,Stetsonville,Taylor,Standard
+ZIP Code 54481,Stevens Point,Portage,Standard
+ZIP Code 54482,Stevens Point,Portage,Standard
+ZIP Code 54484,Stratford,Marathon,Standard
+ZIP Code 54485,Summit Lake,Langlade,Standard
+ZIP Code 54486,Tigerton,Shawano,Standard
+ZIP Code 54487,Tomahawk,Lincoln,Standard
+ZIP Code 54488,Unity,Marathon,Standard
+ZIP Code 54489,Vesper,Wood,Standard
+ZIP Code 54490,Westboro,Taylor,Standard
+ZIP Code 54491,White Lake,Langlade,Standard
+ZIP Code 54492,Stevens Point,Portage,Unique
+ZIP Code 54493,Willard,Clark,Standard
+ZIP Code 54494,Wisconsin Rapids,Wood,Standard
+ZIP Code 54495,Wisconsin Rapids,Wood,Standard
+ZIP Code 54498,Withee,Clark,Standard
+ZIP Code 54499,Wittenberg,Shawano,Standard
+ZIP Code 54501,Rhinelander,Oneida,Standard
+ZIP Code 54511,Argonne,Forest,Standard
+ZIP Code 54512,Boulder Junction,Vilas,Standard
+ZIP Code 54513,Brantwood,Price,Standard
+ZIP Code 54514,Butternut,Ashland,Standard
+ZIP Code 54515,Catawba,Price,Standard
+ZIP Code 54517,Clam Lake,Ashland,Standard
+ZIP Code 54519,Conover,Vilas,Standard
+ZIP Code 54520,Crandon,Forest,Standard
+ZIP Code 54521,Eagle River,Vilas,Standard
+ZIP Code 54524,Fifield,Price,Standard
+ZIP Code 54525,Gile,Iron,Standard
+ZIP Code 54526,Glen Flora,Rusk,Standard
+ZIP Code 54527,Glidden,Ashland,Standard
+ZIP Code 54529,Harshaw,Oneida,Standard
+ZIP Code 54530,Hawkins,Rusk,Standard
+ZIP Code 54531,Hazelhurst,Oneida,Standard
+ZIP Code 54532,Heafford Junction,Lincoln,P.O. Box
+ZIP Code 54534,Hurley,Iron,Standard
+ZIP Code 54536,Iron Belt,Iron,P.O. Box
+ZIP Code 54537,Kennan,Price,Standard
+ZIP Code 54538,Lac Du Flambeau,Vilas,Standard
+ZIP Code 54539,Lake Tomahawk,Oneida,Standard
+ZIP Code 54540,Land O Lakes,Vilas,Standard
+ZIP Code 54541,Laona,Forest,Standard
+ZIP Code 54542,Long Lake,Florence,Standard
+ZIP Code 54543,Mc Naughton,Oneida,P.O. Box
+ZIP Code 54545,Manitowish Waters,Vilas,Standard
+ZIP Code 54546,Mellen,Ashland,Standard
+ZIP Code 54547,Mercer,Iron,Standard
+ZIP Code 54548,Minocqua,Oneida,Standard
+ZIP Code 54550,Montreal,Iron,Standard
+ZIP Code 54552,Park Falls,Price,Standard
+ZIP Code 54554,Phelps,Vilas,Standard
+ZIP Code 54555,Phillips,Price,Standard
+ZIP Code 54556,Prentice,Price,Standard
+ZIP Code 54557,Presque Isle,Vilas,Standard
+ZIP Code 54558,Saint Germain,Vilas,Standard
+ZIP Code 54559,Saxon,Iron,Standard
+ZIP Code 54560,Sayner,Vilas,Standard
+ZIP Code 54561,Star Lake,Vilas,Standard
+ZIP Code 54562,Three Lakes,Oneida,Standard
+ZIP Code 54563,Tony,Rusk,Standard
+ZIP Code 54564,Tripoli,Oneida,Standard
+ZIP Code 54565,Upson,Iron,Standard
+ZIP Code 54566,Wabeno,Forest,Standard
+ZIP Code 54568,Woodruff,Oneida,Standard
+ZIP Code 54601,La Crosse,La Crosse,Standard
+ZIP Code 54602,La Crosse,La Crosse,P.O. Box
+ZIP Code 54603,La Crosse,La Crosse,Standard
+ZIP Code 54610,Alma,Buffalo,Standard
+ZIP Code 54611,Alma Center,Jackson,Standard
+ZIP Code 54612,Arcadia,Trempealeau,Standard
+ZIP Code 54613,Arkdale,Adams,Standard
+ZIP Code 54614,Bangor,La Crosse,Standard
+ZIP Code 54615,Black River Falls,Jackson,Standard
+ZIP Code 54616,Blair,Trempealeau,Standard
+ZIP Code 54618,Camp Douglas,Juneau,Standard
+ZIP Code 54619,Cashton,Monroe,Standard
+ZIP Code 54620,Cataract,Monroe,P.O. Box
+ZIP Code 54621,Chaseburg,Vernon,Standard
+ZIP Code 54622,Cochrane,Buffalo,Standard
+ZIP Code 54623,Coon Valley,Vernon,Standard
+ZIP Code 54624,De Soto,Vernon,Standard
+ZIP Code 54625,Dodge,Trempealeau,Standard
+ZIP Code 54626,Eastman,Crawford,Standard
+ZIP Code 54627,Ettrick,Trempealeau,Standard
+ZIP Code 54628,Ferryville,Crawford,Standard
+ZIP Code 54629,Fountain City,Buffalo,Standard
+ZIP Code 54630,Galesville,Trempealeau,Standard
+ZIP Code 54631,Gays Mills,Crawford,Standard
+ZIP Code 54632,Genoa,Vernon,Standard
+ZIP Code 54634,Hillsboro,Vernon,Standard
+ZIP Code 54635,Hixton,Jackson,Standard
+ZIP Code 54636,Holmen,La Crosse,Standard
+ZIP Code 54637,Hustler,Juneau,P.O. Box
+ZIP Code 54638,Kendall,Monroe,Standard
+ZIP Code 54639,La Farge,Vernon,Standard
+ZIP Code 54641,Mather,Juneau,P.O. Box
+ZIP Code 54642,Melrose,Jackson,Standard
+ZIP Code 54643,Millston,Jackson,P.O. Box
+ZIP Code 54644,Mindoro,La Crosse,Standard
+ZIP Code 54645,Mount Sterling,Crawford,P.O. Box
+ZIP Code 54646,Necedah,Juneau,Standard
+ZIP Code 54648,Norwalk,Monroe,Standard
+ZIP Code 54649,Oakdale,Monroe,P.O. Box
+ZIP Code 54650,Onalaska,La Crosse,Standard
+ZIP Code 54651,Ontario,Vernon,Standard
+ZIP Code 54652,Readstown,Vernon,Standard
+ZIP Code 54653,Rockland,La Crosse,Standard
+ZIP Code 54654,Seneca,Crawford,P.O. Box
+ZIP Code 54655,Soldiers Grove,Crawford,Standard
+ZIP Code 54656,Sparta,Monroe,Standard
+ZIP Code 54657,Steuben,Crawford,Standard
+ZIP Code 54658,Stoddard,Vernon,Standard
+ZIP Code 54659,Taylor,Jackson,Standard
+ZIP Code 54660,Tomah,Monroe,Standard
+ZIP Code 54661,Trempealeau,Trempealeau,Standard
+ZIP Code 54662,Tunnel City,Monroe,P.O. Box
+ZIP Code 54664,Viola,Richland,Standard
+ZIP Code 54665,Viroqua,Vernon,Standard
+ZIP Code 54666,Warrens,Monroe,Standard
+ZIP Code 54667,Westby,Vernon,Standard
+ZIP Code 54669,West Salem,La Crosse,Standard
+ZIP Code 54670,Wilton,Monroe,Standard
+ZIP Code 54701,Eau Claire,Eau Claire,Standard
+ZIP Code 54702,Eau Claire,Eau Claire,P.O. Box
+ZIP Code 54703,Eau Claire,Eau Claire,Standard
+ZIP Code 54720,Altoona,Eau Claire,Standard
+ZIP Code 54721,Arkansaw,Pepin,Standard
+ZIP Code 54722,Augusta,Eau Claire,Standard
+ZIP Code 54723,Bay City,Pierce,Standard
+ZIP Code 54724,Bloomer,Chippewa,Standard
+ZIP Code 54725,Boyceville,Dunn,Standard
+ZIP Code 54726,Boyd,Chippewa,Standard
+ZIP Code 54727,Cadott,Chippewa,Standard
+ZIP Code 54728,Chetek,Barron,Standard
+ZIP Code 54729,Chippewa Falls,Chippewa,Standard
+ZIP Code 54730,Colfax,Dunn,Standard
+ZIP Code 54731,Conrath,Rusk,Standard
+ZIP Code 54732,Cornell,Chippewa,Standard
+ZIP Code 54733,Dallas,Barron,Standard
+ZIP Code 54734,Downing,Dunn,Standard
+ZIP Code 54735,Downsville,Dunn,P.O. Box
+ZIP Code 54736,Durand,Pepin,Standard
+ZIP Code 54737,Eau Galle,Dunn,Standard
+ZIP Code 54738,Eleva,Trempealeau,Standard
+ZIP Code 54739,Elk Mound,Dunn,Standard
+ZIP Code 54740,Elmwood,Pierce,Standard
+ZIP Code 54741,Fairchild,Eau Claire,Standard
+ZIP Code 54742,Fall Creek,Eau Claire,Standard
+ZIP Code 54743,Gilmanton,Buffalo,P.O. Box
+ZIP Code 54745,Holcombe,Chippewa,Standard
+ZIP Code 54746,Humbird,Clark,Standard
+ZIP Code 54747,Independence,Trempealeau,Standard
+ZIP Code 54748,Jim Falls,Chippewa,Standard
+ZIP Code 54749,Knapp,Dunn,Standard
+ZIP Code 54750,Maiden Rock,Pierce,Standard
+ZIP Code 54751,Menomonie,Dunn,Standard
+ZIP Code 54754,Merrillan,Jackson,Standard
+ZIP Code 54755,Mondovi,Buffalo,Standard
+ZIP Code 54756,Nelson,Buffalo,Standard
+ZIP Code 54757,New Auburn,Chippewa,Standard
+ZIP Code 54758,Osseo,Trempealeau,Standard
+ZIP Code 54759,Pepin,Pepin,P.O. Box
+ZIP Code 54760,Pigeon Falls,Trempealeau,P.O. Box
+ZIP Code 54761,Plum City,Pierce,Standard
+ZIP Code 54762,Prairie Farm,Barron,Standard
+ZIP Code 54763,Ridgeland,Dunn,Standard
+ZIP Code 54764,Rock Falls,Dunn,P.O. Box
+ZIP Code 54765,Sand Creek,Dunn,P.O. Box
+ZIP Code 54766,Sheldon,Rusk,Standard
+ZIP Code 54767,Spring Valley,Pierce,Standard
+ZIP Code 54768,Stanley,Chippewa,Standard
+ZIP Code 54769,Stockholm,Pepin,Standard
+ZIP Code 54770,Strum,Trempealeau,Standard
+ZIP Code 54771,Thorp,Clark,Standard
+ZIP Code 54772,Wheeler,Dunn,Standard
+ZIP Code 54773,Whitehall,Trempealeau,Standard
+ZIP Code 54774,Chippewa Falls,Chippewa,Unique
+ZIP Code 54801,Spooner,Washburn,Standard
+ZIP Code 54805,Almena,Barron,Standard
+ZIP Code 54806,Ashland,Ashland,Standard
+ZIP Code 54810,Balsam Lake,Polk,Standard
+ZIP Code 54812,Barron,Barron,Standard
+ZIP Code 54813,Barronett,Barron,Standard
+ZIP Code 54814,Bayfield,Bayfield,Standard
+ZIP Code 54816,Benoit,Bayfield,P.O. Box
+ZIP Code 54817,Birchwood,Washburn,Standard
+ZIP Code 54819,Bruce,Rusk,Standard
+ZIP Code 54820,Brule,Douglas,Standard
+ZIP Code 54821,Cable,Bayfield,Standard
+ZIP Code 54822,Cameron,Barron,Standard
+ZIP Code 54824,Centuria,Polk,Standard
+ZIP Code 54826,Comstock,Barron,Standard
+ZIP Code 54827,Cornucopia,Bayfield,Standard
+ZIP Code 54828,Couderay,Sawyer,Standard
+ZIP Code 54829,Cumberland,Barron,Standard
+ZIP Code 54830,Danbury,Burnett,Standard
+ZIP Code 54832,Drummond,Bayfield,Standard
+ZIP Code 54835,Exeland,Sawyer,Standard
+ZIP Code 54836,Foxboro,Douglas,Standard
+ZIP Code 54837,Frederic,Polk,Standard
+ZIP Code 54838,Gordon,Douglas,Standard
+ZIP Code 54839,Grand View,Bayfield,Standard
+ZIP Code 54840,Grantsburg,Burnett,Standard
+ZIP Code 54841,Haugen,Barron,Standard
+ZIP Code 54842,Hawthorne,Douglas,P.O. Box
+ZIP Code 54843,Hayward,Sawyer,Standard
+ZIP Code 54844,Herbster,Bayfield,Standard
+ZIP Code 54845,Hertel,Burnett,Standard
+ZIP Code 54846,High Bridge,Ashland,Standard
+ZIP Code 54847,Iron River,Bayfield,Standard
+ZIP Code 54848,Ladysmith,Rusk,Standard
+ZIP Code 54849,Lake Nebagamon,Douglas,Standard
+ZIP Code 54850,La Pointe,Ashland,P.O. Box
+ZIP Code 54853,Luck,Polk,Standard
+ZIP Code 54854,Maple,Douglas,Standard
+ZIP Code 54855,Marengo,Ashland,Standard
+ZIP Code 54856,Mason,Bayfield,Standard
+ZIP Code 54857,Mikana,Barron,Standard
+ZIP Code 54858,Milltown,Polk,Standard
+ZIP Code 54859,Minong,Washburn,Standard
+ZIP Code 54861,Odanah,Ashland,P.O. Box
+ZIP Code 54862,Ojibwa,Sawyer,Standard
+ZIP Code 54864,Poplar,Douglas,Standard
+ZIP Code 54865,Port Wing,Bayfield,Standard
+ZIP Code 54867,Radisson,Sawyer,Standard
+ZIP Code 54868,Rice Lake,Barron,Standard
+ZIP Code 54870,Sarona,Washburn,Standard
+ZIP Code 54871,Shell Lake,Washburn,Standard
+ZIP Code 54872,Siren,Burnett,Standard
+ZIP Code 54873,Solon Springs,Douglas,Standard
+ZIP Code 54874,South Range,Douglas,Standard
+ZIP Code 54875,Springbrook,Washburn,Standard
+ZIP Code 54876,Stone Lake,Sawyer,Standard
+ZIP Code 54880,Superior,Douglas,Standard
+ZIP Code 54888,Trego,Washburn,Standard
+ZIP Code 54889,Turtle Lake,Barron,Standard
+ZIP Code 54890,Wascott,Douglas,P.O. Box
+ZIP Code 54891,Washburn,Bayfield,Standard
+ZIP Code 54893,Webster,Burnett,Standard
+ZIP Code 54895,Weyerhaeuser,Rusk,Standard
+ZIP Code 54896,Winter,Sawyer,Standard
+ZIP Code 54901,Oshkosh,Winnebago,Standard
+ZIP Code 54902,Oshkosh,Winnebago,Standard
+ZIP Code 54903,Oshkosh,Winnebago,P.O. Box
+ZIP Code 54904,Oshkosh,Winnebago,Standard
+ZIP Code 54906,Oshkosh,Winnebago,Unique
+ZIP Code 54909,Almond,Portage,Standard
+ZIP Code 54911,Appleton,Outagamie,Standard
+ZIP Code 54912,Appleton,Outagamie,P.O. Box
+ZIP Code 54913,Appleton,Outagamie,Standard
+ZIP Code 54914,Appleton,Outagamie,Standard
+ZIP Code 54915,Appleton,Outagamie,Standard
+ZIP Code 54919,Appleton,Outagamie,Unique
+ZIP Code 54921,Bancroft,Portage,Standard
+ZIP Code 54922,Bear Creek,Outagamie,Standard
+ZIP Code 54923,Berlin,Green Lake,Standard
+ZIP Code 54926,Big Falls,Waupaca,P.O. Box
+ZIP Code 54927,Butte Des Morts,Winnebago,P.O. Box
+ZIP Code 54928,Caroline,Shawano,Standard
+ZIP Code 54929,Clintonville,Waupaca,Standard
+ZIP Code 54930,Coloma,Waushara,Standard
+ZIP Code 54931,Dale,Outagamie,P.O. Box
+ZIP Code 54932,Eldorado,Fond Du Lac,Standard
+ZIP Code 54933,Embarrass,Waupaca,P.O. Box
+ZIP Code 54935,Fond Du Lac,Fond Du Lac,Standard
+ZIP Code 54936,Fond Du Lac,Fond Du Lac,P.O. Box
+ZIP Code 54937,Fond Du Lac,Fond Du Lac,Standard
+ZIP Code 54940,Fremont,Waupaca,Standard
+ZIP Code 54941,Green Lake,Green Lake,Standard
+ZIP Code 54942,Greenville,Outagamie,Standard
+ZIP Code 54943,Hancock,Waushara,Standard
+ZIP Code 54944,Hortonville,Outagamie,Standard
+ZIP Code 54945,Iola,Waupaca,Standard
+ZIP Code 54946,King,Waupaca,P.O. Box
+ZIP Code 54947,Larsen,Winnebago,Standard
+ZIP Code 54948,Leopolis,Shawano,Standard
+ZIP Code 54949,Manawa,Waupaca,Standard
+ZIP Code 54950,Marion,Waupaca,Standard
+ZIP Code 54952,Menasha,Winnebago,Standard
+ZIP Code 54956,Neenah,Winnebago,Standard
+ZIP Code 54957,Neenah,Winnebago,P.O. Box
+ZIP Code 54960,Neshkoro,Marquette,Standard
+ZIP Code 54961,New London,Waupaca,Standard
+ZIP Code 54962,Ogdensburg,Waupaca,Standard
+ZIP Code 54963,Omro,Winnebago,Standard
+ZIP Code 54964,Pickett,Winnebago,Standard
+ZIP Code 54965,Pine River,Waushara,Standard
+ZIP Code 54966,Plainfield,Waushara,Standard
+ZIP Code 54967,Poy Sippi,Waushara,Standard
+ZIP Code 54968,Princeton,Green Lake,Standard
+ZIP Code 54969,Readfield,Waupaca,P.O. Box
+ZIP Code 54970,Redgranite,Waushara,Standard
+ZIP Code 54971,Ripon,Fond Du Lac,Standard
+ZIP Code 54974,Rosendale,Fond Du Lac,Standard
+ZIP Code 54976,Saxeville,Waushara,P.O. Box
+ZIP Code 54977,Scandinavia,Waupaca,Standard
+ZIP Code 54978,Tilleda,Shawano,Standard
+ZIP Code 54979,Van Dyne,Fond Du Lac,Standard
+ZIP Code 54980,Waukau,Winnebago,P.O. Box
+ZIP Code 54981,Waupaca,Waupaca,Standard
+ZIP Code 54982,Wautoma,Waushara,Standard
+ZIP Code 54983,Weyauwega,Waupaca,Standard
+ZIP Code 54984,Wild Rose,Waushara,Standard
+ZIP Code 54985,Winnebago,Winnebago,P.O. Box
+ZIP Code 54986,Winneconne,Winnebago,Standard

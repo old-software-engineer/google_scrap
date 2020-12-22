@@ -1,0 +1,423 @@
+ZIP CODE,City,County,Type
+ZIP Code 06001,Avon,Hartford,Standard
+ZIP Code 06002,Bloomfield,Hartford,Standard
+ZIP Code 06006,Windsor,Hartford,Unique
+ZIP Code 06010,Bristol,Hartford,Standard
+ZIP Code 06011,Bristol,Hartford,P.O. Box
+ZIP Code 06013,Burlington,Hartford,Standard
+ZIP Code 06016,Broad Brook,Hartford,Standard
+ZIP Code 06018,Canaan,Litchfield,Standard
+ZIP Code 06019,Canton,Hartford,Standard
+ZIP Code 06020,Canton Center,Hartford,P.O. Box
+ZIP Code 06021,Colebrook,Litchfield,Standard
+ZIP Code 06022,Collinsville,Hartford,P.O. Box
+ZIP Code 06023,East Berlin,Hartford,Standard
+ZIP Code 06024,East Canaan,Litchfield,Standard
+ZIP Code 06025,East Glastonbury,Hartford,P.O. Box
+ZIP Code 06026,East Granby,Hartford,Standard
+ZIP Code 06027,East Hartland,Hartford,Standard
+ZIP Code 06028,East Windsor Hill,Hartford,P.O. Box
+ZIP Code 06029,Ellington,Tolland,Standard
+ZIP Code 06030,Farmington,Hartford,Unique
+ZIP Code 06031,Falls Village,Litchfield,Standard
+ZIP Code 06032,Farmington,Hartford,Standard
+ZIP Code 06033,Glastonbury,Hartford,Standard
+ZIP Code 06034,Farmington,Hartford,P.O. Box
+ZIP Code 06035,Granby,Hartford,Standard
+ZIP Code 06037,Berlin,Hartford,Standard
+ZIP Code 06039,Lakeville,Litchfield,Standard
+ZIP Code 06040,Manchester,Hartford,Standard
+ZIP Code 06041,Manchester,Hartford,Unique
+ZIP Code 06042,Manchester,Hartford,Standard
+ZIP Code 06043,Bolton,Tolland,Standard
+ZIP Code 06045,Manchester,Hartford,P.O. Box
+ZIP Code 06050,New Britain,Hartford,P.O. Box
+ZIP Code 06051,New Britain,Hartford,Standard
+ZIP Code 06052,New Britain,Hartford,Standard
+ZIP Code 06053,New Britain,Hartford,Standard
+ZIP Code 06057,New Hartford,Litchfield,Standard
+ZIP Code 06058,Norfolk,Litchfield,Standard
+ZIP Code 06059,North Canton,Hartford,P.O. Box
+ZIP Code 06060,North Granby,Hartford,Standard
+ZIP Code 06061,Pine Meadow,Litchfield,P.O. Box
+ZIP Code 06062,Plainville,Hartford,Standard
+ZIP Code 06063,Barkhamsted,Litchfield,Standard
+ZIP Code 06064,Poquonock,Hartford,P.O. Box
+ZIP Code 06065,Riverton,Litchfield,Standard
+ZIP Code 06066,Vernon Rockville,Tolland,Standard
+ZIP Code 06067,Rocky Hill,Hartford,Standard
+ZIP Code 06068,Salisbury,Litchfield,Standard
+ZIP Code 06069,Sharon,Litchfield,Standard
+ZIP Code 06070,Simsbury,Hartford,Standard
+ZIP Code 06071,Somers,Tolland,Standard
+ZIP Code 06072,Somersville,Tolland,P.O. Box
+ZIP Code 06073,South Glastonbury,Hartford,Standard
+ZIP Code 06074,South Windsor,Hartford,Standard
+ZIP Code 06075,Stafford,Tolland,P.O. Box
+ZIP Code 06076,Stafford Springs,Tolland,Standard
+ZIP Code 06077,Staffordville,Tolland,P.O. Box
+ZIP Code 06078,Suffield,Hartford,Standard
+ZIP Code 06079,Taconic,Litchfield,P.O. Box
+ZIP Code 06080,Suffield,Hartford,Unique
+ZIP Code 06081,Tariffville,Hartford,Standard
+ZIP Code 06082,Enfield,Hartford,Standard
+ZIP Code 06083,Enfield,Hartford,P.O. Box
+ZIP Code 06084,Tolland,Tolland,Standard
+ZIP Code 06085,Unionville,Hartford,Standard
+ZIP Code 06088,East Windsor,Hartford,Standard
+ZIP Code 06089,Weatogue,Hartford,Standard
+ZIP Code 06090,West Granby,Hartford,Standard
+ZIP Code 06091,West Hartland,Hartford,Standard
+ZIP Code 06092,West Simsbury,Hartford,Standard
+ZIP Code 06093,West Suffield,Hartford,Standard
+ZIP Code 06094,Winchester Center,Litchfield,P.O. Box
+ZIP Code 06095,Windsor,Hartford,Standard
+ZIP Code 06096,Windsor Locks,Hartford,Standard
+ZIP Code 06098,Winsted,Litchfield,Standard
+ZIP Code 06101,Hartford,Hartford,Standard
+ZIP Code 06102,Hartford,Hartford,P.O. Box
+ZIP Code 06103,Hartford,Hartford,Standard
+ZIP Code 06104,Hartford,Hartford,P.O. Box
+ZIP Code 06105,Hartford,Hartford,Standard
+ZIP Code 06106,Hartford,Hartford,Standard
+ZIP Code 06107,West Hartford,Hartford,Standard
+ZIP Code 06108,East Hartford,Hartford,Standard
+ZIP Code 06109,Wethersfield,Hartford,Standard
+ZIP Code 06110,West Hartford,Hartford,Standard
+ZIP Code 06111,Newington,Hartford,Standard
+ZIP Code 06112,Hartford,Hartford,Standard
+ZIP Code 06114,Hartford,Hartford,Standard
+ZIP Code 06115,Hartford,Hartford,P.O. Box
+ZIP Code 06117,West Hartford,Hartford,Standard
+ZIP Code 06118,East Hartford,Hartford,Standard
+ZIP Code 06119,West Hartford,Hartford,Standard
+ZIP Code 06120,Hartford,Hartford,Standard
+ZIP Code 06123,Hartford,Hartford,P.O. Box
+ZIP Code 06126,Hartford,Hartford,P.O. Box
+ZIP Code 06127,West Hartford,Hartford,P.O. Box
+ZIP Code 06128,East Hartford,Hartford,P.O. Box
+ZIP Code 06129,Wethersfield,Hartford,P.O. Box
+ZIP Code 06131,Newington,Hartford,P.O. Box
+ZIP Code 06132,Hartford,Hartford,P.O. Box
+ZIP Code 06133,West Hartford,Hartford,P.O. Box
+ZIP Code 06134,Hartford,Hartford,P.O. Box
+ZIP Code 06137,West Hartford,Hartford,P.O. Box
+ZIP Code 06138,East Hartford,Hartford,P.O. Box
+ZIP Code 06140,Hartford,Hartford,P.O. Box
+ZIP Code 06141,Hartford,Hartford,P.O. Box
+ZIP Code 06142,Hartford,Hartford,P.O. Box
+ZIP Code 06143,Hartford,Hartford,P.O. Box
+ZIP Code 06144,Hartford,Hartford,P.O. Box
+ZIP Code 06145,Hartford,Hartford,P.O. Box
+ZIP Code 06146,Hartford,Hartford,P.O. Box
+ZIP Code 06147,Hartford,Hartford,P.O. Box
+ZIP Code 06150,Hartford,Hartford,Unique
+ZIP Code 06151,Hartford,Hartford,Unique
+ZIP Code 06152,Hartford,Hartford,Standard
+ZIP Code 06153,Hartford,Hartford,Unique
+ZIP Code 06154,Hartford,Hartford,Unique
+ZIP Code 06155,Hartford,Hartford,Unique
+ZIP Code 06156,Hartford,Hartford,Unique
+ZIP Code 06160,Hartford,Hartford,Unique
+ZIP Code 06161,Hartford,Hartford,Unique
+ZIP Code 06167,Hartford,Hartford,Unique
+ZIP Code 06176,Hartford,Hartford,Unique
+ZIP Code 06180,Hartford,Hartford,Unique
+ZIP Code 06183,Hartford,Hartford,Unique
+ZIP Code 06199,Hartford,Hartford,P.O. Box
+ZIP Code 06226,Willimantic,Windham,Standard
+ZIP Code 06230,Abington,Windham,P.O. Box
+ZIP Code 06231,Amston,Tolland,Standard
+ZIP Code 06232,Andover,Tolland,Standard
+ZIP Code 06233,Ballouville,Windham,P.O. Box
+ZIP Code 06234,Brooklyn,Windham,Standard
+ZIP Code 06235,Chaplin,Windham,Standard
+ZIP Code 06237,Columbia,Tolland,Standard
+ZIP Code 06238,Coventry,Tolland,Standard
+ZIP Code 06239,Danielson,Windham,Standard
+ZIP Code 06241,Dayville,Windham,Standard
+ZIP Code 06242,Eastford,Windham,Standard
+ZIP Code 06243,East Killingly,Windham,Standard
+ZIP Code 06244,East Woodstock,Windham,P.O. Box
+ZIP Code 06245,Fabyan,Windham,P.O. Box
+ZIP Code 06246,Grosvenor Dale,Windham,P.O. Box
+ZIP Code 06247,Hampton,Windham,Standard
+ZIP Code 06248,Hebron,Tolland,Standard
+ZIP Code 06249,Lebanon,New London,Standard
+ZIP Code 06250,Mansfield Center,Tolland,Standard
+ZIP Code 06251,Mansfield Depot,Tolland,P.O. Box
+ZIP Code 06254,North Franklin,New London,Standard
+ZIP Code 06255,North Grosvenordale,Windham,Standard
+ZIP Code 06256,North Windham,Windham,Standard
+ZIP Code 06258,Pomfret,Windham,P.O. Box
+ZIP Code 06259,Pomfret Center,Windham,Standard
+ZIP Code 06260,Putnam,Windham,Standard
+ZIP Code 06262,Quinebaug,Windham,Standard
+ZIP Code 06263,Rogers,Windham,P.O. Box
+ZIP Code 06264,Scotland,Windham,Standard
+ZIP Code 06265,South Willington,Tolland,Standard
+ZIP Code 06266,South Windham,Windham,Standard
+ZIP Code 06267,South Woodstock,Windham,P.O. Box
+ZIP Code 06268,Storrs Mansfield,Tolland,Standard
+ZIP Code 06269,Storrs Mansfield,Tolland,Unique
+ZIP Code 06277,Thompson,Windham,Standard
+ZIP Code 06278,Ashford,Windham,Standard
+ZIP Code 06279,Willington,Tolland,Standard
+ZIP Code 06280,Windham,Windham,Standard
+ZIP Code 06281,Woodstock,Windham,Standard
+ZIP Code 06282,Woodstock Valley,Windham,Standard
+ZIP Code 06320,New London,New London,Standard
+ZIP Code 06330,Baltic,New London,Standard
+ZIP Code 06331,Canterbury,Windham,Standard
+ZIP Code 06332,Central Village,Windham,P.O. Box
+ZIP Code 06333,East Lyme,New London,Standard
+ZIP Code 06334,Bozrah,New London,Standard
+ZIP Code 06335,Gales Ferry,New London,Standard
+ZIP Code 06336,Gilman,New London,Standard
+ZIP Code 06338,Mashantucket,New London,P.O. Box
+ZIP Code 06339,Ledyard,New London,Standard
+ZIP Code 06340,Groton,New London,Standard
+ZIP Code 06349,Groton,New London,P.O. Box
+ZIP Code 06350,Hanover,New London,P.O. Box
+ZIP Code 06351,Jewett City,New London,Standard
+ZIP Code 06353,Montville,New London,Standard
+ZIP Code 06354,Moosup,Windham,Standard
+ZIP Code 06355,Mystic,New London,Standard
+ZIP Code 06357,Niantic,New London,Standard
+ZIP Code 06359,North Stonington,New London,Standard
+ZIP Code 06360,Norwich,New London,Standard
+ZIP Code 06365,Preston,New London,Standard
+ZIP Code 06370,Oakdale,New London,Standard
+ZIP Code 06371,Old Lyme,New London,Standard
+ZIP Code 06372,Old Mystic,New London,P.O. Box
+ZIP Code 06373,Oneco,Windham,P.O. Box
+ZIP Code 06374,Plainfield,Windham,Standard
+ZIP Code 06375,Quaker Hill,New London,Standard
+ZIP Code 06376,South Lyme,New London,P.O. Box
+ZIP Code 06377,Sterling,Windham,Standard
+ZIP Code 06378,Stonington,New London,Standard
+ZIP Code 06379,Pawcatuck,New London,Standard
+ZIP Code 06380,Taftville,New London,Standard
+ZIP Code 06382,Uncasville,New London,Standard
+ZIP Code 06383,Versailles,New London,P.O. Box
+ZIP Code 06384,Voluntown,New London,Standard
+ZIP Code 06385,Waterford,New London,Standard
+ZIP Code 06387,Wauregan,Windham,P.O. Box
+ZIP Code 06388,West Mystic,New London,P.O. Box
+ZIP Code 06389,Yantic,New London,Standard
+ZIP Code 06401,Ansonia,New Haven,Standard
+ZIP Code 06403,Beacon Falls,New Haven,Standard
+ZIP Code 06404,Botsford,Fairfield,P.O. Box
+ZIP Code 06405,Branford,New Haven,Standard
+ZIP Code 06408,Cheshire,New Haven,Unique
+ZIP Code 06409,Centerbrook,Middlesex,Standard
+ZIP Code 06410,Cheshire,New Haven,Standard
+ZIP Code 06411,Cheshire,New Haven,Unique
+ZIP Code 06412,Chester,Middlesex,Standard
+ZIP Code 06413,Clinton,Middlesex,Standard
+ZIP Code 06414,Cobalt,Middlesex,P.O. Box
+ZIP Code 06415,Colchester,New London,Standard
+ZIP Code 06416,Cromwell,Middlesex,Standard
+ZIP Code 06417,Deep River,Middlesex,Standard
+ZIP Code 06418,Derby,New Haven,Standard
+ZIP Code 06419,Killingworth,Middlesex,Standard
+ZIP Code 06420,Salem,New London,Standard
+ZIP Code 06422,Durham,Middlesex,Standard
+ZIP Code 06423,East Haddam,Middlesex,Standard
+ZIP Code 06424,East Hampton,Middlesex,Standard
+ZIP Code 06426,Essex,Middlesex,Standard
+ZIP Code 06437,Guilford,New Haven,Standard
+ZIP Code 06438,Haddam,Middlesex,Standard
+ZIP Code 06439,Hadlyme,New London,P.O. Box
+ZIP Code 06440,Hawleyville,Fairfield,P.O. Box
+ZIP Code 06441,Higganum,Middlesex,Standard
+ZIP Code 06442,Ivoryton,Middlesex,Standard
+ZIP Code 06443,Madison,New Haven,Standard
+ZIP Code 06444,Marion,Hartford,P.O. Box
+ZIP Code 06447,Marlborough,Hartford,Standard
+ZIP Code 06450,Meriden,New Haven,Standard
+ZIP Code 06451,Meriden,New Haven,Standard
+ZIP Code 06455,Middlefield,Middlesex,Standard
+ZIP Code 06456,Middle Haddam,Middlesex,P.O. Box
+ZIP Code 06457,Middletown,Middlesex,Standard
+ZIP Code 06459,Middletown,Middlesex,Unique
+ZIP Code 06460,Milford,New Haven,Standard
+ZIP Code 06461,Milford,New Haven,Standard
+ZIP Code 06467,Milldale,Hartford,P.O. Box
+ZIP Code 06468,Monroe,Fairfield,Standard
+ZIP Code 06469,Moodus,Middlesex,Standard
+ZIP Code 06470,Newtown,Fairfield,Standard
+ZIP Code 06471,North Branford,New Haven,Standard
+ZIP Code 06472,Northford,New Haven,Standard
+ZIP Code 06473,North Haven,New Haven,Standard
+ZIP Code 06474,North Westchester,New London,P.O. Box
+ZIP Code 06475,Old Saybrook,Middlesex,Standard
+ZIP Code 06477,Orange,New Haven,Standard
+ZIP Code 06478,Oxford,New Haven,Standard
+ZIP Code 06479,Plantsville,Hartford,Standard
+ZIP Code 06480,Portland,Middlesex,Standard
+ZIP Code 06481,Rockfall,Middlesex,Standard
+ZIP Code 06482,Sandy Hook,Fairfield,Standard
+ZIP Code 06483,Seymour,New Haven,Standard
+ZIP Code 06484,Shelton,Fairfield,Standard
+ZIP Code 06487,South Britain,New Haven,P.O. Box
+ZIP Code 06488,Southbury,New Haven,Standard
+ZIP Code 06489,Southington,Hartford,Standard
+ZIP Code 06491,Stevenson,Fairfield,P.O. Box
+ZIP Code 06492,Wallingford,New Haven,Standard
+ZIP Code 06493,Wallingford,New Haven,Unique
+ZIP Code 06494,Wallingford,New Haven,Unique
+ZIP Code 06495,Wallingford,New Haven,Unique
+ZIP Code 06498,Westbrook,Middlesex,Standard
+ZIP Code 06501,New Haven,New Haven,P.O. Box
+ZIP Code 06502,New Haven,New Haven,P.O. Box
+ZIP Code 06503,New Haven,New Haven,P.O. Box
+ZIP Code 06504,New Haven,New Haven,P.O. Box
+ZIP Code 06505,New Haven,New Haven,P.O. Box
+ZIP Code 06506,New Haven,New Haven,P.O. Box
+ZIP Code 06507,New Haven,New Haven,P.O. Box
+ZIP Code 06508,New Haven,New Haven,P.O. Box
+ZIP Code 06509,New Haven,New Haven,P.O. Box
+ZIP Code 06510,New Haven,New Haven,Standard
+ZIP Code 06511,New Haven,New Haven,Standard
+ZIP Code 06512,East Haven,New Haven,Standard
+ZIP Code 06513,New Haven,New Haven,Standard
+ZIP Code 06514,Hamden,New Haven,Standard
+ZIP Code 06515,New Haven,New Haven,Standard
+ZIP Code 06516,West Haven,New Haven,Standard
+ZIP Code 06517,Hamden,New Haven,Standard
+ZIP Code 06518,Hamden,New Haven,Standard
+ZIP Code 06519,New Haven,New Haven,Standard
+ZIP Code 06520,New Haven,New Haven,P.O. Box
+ZIP Code 06521,New Haven,New Haven,P.O. Box
+ZIP Code 06524,Bethany,New Haven,Standard
+ZIP Code 06525,Woodbridge,New Haven,Standard
+ZIP Code 06530,New Haven,New Haven,P.O. Box
+ZIP Code 06531,New Haven,New Haven,P.O. Box
+ZIP Code 06532,New Haven,New Haven,P.O. Box
+ZIP Code 06533,New Haven,New Haven,P.O. Box
+ZIP Code 06534,New Haven,New Haven,P.O. Box
+ZIP Code 06535,New Haven,New Haven,P.O. Box
+ZIP Code 06536,New Haven,New Haven,P.O. Box
+ZIP Code 06537,New Haven,New Haven,Unique
+ZIP Code 06538,New Haven,New Haven,Unique
+ZIP Code 06540,New Haven,New Haven,Unique
+ZIP Code 06601,Bridgeport,Fairfield,P.O. Box
+ZIP Code 06602,Bridgeport,Fairfield,P.O. Box
+ZIP Code 06604,Bridgeport,Fairfield,Standard
+ZIP Code 06605,Bridgeport,Fairfield,Standard
+ZIP Code 06606,Bridgeport,Fairfield,Standard
+ZIP Code 06607,Bridgeport,Fairfield,Standard
+ZIP Code 06608,Bridgeport,Fairfield,Standard
+ZIP Code 06610,Bridgeport,Fairfield,Standard
+ZIP Code 06611,Trumbull,Fairfield,Standard
+ZIP Code 06612,Easton,Fairfield,Standard
+ZIP Code 06614,Stratford,Fairfield,Standard
+ZIP Code 06615,Stratford,Fairfield,Standard
+ZIP Code 06673,Bridgeport,Fairfield,Unique
+ZIP Code 06699,Bridgeport,Fairfield,Unique
+ZIP Code 06701,Waterbury,New Haven,Standard
+ZIP Code 06702,Waterbury,New Haven,Standard
+ZIP Code 06703,Waterbury,New Haven,P.O. Box
+ZIP Code 06704,Waterbury,New Haven,Standard
+ZIP Code 06705,Waterbury,New Haven,Standard
+ZIP Code 06706,Waterbury,New Haven,Standard
+ZIP Code 06708,Waterbury,New Haven,Standard
+ZIP Code 06710,Waterbury,New Haven,Standard
+ZIP Code 06712,Prospect,New Haven,Standard
+ZIP Code 06716,Wolcott,New Haven,Standard
+ZIP Code 06720,Waterbury,New Haven,P.O. Box
+ZIP Code 06721,Waterbury,New Haven,P.O. Box
+ZIP Code 06722,Waterbury,New Haven,P.O. Box
+ZIP Code 06723,Waterbury,New Haven,P.O. Box
+ZIP Code 06724,Waterbury,New Haven,P.O. Box
+ZIP Code 06725,Waterbury,New Haven,P.O. Box
+ZIP Code 06726,Waterbury,New Haven,P.O. Box
+ZIP Code 06749,Waterbury,New Haven,Unique
+ZIP Code 06750,Bantam,Litchfield,Standard
+ZIP Code 06751,Bethlehem,Litchfield,Standard
+ZIP Code 06752,Bridgewater,Litchfield,Standard
+ZIP Code 06753,Cornwall,Litchfield,P.O. Box
+ZIP Code 06754,Cornwall Bridge,Litchfield,Standard
+ZIP Code 06755,Gaylordsville,Litchfield,Standard
+ZIP Code 06756,Goshen,Litchfield,Standard
+ZIP Code 06757,Kent,Litchfield,Standard
+ZIP Code 06758,Lakeside,Litchfield,Standard
+ZIP Code 06759,Litchfield,Litchfield,Standard
+ZIP Code 06762,Middlebury,New Haven,Standard
+ZIP Code 06763,Morris,Litchfield,Standard
+ZIP Code 06770,Naugatuck,New Haven,Standard
+ZIP Code 06776,New Milford,Litchfield,Standard
+ZIP Code 06777,New Preston Marble Dale,Litchfield,Standard
+ZIP Code 06778,Northfield,Litchfield,Standard
+ZIP Code 06779,Oakville,Litchfield,Standard
+ZIP Code 06781,Pequabuck,Litchfield,P.O. Box
+ZIP Code 06782,Plymouth,Litchfield,Standard
+ZIP Code 06783,Roxbury,Litchfield,Standard
+ZIP Code 06784,Sherman,Fairfield,Standard
+ZIP Code 06785,South Kent,Litchfield,Standard
+ZIP Code 06786,Terryville,Litchfield,Standard
+ZIP Code 06787,Thomaston,Litchfield,Standard
+ZIP Code 06790,Torrington,Litchfield,Standard
+ZIP Code 06791,Harwinton,Litchfield,Standard
+ZIP Code 06792,Torrington,Litchfield,Unique
+ZIP Code 06793,Washington,Litchfield,Standard
+ZIP Code 06794,Washington Depot,Litchfield,Standard
+ZIP Code 06795,Watertown,Litchfield,Standard
+ZIP Code 06796,West Cornwall,Litchfield,Standard
+ZIP Code 06798,Woodbury,Litchfield,Standard
+ZIP Code 06801,Bethel,Fairfield,Standard
+ZIP Code 06804,Brookfield,Fairfield,Standard
+ZIP Code 06807,Cos Cob,Fairfield,Standard
+ZIP Code 06810,Danbury,Fairfield,Standard
+ZIP Code 06811,Danbury,Fairfield,Standard
+ZIP Code 06812,New Fairfield,Fairfield,Standard
+ZIP Code 06813,Danbury,Fairfield,P.O. Box
+ZIP Code 06820,Darien,Fairfield,Standard
+ZIP Code 06824,Fairfield,Fairfield,Standard
+ZIP Code 06825,Fairfield,Fairfield,Standard
+ZIP Code 06828,Fairfield,Fairfield,Standard
+ZIP Code 06829,Georgetown,Fairfield,P.O. Box
+ZIP Code 06830,Greenwich,Fairfield,Standard
+ZIP Code 06831,Greenwich,Fairfield,Standard
+ZIP Code 06836,Greenwich,Fairfield,P.O. Box
+ZIP Code 06838,Greens Farms,Fairfield,P.O. Box
+ZIP Code 06840,New Canaan,Fairfield,Standard
+ZIP Code 06850,Norwalk,Fairfield,Standard
+ZIP Code 06851,Norwalk,Fairfield,Standard
+ZIP Code 06852,Norwalk,Fairfield,P.O. Box
+ZIP Code 06853,Norwalk,Fairfield,Standard
+ZIP Code 06854,Norwalk,Fairfield,Standard
+ZIP Code 06855,Norwalk,Fairfield,Standard
+ZIP Code 06856,Norwalk,Fairfield,P.O. Box
+ZIP Code 06857,Norwalk,Fairfield,Unique
+ZIP Code 06858,Norwalk,Fairfield,Unique
+ZIP Code 06860,Norwalk,Fairfield,Unique
+ZIP Code 06870,Old Greenwich,Fairfield,Standard
+ZIP Code 06875,Redding Center,Fairfield,P.O. Box
+ZIP Code 06876,Redding Ridge,Fairfield,P.O. Box
+ZIP Code 06877,Ridgefield,Fairfield,Standard
+ZIP Code 06878,Riverside,Fairfield,Standard
+ZIP Code 06879,Ridgefield,Fairfield,Unique
+ZIP Code 06880,Westport,Fairfield,Standard
+ZIP Code 06881,Westport,Fairfield,P.O. Box
+ZIP Code 06883,Weston,Fairfield,Standard
+ZIP Code 06888,Westport,Fairfield,Unique
+ZIP Code 06889,Westport,Fairfield,Unique
+ZIP Code 06890,Southport,Fairfield,Standard
+ZIP Code 06896,Redding,Fairfield,Standard
+ZIP Code 06897,Wilton,Fairfield,Standard
+ZIP Code 06901,Stamford,Fairfield,Standard
+ZIP Code 06902,Stamford,Fairfield,Standard
+ZIP Code 06903,Stamford,Fairfield,Standard
+ZIP Code 06904,Stamford,Fairfield,P.O. Box
+ZIP Code 06905,Stamford,Fairfield,Standard
+ZIP Code 06906,Stamford,Fairfield,Standard
+ZIP Code 06907,Stamford,Fairfield,Standard
+ZIP Code 06910,Stamford,Fairfield,Standard
+ZIP Code 06911,Stamford,Fairfield,P.O. Box
+ZIP Code 06912,Stamford,Fairfield,P.O. Box
+ZIP Code 06913,Stamford,Fairfield,Unique
+ZIP Code 06914,Stamford,Fairfield,Unique
+ZIP Code 06926,Stamford,Fairfield,Unique
+ZIP Code 06927,Stamford,Fairfield,Unique

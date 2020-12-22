@@ -1,0 +1,535 @@
+ZIP CODE,City,County,Type
+ZIP Code 29001,Alcolu,Clarendon,Standard
+ZIP Code 29002,Ballentine,Richland,P.O. Box
+ZIP Code 29003,Bamberg,Bamberg,Standard
+ZIP Code 29006,Batesburg,Lexington,Standard
+ZIP Code 29009,Bethune,Kershaw,Standard
+ZIP Code 29010,Bishopville,Lee,Standard
+ZIP Code 29014,Blackstock,Chester,Standard
+ZIP Code 29015,Blair,Fairfield,Standard
+ZIP Code 29016,Blythewood,Richland,Standard
+ZIP Code 29018,Bowman,Orangeburg,Standard
+ZIP Code 29020,Camden,Kershaw,Standard
+ZIP Code 29021,Camden,Kershaw,P.O. Box
+ZIP Code 29030,Cameron,Calhoun,Standard
+ZIP Code 29031,Carlisle,Union,Standard
+ZIP Code 29032,Cassatt,Kershaw,Standard
+ZIP Code 29033,Cayce,Lexington,Standard
+ZIP Code 29036,Chapin,Lexington,Standard
+ZIP Code 29037,Chappells,Newberry,Standard
+ZIP Code 29038,Cope,Orangeburg,Standard
+ZIP Code 29039,Cordova,Orangeburg,Standard
+ZIP Code 29040,Dalzell,Sumter,Standard
+ZIP Code 29041,Davis Station,Clarendon,P.O. Box
+ZIP Code 29042,Denmark,Bamberg,Standard
+ZIP Code 29044,Eastover,Richland,Standard
+ZIP Code 29045,Elgin,Kershaw,Standard
+ZIP Code 29046,Elliott,Lee,P.O. Box
+ZIP Code 29047,Elloree,Orangeburg,Standard
+ZIP Code 29048,Eutawville,Orangeburg,Standard
+ZIP Code 29051,Gable,Clarendon,Standard
+ZIP Code 29052,Gadsden,Richland,Standard
+ZIP Code 29053,Gaston,Lexington,Standard
+ZIP Code 29054,Gilbert,Lexington,Standard
+ZIP Code 29055,Great Falls,Chester,Standard
+ZIP Code 29056,Greeleyville,Williamsburg,Standard
+ZIP Code 29058,Heath Springs,Lancaster,Standard
+ZIP Code 29059,Holly Hill,Orangeburg,Standard
+ZIP Code 29061,Hopkins,Richland,Standard
+ZIP Code 29062,Horatio,Sumter,P.O. Box
+ZIP Code 29063,Irmo,Richland,Standard
+ZIP Code 29065,Jenkinsville,Fairfield,Standard
+ZIP Code 29067,Kershaw,Lancaster,Standard
+ZIP Code 29069,Lamar,Darlington,Standard
+ZIP Code 29070,Leesville,Lexington,Standard
+ZIP Code 29071,Lexington,Lexington,P.O. Box
+ZIP Code 29072,Lexington,Lexington,Standard
+ZIP Code 29073,Lexington,Lexington,Standard
+ZIP Code 29074,Liberty Hill,Kershaw,P.O. Box
+ZIP Code 29075,Little Mountain,Newberry,Standard
+ZIP Code 29078,Lugoff,Kershaw,Standard
+ZIP Code 29079,Lydia,Darlington,P.O. Box
+ZIP Code 29080,Lynchburg,Lee,Standard
+ZIP Code 29081,Ehrhardt,Bamberg,Standard
+ZIP Code 29082,Lodge,Colleton,Standard
+ZIP Code 29101,Mc Bee,Chesterfield,Standard
+ZIP Code 29102,Manning,Clarendon,Standard
+ZIP Code 29104,Mayesville,Sumter,Standard
+ZIP Code 29105,Monetta,Aiken,Standard
+ZIP Code 29107,Neeses,Orangeburg,Standard
+ZIP Code 29108,Newberry,Newberry,Standard
+ZIP Code 29111,New Zion,Clarendon,Standard
+ZIP Code 29112,North,Orangeburg,Standard
+ZIP Code 29113,Norway,Orangeburg,Standard
+ZIP Code 29114,Olanta,Florence,Standard
+ZIP Code 29115,Orangeburg,Orangeburg,Standard
+ZIP Code 29116,Orangeburg,Orangeburg,P.O. Box
+ZIP Code 29117,Orangeburg,Orangeburg,Unique
+ZIP Code 29118,Orangeburg,Orangeburg,Standard
+ZIP Code 29122,Peak,Newberry,P.O. Box
+ZIP Code 29123,Pelion,Lexington,Standard
+ZIP Code 29125,Pinewood,Sumter,Standard
+ZIP Code 29126,Pomaria,Newberry,Standard
+ZIP Code 29127,Prosperity,Newberry,Standard
+ZIP Code 29128,Rembert,Sumter,Standard
+ZIP Code 29129,Ridge Spring,Saluda,Standard
+ZIP Code 29130,Ridgeway,Fairfield,Standard
+ZIP Code 29132,Rion,Fairfield,P.O. Box
+ZIP Code 29133,Rowesville,Orangeburg,Standard
+ZIP Code 29135,Saint Matthews,Calhoun,Standard
+ZIP Code 29137,Salley,Aiken,Standard
+ZIP Code 29138,Saluda,Saluda,Standard
+ZIP Code 29142,Santee,Orangeburg,Standard
+ZIP Code 29143,Sardinia,Clarendon,P.O. Box
+ZIP Code 29145,Silverstreet,Newberry,Standard
+ZIP Code 29146,Springfield,Orangeburg,Standard
+ZIP Code 29147,State Park,Richland,P.O. Box
+ZIP Code 29148,Summerton,Clarendon,Standard
+ZIP Code 29150,Sumter,Sumter,Standard
+ZIP Code 29151,Sumter,Sumter,P.O. Box
+ZIP Code 29152,Shaw AFB,Sumter,Standard
+ZIP Code 29153,Sumter,Sumter,Standard
+ZIP Code 29154,Sumter,Sumter,Standard
+ZIP Code 29160,Swansea,Lexington,Standard
+ZIP Code 29161,Timmonsville,Florence,Standard
+ZIP Code 29162,Turbeville,Clarendon,Standard
+ZIP Code 29163,Vance,Orangeburg,Standard
+ZIP Code 29164,Wagener,Aiken,Standard
+ZIP Code 29166,Ward,Saluda,Standard
+ZIP Code 29168,Wedgefield,Sumter,Standard
+ZIP Code 29169,West Columbia,Lexington,Standard
+ZIP Code 29170,West Columbia,Lexington,Standard
+ZIP Code 29171,West Columbia,Lexington,P.O. Box
+ZIP Code 29172,West Columbia,Lexington,Standard
+ZIP Code 29175,Westville,Kershaw,Standard
+ZIP Code 29177,White Rock,Richland,P.O. Box
+ZIP Code 29178,Whitmire,Newberry,Standard
+ZIP Code 29180,Winnsboro,Fairfield,Standard
+ZIP Code 29201,Columbia,Richland,Standard
+ZIP Code 29202,Columbia,Richland,P.O. Box
+ZIP Code 29203,Columbia,Richland,Standard
+ZIP Code 29204,Columbia,Richland,Standard
+ZIP Code 29205,Columbia,Richland,Standard
+ZIP Code 29206,Columbia,Richland,Standard
+ZIP Code 29207,Columbia,Richland,P.O. Box
+ZIP Code 29208,Columbia,Richland,Unique
+ZIP Code 29209,Columbia,Richland,Standard
+ZIP Code 29210,Columbia,Richland,Standard
+ZIP Code 29211,Columbia,Richland,P.O. Box
+ZIP Code 29212,Columbia,Lexington,Standard
+ZIP Code 29214,Columbia,Richland,Unique
+ZIP Code 29215,Columbia,Richland,Unique
+ZIP Code 29216,Columbia,Richland,Unique
+ZIP Code 29217,Columbia,Richland,Unique
+ZIP Code 29218,Columbia,Richland,Unique
+ZIP Code 29219,Columbia,Richland,Unique
+ZIP Code 29220,Columbia,Richland,Unique
+ZIP Code 29221,Columbia,Richland,P.O. Box
+ZIP Code 29222,Columbia,Richland,Standard
+ZIP Code 29223,Columbia,Richland,Standard
+ZIP Code 29224,Columbia,Richland,P.O. Box
+ZIP Code 29225,Columbia,Richland,Unique
+ZIP Code 29226,Columbia,Richland,Unique
+ZIP Code 29227,Columbia,Richland,Unique
+ZIP Code 29228,Columbia,Lexington,P.O. Box
+ZIP Code 29229,Columbia,Richland,Standard
+ZIP Code 29230,Columbia,Richland,P.O. Box
+ZIP Code 29240,Columbia,Richland,P.O. Box
+ZIP Code 29250,Columbia,Richland,P.O. Box
+ZIP Code 29260,Columbia,Richland,P.O. Box
+ZIP Code 29290,Columbia,Richland,P.O. Box
+ZIP Code 29292,Columbia,Richland,P.O. Box
+ZIP Code 29301,Spartanburg,Spartanburg,Standard
+ZIP Code 29302,Spartanburg,Spartanburg,Standard
+ZIP Code 29303,Spartanburg,Spartanburg,Standard
+ZIP Code 29304,Spartanburg,Spartanburg,P.O. Box
+ZIP Code 29305,Spartanburg,Spartanburg,P.O. Box
+ZIP Code 29306,Spartanburg,Spartanburg,Standard
+ZIP Code 29307,Spartanburg,Spartanburg,Standard
+ZIP Code 29316,Boiling Springs,Spartanburg,Standard
+ZIP Code 29319,Spartanburg,Spartanburg,Unique
+ZIP Code 29320,Arcadia,Spartanburg,P.O. Box
+ZIP Code 29321,Buffalo,Union,Standard
+ZIP Code 29322,Campobello,Spartanburg,Standard
+ZIP Code 29323,Chesnee,Spartanburg,Standard
+ZIP Code 29324,Clifton,Spartanburg,P.O. Box
+ZIP Code 29325,Clinton,Laurens,Standard
+ZIP Code 29329,Converse,Spartanburg,P.O. Box
+ZIP Code 29330,Cowpens,Spartanburg,Standard
+ZIP Code 29331,Cross Anchor,Spartanburg,P.O. Box
+ZIP Code 29332,Cross Hill,Laurens,Standard
+ZIP Code 29333,Drayton,Spartanburg,P.O. Box
+ZIP Code 29334,Duncan,Spartanburg,Standard
+ZIP Code 29335,Enoree,Spartanburg,Standard
+ZIP Code 29336,Fairforest,Spartanburg,P.O. Box
+ZIP Code 29338,Fingerville,Spartanburg,P.O. Box
+ZIP Code 29340,Gaffney,Cherokee,Standard
+ZIP Code 29341,Gaffney,Cherokee,Standard
+ZIP Code 29342,Gaffney,Cherokee,P.O. Box
+ZIP Code 29346,Glendale,Spartanburg,P.O. Box
+ZIP Code 29348,Gramling,Spartanburg,P.O. Box
+ZIP Code 29349,Inman,Spartanburg,Standard
+ZIP Code 29351,Joanna,Laurens,Standard
+ZIP Code 29353,Jonesville,Union,Standard
+ZIP Code 29355,Kinards,Newberry,Standard
+ZIP Code 29356,Landrum,Spartanburg,Standard
+ZIP Code 29360,Laurens,Laurens,Standard
+ZIP Code 29364,Lockhart,Union,P.O. Box
+ZIP Code 29365,Lyman,Spartanburg,Standard
+ZIP Code 29368,Mayo,Spartanburg,P.O. Box
+ZIP Code 29369,Moore,Spartanburg,Standard
+ZIP Code 29370,Mountville,Laurens,Standard
+ZIP Code 29372,Pacolet,Spartanburg,Standard
+ZIP Code 29373,Pacolet Mills,Spartanburg,P.O. Box
+ZIP Code 29374,Pauline,Spartanburg,Standard
+ZIP Code 29375,Reidville,Spartanburg,P.O. Box
+ZIP Code 29376,Roebuck,Spartanburg,Standard
+ZIP Code 29377,Startex,Spartanburg,P.O. Box
+ZIP Code 29378,Una,Spartanburg,P.O. Box
+ZIP Code 29379,Union,Union,Standard
+ZIP Code 29384,Waterloo,Laurens,Standard
+ZIP Code 29385,Wellford,Spartanburg,Standard
+ZIP Code 29386,White Stone,Spartanburg,P.O. Box
+ZIP Code 29388,Woodruff,Spartanburg,Standard
+ZIP Code 29395,Jonesville,Union,Unique
+ZIP Code 29401,Charleston,Charleston,Standard
+ZIP Code 29402,Charleston,Charleston,P.O. Box
+ZIP Code 29403,Charleston,Charleston,Standard
+ZIP Code 29404,Charleston AFB,Charleston,Standard
+ZIP Code 29405,North Charleston,Charleston,Standard
+ZIP Code 29406,Charleston,Charleston,Standard
+ZIP Code 29407,Charleston,Charleston,Standard
+ZIP Code 29409,Charleston,Charleston,Unique
+ZIP Code 29410,Hanahan,Berkeley,Standard
+ZIP Code 29412,Charleston,Charleston,Standard
+ZIP Code 29413,Charleston,Charleston,P.O. Box
+ZIP Code 29414,Charleston,Charleston,Standard
+ZIP Code 29415,North Charleston,Charleston,P.O. Box
+ZIP Code 29416,Charleston,Charleston,P.O. Box
+ZIP Code 29417,Charleston,Charleston,P.O. Box
+ZIP Code 29418,North Charleston,Charleston,Standard
+ZIP Code 29419,North Charleston,Charleston,P.O. Box
+ZIP Code 29420,North Charleston,Dorchester,Standard
+ZIP Code 29422,Charleston,Charleston,P.O. Box
+ZIP Code 29423,Charleston,Charleston,P.O. Box
+ZIP Code 29424,Charleston,Charleston,Unique
+ZIP Code 29425,Charleston,Charleston,Unique
+ZIP Code 29426,Adams Run,Charleston,Standard
+ZIP Code 29429,Awendaw,Charleston,Standard
+ZIP Code 29431,Bonneau,Berkeley,Standard
+ZIP Code 29432,Branchville,Orangeburg,Standard
+ZIP Code 29433,Canadys,Colleton,P.O. Box
+ZIP Code 29434,Cordesville,Berkeley,Standard
+ZIP Code 29435,Cottageville,Colleton,Standard
+ZIP Code 29436,Cross,Berkeley,Standard
+ZIP Code 29437,Dorchester,Dorchester,Standard
+ZIP Code 29438,Edisto Island,Colleton,Standard
+ZIP Code 29439,Folly Beach,Charleston,P.O. Box
+ZIP Code 29440,Georgetown,Georgetown,Standard
+ZIP Code 29442,Georgetown,Georgetown,P.O. Box
+ZIP Code 29445,Goose Creek,Berkeley,Standard
+ZIP Code 29446,Green Pond,Colleton,Standard
+ZIP Code 29447,Grover,Dorchester,P.O. Box
+ZIP Code 29448,Harleyville,Dorchester,Standard
+ZIP Code 29449,Hollywood,Charleston,Standard
+ZIP Code 29450,Huger,Berkeley,Standard
+ZIP Code 29451,Isle Of Palms,Charleston,Standard
+ZIP Code 29452,Jacksonboro,Colleton,P.O. Box
+ZIP Code 29453,Jamestown,Berkeley,Standard
+ZIP Code 29455,Johns Island,Charleston,Standard
+ZIP Code 29456,Ladson,Berkeley,Standard
+ZIP Code 29457,Johns Island,Charleston,P.O. Box
+ZIP Code 29458,Mc Clellanville,Charleston,Standard
+ZIP Code 29461,Moncks Corner,Berkeley,Standard
+ZIP Code 29464,Mount Pleasant,Charleston,Standard
+ZIP Code 29465,Mount Pleasant,Charleston,P.O. Box
+ZIP Code 29466,Mount Pleasant,Charleston,Standard
+ZIP Code 29468,Pineville,Berkeley,Standard
+ZIP Code 29469,Pinopolis,Berkeley,Standard
+ZIP Code 29470,Ravenel,Charleston,Standard
+ZIP Code 29471,Reevesville,Dorchester,Standard
+ZIP Code 29472,Ridgeville,Dorchester,Standard
+ZIP Code 29474,Round O,Colleton,Standard
+ZIP Code 29475,Ruffin,Colleton,Standard
+ZIP Code 29476,Russellville,Berkeley,P.O. Box
+ZIP Code 29477,Saint George,Dorchester,Standard
+ZIP Code 29479,Saint Stephen,Berkeley,Standard
+ZIP Code 29481,Smoaks,Colleton,Standard
+ZIP Code 29482,Sullivans Island,Charleston,Standard
+ZIP Code 29483,Summerville,Dorchester,Standard
+ZIP Code 29484,Summerville,Dorchester,P.O. Box
+ZIP Code 29485,Summerville,Dorchester,Standard
+ZIP Code 29486,Summerville,Berkeley,Standard
+ZIP Code 29487,Wadmalaw Island,Charleston,Standard
+ZIP Code 29488,Walterboro,Colleton,Standard
+ZIP Code 29492,Charleston,Berkeley,Standard
+ZIP Code 29493,Williams,Colleton,P.O. Box
+ZIP Code 29501,Florence,Florence,Standard
+ZIP Code 29502,Florence,Florence,P.O. Box
+ZIP Code 29503,Florence,Florence,P.O. Box
+ZIP Code 29504,Florence,Florence,P.O. Box
+ZIP Code 29505,Florence,Florence,Standard
+ZIP Code 29506,Florence,Florence,Standard
+ZIP Code 29510,Andrews,Georgetown,Standard
+ZIP Code 29511,Aynor,Horry,Standard
+ZIP Code 29512,Bennettsville,Marlboro,Standard
+ZIP Code 29516,Blenheim,Marlboro,Standard
+ZIP Code 29518,Cades,Williamsburg,Standard
+ZIP Code 29519,Centenary,Marion,P.O. Box
+ZIP Code 29520,Cheraw,Chesterfield,Standard
+ZIP Code 29525,Clio,Marlboro,Standard
+ZIP Code 29526,Conway,Horry,Standard
+ZIP Code 29527,Conway,Horry,Standard
+ZIP Code 29528,Conway,Horry,P.O. Box
+ZIP Code 29530,Coward,Florence,Standard
+ZIP Code 29532,Darlington,Darlington,Standard
+ZIP Code 29536,Dillon,Dillon,Standard
+ZIP Code 29540,Darlington,Darlington,Standard
+ZIP Code 29541,Effingham,Florence,Standard
+ZIP Code 29543,Fork,Dillon,Standard
+ZIP Code 29544,Galivants Ferry,Horry,Standard
+ZIP Code 29545,Green Sea,Horry,Standard
+ZIP Code 29546,Gresham,Marion,Standard
+ZIP Code 29547,Hamer,Dillon,Standard
+ZIP Code 29550,Hartsville,Darlington,Standard
+ZIP Code 29551,Hartsville,Darlington,P.O. Box
+ZIP Code 29554,Hemingway,Williamsburg,Standard
+ZIP Code 29555,Johnsonville,Florence,Standard
+ZIP Code 29556,Kingstree,Williamsburg,Standard
+ZIP Code 29560,Lake City,Florence,Standard
+ZIP Code 29563,Lake View,Dillon,Standard
+ZIP Code 29564,Lane,Williamsburg,Standard
+ZIP Code 29565,Latta,Dillon,Standard
+ZIP Code 29566,Little River,Horry,Standard
+ZIP Code 29567,Little Rock,Dillon,Standard
+ZIP Code 29568,Longs,Horry,Standard
+ZIP Code 29569,Loris,Horry,Standard
+ZIP Code 29570,Mc Coll,Marlboro,Standard
+ZIP Code 29571,Marion,Marion,Standard
+ZIP Code 29572,Myrtle Beach,Horry,Standard
+ZIP Code 29574,Mullins,Marion,Standard
+ZIP Code 29575,Myrtle Beach,Horry,Standard
+ZIP Code 29576,Murrells Inlet,Horry,Standard
+ZIP Code 29577,Myrtle Beach,Horry,Standard
+ZIP Code 29578,Myrtle Beach,Horry,P.O. Box
+ZIP Code 29579,Myrtle Beach,Horry,Standard
+ZIP Code 29580,Nesmith,Williamsburg,Standard
+ZIP Code 29581,Nichols,Horry,Standard
+ZIP Code 29582,North Myrtle Beach,Horry,Standard
+ZIP Code 29583,Pamplico,Florence,Standard
+ZIP Code 29584,Patrick,Chesterfield,Standard
+ZIP Code 29585,Pawleys Island,Georgetown,Standard
+ZIP Code 29587,Myrtle Beach,Horry,P.O. Box
+ZIP Code 29588,Myrtle Beach,Horry,Standard
+ZIP Code 29589,Rains,Marion,P.O. Box
+ZIP Code 29590,Salters,Williamsburg,Standard
+ZIP Code 29591,Scranton,Florence,Standard
+ZIP Code 29592,Sellers,Marion,Standard
+ZIP Code 29593,Society Hill,Darlington,Standard
+ZIP Code 29594,Tatum,Marlboro,P.O. Box
+ZIP Code 29596,Wallace,Marlboro,Standard
+ZIP Code 29597,North Myrtle Beach,Horry,P.O. Box
+ZIP Code 29598,North Myrtle Beach,Horry,P.O. Box
+ZIP Code 29601,Greenville,Greenville,Standard
+ZIP Code 29602,Greenville,Greenville,P.O. Box
+ZIP Code 29603,Greenville,Greenville,P.O. Box
+ZIP Code 29604,Greenville,Greenville,P.O. Box
+ZIP Code 29605,Greenville,Greenville,Standard
+ZIP Code 29606,Greenville,Greenville,P.O. Box
+ZIP Code 29607,Greenville,Greenville,Standard
+ZIP Code 29608,Greenville,Greenville,P.O. Box
+ZIP Code 29609,Greenville,Greenville,Standard
+ZIP Code 29610,Greenville,Greenville,P.O. Box
+ZIP Code 29611,Greenville,Greenville,Standard
+ZIP Code 29612,Greenville,Greenville,P.O. Box
+ZIP Code 29613,Greenville,Greenville,Unique
+ZIP Code 29614,Greenville,Greenville,Unique
+ZIP Code 29615,Greenville,Greenville,Standard
+ZIP Code 29616,Greenville,Greenville,P.O. Box
+ZIP Code 29617,Greenville,Greenville,Standard
+ZIP Code 29620,Abbeville,Abbeville,Standard
+ZIP Code 29621,Anderson,Anderson,Standard
+ZIP Code 29622,Anderson,Anderson,P.O. Box
+ZIP Code 29623,Anderson,Anderson,P.O. Box
+ZIP Code 29624,Anderson,Anderson,Standard
+ZIP Code 29625,Anderson,Anderson,Standard
+ZIP Code 29626,Anderson,Anderson,Standard
+ZIP Code 29627,Belton,Anderson,Standard
+ZIP Code 29628,Calhoun Falls,Abbeville,Standard
+ZIP Code 29630,Central,Pickens,Standard
+ZIP Code 29631,Clemson,Pickens,Standard
+ZIP Code 29632,Clemson,Pickens,Unique
+ZIP Code 29633,Clemson,Pickens,P.O. Box
+ZIP Code 29634,Clemson,Pickens,Unique
+ZIP Code 29635,Cleveland,Greenville,Standard
+ZIP Code 29636,Conestee,Greenville,P.O. Box
+ZIP Code 29638,Donalds,Abbeville,Standard
+ZIP Code 29639,Due West,Abbeville,Standard
+ZIP Code 29640,Easley,Pickens,Standard
+ZIP Code 29641,Easley,Pickens,P.O. Box
+ZIP Code 29642,Easley,Pickens,Standard
+ZIP Code 29643,Fair Play,Oconee,Standard
+ZIP Code 29644,Fountain Inn,Greenville,Standard
+ZIP Code 29645,Gray Court,Laurens,Standard
+ZIP Code 29646,Greenwood,Greenwood,Standard
+ZIP Code 29647,Greenwood,Greenwood,Unique
+ZIP Code 29648,Greenwood,Greenwood,P.O. Box
+ZIP Code 29649,Greenwood,Greenwood,Standard
+ZIP Code 29650,Greer,Greenville,Standard
+ZIP Code 29651,Greer,Greenville,Standard
+ZIP Code 29652,Greer,Greenville,P.O. Box
+ZIP Code 29653,Hodges,Greenwood,Standard
+ZIP Code 29654,Honea Path,Anderson,Standard
+ZIP Code 29655,Iva,Anderson,Standard
+ZIP Code 29656,La France,Anderson,P.O. Box
+ZIP Code 29657,Liberty,Pickens,Standard
+ZIP Code 29658,Long Creek,Oconee,Standard
+ZIP Code 29659,Lowndesville,Abbeville,P.O. Box
+ZIP Code 29661,Marietta,Greenville,Standard
+ZIP Code 29662,Mauldin,Greenville,Standard
+ZIP Code 29664,Mountain Rest,Oconee,Standard
+ZIP Code 29665,Newry,Oconee,P.O. Box
+ZIP Code 29666,Ninety Six,Greenwood,Standard
+ZIP Code 29667,Norris,Pickens,Standard
+ZIP Code 29669,Pelzer,Anderson,Standard
+ZIP Code 29670,Pendleton,Anderson,Standard
+ZIP Code 29671,Pickens,Pickens,Standard
+ZIP Code 29672,Seneca,Oconee,Standard
+ZIP Code 29673,Piedmont,Greenville,Standard
+ZIP Code 29675,Richland,Oconee,P.O. Box
+ZIP Code 29676,Salem,Oconee,Standard
+ZIP Code 29677,Sandy Springs,Anderson,P.O. Box
+ZIP Code 29678,Seneca,Oconee,Standard
+ZIP Code 29679,Seneca,Oconee,P.O. Box
+ZIP Code 29680,Simpsonville,Greenville,Standard
+ZIP Code 29681,Simpsonville,Greenville,Standard
+ZIP Code 29682,Six Mile,Pickens,Standard
+ZIP Code 29683,Slater,Greenville,P.O. Box
+ZIP Code 29684,Starr,Anderson,Standard
+ZIP Code 29685,Sunset,Pickens,Standard
+ZIP Code 29686,Tamassee,Oconee,Standard
+ZIP Code 29687,Taylors,Greenville,Standard
+ZIP Code 29688,Tigerville,Greenville,P.O. Box
+ZIP Code 29689,Townville,Anderson,Standard
+ZIP Code 29690,Travelers Rest,Greenville,Standard
+ZIP Code 29691,Walhalla,Oconee,Standard
+ZIP Code 29692,Ware Shoals,Greenwood,Standard
+ZIP Code 29693,Westminster,Oconee,Standard
+ZIP Code 29695,Hodges,Greenwood,Unique
+ZIP Code 29696,West Union,Oconee,Standard
+ZIP Code 29697,Williamston,Anderson,Standard
+ZIP Code 29702,Blacksburg,Cherokee,Standard
+ZIP Code 29703,Bowling Green,York,P.O. Box
+ZIP Code 29704,Catawba,York,Standard
+ZIP Code 29706,Chester,Chester,Standard
+ZIP Code 29707,Fort Mill,Lancaster,Standard
+ZIP Code 29708,Fort Mill,York,Standard
+ZIP Code 29709,Chesterfield,Chesterfield,Standard
+ZIP Code 29710,Clover,York,Standard
+ZIP Code 29712,Edgemoor,Chester,Standard
+ZIP Code 29714,Fort Lawn,Chester,Standard
+ZIP Code 29715,Fort Mill,York,Standard
+ZIP Code 29716,Fort Mill,York,P.O. Box
+ZIP Code 29717,Hickory Grove,York,Standard
+ZIP Code 29718,Jefferson,Chesterfield,Standard
+ZIP Code 29720,Lancaster,Lancaster,Standard
+ZIP Code 29721,Lancaster,Lancaster,P.O. Box
+ZIP Code 29722,Lancaster,Lancaster,Unique
+ZIP Code 29724,Lando,Chester,P.O. Box
+ZIP Code 29726,Mc Connells,York,Standard
+ZIP Code 29727,Mount Croghan,Chesterfield,Standard
+ZIP Code 29728,Pageland,Chesterfield,Standard
+ZIP Code 29729,Richburg,Chester,Standard
+ZIP Code 29730,Rock Hill,York,Standard
+ZIP Code 29731,Rock Hill,York,P.O. Box
+ZIP Code 29732,Rock Hill,York,Standard
+ZIP Code 29733,Rock Hill,York,Unique
+ZIP Code 29734,Rock Hill,York,Standard
+ZIP Code 29741,Ruby,Chesterfield,Standard
+ZIP Code 29742,Sharon,York,Standard
+ZIP Code 29743,Smyrna,York,Standard
+ZIP Code 29744,Van Wyck,Lancaster,P.O. Box
+ZIP Code 29745,York,York,Standard
+ZIP Code 29801,Aiken,Aiken,Standard
+ZIP Code 29802,Aiken,Aiken,P.O. Box
+ZIP Code 29803,Aiken,Aiken,Standard
+ZIP Code 29804,Aiken,Aiken,P.O. Box
+ZIP Code 29805,Aiken,Aiken,Standard
+ZIP Code 29808,Aiken,Aiken,Unique
+ZIP Code 29809,New Ellenton,Aiken,Standard
+ZIP Code 29810,Allendale,Allendale,Standard
+ZIP Code 29812,Barnwell,Barnwell,Standard
+ZIP Code 29813,Hilda,Barnwell,P.O. Box
+ZIP Code 29816,Bath,Aiken,P.O. Box
+ZIP Code 29817,Blackville,Barnwell,Standard
+ZIP Code 29819,Bradley,Greenwood,Standard
+ZIP Code 29821,Clarks Hill,Mccormick,Standard
+ZIP Code 29822,Clearwater,Aiken,P.O. Box
+ZIP Code 29824,Edgefield,Edgefield,Standard
+ZIP Code 29826,Elko,Barnwell,P.O. Box
+ZIP Code 29827,Fairfax,Allendale,Standard
+ZIP Code 29828,Gloverville,Aiken,Standard
+ZIP Code 29829,Graniteville,Aiken,Standard
+ZIP Code 29831,Jackson,Aiken,Standard
+ZIP Code 29832,Johnston,Edgefield,Standard
+ZIP Code 29834,Langley,Aiken,P.O. Box
+ZIP Code 29835,Mc Cormick,Mccormick,Standard
+ZIP Code 29836,Martin,Allendale,Standard
+ZIP Code 29838,Modoc,Mccormick,Standard
+ZIP Code 29839,Montmorenci,Aiken,P.O. Box
+ZIP Code 29840,Mount Carmel,Mccormick,Standard
+ZIP Code 29841,North Augusta,Aiken,Standard
+ZIP Code 29842,Beech Island,Aiken,Standard
+ZIP Code 29843,Olar,Bamberg,Standard
+ZIP Code 29844,Parksville,Mccormick,P.O. Box
+ZIP Code 29845,Plum Branch,Mccormick,Standard
+ZIP Code 29846,Sycamore,Allendale,P.O. Box
+ZIP Code 29847,Trenton,Edgefield,Standard
+ZIP Code 29848,Troy,Greenwood,Standard
+ZIP Code 29849,Ulmer,Allendale,Standard
+ZIP Code 29850,Vaucluse,Aiken,P.O. Box
+ZIP Code 29851,Warrenville,Aiken,Standard
+ZIP Code 29853,Williston,Barnwell,Standard
+ZIP Code 29856,Windsor,Aiken,Standard
+ZIP Code 29860,North Augusta,Edgefield,Standard
+ZIP Code 29861,North Augusta,Aiken,P.O. Box
+ZIP Code 29899,Mc Cormick,Mccormick,Unique
+ZIP Code 29901,Beaufort,Beaufort,P.O. Box
+ZIP Code 29902,Beaufort,Beaufort,Standard
+ZIP Code 29903,Beaufort,Beaufort,P.O. Box
+ZIP Code 29904,Beaufort,Beaufort,P.O. Box
+ZIP Code 29905,Parris Island,Beaufort,P.O. Box
+ZIP Code 29906,Beaufort,Beaufort,Standard
+ZIP Code 29907,Beaufort,Beaufort,Standard
+ZIP Code 29909,Okatie,Beaufort,Standard
+ZIP Code 29910,Bluffton,Beaufort,Standard
+ZIP Code 29911,Brunson,Hampton,Standard
+ZIP Code 29912,Coosawhatchie,Jasper,Standard
+ZIP Code 29913,Crocketville,Hampton,P.O. Box
+ZIP Code 29914,Dale,Beaufort,P.O. Box
+ZIP Code 29915,Daufuskie Island,Beaufort,Standard
+ZIP Code 29916,Early Branch,Hampton,Standard
+ZIP Code 29918,Estill,Hampton,Standard
+ZIP Code 29920,Saint Helena Island,Beaufort,Standard
+ZIP Code 29921,Furman,Hampton,P.O. Box
+ZIP Code 29922,Garnett,Hampton,Standard
+ZIP Code 29923,Gifford,Hampton,P.O. Box
+ZIP Code 29924,Hampton,Hampton,Standard
+ZIP Code 29925,Hilton Head Island,Beaufort,P.O. Box
+ZIP Code 29926,Hilton Head Island,Beaufort,Standard
+ZIP Code 29927,Hardeeville,Jasper,Standard
+ZIP Code 29928,Hilton Head Island,Beaufort,Standard
+ZIP Code 29929,Islandton,Colleton,Standard
+ZIP Code 29931,Lobeco,Beaufort,P.O. Box
+ZIP Code 29932,Luray,Hampton,Standard
+ZIP Code 29933,Miley,Hampton,P.O. Box
+ZIP Code 29934,Pineland,Jasper,Standard
+ZIP Code 29935,Port Royal,Beaufort,Standard
+ZIP Code 29936,Ridgeland,Jasper,Standard
+ZIP Code 29938,Hilton Head Island,Beaufort,P.O. Box
+ZIP Code 29939,Scotia,Hampton,P.O. Box
+ZIP Code 29940,Seabrook,Beaufort,Standard
+ZIP Code 29941,Sheldon,Beaufort,Standard
+ZIP Code 29943,Tillman,Jasper,Standard
+ZIP Code 29944,Varnville,Hampton,Standard
+ZIP Code 29945,Yemassee,Hampton,Standard

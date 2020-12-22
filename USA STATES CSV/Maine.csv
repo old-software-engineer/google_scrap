@@ -1,0 +1,486 @@
+ZIP CODE,City,County,Type
+ZIP Code 03901,Berwick,York,Standard
+ZIP Code 03902,Cape Neddick,York,Standard
+ZIP Code 03903,Eliot,York,Standard
+ZIP Code 03904,Kittery,York,Standard
+ZIP Code 03905,Kittery Point,York,Standard
+ZIP Code 03906,North Berwick,York,Standard
+ZIP Code 03907,Ogunquit,York,Standard
+ZIP Code 03908,South Berwick,York,Standard
+ZIP Code 03909,York,York,Standard
+ZIP Code 03910,York Beach,York,P.O. Box
+ZIP Code 03911,York Harbor,York,P.O. Box
+ZIP Code 04001,Acton,York,Standard
+ZIP Code 04002,Alfred,York,Standard
+ZIP Code 04003,Bailey Island,Cumberland,Standard
+ZIP Code 04004,Bar Mills,York,P.O. Box
+ZIP Code 04005,Biddeford,York,Standard
+ZIP Code 04006,Biddeford Pool,York,P.O. Box
+ZIP Code 04007,Biddeford,York,P.O. Box
+ZIP Code 04008,Bowdoinham,Sagadahoc,Standard
+ZIP Code 04009,Bridgton,Cumberland,Standard
+ZIP Code 04010,Brownfield,Oxford,Standard
+ZIP Code 04011,Brunswick,Cumberland,Standard
+ZIP Code 04013,Bustins Island,Cumberland,Standard
+ZIP Code 04014,Cape Porpoise,York,P.O. Box
+ZIP Code 04015,Casco,Cumberland,Standard
+ZIP Code 04016,Center Lovell,Oxford,P.O. Box
+ZIP Code 04017,Chebeague Island,Cumberland,Standard
+ZIP Code 04019,Cliff Island,Cumberland,P.O. Box
+ZIP Code 04020,Cornish,York,Standard
+ZIP Code 04021,Cumberland Center,Cumberland,Standard
+ZIP Code 04022,Denmark,Oxford,Standard
+ZIP Code 04024,East Baldwin,Cumberland,Standard
+ZIP Code 04027,Lebanon,York,Standard
+ZIP Code 04028,East Parsonsfield,York,P.O. Box
+ZIP Code 04029,Sebago,Cumberland,Standard
+ZIP Code 04030,East Waterboro,York,Standard
+ZIP Code 04032,Freeport,Cumberland,Standard
+ZIP Code 04033,Freeport,Cumberland,Unique
+ZIP Code 04034,Freeport,Cumberland,Unique
+ZIP Code 04037,Fryeburg,Oxford,Standard
+ZIP Code 04038,Gorham,Cumberland,Standard
+ZIP Code 04039,Gray,Cumberland,Standard
+ZIP Code 04040,Harrison,Cumberland,Standard
+ZIP Code 04041,Hiram,Oxford,Standard
+ZIP Code 04042,Hollis Center,York,Standard
+ZIP Code 04043,Kennebunk,York,Standard
+ZIP Code 04046,Kennebunkport,York,Standard
+ZIP Code 04047,Parsonsfield,York,Standard
+ZIP Code 04048,Limerick,York,Standard
+ZIP Code 04049,Limington,York,Standard
+ZIP Code 04050,Long Island,Cumberland,Standard
+ZIP Code 04051,Lovell,Oxford,Standard
+ZIP Code 04054,Moody,York,P.O. Box
+ZIP Code 04055,Naples,Cumberland,Standard
+ZIP Code 04056,Newfield,York,P.O. Box
+ZIP Code 04057,North Bridgton,Cumberland,P.O. Box
+ZIP Code 04061,North Waterboro,York,Standard
+ZIP Code 04062,Windham,Cumberland,Standard
+ZIP Code 04063,Ocean Park,York,P.O. Box
+ZIP Code 04064,Old Orchard Beach,York,Standard
+ZIP Code 04066,Orrs Island,Cumberland,Standard
+ZIP Code 04068,Porter,Oxford,Standard
+ZIP Code 04069,Pownal,Cumberland,Standard
+ZIP Code 04070,Scarborough,Cumberland,P.O. Box
+ZIP Code 04071,Raymond,Cumberland,Standard
+ZIP Code 04072,Saco,York,Standard
+ZIP Code 04073,Sanford,York,Standard
+ZIP Code 04074,Scarborough,Cumberland,Standard
+ZIP Code 04076,Shapleigh,York,Standard
+ZIP Code 04077,South Casco,Cumberland,P.O. Box
+ZIP Code 04078,South Freeport,Cumberland,P.O. Box
+ZIP Code 04079,Harpswell,Cumberland,Standard
+ZIP Code 04082,South Windham,Cumberland,P.O. Box
+ZIP Code 04083,Springvale,York,Standard
+ZIP Code 04084,Standish,Cumberland,Standard
+ZIP Code 04085,Steep Falls,Cumberland,Standard
+ZIP Code 04086,Topsham,Sagadahoc,Standard
+ZIP Code 04087,Waterboro,York,Standard
+ZIP Code 04088,Waterford,Oxford,Standard
+ZIP Code 04090,Wells,York,Standard
+ZIP Code 04091,West Baldwin,Cumberland,Standard
+ZIP Code 04092,Westbrook,Cumberland,Standard
+ZIP Code 04093,Buxton,York,Standard
+ZIP Code 04094,West Kennebunk,York,P.O. Box
+ZIP Code 04095,West Newfield,York,Standard
+ZIP Code 04096,Yarmouth,Cumberland,Standard
+ZIP Code 04097,North Yarmouth,Cumberland,Standard
+ZIP Code 04098,Westbrook,Cumberland,P.O. Box
+ZIP Code 04101,Portland,Cumberland,Standard
+ZIP Code 04102,Portland,Cumberland,Standard
+ZIP Code 04103,Portland,Cumberland,Standard
+ZIP Code 04104,Portland,Cumberland,P.O. Box
+ZIP Code 04105,Falmouth,Cumberland,Standard
+ZIP Code 04106,South Portland,Cumberland,Standard
+ZIP Code 04107,Cape Elizabeth,Cumberland,Standard
+ZIP Code 04108,Peaks Island,Cumberland,Standard
+ZIP Code 04109,Portland,Cumberland,Standard
+ZIP Code 04110,Cumberland Foreside,Cumberland,Standard
+ZIP Code 04112,Portland,Cumberland,P.O. Box
+ZIP Code 04116,South Portland,Cumberland,P.O. Box
+ZIP Code 04122,Portland,Cumberland,Unique
+ZIP Code 04123,Portland,Cumberland,Unique
+ZIP Code 04124,Portland,Cumberland,Unique
+ZIP Code 04210,Auburn,Androscoggin,Standard
+ZIP Code 04211,Auburn,Androscoggin,P.O. Box
+ZIP Code 04212,Auburn,Androscoggin,P.O. Box
+ZIP Code 04216,Andover,Oxford,Standard
+ZIP Code 04217,Bethel,Oxford,Standard
+ZIP Code 04219,Bryant Pond,Oxford,Standard
+ZIP Code 04220,Buckfield,Oxford,Standard
+ZIP Code 04221,Canton,Oxford,Standard
+ZIP Code 04222,Durham,Androscoggin,Standard
+ZIP Code 04223,Danville,Androscoggin,P.O. Box
+ZIP Code 04224,Dixfield,Oxford,Standard
+ZIP Code 04225,Dryden,Franklin,P.O. Box
+ZIP Code 04226,East Andover,Oxford,Standard
+ZIP Code 04227,East Dixfield,Franklin,P.O. Box
+ZIP Code 04228,East Livermore,Androscoggin,P.O. Box
+ZIP Code 04230,East Poland,Androscoggin,P.O. Box
+ZIP Code 04231,Stoneham,Oxford,Standard
+ZIP Code 04234,East Wilton,Franklin,P.O. Box
+ZIP Code 04236,Greene,Androscoggin,Standard
+ZIP Code 04237,Hanover,Oxford,Standard
+ZIP Code 04238,Hebron,Oxford,Standard
+ZIP Code 04239,Jay,Franklin,Standard
+ZIP Code 04240,Lewiston,Androscoggin,Standard
+ZIP Code 04241,Lewiston,Androscoggin,P.O. Box
+ZIP Code 04243,Lewiston,Androscoggin,P.O. Box
+ZIP Code 04250,Lisbon,Androscoggin,Standard
+ZIP Code 04252,Lisbon Falls,Androscoggin,Standard
+ZIP Code 04253,Livermore,Androscoggin,Standard
+ZIP Code 04254,Livermore Falls,Androscoggin,Standard
+ZIP Code 04255,Greenwood,Oxford,Standard
+ZIP Code 04256,Mechanic Falls,Androscoggin,Standard
+ZIP Code 04257,Mexico,Oxford,Standard
+ZIP Code 04258,Minot,Androscoggin,Standard
+ZIP Code 04259,Monmouth,Kennebec,Standard
+ZIP Code 04260,New Gloucester,Cumberland,Standard
+ZIP Code 04261,Newry,Oxford,Standard
+ZIP Code 04262,North Jay,Franklin,P.O. Box
+ZIP Code 04263,Leeds,Androscoggin,Standard
+ZIP Code 04265,North Monmouth,Kennebec,Standard
+ZIP Code 04266,North Turner,Androscoggin,P.O. Box
+ZIP Code 04267,North Waterford,Oxford,P.O. Box
+ZIP Code 04268,Norway,Oxford,Standard
+ZIP Code 04270,Oxford,Oxford,Standard
+ZIP Code 04271,Paris,Oxford,P.O. Box
+ZIP Code 04274,Poland,Androscoggin,Standard
+ZIP Code 04275,Roxbury,Oxford,Standard
+ZIP Code 04276,Rumford,Oxford,Standard
+ZIP Code 04280,Sabattus,Androscoggin,Standard
+ZIP Code 04281,South Paris,Oxford,Standard
+ZIP Code 04282,Turner,Androscoggin,Standard
+ZIP Code 04284,Wayne,Kennebec,Standard
+ZIP Code 04285,Weld,Franklin,Standard
+ZIP Code 04286,West Bethel,Oxford,P.O. Box
+ZIP Code 04287,Bowdoin,Sagadahoc,Standard
+ZIP Code 04288,West Minot,Androscoggin,P.O. Box
+ZIP Code 04289,West Paris,Oxford,Standard
+ZIP Code 04290,Peru,Oxford,Standard
+ZIP Code 04291,West Poland,Androscoggin,P.O. Box
+ZIP Code 04292,Sumner,Oxford,Standard
+ZIP Code 04294,Wilton,Franklin,Standard
+ZIP Code 04330,Augusta,Kennebec,Standard
+ZIP Code 04332,Augusta,Kennebec,P.O. Box
+ZIP Code 04333,Augusta,Kennebec,Unique
+ZIP Code 04336,Augusta,Kennebec,Unique
+ZIP Code 04338,Augusta,Kennebec,P.O. Box
+ZIP Code 04341,Coopers Mills,Lincoln,P.O. Box
+ZIP Code 04342,Dresden,Lincoln,Standard
+ZIP Code 04343,East Winthrop,Kennebec,P.O. Box
+ZIP Code 04344,Farmingdale,Kennebec,Standard
+ZIP Code 04345,Gardiner,Kennebec,Standard
+ZIP Code 04346,Randolph,Kennebec,Standard
+ZIP Code 04347,Hallowell,Kennebec,Standard
+ZIP Code 04348,Jefferson,Lincoln,Standard
+ZIP Code 04349,Kents Hill,Kennebec,Standard
+ZIP Code 04350,Litchfield,Kennebec,Standard
+ZIP Code 04351,Manchester,Kennebec,Standard
+ZIP Code 04352,Mount Vernon,Kennebec,Standard
+ZIP Code 04353,Whitefield,Lincoln,Standard
+ZIP Code 04354,Palermo,Waldo,Standard
+ZIP Code 04355,Readfield,Kennebec,Standard
+ZIP Code 04357,Richmond,Sagadahoc,Standard
+ZIP Code 04358,South China,Kennebec,Standard
+ZIP Code 04359,South Gardiner,Kennebec,P.O. Box
+ZIP Code 04360,Vienna,Kennebec,Standard
+ZIP Code 04363,Windsor,Kennebec,Standard
+ZIP Code 04364,Winthrop,Kennebec,Standard
+ZIP Code 04401,Bangor,Penobscot,Standard
+ZIP Code 04402,Bangor,Penobscot,P.O. Box
+ZIP Code 04406,Abbot,Piscataquis,Standard
+ZIP Code 04408,Aurora,Hancock,Standard
+ZIP Code 04410,Bradford,Penobscot,Standard
+ZIP Code 04411,Bradley,Penobscot,Standard
+ZIP Code 04412,Brewer,Penobscot,Standard
+ZIP Code 04413,Brookton,Washington,Standard
+ZIP Code 04414,Brownville,Piscataquis,Standard
+ZIP Code 04415,Brownville Junction,Piscataquis,P.O. Box
+ZIP Code 04416,Bucksport,Hancock,Standard
+ZIP Code 04417,Burlington,Penobscot,Standard
+ZIP Code 04418,Greenbush,Penobscot,Standard
+ZIP Code 04419,Carmel,Penobscot,Standard
+ZIP Code 04420,Castine,Hancock,Unique
+ZIP Code 04421,Castine,Hancock,Standard
+ZIP Code 04422,Charleston,Penobscot,Standard
+ZIP Code 04424,Danforth,Washington,Standard
+ZIP Code 04426,Dover Foxcroft,Piscataquis,Standard
+ZIP Code 04427,Corinth,Penobscot,Standard
+ZIP Code 04428,Eddington,Penobscot,Standard
+ZIP Code 04429,Holden,Penobscot,Standard
+ZIP Code 04430,East Millinocket,Penobscot,Standard
+ZIP Code 04431,East Orland,Hancock,P.O. Box
+ZIP Code 04434,Etna,Penobscot,Standard
+ZIP Code 04435,Exeter,Penobscot,Standard
+ZIP Code 04438,Frankfort,Waldo,Standard
+ZIP Code 04441,Greenville,Piscataquis,Standard
+ZIP Code 04442,Greenville Junction,Piscataquis,Standard
+ZIP Code 04443,Guilford,Piscataquis,Standard
+ZIP Code 04444,Hampden,Penobscot,Standard
+ZIP Code 04448,Howland,Penobscot,Standard
+ZIP Code 04449,Hudson,Penobscot,Standard
+ZIP Code 04450,Kenduskeag,Penobscot,Standard
+ZIP Code 04451,Kingman,Penobscot,Standard
+ZIP Code 04453,Lagrange,Penobscot,Standard
+ZIP Code 04454,Lambert Lake,Washington,P.O. Box
+ZIP Code 04455,Lee,Penobscot,Standard
+ZIP Code 04456,Levant,Penobscot,Standard
+ZIP Code 04457,Lincoln,Penobscot,Standard
+ZIP Code 04459,Mattawamkeag,Penobscot,Standard
+ZIP Code 04460,Medway,Penobscot,Standard
+ZIP Code 04461,Milford,Penobscot,Standard
+ZIP Code 04462,Millinocket,Penobscot,Standard
+ZIP Code 04463,Milo,Piscataquis,Standard
+ZIP Code 04464,Monson,Piscataquis,Standard
+ZIP Code 04468,Old Town,Penobscot,Standard
+ZIP Code 04469,Orono,Penobscot,Unique
+ZIP Code 04471,Orient,Aroostook,Standard
+ZIP Code 04472,Orland,Hancock,Standard
+ZIP Code 04473,Orono,Penobscot,Standard
+ZIP Code 04474,Orrington,Penobscot,Standard
+ZIP Code 04475,Passadumkeag,Penobscot,Standard
+ZIP Code 04476,Penobscot,Hancock,Standard
+ZIP Code 04478,Rockwood,Somerset,Standard
+ZIP Code 04479,Sangerville,Piscataquis,Standard
+ZIP Code 04481,Sebec,Piscataquis,Standard
+ZIP Code 04485,Shirley Mills,Piscataquis,P.O. Box
+ZIP Code 04487,Springfield,Penobscot,Standard
+ZIP Code 04488,Stetson,Penobscot,Standard
+ZIP Code 04489,Stillwater,Penobscot,P.O. Box
+ZIP Code 04490,Topsfield,Washington,Standard
+ZIP Code 04491,Vanceboro,Washington,P.O. Box
+ZIP Code 04492,Waite,Washington,Standard
+ZIP Code 04493,West Enfield,Penobscot,Standard
+ZIP Code 04495,Winn,Penobscot,Standard
+ZIP Code 04496,Winterport,Waldo,Standard
+ZIP Code 04497,Wytopitlock,Aroostook,Standard
+ZIP Code 04530,Bath,Sagadahoc,Standard
+ZIP Code 04535,Alna,Lincoln,Standard
+ZIP Code 04537,Boothbay,Lincoln,Standard
+ZIP Code 04538,Boothbay Harbor,Lincoln,Standard
+ZIP Code 04539,Bristol,Lincoln,Standard
+ZIP Code 04541,Chamberlain,Lincoln,Standard
+ZIP Code 04543,Damariscotta,Lincoln,Standard
+ZIP Code 04544,East Boothbay,Lincoln,Standard
+ZIP Code 04547,Friendship,Knox,Standard
+ZIP Code 04548,Georgetown,Sagadahoc,Standard
+ZIP Code 04549,Isle Of Springs,Lincoln,Standard
+ZIP Code 04551,Bremen,Lincoln,Standard
+ZIP Code 04553,Newcastle,Lincoln,Standard
+ZIP Code 04554,New Harbor,Lincoln,Standard
+ZIP Code 04555,Nobleboro,Lincoln,Standard
+ZIP Code 04556,Edgecomb,Lincoln,Standard
+ZIP Code 04558,Pemaquid,Lincoln,Standard
+ZIP Code 04562,Phippsburg,Sagadahoc,Standard
+ZIP Code 04563,Cushing,Knox,Standard
+ZIP Code 04564,Round Pond,Lincoln,Standard
+ZIP Code 04565,Sebasco Estates,Sagadahoc,P.O. Box
+ZIP Code 04568,South Bristol,Lincoln,Standard
+ZIP Code 04570,Squirrel Island,Lincoln,P.O. Box
+ZIP Code 04571,Trevett,Lincoln,Standard
+ZIP Code 04572,Waldoboro,Lincoln,Standard
+ZIP Code 04573,Walpole,Lincoln,Standard
+ZIP Code 04574,Washington,Knox,Standard
+ZIP Code 04575,West Boothbay Harbor,Lincoln,P.O. Box
+ZIP Code 04576,Southport,Lincoln,Standard
+ZIP Code 04578,Wiscasset,Lincoln,Standard
+ZIP Code 04579,Woolwich,Sagadahoc,Standard
+ZIP Code 04605,Ellsworth,Hancock,Standard
+ZIP Code 04606,Addison,Washington,Standard
+ZIP Code 04607,Gouldsboro,Hancock,Standard
+ZIP Code 04609,Bar Harbor,Hancock,Standard
+ZIP Code 04611,Beals,Washington,P.O. Box
+ZIP Code 04612,Bernard,Hancock,Standard
+ZIP Code 04613,Birch Harbor,Hancock,Standard
+ZIP Code 04614,Blue Hill,Hancock,Standard
+ZIP Code 04616,Brooklin,Hancock,Standard
+ZIP Code 04617,Brooksville,Hancock,Standard
+ZIP Code 04619,Calais,Washington,Standard
+ZIP Code 04622,Cherryfield,Washington,Standard
+ZIP Code 04623,Columbia Falls,Washington,Standard
+ZIP Code 04624,Corea,Hancock,Standard
+ZIP Code 04625,Cranberry Isles,Hancock,P.O. Box
+ZIP Code 04626,Cutler,Washington,Standard
+ZIP Code 04627,Deer Isle,Hancock,Standard
+ZIP Code 04628,Dennysville,Washington,Standard
+ZIP Code 04629,East Blue Hill,Hancock,P.O. Box
+ZIP Code 04630,East Machias,Washington,Standard
+ZIP Code 04631,Eastport,Washington,Standard
+ZIP Code 04634,Franklin,Hancock,Standard
+ZIP Code 04635,Frenchboro,Hancock,P.O. Box
+ZIP Code 04637,Grand Lake Stream,Washington,P.O. Box
+ZIP Code 04640,Hancock,Hancock,Standard
+ZIP Code 04642,Harborside,Hancock,Standard
+ZIP Code 04643,Harrington,Washington,Standard
+ZIP Code 04644,Hulls Cove,Hancock,P.O. Box
+ZIP Code 04645,Isle Au Haut,Knox,P.O. Box
+ZIP Code 04646,Islesford,Hancock,P.O. Box
+ZIP Code 04648,Jonesboro,Washington,Standard
+ZIP Code 04649,Jonesport,Washington,Standard
+ZIP Code 04650,Little Deer Isle,Hancock,Standard
+ZIP Code 04652,Lubec,Washington,Standard
+ZIP Code 04653,Bass Harbor,Hancock,Standard
+ZIP Code 04654,Machias,Washington,Standard
+ZIP Code 04655,Machiasport,Washington,Standard
+ZIP Code 04657,Meddybemps,Washington,Standard
+ZIP Code 04658,Milbridge,Washington,Standard
+ZIP Code 04660,Mount Desert,Hancock,Standard
+ZIP Code 04662,Northeast Harbor,Hancock,P.O. Box
+ZIP Code 04664,Sullivan,Hancock,Standard
+ZIP Code 04666,Pembroke,Washington,Standard
+ZIP Code 04667,Perry,Washington,Standard
+ZIP Code 04668,Princeton,Washington,Standard
+ZIP Code 04669,Prospect Harbor,Hancock,Standard
+ZIP Code 04671,Robbinston,Washington,Standard
+ZIP Code 04672,Salsbury Cove,Hancock,P.O. Box
+ZIP Code 04673,Sargentville,Hancock,Standard
+ZIP Code 04674,Seal Cove,Hancock,Standard
+ZIP Code 04675,Seal Harbor,Hancock,P.O. Box
+ZIP Code 04676,Sedgwick,Hancock,Standard
+ZIP Code 04677,Sorrento,Hancock,Standard
+ZIP Code 04679,Southwest Harbor,Hancock,Standard
+ZIP Code 04680,Steuben,Washington,Standard
+ZIP Code 04681,Stonington,Hancock,Standard
+ZIP Code 04683,Sunset,Hancock,Standard
+ZIP Code 04684,Surry,Hancock,Standard
+ZIP Code 04685,Swans Island,Hancock,Standard
+ZIP Code 04686,Wesley,Washington,Standard
+ZIP Code 04691,Whiting,Washington,Standard
+ZIP Code 04693,Winter Harbor,Hancock,Standard
+ZIP Code 04694,Baileyville,Washington,Standard
+ZIP Code 04730,Houlton,Aroostook,Standard
+ZIP Code 04732,Ashland,Aroostook,Standard
+ZIP Code 04733,Benedicta,Aroostook,Standard
+ZIP Code 04734,Blaine,Aroostook,P.O. Box
+ZIP Code 04735,Bridgewater,Aroostook,Standard
+ZIP Code 04736,Caribou,Aroostook,Standard
+ZIP Code 04737,Clayton Lake,Aroostook,P.O. Box
+ZIP Code 04738,Crouseville,Aroostook,P.O. Box
+ZIP Code 04739,Eagle Lake,Aroostook,Standard
+ZIP Code 04740,Easton,Aroostook,Standard
+ZIP Code 04741,Estcourt Station,Aroostook,P.O. Box
+ZIP Code 04742,Fort Fairfield,Aroostook,Standard
+ZIP Code 04743,Fort Kent,Aroostook,Standard
+ZIP Code 04744,Fort Kent Mills,Aroostook,P.O. Box
+ZIP Code 04745,Frenchville,Aroostook,Standard
+ZIP Code 04746,Grand Isle,Aroostook,Standard
+ZIP Code 04747,Island Falls,Aroostook,Standard
+ZIP Code 04750,Limestone,Aroostook,Standard
+ZIP Code 04751,Limestone,Aroostook,Unique
+ZIP Code 04756,Madawaska,Aroostook,Standard
+ZIP Code 04757,Mapleton,Aroostook,Standard
+ZIP Code 04758,Mars Hill,Aroostook,Standard
+ZIP Code 04760,Monticello,Aroostook,Standard
+ZIP Code 04761,New Limerick,Aroostook,Standard
+ZIP Code 04762,New Sweden,Aroostook,Standard
+ZIP Code 04763,Oakfield,Aroostook,Standard
+ZIP Code 04764,Oxbow,Aroostook,Standard
+ZIP Code 04765,Patten,Penobscot,Standard
+ZIP Code 04766,Perham,Aroostook,Standard
+ZIP Code 04768,Portage,Aroostook,Standard
+ZIP Code 04769,Presque Isle,Aroostook,Standard
+ZIP Code 04772,Saint Agatha,Aroostook,Standard
+ZIP Code 04773,Saint David,Aroostook,Standard
+ZIP Code 04774,Saint Francis,Aroostook,Standard
+ZIP Code 04775,Sheridan,Aroostook,P.O. Box
+ZIP Code 04776,Sherman,Aroostook,Standard
+ZIP Code 04777,Stacyville,Penobscot,Standard
+ZIP Code 04779,Sinclair,Aroostook,Standard
+ZIP Code 04780,Smyrna Mills,Aroostook,Standard
+ZIP Code 04781,Wallagrass,Aroostook,Standard
+ZIP Code 04783,Stockholm,Aroostook,Standard
+ZIP Code 04785,Van Buren,Aroostook,Standard
+ZIP Code 04786,Washburn,Aroostook,Standard
+ZIP Code 04787,Westfield,Aroostook,Standard
+ZIP Code 04841,Rockland,Knox,Standard
+ZIP Code 04843,Camden,Knox,Standard
+ZIP Code 04847,Hope,Knox,Standard
+ZIP Code 04848,Islesboro,Waldo,Standard
+ZIP Code 04849,Lincolnville,Waldo,Standard
+ZIP Code 04850,Lincolnville Center,Waldo,P.O. Box
+ZIP Code 04851,Matinicus,Knox,P.O. Box
+ZIP Code 04852,Monhegan,Lincoln,P.O. Box
+ZIP Code 04853,North Haven,Knox,Standard
+ZIP Code 04854,Owls Head,Knox,Standard
+ZIP Code 04855,Port Clyde,Knox,P.O. Box
+ZIP Code 04856,Rockport,Knox,Standard
+ZIP Code 04858,South Thomaston,Knox,Standard
+ZIP Code 04859,Spruce Head,Knox,Standard
+ZIP Code 04860,Tenants Harbor,Knox,Standard
+ZIP Code 04861,Thomaston,Knox,Standard
+ZIP Code 04862,Union,Knox,Standard
+ZIP Code 04863,Vinalhaven,Knox,Standard
+ZIP Code 04864,Warren,Knox,Standard
+ZIP Code 04865,West Rockport,Knox,P.O. Box
+ZIP Code 04901,Waterville,Kennebec,Standard
+ZIP Code 04903,Waterville,Kennebec,P.O. Box
+ZIP Code 04910,Albion,Kennebec,Standard
+ZIP Code 04911,Anson,Somerset,Standard
+ZIP Code 04912,Athens,Somerset,Standard
+ZIP Code 04915,Belfast,Waldo,Standard
+ZIP Code 04917,Belgrade,Kennebec,Standard
+ZIP Code 04918,Belgrade Lakes,Kennebec,Standard
+ZIP Code 04920,Bingham,Somerset,Standard
+ZIP Code 04921,Brooks,Waldo,Standard
+ZIP Code 04922,Burnham,Waldo,Standard
+ZIP Code 04923,Cambridge,Somerset,Standard
+ZIP Code 04924,Canaan,Somerset,Standard
+ZIP Code 04925,Caratunk,Somerset,Standard
+ZIP Code 04926,China Village,Kennebec,P.O. Box
+ZIP Code 04927,Clinton,Kennebec,Standard
+ZIP Code 04928,Corinna,Penobscot,Standard
+ZIP Code 04929,Detroit,Somerset,Standard
+ZIP Code 04930,Dexter,Penobscot,Standard
+ZIP Code 04932,Dixmont,Penobscot,Standard
+ZIP Code 04933,East Newport,Penobscot,P.O. Box
+ZIP Code 04935,East Vassalboro,Kennebec,P.O. Box
+ZIP Code 04936,Eustis,Franklin,Standard
+ZIP Code 04937,Fairfield,Somerset,Standard
+ZIP Code 04938,Farmington,Franklin,Standard
+ZIP Code 04939,Garland,Penobscot,Standard
+ZIP Code 04940,Farmington Falls,Franklin,Standard
+ZIP Code 04941,Freedom,Waldo,Standard
+ZIP Code 04942,Harmony,Somerset,Standard
+ZIP Code 04943,Hartland,Somerset,Standard
+ZIP Code 04944,Hinckley,Somerset,P.O. Box
+ZIP Code 04945,Jackman,Somerset,Standard
+ZIP Code 04947,Kingfield,Franklin,Standard
+ZIP Code 04949,Liberty,Waldo,Standard
+ZIP Code 04950,Madison,Somerset,Standard
+ZIP Code 04951,Monroe,Waldo,Standard
+ZIP Code 04952,Morrill,Waldo,Standard
+ZIP Code 04953,Newport,Penobscot,Standard
+ZIP Code 04954,New Portland,Somerset,P.O. Box
+ZIP Code 04955,New Sharon,Franklin,Standard
+ZIP Code 04956,New Vineyard,Franklin,Standard
+ZIP Code 04957,Norridgewock,Somerset,Standard
+ZIP Code 04958,North Anson,Somerset,Standard
+ZIP Code 04961,New Portland,Somerset,Standard
+ZIP Code 04962,North Vassalboro,Kennebec,P.O. Box
+ZIP Code 04963,Oakland,Kennebec,Standard
+ZIP Code 04964,Oquossoc,Franklin,P.O. Box
+ZIP Code 04965,Palmyra,Somerset,Standard
+ZIP Code 04966,Phillips,Franklin,Standard
+ZIP Code 04967,Pittsfield,Somerset,Standard
+ZIP Code 04969,Plymouth,Penobscot,Standard
+ZIP Code 04970,Rangeley,Franklin,Standard
+ZIP Code 04971,Saint Albans,Somerset,Standard
+ZIP Code 04972,Sandy Point,Waldo,P.O. Box
+ZIP Code 04973,Searsmont,Waldo,Standard
+ZIP Code 04974,Searsport,Waldo,Standard
+ZIP Code 04975,Shawmut,Somerset,P.O. Box
+ZIP Code 04976,Skowhegan,Somerset,Standard
+ZIP Code 04978,Smithfield,Somerset,Standard
+ZIP Code 04979,Solon,Somerset,Standard
+ZIP Code 04981,Stockton Springs,Waldo,Standard
+ZIP Code 04982,Stratton,Franklin,Standard
+ZIP Code 04983,Strong,Franklin,Standard
+ZIP Code 04984,Temple,Franklin,Standard
+ZIP Code 04985,West Forks,Somerset,Standard
+ZIP Code 04986,Thorndike,Waldo,Standard
+ZIP Code 04987,Troy,Waldo,Standard
+ZIP Code 04988,Unity,Waldo,Standard
+ZIP Code 04989,Vassalboro,Kennebec,Standard
+ZIP Code 04992,West Farmington,Franklin,P.O. Box
