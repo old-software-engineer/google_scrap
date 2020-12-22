@@ -11,7 +11,7 @@ namespace :spliting do
     Google.find_each do |record|
   		puts "record No. #{count}"
   		count+=1
-  		if record.url.present? 
+      if record.url.present? 
         puts "  record contain url  "
   			exists_check = {name: record.name,logo: record.logo , url: record.url.strip }
   			agency=Agency.find_by(exists_check)
@@ -47,17 +47,19 @@ namespace :spliting do
     					linkedin_url = linkedin.match?(linkedin_reg) ? linkedin : ''
     					break if linkedin_url.present? 
     				end
+            email = doc.text.downcase.match?(/[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}/i) ? doc.text.downcase.match(/[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}/i)[0] : ''
+
     		end
-   			create_param = {name: record.name,logo: record.logo , url: record.url.strip ,facebook: facebook_url ,linkedin: linkedin_url}
+   			create_param = {name: record.name , logo: record.logo , url: record.url.strip ,facebook: facebook_url ,linkedin: linkedin_url}
     		obj =Agency.create(create_param)
         puts "New Agency Created"
-  			AgencyLocation.create(agency_id: obj.id ,phone: record.phone_number ,email: record.email , street: record.street ,city: record.city,
+  			AgencyLocation.create(agency_id: obj.id ,phone: record.phone_number , email: email , street: record.street ,city: record.city,
   						state: record.state , zipcode: record.zip_code ,country: record.country , agency_category: record.business_category , lat: record.latitude ,
   						lng: record.longitude , gmap_reference: record.maps_reference , gmaps_review_score: record.review_score , gmaps_reviews: record.number_of_reviews )
         puts "New Agency AgencyLocation created" 			
   			if doc.present? 
   				formatted_response = doc.text.downcase
-  				if formatted_response.index('car insurance').present?
+  				if formatted_response.index('car insurance').present? or formatted_response.index('auto insurance').present?
   					AgencyCategory.create(agency_id: obj.id, category_id: 1,status: 'Active' )
   				end
   				if formatted_response.index('health insurance').present?
@@ -66,7 +68,7 @@ namespace :spliting do
   				if formatted_response.index('life insurance').present?
   					AgencyCategory.create(agency_id: obj.id , category_id: 3,status: 'Active' )
   				end
-  				if formatted_response.index('home insurance').present?
+  				if formatted_response.index('home insurance').present? or formatted_response.index('renters insurance').present? or formatted_response.index('property insurance').present?
   					AgencyCategory.create(agency_id: obj.id , category_id: 4,status: 'Active' )
   				end
 			  end

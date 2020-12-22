@@ -212,9 +212,29 @@ def scrape_data(driver):
 
         print('logo url',logo)
 
+        #################### Working days #########
+        days=sel.xpath("//div[contains(@class,'section-open-hours-container')]//@aria-label").extract_first()
+        mon = tue = wed = thu = fri = sat = sun = ''
+        if days is not None:
+            list_of_days = days.lower().replace('hide open hours for the week','').replace('.','').split(';')
+            for i in list_of_days:
+                if 'monday' in i :
+                    mon = week_check(i)
+                elif 'tuesday' in i:
+                    tue=week_check(i)
+                elif 'wednesday' in i :
+                    wed=week_check(i)
+                elif 'thursday' in i:
+                    thu=week_check(i)
+                elif 'friday' in i :
+                    fri=week_check(i)
+                elif 'saturday' in i:
+                    sat=week_check(i)
+                elif 'sunday' in i:
+                    sun=week_check(i)
 
+        print(f'Monday : {mon} , Tuesday : {tue} , wednesday : {wed} , thursday : {thu} , friday : {fri} , saturday : {sat} , sunday : {sun} ' )
         ################ CATEGORY  #################
-
         category = sel.xpath('''//div[contains(@class,'gm2-body-2')][2]//text()''').extract_first()
 
         if category is None:
@@ -252,7 +272,10 @@ def scrape_data(driver):
         print("Number Of Reviews : ",number_of_reviews)
         input_zip = scraping_zip
         if address_zip_code == int(input_zip):
-            zipdata =[agency_name,phone_number,email,category,reference,float(review_score),int(number_of_reviews),url,logo,facebook_link,linkdin_link,address_zip_code,address_street,address_city,address_state,address_country,latitude,longitude,str(datetime.datetime.now()),str(datetime.datetime.now())]
+            zipdata =[agency_name,phone_number,email,category,reference,float(review_score),int(number_of_reviews),url,
+                      logo,facebook_link,linkdin_link,address_zip_code,address_street,address_city,address_state,address_country,
+                      latitude,longitude,str(datetime.datetime.now()),str(datetime.datetime.now()),mon.strip(),tue.strip(),wed.strip(),
+                      thu.strip(),fri.strip(),sat.strip(),sun.strip()]
             page_data.append(zipdata)
         else:
             unknown_pin.write(f'{address_zip_code} ,')
@@ -260,7 +283,18 @@ def scrape_data(driver):
         driver.find_element_by_xpath('//span[text()="Back to results"]').click()
     unknown_pin.close()
     return page_data
-
+def week_check(string):
+    split_day_text = string.split(',')[0].strip().split(' ')
+    if len(split_day_text) > 1:
+        reason =''
+        if 'closed' in string:
+            for i in range(1,len(split_day_text)):
+                reason=reason+split_day_text[i]
+            return string.split(',')[1]+' '+reason
+        else:
+            return string.split(',')[1]
+    else:
+        return string.split(',')[1]
 
 def click_fun(execString,waitingCount):
     try:
@@ -291,7 +325,10 @@ def waitAndExecute(execString,waitingCount):
 def insert_into_db(data):
     if len(data) > 0:
         for i in data:
-            query="INSERT INTO googles (name,phone_number,email,business_category,maps_reference, review_score,number_of_reviews,url,logo,facebook_page,linkedin_page,zip_code,street,city,state,country,latitude,longitude,created_at,updated_at)    VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s) "
+            query="INSERT INTO googles (name,phone_number,email,business_category,maps_reference, review_score," \
+                  "number_of_reviews,url,logo,facebook_page,linkedin_page,zip_code,street,city,state,country,latitude," \
+                  "longitude,created_at,updated_at,monday,tuesday,wednesday,thursday,friday,saturday,sunday) VALUES " \
+                  "(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s) "
             cursor.execute(query,tuple(i))
             mydb.commit()
 

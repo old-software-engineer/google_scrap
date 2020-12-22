@@ -8,13 +8,13 @@ namespace :test do
   	facebook_url = ''
   	linkedin_url = ''
   	Google.find_each do |record|
+  		# debugger
   		doc = Nokogiri::HTML(open('http://'+record.url.strip).read)
   		urls = doc.search('a').map{ |tag|
   			case tag.name.downcase 
   			when 'a'
   				tag['href'].to_s
   			end 	}
-  		# debugger
   		urls.each do |facebook|
   			facebook_url = facebook.match?(facebook_reg) ? facebook : '' 
   			break if facebook_url.present? 
