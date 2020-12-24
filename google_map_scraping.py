@@ -104,6 +104,8 @@ def scrape_data(driver):
             wait.until(EC.element_to_be_clickable((By.XPATH,'//span[text()="Back to results"]')))
             driver.find_element_by_xpath('//span[text()="Back to results"]').click()
             continue
+        else:
+            agency_name=agency_name.strip()
         print('\tSaving data for ' + agency_name)
         ################ Phone NUMBER #################
 
@@ -112,7 +114,7 @@ def scrape_data(driver):
         if phone_number is None:
             phone_number=''
         else:
-            phone_number = phone_number.replace('Phone: ', '')
+            phone_number = phone_number.replace('Phone: ', '').strip()
 
         print("Phone No.",phone_number)
 
@@ -122,7 +124,7 @@ def scrape_data(driver):
         if url is None:
             url=''
         else:
-            url = url.replace('Website: ', '')
+            url = url.replace('Website: ', '').strip()
             print(url , "this is url ")
 
         ################ EMAIL #################
@@ -157,29 +159,29 @@ def scrape_data(driver):
             if len(address.split(",")) == 2:
                 address_street = ''
                 address_city = ''
-                address_state = address.split(',')[0].strip().split()[0]
-                address_zip = address.split(',')[0].strip().split()[1]
+                address_state = address.split(',')[0].strip().split()[0].strip()
+                address_zip = address.split(',')[0].strip().split()[1].strip()
                 address_zip_code = int(address_zip)
                 address_country = address.split(',')[1].strip()
             elif len(address.split(',')) == 3:
                 address_street = ''
                 address_city = address.split(',')[0].strip()
-                address_state = address.split(',')[1].strip().split()[0]
-                address_zip = address.split(',')[1].strip().split()[1]
+                address_state = address.split(',')[1].strip().split()[0].strip()
+                address_zip = address.split(',')[1].strip().split()[1].strip()
                 address_zip_code = int(address_zip)
                 address_country = address.split(',')[2].strip()
             elif len(address.split(',')) == 5:
-                address_street = address.split(',')[0]+address.split(',')[1]
+                address_street = address.split(',')[0]+address.split(',')[1].strip()
                 address_city = address.split(',')[2].strip()
-                address_state = address.split(',')[3].strip().split()[0]
-                address_zip = address.split(',')[3].strip().split()[1]
+                address_state = address.split(',')[3].strip().split()[0].strip()
+                address_zip = address.split(',')[3].strip().split()[1].strip()
                 address_zip_code = int(address_zip)
                 address_country = address.split(',')[4].strip()
             elif len(address.split(',')) == 4:
                 address_street = address.split(',')[0].strip()
                 address_city = address.split(',')[1].strip()
-                address_state = address.split(',')[2].strip().split()[0]
-                address_zip = address.split(',')[2].strip().split()[1]
+                address_state = address.split(',')[2].strip().split()[0].strip()
+                address_zip = address.split(',')[2].strip().split()[1].strip()
                 address_zip_code = int(address_zip)
                 address_country = address.split(',')[3].strip()
             else:
@@ -208,7 +210,7 @@ def scrape_data(driver):
             logo=''
         else:
             if logo.startswith('//'):
-                logo = 'https:' + logo
+                logo = 'https:' + logo.strip()
 
         print('logo url',logo)
 
@@ -239,6 +241,8 @@ def scrape_data(driver):
 
         if category is None:
             category = ''
+        else:
+            category = category.strip()
         print("Category : ",category)
 
         ################ REVIEW SCORE #################
@@ -290,11 +294,11 @@ def week_check(string):
         if 'closed' in string:
             for i in range(1,len(split_day_text)):
                 reason=reason+split_day_text[i]
-            return string.split(',')[1]+' '+reason
+            return string.split(',')[1]+' '+reason.strip()
         else:
-            return string.split(',')[1]
+            return string.split(',')[1].strip()
     else:
-        return string.split(',')[1]
+        return string.split(',')[1].strip()
 
 def click_fun(execString,waitingCount):
     try:
@@ -361,6 +365,11 @@ def scraper(driver):
             temp_data = scrape_data(driver)
             data = data+ temp_data
         elif div_count == 21:
+            try:
+                driver.find_element_by_xpath("//button[@aria-label=' Next page ' and @disabled='true']")
+                break
+            except:
+                pass
             wait.until(EC.element_to_be_clickable((By.XPATH, "//button[contains(@aria-label,'Next page')]")))
             driver.find_element_by_xpath("//button[contains(@aria-label,'Next page')]").click()
             page_number += 1
@@ -409,7 +418,7 @@ try:
             print('\n')
             print('Scraping insurance agency near ' + scraping_zip)
             search_input.clear()
-            search_input.send_keys('insurance agency near , ' + scraping_zip+' , '+input_state+' , USA')
+            search_input.send_keys('insurance agency near ' +scraping_zip+' '+input_state+' USA')
             search_input.send_keys(Keys.ENTER)
             wait.until(EC.url_contains(input_state))
             if line != 'normal':
@@ -420,21 +429,28 @@ try:
                 elif starting_page > 2:
                     div_count = 21
                     click_count = starting_page - 2
-                    page_number = 2
+                    page_number = 1
                     for x in range(0,click_count):
                         sleep(2)
                         try:
                             wait.until(EC.presence_of_element_located((By.XPATH,"//button[contains(@aria-label,'Next page')]")))
                         except:
                             continue
+
                         wait.until(
                             EC.element_to_be_clickable((By.XPATH, "//button[contains(@aria-label,'Next page')]"))).click()
+                        page_number=page_number+1
                         sleep(3)
-            scraper(driver)
+###### If No records ########
+            try:
+                driver.find_element_by_class_name('section-partial-interpretation')
+                continue
+            except:
+                scraper(driver)
             div_count=0
             insert_into_db(data)
             data =[]
-            done_zip.write(f'{scraping_zip},')
+            done_zip.write(f'{scraping_zip} \n')
     log.close()
     done_zip.close()
     msg ='Scraping script has been completed'

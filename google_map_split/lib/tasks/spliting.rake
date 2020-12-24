@@ -13,9 +13,8 @@ namespace :spliting do
   		count+=1
       if record.url.present? 
         puts "  record contain url  "
-  			exists_check = {name: record.name,logo: record.logo , url: record.url.strip }
+  			exists_check = {name: record.name.strip, url: record.url.strip }
   			agency=Agency.find_by(exists_check)
-        
   			if agency.present?
           puts "Agency Already Present "
   				AgencyLocation.find_or_create_by(agency_id: agency.id ,phone: record.phone_number ,email: record.email , street: record.street ,city: record.city,
@@ -23,7 +22,6 @@ namespace :spliting do
 						lng: record.longitude , gmap_reference: record.maps_reference , gmaps_review_score: record.review_score , gmaps_reviews: record.number_of_reviews)
           next
   			end
-
   			begin
   				doc = Nokogiri::HTML(open('http://'+record.url.strip).read)
           puts " Nokogiri Done"
@@ -50,10 +48,10 @@ namespace :spliting do
             email = doc.text.downcase.match?(/[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}/i) ? doc.text.downcase.match(/[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}/i)[0] : ''
 
     		end
-   			create_param = {name: record.name , logo: record.logo , url: record.url.strip ,facebook: facebook_url ,linkedin: linkedin_url}
+   			create_param = {name: record.name.strip , logo: record.logo , url: record.url.strip ,facebook: facebook_url ,linkedin: linkedin_url}
     		obj =Agency.create(create_param)
         puts "New Agency Created"
-  			AgencyLocation.create(agency_id: obj.id ,phone: record.phone_number , email: email , street: record.street ,city: record.city,
+  			AgencyLocation.find_or_create_by(agency_id: obj.id ,phone: record.phone_number , email: email , street: record.street ,city: record.city,
   						state: record.state , zipcode: record.zip_code ,country: record.country , agency_category: record.business_category , lat: record.latitude ,
   						lng: record.longitude , gmap_reference: record.maps_reference , gmaps_review_score: record.review_score , gmaps_reviews: record.number_of_reviews )
         puts "New Agency AgencyLocation created" 			
@@ -74,7 +72,7 @@ namespace :spliting do
 			  end
   		else
         puts "record Not contain url  "
-  			exists_check = {name: record.name , logo: record.logo }
+  			exists_check = {name: record.name.strip  }
   			agency = Agency.find_by(exists_check)
   			if agency.present?
           puts "Agency Already Present "
@@ -83,10 +81,10 @@ namespace :spliting do
             lng: record.longitude , gmap_reference: record.maps_reference , gmaps_review_score: record.review_score , gmaps_reviews: record.number_of_reviews)
           next
         end
-        create_param = {name: record.name,logo: record.logo , url: '' ,facebook: '' ,linkedin: ''}
-        agency = Agency.create(create_param)
+        create_param = {name: record.name.strip,logo: record.logo , url: '' ,facebook: '' ,linkedin: ''}
+        agency = Agency.find_or_create_by(create_param)
         puts "New Agency Created"
-        AgencyLocation.create(agency_id: agency.id ,phone: record.phone_number ,email: record.email , street: record.street ,city: record.city,
+        AgencyLocation.find_or_create_by(agency_id: agency.id ,phone: record.phone_number ,email: record.email , street: record.street ,city: record.city,
           state: record.state , zipcode: record.zip_code ,country: record.country , agency_category: record.business_category , lat: record.latitude ,
           lng: record.longitude , gmap_reference: record.maps_reference , gmaps_review_score: record.review_score , gmaps_reviews: record.number_of_reviews)
 		  end ## main if else 
