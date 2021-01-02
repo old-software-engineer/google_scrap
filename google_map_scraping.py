@@ -17,7 +17,7 @@ from email import encoders
 import mysql.connector
 mysql_user = 'av'
 mysql_pass = 'azad'
-mysql_db = 'google_map'
+mysql_db = 'test'
 
 mydb = mysql.connector.connect(
     host="localhost",
@@ -76,7 +76,7 @@ def send_mail(_mail, currentSubject,currentMsg):
 def scrape_data(driver):
     page_data=[]
     unknown_pin = open('unknown.log', 'a')
-    global scraping_zip,div_count,page_number,div_number
+    global scraping_zip,div_count,page_number,div_number,skip_record_count
     wait = WebDriverWait(driver,10)
     print('Page No.',page_number)
     div_count=0
@@ -215,27 +215,27 @@ def scrape_data(driver):
         print('logo url',logo)
 
         #################### Working days #########
-        days=sel.xpath("//div[contains(@class,'section-open-hours-container')]//@aria-label").extract_first()
-        mon = tue = wed = thu = fri = sat = sun = ''
-        if days is not None:
-            list_of_days = days.lower().replace('hide open hours for the week','').replace('.','').split(';')
-            for i in list_of_days:
-                if 'monday' in i :
-                    mon = week_check(i)
-                elif 'tuesday' in i:
-                    tue=week_check(i)
-                elif 'wednesday' in i :
-                    wed=week_check(i)
-                elif 'thursday' in i:
-                    thu=week_check(i)
-                elif 'friday' in i :
-                    fri=week_check(i)
-                elif 'saturday' in i:
-                    sat=week_check(i)
-                elif 'sunday' in i:
-                    sun=week_check(i)
-
-        print(f'Monday : {mon} , Tuesday : {tue} , wednesday : {wed} , thursday : {thu} , friday : {fri} , saturday : {sat} , sunday : {sun} ' )
+        # days=sel.xpath("//div[contains(@class,'section-open-hours-container')]//@aria-label").extract_first()
+        # mon = tue = wed = thu = fri = sat = sun = ''
+        # if days is not None:
+        #     list_of_days = days.lower().replace('hide open hours for the week','').replace('.','').split(';')
+        #     for i in list_of_days:
+        #         if 'monday' in i :
+        #             mon = week_check(i)
+        #         elif 'tuesday' in i:
+        #             tue=week_check(i)
+        #         elif 'wednesday' in i :
+        #             wed=week_check(i)
+        #         elif 'thursday' in i:
+        #             thu=week_check(i)
+        #         elif 'friday' in i :
+        #             fri=week_check(i)
+        #         elif 'saturday' in i:
+        #             sat=week_check(i)
+        #         elif 'sunday' in i:
+        #             sun=week_check(i)
+        #
+        # print(f'Monday : {mon} , Tuesday : {tue} , wednesday : {wed} , thursday : {thu} , friday : {fri} , saturday : {sat} , sunday : {sun} ' )
         ################ CATEGORY  #################
         category = sel.xpath('''//div[contains(@class,'gm2-body-2')][2]//text()''').extract_first()
 
@@ -278,14 +278,21 @@ def scrape_data(driver):
         if address_zip_code == int(input_zip):
             zipdata =[agency_name,phone_number,email,category,reference,float(review_score),int(number_of_reviews),url,
                       logo,facebook_link,linkdin_link,address_zip_code,address_street,address_city,address_state,address_country,
-                      latitude,longitude,str(datetime.datetime.now()),str(datetime.datetime.now()),mon.strip(),tue.strip(),wed.strip(),
-                      thu.strip(),fri.strip(),sat.strip(),sun.strip()]
+                      latitude,longitude,str(datetime.datetime.now()),str(datetime.datetime.now())]
+            # mon.strip(),tue.strip(),wed.strip(),
+            #                       thu.strip(),fri.strip(),sat.strip(),sun.strip()
             page_data.append(zipdata)
+            skip_record_count=1
         else:
+            skip_record_count = skip_record_count+1
             unknown_pin.write(f'{address_zip_code} ,')
 
         driver.find_element_by_xpath('//span[text()="Back to results"]').click()
+        if skip_record_count == 50:
+            sleep(1.5)
+            break
     unknown_pin.close()
+    sleep(2)
     return page_data
 def week_check(string):
     split_day_text = string.split(',')[0].strip().split(' ')
@@ -331,10 +338,10 @@ def insert_into_db(data):
         for i in data:
             query="INSERT INTO googles (name,phone_number,email,business_category,maps_reference, review_score," \
                   "number_of_reviews,url,logo,facebook_page,linkedin_page,zip_code,street,city,state,country,latitude," \
-                  "longitude,created_at,updated_at,monday,tuesday,wednesday,thursday,friday,saturday,sunday) VALUES " \
-                  "(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s) "
+                  "longitude,created_at,updated_at) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s) "
             cursor.execute(query,tuple(i))
             mydb.commit()
+# ,monday,tuesday,wednesday,thursday,friday,saturday,sunday    ,%s,%s,%s,%s,%s,%s,%s
 
 def make_new_log(filename):
     new = open(filename, "w")
@@ -357,13 +364,15 @@ def checkErrorLogs():
 
 
 def scraper(driver):
-    global page_number,data,div_count
+    global page_number,data,div_count,skip_record_count
     wait = WebDriverWait(driver, 10)
     while True:
         if page_number == 0:
             page_number +=1
             temp_data = scrape_data(driver)
             data = data+ temp_data
+        elif skip_record_count == 50:
+            break
         elif div_count == 21:
             try:
                 driver.find_element_by_xpath("//button[@aria-label=' Next page ' and @disabled='true']")
@@ -388,7 +397,9 @@ page_number = 0
 div_count = 0
 scraping_zip = ''
 div_number = 0
-error = False
+error = ''
+skip_record_count = 1
+
 try:
     line = checkErrorLogs()
     make_new_log("Error_Check.log")
@@ -408,9 +419,10 @@ try:
         scraping_zip = row[0].replace('ZIP Code ','')
         input_city = row[1].strip()
         ########################################## Enter state manually ###############
-        input_state = "Wyoming"
+        input_state = "Alabama"
         input_type = row[3]
         page_number = 0
+        skip_record_count = 1
         if 'P.O. Box' in input_type:
             print('Skipping ' + scraping_zip + ' P.0. Box')
         else:
@@ -441,7 +453,7 @@ try:
                             EC.element_to_be_clickable((By.XPATH, "//button[contains(@aria-label,'Next page')]"))).click()
                         page_number=page_number+1
                         sleep(3)
-###### If No records ########
+###### If No records on searched Zip Code ########
             try:
                 driver.find_element_by_class_name('section-partial-interpretation')
                 continue
