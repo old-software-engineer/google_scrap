@@ -26,6 +26,7 @@ development:
   username: admin
   password: nRf6vmrNcinY
   # database: google_map
+  # database: server_dump
   # username: av
   # password: azad
   Port: 3306
@@ -37,6 +38,7 @@ test:
   <<: *default
   database: Policy_Pals_MainDb
   # database: google_map
+  # database: server_dump
 # As with config/secrets.yml, you never want to store sensitive information,
 # like your database password, in your source code. If your source code is
 # ever seen by anyone, they now have access to your database.
@@ -64,3 +66,4 @@ production:
   # database: google_map
   # username: av
   # password: azad
+  # database: server_dump

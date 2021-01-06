@@ -76,7 +76,7 @@ def send_mail(_mail, currentSubject,currentMsg):
 def scrape_data(driver):
     page_data=[]
     unknown_pin = open('unknown.log', 'a')
-    global scraping_zip,div_count,page_number,div_number,skip_record_count
+    global scraping_zip,div_count,page_number,div_number
     wait = WebDriverWait(driver,10)
     print('Page No.',page_number)
     div_count=0
@@ -87,12 +87,10 @@ def scrape_data(driver):
     div_count = int(div_count[1]) - int(div_count[0]) + 2
 
     for listing in range(1,div_count):
-
         div_number = listing
         wait.until(EC.element_to_be_clickable((By.XPATH,f'//a[contains(@data-result-index, "{listing}")]')))
         click_fun('''//a[contains(@data-result-index, "{}")]'''.format(listing),0)
         print("this is try")
-
 
         waitAndExecute("Selector(text=driver.page_source).xpath('//h1/span/text()')[0]",0)
         sel = Selector(text=driver.page_source)
@@ -282,18 +280,14 @@ def scrape_data(driver):
             # mon.strip(),tue.strip(),wed.strip(),
             #                       thu.strip(),fri.strip(),sat.strip(),sun.strip()
             page_data.append(zipdata)
-            skip_record_count=1
         else:
-            skip_record_count = skip_record_count+1
             unknown_pin.write(f'{address_zip_code} ,')
 
         driver.find_element_by_xpath('//span[text()="Back to results"]').click()
-        if skip_record_count == 50:
-            sleep(1.5)
-            break
     unknown_pin.close()
     sleep(2)
     return page_data
+
 def week_check(string):
     split_day_text = string.split(',')[0].strip().split(' ')
     if len(split_day_text) > 1:
@@ -364,17 +358,18 @@ def checkErrorLogs():
 
 
 def scraper(driver):
-    global page_number,data,div_count,skip_record_count
+    global page_number,data,div_count
     wait = WebDriverWait(driver, 10)
     while True:
         if page_number == 0:
             page_number +=1
             temp_data = scrape_data(driver)
             data = data+ temp_data
-        elif skip_record_count == 50:
+        elif page_number == 3:
             break
         elif div_count == 21:
             try:
+                ### --  this check is for no next page present ----
                 driver.find_element_by_xpath("//button[@aria-label=' Next page ' and @disabled='true']")
                 break
             except:
@@ -398,8 +393,6 @@ div_count = 0
 scraping_zip = ''
 div_number = 0
 error = ''
-skip_record_count = 1
-
 try:
     line = checkErrorLogs()
     make_new_log("Error_Check.log")
@@ -422,7 +415,6 @@ try:
         input_state = "Alabama"
         input_type = row[3]
         page_number = 0
-        skip_record_count = 1
         if 'P.O. Box' in input_type:
             print('Skipping ' + scraping_zip + ' P.0. Box')
         else:
