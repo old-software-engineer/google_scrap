@@ -1,6 +1,6 @@
 import traceback
 import pandas as pd
-import os,datetime
+import datetime
 from time import sleep
 from parsel import Selector
 from selenium import webdriver
@@ -76,214 +76,261 @@ def send_mail(_mail, currentSubject,currentMsg):
 def scrape_data(driver):
     page_data=[]
     unknown_pin = open('unknown.log', 'a')
-    global scraping_zip,div_count,page_number,div_number
+    global scraping_zip,div_count,page_number,div_number,elementClick
     wait = WebDriverWait(driver,10)
     print('Page No.',page_number)
+
     div_count=0
     sleep(3)
-    wait.until(EC.visibility_of_element_located((By.XPATH,'//span[contains(@class, "n7lv7yjyC35__left")]')))
+    try:
+        wait.until(EC.visibility_of_element_located((By.XPATH,'//span[contains(@class, "n7lv7yjyC35__left")]')))
+    except Exception as e:
+        skip_log = open('skip_log.log', 'a')
+        skip_log.write(f'\n++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n\n'
+                       f'ZIP Code {scraping_zip}, Exception in Span Class of Page No. count Skipping Zip  , {e}')
+        skip_log.close()
+        return "scrap_data_exception"
+
     div_count = driver.find_element_by_xpath('//span[contains(@class, "n7lv7yjyC35__left")]').text.replace(
              'Showing results', '').replace('-', ',').split(',')
     div_count = int(div_count[1]) - int(div_count[0]) + 2
 
     for listing in range(1,div_count):
         div_number = listing
-        wait.until(EC.element_to_be_clickable((By.XPATH,f'//a[contains(@data-result-index, "{listing}")]')))
-        click_fun('''//a[contains(@data-result-index, "{}")]'''.format(listing),0)
-        print("this is try")
+        try:
+            wait.until(EC.element_to_be_clickable((By.XPATH,f'//{elementClick}[contains(@data-result-index, "{listing}")]')))
+            click_fun('''//{}[contains(@data-result-index, "{}")]'''.format(elementClick,listing),0)
+        except :
+            temp=''
+            if 'a' in elementClick :
+                temp='div'
+            elif 'div' in elementClick:
+                temp = 'a'
+            try:
+                wait.until(EC.element_to_be_clickable(
+                    (By.XPATH, f'//{temp}[contains(@data-result-index, "{listing}")]')))
+                click_fun('''//{}[contains(@data-result-index, "{}")]'''.format(temp, listing), 0)
+                elementClick = temp
+            except Exception as e:
+                skip_log = open('skip_log.log', 'a')
+                skip_log.write(f'\n++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n\n'
+                          f'ZIP Code {scraping_zip}, Exception Of listing loop Record Skipped , page no : {page_number}  {e}')
+                skip_log.close()
+                continue
 
-        waitAndExecute("Selector(text=driver.page_source).xpath('//h1/span/text()')[0]",0)
-        sel = Selector(text=driver.page_source)
-
-        ################ AGENCY NAME #################
-
-        agency_name=Selector(text=driver.page_source).xpath('//h1/span/text()').extract_first()
-        if agency_name is None:
-            wait.until(EC.element_to_be_clickable((By.XPATH,'//span[text()="Back to results"]')))
-            driver.find_element_by_xpath('//span[text()="Back to results"]').click()
+        try:
+            check = waitAndExecute("Selector(text=driver.page_source).xpath('//h1/span/text()')[0]",0)
+            if check == 'Selector_exception':
+                wait.until(EC.element_to_be_clickable((By.XPATH, '//span[text()="Back to results"]')))
+                driver.find_element_by_xpath('//span[text()="Back to results"]').click()
+                raise TimeoutError
+            sel = Selector(text=driver.page_source)
+        except Exception as e:
+            skip_log = open('skip_log.log', 'a')
+            skip_log.write(f'\n++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n\n'
+                          f'ZIP Code {scraping_zip}, Exception of Selector Modeule Skipping Record  , page no : {page_number}  {e}')
+            skip_log.close()
             continue
-        else:
-            agency_name=agency_name.strip()
-        print('\tSaving data for ' + agency_name)
-        ################ Phone NUMBER #################
-
-        phone_number = sel.xpath('//button[@data-tooltip="Copy phone number"]/@aria-label').extract_first()
-
-        if phone_number is None:
-            phone_number=''
-        else:
-            phone_number = phone_number.replace('Phone: ', '').strip()
-
-        print("Phone No.",phone_number)
-
-        ################ URL  #################
-
-        url = sel.xpath('//*[@data-tooltip="Open website"]/@aria-label').extract_first()
-        if url is None:
-            url=''
-        else:
-            url = url.replace('Website: ', '').strip()
-            print(url , "this is url ")
-
-        ################ EMAIL #################
-
-        email = ''
-        print('empty email',email )
-
-        ################ Facebook link #################
-
-        facebook_link=''
-        print('FaceBook Link:',facebook_link)
-
-        ################ LinkedIn Link #################
-
-        linkdin_link=''
-        print('LinkedIn Link : ',linkdin_link)
-
-        ################ GOOGLE REFERENCE  #################
-
-        reference = driver.current_url
-        print("Reference : ", reference)
-        latitude = reference.split('@')[1].split(',')[0]
-        longitude = reference.split('@')[1].split(',')[1]
-        print(f'latitude :{latitude} and longitude :{longitude}')
-
-        ################ ADDRESS #################
-
-        address = sel.xpath('//button[@data-item-id="address"]/@aria-label').extract_first()
-
-        if address:
-            address = address.replace('Address: ', '')
-            if len(address.split(",")) == 2:
-                address_street = ''
-                address_city = ''
-                address_state = address.split(',')[0].strip().split()[0].strip()
-                address_zip = address.split(',')[0].strip().split()[1].strip()
-                address_zip_code = int(address_zip)
-                address_country = address.split(',')[1].strip()
-            elif len(address.split(',')) == 3:
-                address_street = ''
-                address_city = address.split(',')[0].strip()
-                address_state = address.split(',')[1].strip().split()[0].strip()
-                address_zip = address.split(',')[1].strip().split()[1].strip()
-                address_zip_code = int(address_zip)
-                address_country = address.split(',')[2].strip()
-            elif len(address.split(',')) == 5:
-                address_street = address.split(',')[0]+address.split(',')[1].strip()
-                address_city = address.split(',')[2].strip()
-                address_state = address.split(',')[3].strip().split()[0].strip()
-                address_zip = address.split(',')[3].strip().split()[1].strip()
-                address_zip_code = int(address_zip)
-                address_country = address.split(',')[4].strip()
-            elif len(address.split(',')) == 4:
-                address_street = address.split(',')[0].strip()
-                address_city = address.split(',')[1].strip()
-                address_state = address.split(',')[2].strip().split()[0].strip()
-                address_zip = address.split(',')[2].strip().split()[1].strip()
-                address_zip_code = int(address_zip)
-                address_country = address.split(',')[3].strip()
-            else:
+        ################ AGENCY NAME #################
+        try:
+            agency_name=Selector(text=driver.page_source).xpath('//h1/span/text()').extract_first()
+            if agency_name is None:
+                wait.until(EC.element_to_be_clickable((By.XPATH,'//span[text()="Back to results"]')))
                 driver.find_element_by_xpath('//span[text()="Back to results"]').click()
                 continue
-        else:
-            address = ''
-            address_street = ''
-            address_city = ''
-            address_state = ''
-            address_zip_code = 0
-            address_country = ''
+            else:
+                agency_name=agency_name.strip()
+            print('\tSaving data for ' + agency_name)
+            ################ Phone NUMBER #################
 
-        print(address)
-        print('street adr: ',address_street )
-        print('city:',address_city)
-        print('state:',address_state)
-        print('zip_code',address_zip_code)
-        print('Country :',address_country)
+            phone_number = sel.xpath('//button[@data-tooltip="Copy phone number"]/@aria-label').extract_first()
 
-        ################ LOGO #################
+            if phone_number is None:
+                phone_number=''
+            else:
+                phone_number = phone_number.replace('Phone: ', '').strip()
 
-        logo = sel.xpath('//button[@jsaction="pane.heroHeaderImage.click"]/img/@src').extract_first()
+            print("Phone No.",phone_number)
 
-        if logo is None:
-            logo=''
-        else:
-            if logo.startswith('//'):
-                logo = 'https:' + logo.strip()
+            ################ URL  #################
 
-        print('logo url',logo)
+            url = sel.xpath('//*[@data-tooltip="Open website"]/@aria-label').extract_first()
+            if url is None:
+                url=''
+            else:
+                url = url.replace('Website: ', '').strip()
+                print(url , "this is url ")
 
-        #################### Working days #########
-        # days=sel.xpath("//div[contains(@class,'section-open-hours-container')]//@aria-label").extract_first()
-        # mon = tue = wed = thu = fri = sat = sun = ''
-        # if days is not None:
-        #     list_of_days = days.lower().replace('hide open hours for the week','').replace('.','').split(';')
-        #     for i in list_of_days:
-        #         if 'monday' in i :
-        #             mon = week_check(i)
-        #         elif 'tuesday' in i:
-        #             tue=week_check(i)
-        #         elif 'wednesday' in i :
-        #             wed=week_check(i)
-        #         elif 'thursday' in i:
-        #             thu=week_check(i)
-        #         elif 'friday' in i :
-        #             fri=week_check(i)
-        #         elif 'saturday' in i:
-        #             sat=week_check(i)
-        #         elif 'sunday' in i:
-        #             sun=week_check(i)
-        #
-        # print(f'Monday : {mon} , Tuesday : {tue} , wednesday : {wed} , thursday : {thu} , friday : {fri} , saturday : {sat} , sunday : {sun} ' )
-        ################ CATEGORY  #################
-        category = sel.xpath('''//div[contains(@class,'gm2-body-2')][2]//text()''').extract_first()
+            ################ EMAIL #################
 
-        if category is None:
-            category = ''
-        else:
-            category = category.strip()
-        print("Category : ",category)
+            email = ''
+            ################ Facebook link #################
 
-        ################ REVIEW SCORE #################
+            facebook_link=''
+            ################ LinkedIn Link #################
 
-        review_score = sel.xpath('//ol[contains(@aria-label, " stars")]/@aria-label').extract_first()
+            linkdin_link=''
+            ################ GOOGLE REFERENCE  #################
 
-        if review_score is None:
-            review_score=0
-        else:
-            review_score = review_score.replace('stars','').strip()
+            reference = driver.current_url
+            print("Reference : ", reference)
+            latitude = reference.split('@')[1].split(',')[0]
+            longitude = reference.split('@')[1].split(',')[1]
+            print(f'latitude :{latitude} and longitude :{longitude}')
 
-        print("Review :",review_score)
+            ################ ADDRESS #################
 
-        ################ NUMBER OF REVIEWS  #################
+            address = sel.xpath('//button[@data-item-id="address"]/@aria-label').extract_first()
 
-        number_of_reviews = sel.xpath('//button[contains(@aria-label, " review")]/@aria-label').extract_first()
+            if address:
+                address = address.replace('Address: ', '')
+                if len(address.split(",")) == 2:
+                    address_street = ''
+                    address_city = ''
+                    address_state = address.split(',')[0].strip().split()[0].strip()
+                    address_zip = address.split(',')[0].strip().split()[1].strip()
+                    address_zip_code = int(address_zip)
+                    address_country = address.split(',')[1].strip()
+                elif len(address.split(',')) == 3:
+                    address_street = ''
+                    address_city = address.split(',')[0].strip()
+                    address_state = address.split(',')[1].strip().split()[0].strip()
+                    address_zip = address.split(',')[1].strip().split()[1].strip()
+                    address_zip_code = int(address_zip)
+                    address_country = address.split(',')[2].strip()
+                elif len(address.split(',')) == 5:
+                    address_street = address.split(',')[0]+address.split(',')[1].strip()
+                    address_city = address.split(',')[2].strip()
+                    address_state = address.split(',')[3].strip().split()[0].strip()
+                    address_zip = address.split(',')[3].strip().split()[1].strip()
+                    address_zip_code = int(address_zip)
+                    address_country = address.split(',')[4].strip()
+                elif len(address.split(',')) == 4:
+                    address_street = address.split(',')[0].strip()
+                    address_city = address.split(',')[1].strip()
+                    address_state = address.split(',')[2].strip().split()[0].strip()
+                    address_zip = address.split(',')[2].strip().split()[1].strip()
+                    address_zip_code = int(address_zip)
+                    address_country = address.split(',')[3].strip()
+                elif len(address.split(',')) == 6:
+                    address_street = address.split(',')[0] + address.split(',')[1] + address.split(',')[2]
+                    address_city = address.split(',')[3].strip()
+                    address_state = address.split(',')[4].strip().split()[0].strip()
+                    address_zip = address.split(',')[4].strip().split()[1].strip()
+                    address_zip_code = int(address_zip)
+                    address_country = address.split(',')[5].strip()
+                else:
+                    # address_as=address.split(',')
+                    # print(address_as)
+                    driver.find_element_by_xpath('//span[text()="Back to results"]').click()
+                    continue
+            else:
+                address = ''
+                address_street = ''
+                address_city = ''
+                address_state = ''
+                address_zip_code = 0
+                address_country = ''
 
-        if number_of_reviews is None:
-            number_of_reviews=0
-        else:
-            if 'Write a review' in number_of_reviews:
-                number_of_reviews= ''
-            if 'Manage this location?' in number_of_reviews:
-                number_of_reviews = ''
-            if 'Search reviews' in number_of_reviews:
-                number_of_reviews = ''
-            number_of_reviews = number_of_reviews.replace(',','').replace('review','').replace('s','').strip()
-            if len(number_of_reviews) == 0:
-                number_of_reviews = 0
+            print(address)
+            print('street adr: ',address_street )
+            print('city:',address_city)
+            print('state:',address_state)
+            print('zip_code',address_zip_code)
+            print('Country :',address_country)
 
-        print("Number Of Reviews : ",number_of_reviews)
-        input_zip = scraping_zip
-        if address_zip_code == int(input_zip):
-            zipdata =[agency_name,phone_number,email,category,reference,float(review_score),int(number_of_reviews),url,
-                      logo,facebook_link,linkdin_link,address_zip_code,address_street,address_city,address_state,address_country,
-                      latitude,longitude,str(datetime.datetime.now()),str(datetime.datetime.now())]
-            # mon.strip(),tue.strip(),wed.strip(),
-            #                       thu.strip(),fri.strip(),sat.strip(),sun.strip()
-            page_data.append(zipdata)
-        else:
-            unknown_pin.write(f'{address_zip_code} ,')
+            ################ LOGO #################
 
-        driver.find_element_by_xpath('//span[text()="Back to results"]').click()
+            logo = sel.xpath('//button[@jsaction="pane.heroHeaderImage.click"]/img/@src').extract_first()
+
+            if logo is None:
+                logo=''
+            else:
+                if logo.startswith('//'):
+                    logo = 'https:' + logo.strip()
+
+            print('logo url',logo)
+
+            #################### Working days #########
+            # days=sel.xpath("//div[contains(@class,'section-open-hours-container')]//@aria-label").extract_first()
+            # mon = tue = wed = thu = fri = sat = sun = ''
+            # if days is not None:
+            #     list_of_days = days.lower().replace('hide open hours for the week','').replace('.','').split(';')
+            #     for i in list_of_days:
+            #         if 'monday' in i :
+            #             mon = week_check(i)
+            #         elif 'tuesday' in i:
+            #             tue=week_check(i)
+            #         elif 'wednesday' in i :
+            #             wed=week_check(i)
+            #         elif 'thursday' in i:
+            #             thu=week_check(i)
+            #         elif 'friday' in i :
+            #             fri=week_check(i)
+            #         elif 'saturday' in i:
+            #             sat=week_check(i)
+            #         elif 'sunday' in i:
+            #             sun=week_check(i)
+            #
+            # print(f'Monday : {mon} , Tuesday : {tue} , wednesday : {wed} , thursday : {thu} , friday : {fri} , saturday : {sat} , sunday : {sun} ' )
+            ################ CATEGORY  #################
+            category = sel.xpath('''//div[contains(@class,'gm2-body-2')][2]//text()''').extract_first()
+
+            if category is None:
+                category = ''
+            else:
+                category = category.strip()
+            print("Category : ",category)
+
+            ################ REVIEW SCORE #################
+
+            review_score = sel.xpath('//ol[contains(@aria-label, " stars")]/@aria-label').extract_first()
+
+            if review_score is None:
+                review_score=0
+            else:
+                review_score = review_score.replace('stars','').strip()
+
+            print("Review :",review_score)
+
+            ################ NUMBER OF REVIEWS  #################
+
+            number_of_reviews = sel.xpath('//button[contains(@aria-label, " review")]/@aria-label').extract_first()
+
+            if number_of_reviews is None:
+                number_of_reviews=0
+            else:
+                if 'Write a review' in number_of_reviews:
+                    number_of_reviews= ''
+                if 'Manage this location?' in number_of_reviews:
+                    number_of_reviews = ''
+                if 'Search reviews' in number_of_reviews:
+                    number_of_reviews = ''
+                number_of_reviews = number_of_reviews.replace(',','').replace('review','').replace('s','').strip()
+                if len(number_of_reviews) == 0:
+                    number_of_reviews = 0
+
+            print("Number Of Reviews : ",number_of_reviews)
+            input_zip = scraping_zip
+            if address_zip_code == int(input_zip):
+                zipdata =[agency_name,phone_number,email,category,reference,float(review_score),int(number_of_reviews),url,
+                          logo,facebook_link,linkdin_link,address_zip_code,address_street.strip(),address_city,address_state,address_country,
+                          latitude,longitude,str(datetime.datetime.now()),str(datetime.datetime.now())]
+                # mon.strip(),tue.strip(),wed.strip(),
+                #                       thu.strip(),fri.strip(),sat.strip(),sun.strip()
+                page_data.append(zipdata)
+            else:
+                unknown_pin.write(f'{address_zip_code} ,')
+
+            driver.find_element_by_xpath('//span[text()="Back to results"]').click()
+        except Exception as e:
+            wait.until(EC.element_to_be_clickable((By.XPATH, '//span[text()="Back to results"]')))
+            driver.find_element_by_xpath('//span[text()="Back to results"]').click()
+            skip_log = open('skip_log.log', 'a')
+            skip_log.write(f'\n++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n\n'
+                      f' ZIP Code {scraping_zip} Exception While Scraping Record Skipped  ,Page No. {page_number}, {e}')
+            skip_log.close()
+            continue
     unknown_pin.close()
     sleep(2)
     return page_data
@@ -314,6 +361,7 @@ def click_fun(execString,waitingCount):
         else:
             click_fun(execString,waitingCount+1)
 
+
 def waitAndExecute(execString,waitingCount):
     try:
         exec(execString)
@@ -321,20 +369,31 @@ def waitAndExecute(execString,waitingCount):
     except Exception as e:
         sleep(0.25)
         if waitingCount > 40:
-            print('waiting count of waitandexecute',waitingCount)
             print("Exception of waitandexecte :",e)
-            return False
+            return 'Selector_exception'
         else:
             return waitAndExecute(execString,waitingCount+1)
 
 def insert_into_db(data):
+    global scraping_zip,page_number
+    count = 0
     if len(data) > 0:
-        for i in data:
-            query="INSERT INTO googles (name,phone_number,email,business_category,maps_reference, review_score," \
-                  "number_of_reviews,url,logo,facebook_page,linkedin_page,zip_code,street,city,state,country,latitude," \
-                  "longitude,created_at,updated_at) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s) "
-            cursor.execute(query,tuple(i))
-            mydb.commit()
+        try:
+            for i in data:
+                count = count + 1
+                query="INSERT INTO googles (name,phone_number,email,business_category,maps_reference, review_score," \
+                      "number_of_reviews,url,logo,facebook_page,linkedin_page,zip_code,street,city,state,country,latitude," \
+                      "longitude,created_at,updated_at) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s) "
+                cursor.execute(query,tuple(i))
+                mydb.commit()
+        except Exception as e:
+            skip_log = open('skip_log.log', 'a')
+            skip_log.write(f'\n++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n\n'
+                           f'ZIP Code {scraping_zip} Error while record saving in db Google Page Ref : {i[4]} ,{e}')
+            skip_log.close()
+            del data[:count]
+            insert_into_db(data)
+
 # ,monday,tuesday,wednesday,thursday,friday,saturday,sunday    ,%s,%s,%s,%s,%s,%s,%s
 
 def make_new_log(filename):
@@ -364,7 +423,10 @@ def scraper(driver):
         if page_number == 0:
             page_number +=1
             temp_data = scrape_data(driver)
-            data = data+ temp_data
+            if temp_data == "scrap_data_exception":
+                break
+            else:
+                data = data + temp_data
         elif page_number == 3:
             break
         elif div_count == 21:
@@ -378,14 +440,17 @@ def scraper(driver):
             driver.find_element_by_xpath("//button[contains(@aria-label,'Next page')]").click()
             page_number += 1
             temp_data = scrape_data(driver)
-            data = data+temp_data
+            if temp_data == "scrap_data_exception":
+                break
+            else:
+                data = data + temp_data
         else:
             break
 
 ############### Update your ChromeDriver Location #############
 driver = webdriver.Chrome('/usr/bin/chromedriver')
 driver.get('https://www.google.com/maps/?hl=en')
-done_zip =open('done_zip.log','a')
+done_zip = open('done_zip.log','a')
 wait = WebDriverWait(driver, 10)
 data = []
 page_number = 0
@@ -393,11 +458,13 @@ div_count = 0
 scraping_zip = ''
 div_number = 0
 error = ''
+elementClick='a'
 try:
     line = checkErrorLogs()
     make_new_log("Error_Check.log")
     log = open('Error_Check.log', 'a')
 ################# Update InPut CSV Here ######################
+    #/workspace/USA STATES CSV/California.csv
     df=pd.read_csv('/home/code/input.csv',sep=',')
     if line != 'normal':
         start_line = line.split(',')
@@ -412,7 +479,7 @@ try:
         scraping_zip = row[0].replace('ZIP Code ','')
         input_city = row[1].strip()
         ########################################## Enter state manually ###############
-        input_state = "Alabama"
+        input_state = "Arkanas"
         input_type = row[3]
         page_number = 0
         if 'P.O. Box' in input_type:
@@ -465,6 +532,7 @@ try:
 except Exception as e:
     insert_into_db(data)
     error =traceback.format_exc()
+    done_zip.close()
     log.write(f"Zipecode , {scraping_zip} , Page-No. , {page_number} ,Div-count., {div_count} ,Div-No. ,{div_number}  \n Error :  {error} ")
     log.close()
     msg = 'Please rerun the script to continue scraping.'
@@ -472,3 +540,20 @@ except Exception as e:
     send_mail('msingh@anviam.com', 'Google Map Scraper Custom: Error', msg)
     print("Final Exception>>> ", e)
     driver.quit()
+
+
+# import re
+#
+# text = u'This is a smiley face \U0001f602'
+# print(text) # with emoji
+#
+# def deEmojify(text):
+#     regrex_pattern = re.compile(pattern = "["
+#         u"\U0001F600-\U0001F64F"  # emoticons
+#         u"\U0001F300-\U0001F5FF"  # symbols & pictographs
+#         u"\U0001F680-\U0001F6FF"  # transport & map symbols
+#         u"\U0001F1E0-\U0001F1FF"  # flags (iOS)
+#                            "]+", flags = re.UNICODE)
+#     return regrex_pattern.sub(r'',text)
+#
+# print(deEmojify(text))

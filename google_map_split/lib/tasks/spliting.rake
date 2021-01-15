@@ -11,21 +11,19 @@ namespace :spliting do
 
     Google.find_each do |record|
       agency=''
-  		puts "\n -----record No. #{count} -----\n"
+  		puts "\n ----- Record No. #{count} -----\n"
   		count+=1
       if record.url.present? 
-        puts "  Contain url  #{record.url}"
+        puts "  Contain url -->  #{record.url}"
   			exists_check = { url: record.url.strip }
   			agency=Agency.find_by(exists_check)
-  			
         if agency.present?
           puts "  Agency Already Present "
-
+          email = agency.agency_locations.pluck(:email).reject { |e| e.to_s.empty? }.present? ? agency.agency_locations.pluck(:email).reject { |e| e.to_s.empty? }.first : ''
           location_obj=AgencyLocation.find_by(agency_id: agency.id ,phone: record.phone_number, street: record.street ,city: record.city,
-            state: record.state , zipcode: record.zip_code ,country: record.country , agency_category: record.business_category ,gmaps_review_score: record.review_score ,
-             gmaps_reviews: record.number_of_reviews)
+            state: record.state , zipcode: record.zip_code ,country: record.country , agency_category: record.business_category )
           if !location_obj.present?
-            AgencyLocation.find_or_create_by(agency_id: agency.id ,phone: record.phone_number ,email: record.email , street: record.street ,city: record.city,
+            AgencyLocation.create(agency_id: agency.id ,phone: record.phone_number ,email: email , street: record.street ,city: record.city,
             state: record.state , zipcode: record.zip_code ,country: record.country , agency_category: record.business_category , lat: record.latitude ,
             lng: record.longitude , gmap_reference: record.maps_reference , gmaps_review_score: record.review_score , gmaps_reviews: record.number_of_reviews)
             puts "  New AgencyLocation Created "
@@ -35,7 +33,7 @@ namespace :spliting do
 
   			begin
   				doc = Nokogiri::HTML(open('http://'+record.url.strip).read)
-          puts " Nokogiri Done"
+          puts "  Nokogiri Done "
   			rescue  Exception => e
   				puts e.message
   				doc = ''
@@ -56,8 +54,14 @@ namespace :spliting do
     					linkedin_url = linkedin.match?(linkedin_reg) ? linkedin : ''
     					break if linkedin_url.present? 
     				end
-            email = doc.text.downcase.match?(/[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}/i) ? doc.text.downcase.match(/[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}/i)[0] : ''
-
+            begin
+              email_a = doc.text.match?(/[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}/i) ? doc.text.match(/[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}/i)[0] : ''
+              email = email_a.downcase
+            rescue Exception => e
+              puts "Error in email: #{e}"
+              email=''
+              doc=''
+            end
     		end
    			create_param = {name: record.name.strip , logo: record.logo , url: record.url.strip ,facebook: facebook_url ,linkedin: linkedin_url}
     		obj =Agency.create(create_param)
@@ -88,11 +92,10 @@ namespace :spliting do
   			if agency.present?
           puts "  Agency Already Present "
           location_obj =AgencyLocation.find_by(agency_id: agency.id ,phone: record.phone_number , street: record.street ,city: record.city,
-            state: record.state , zipcode: record.zip_code ,country: record.country , agency_category: record.business_category , gmaps_review_score: record.review_score ,
-             gmaps_reviews: record.number_of_reviews)
+            state: record.state , zipcode: record.zip_code ,country: record.country , agency_category: record.business_category )
 
           if !location_obj.present?
-    				AgencyLocation.find_or_create_by(agency_id: agency.id ,phone: record.phone_number ,email: record.email , street: record.street ,city: record.city,
+    				AgencyLocation.create(agency_id: agency.id ,phone: record.phone_number ,email: record.email , street: record.street ,city: record.city,
               state: record.state , zipcode: record.zip_code ,country: record.country , agency_category: record.business_category , lat: record.latitude ,
               lng: record.longitude , gmap_reference: record.maps_reference , gmaps_review_score: record.review_score , gmaps_reviews: record.number_of_reviews)
             puts "  New AgencyLocation Created "
