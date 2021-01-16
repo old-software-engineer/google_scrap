@@ -44,34 +44,36 @@ for record in data:
     email = ''
     if len(url) > 0:
         print(f"Record Contain Url -> {url} ")
-        agency_query = f"select id from agencies where url = '{url}' limit 1 ;"
-        cursor.execute(agency_query)
+        agency_query = f"select id from agencies where url = %s limit 1 ;"
+        agency_array = [url]
+        cursor.execute(agency_query,tuple(agency_array))
         agency_result = cursor.fetchone()
 
         if agency_result is not None:
             print('Agency Already Present ')
-            fetch_email_query = f"Select email from agency_locations where agency_id = '{agency_result[0]}' and email is not NULL and email != '' limit 1;"
+            fetch_email_query = f"Select email from agency_locations where agency_id = {agency_result[0]} and email is not NULL and email != '' limit 1;"
             cursor.execute(fetch_email_query)
             email = cursor.fetchone()
             if email is None:
                 email = ''
-            location_check_query = f"Select id from agency_locations where agency_id = '{agency_result[0]}' and phone = '{phn}' and email = '{email}' and " \
-                             f"street = '{street}' and city = '{city}' and state = '{state}' and zipcode = '{zip_code}' and " \
-                             f"country = '{country}' and agency_category = '{business_cat}'  limit 1;"
-            cursor.execute(location_check_query)
+            else:
+                email = email[0]
+            location_check_query = f"Select id from agency_locations where agency_id = %s and phone = %s and email = %s and " \
+                             f"street = %s and city = %s and state = %s and zipcode = %s and country = %s and agency_category = %s  limit 1;"
+            loc_array = [agency_result[0],phn,email,street,city,state,zip_code,country,business_cat]
+            cursor.execute(location_check_query,tuple(loc_array))
             loc_id = cursor.fetchone()
             if loc_id is None:
                 new_location_query = f"INSERT INTO agency_locations(phone,email,street,city,state,zipcode,country,agency_category,lat,lng,gmap_reference," \
-                                     f"gmaps_review_score,gmaps_reviews,created_at,updated_at,agency_id) VALUES ('{phn}','{email}','{street}'," \
-                                     f"'{city}','{state}','{zip_code}','{country}','{business_cat}','{latitude}','{longitude}','{maps_reference}'," \
-                                     f"'{review_score}','{number_of_reviews}','{str(datetime.datetime.now())}','{str(datetime.datetime.now())}'," \
-                                     f"'{agency_result[0]}');"
-                cursor.execute(new_location_query)
+                                     f"gmaps_review_score,gmaps_reviews,created_at,updated_at,agency_id) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s);"
+                new_loc_array = [phn,email,street,city,state,zip_code,country,business_cat,latitude,longitude,maps_reference,review_score,number_of_reviews,
+                                 str(datetime.datetime.now()),str(datetime.datetime.now()),agency_result[0]]
+                cursor.execute(new_location_query,tuple(new_loc_array))
                 mydb.commit()
             continue
         #------------------------ Hitting URL -------------------------------------#
         try:
-            req = requests.get('http://'+url)
+            req = requests.get('http://'+url,timeout=20)
             doc =BeautifulSoup(req.content,'html.parser')
             req.close()
         except Exception as e:
@@ -101,21 +103,19 @@ for record in data:
                     email = check.string
                     break
 
-
-
         #------------- Creating New Agency and Location  --------------------#
         new_agency_query = f"INSERT INTO agencies(name,logo,url,facebook,linkedin,created_at,updated_at)" \
-               f"VALUES ('{name}','{logo}','{url}','{facebook_url}','{linkedin_url}','{str(datetime.datetime.now())}','{str(datetime.datetime.now())}');"
-        cursor.execute(new_agency_query)
+               f"VALUES (%s,%s,%s,%s,%s,%s,%s);"
+        new_agency_array =[name,logo,url,facebook_url,linkedin_url,str(datetime.datetime.now()),str(datetime.datetime.now())]
+        cursor.execute(new_agency_query,tuple(new_agency_array))
         new_agency_id = cursor.lastrowid
         mydb.commit()
 
         new_location_query = f"INSERT INTO agency_locations(phone,email,street,city,state,zipcode,country,agency_category,lat,lng,gmap_reference," \
-                           f"gmaps_review_score,gmaps_reviews,created_at,updated_at,agency_id) VALUES ('{phn}','{email}','{street}'," \
-                           f"'{city}','{state}','{zip_code}','{country}','{business_cat}','{latitude}','{longitude}','{maps_reference}'," \
-                           f"'{review_score}','{number_of_reviews}','{str(datetime.datetime.now())}','{str(datetime.datetime.now())}'," \
-                           f"'{new_agency_id}');"
-        cursor.execute(new_location_query)
+                           f"gmaps_review_score,gmaps_reviews,created_at,updated_at,agency_id) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s);"
+        new_loc_array = [phn,email,street,city,state,zip_code,country,business_cat,latitude,longitude,maps_reference,review_score,number_of_reviews,
+                         str(datetime.datetime.now()),str(datetime.datetime.now()),new_agency_id]
+        cursor.execute(new_location_query,tuple(new_loc_array))
         mydb.commit()
 
         #------------- Creating Categories ----------------#
@@ -143,36 +143,36 @@ for record in data:
                 mydb.commit()
     else:
         print(" Record Not Contain Url ")
-        agency_query = f"select id from agencies where name = '{name}' and url = '' limit 1;"
-        cursor.execute(agency_query)
+        agency_query = f"select id from agencies where name = %s and url = %s limit 1;"
+        agency_array = [name,url]
+        cursor.execute(agency_query,tuple(agency_array))
         agency_result = cursor.fetchone()
         if agency_result is not None:
-            print(' Agency Already Present without url ')
-            location_check_query = f"Select id from agency_locations where agency_id = '{agency_result[0]}' and phone = '{phn}' and " \
-                                   f"street = '{street}' and city = '{city}' and state = '{state}' and zipcode = '{zip_code}' and " \
-                                   f"country = '{country}' and agency_category = '{business_cat}' limit 1;"
-            cursor.execute(location_check_query)
+            print(' Agency Already Present ')
+            location_check_query = f"Select id from agency_locations where agency_id = %s and phone = %s and " \
+                                   f"street = %s and city = %s and state = %s and zipcode = %s and country = %s and agency_category = %s limit 1;"
+            loc_array = [agency_result[0],phn,street,city,state,zip_code,country,business_cat]
+            cursor.execute(location_check_query,tuple(loc_array))
             loc_id = cursor.fetchone()
             if loc_id is None:
                 new_location_query = f"INSERT INTO agency_locations(phone,email,street,city,state,zipcode,country,agency_category,lat,lng,gmap_reference," \
-                                     f"gmaps_review_score,gmaps_reviews,created_at,updated_at,agency_id) VALUES ('{phn}','{email}','{street}'," \
-                                     f"'{city}','{state}','{zip_code}','{country}','{business_cat}','{latitude}','{longitude}','{maps_reference}'," \
-                                     f"'{review_score}','{number_of_reviews}','{str(datetime.datetime.now())}','{str(datetime.datetime.now())}'," \
-                                     f"'{agency_result[0]}');"
-                cursor.execute(new_location_query)
+                                     f"gmaps_review_score,gmaps_reviews,created_at,updated_at,agency_id) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s);"
+                new_loc_array = [phn,email,street,city,state,zip_code,country,business_cat,latitude,longitude,maps_reference,review_score,number_of_reviews,
+                                    str(datetime.datetime.now()),str(datetime.datetime.now()),agency_result[0]]
+                cursor.execute(new_location_query,tuple(new_loc_array))
                 mydb.commit()
             continue
 
         #-------------- New Agency and Location Create -----------------#
         new_agency_query = f"INSERT INTO agencies(name,logo,url,facebook,linkedin,created_at,updated_at)" \
-                           f"VALUES ('{name}','{logo}','{url}','{facebook_url}','{linkedin_url}', '{str(datetime.datetime.now())}','{str(datetime.datetime.now())}');"
-        cursor.execute(new_agency_query)
+                           f"VALUES (%s,%s,%s,%s,%s,%s,%s);"
+        new_agency_array =[name,logo,url,facebook_url,linkedin_url,str(datetime.datetime.now()),str(datetime.datetime.now())]
+        cursor.execute(new_agency_query,tuple(new_agency_array))
         new_agency_id = cursor.lastrowid
         mydb.commit()
         new_location_query = f"INSERT INTO agency_locations(phone,email,street,city,state,zipcode,country,agency_category,lat,lng,gmap_reference," \
-                             f"gmaps_review_score,gmaps_reviews,created_at,updated_at,agency_id) VALUES ('{phn}','{email}','{street}'," \
-                             f"'{city}','{state}','{zip_code}','{country}','{business_cat}','{latitude}','{longitude}','{maps_reference}'," \
-                             f"'{review_score}','{number_of_reviews}','{str(datetime.datetime.now())}','{str(datetime.datetime.now())}'," \
-                             f"'{new_agency_id}');"
-        cursor.execute(new_location_query)
+                             f"gmaps_review_score,gmaps_reviews,created_at,updated_at,agency_id) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s);"
+        new_loc_array = [phn,email,street,city,state,zip_code,country,business_cat,latitude,longitude,
+                         maps_reference,review_score,number_of_reviews,str(datetime.datetime.now()),str(datetime.datetime.now()),new_agency_id]
+        cursor.execute(new_location_query,tuple(new_loc_array))
         mydb.commit()
