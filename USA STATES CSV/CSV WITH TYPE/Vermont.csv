@@ -1,0 +1,309 @@
+State,ZIP Code,City,County,Type
+Vermont,ZIP Code 05001,White River Junction,Windsor,Standard
+Vermont,ZIP Code 05009,White River Junction,Windsor,Unique
+Vermont,ZIP Code 05030,Ascutney,Windsor,P.O. Box
+Vermont,ZIP Code 05031,Barnard,Windsor,P.O. Box
+Vermont,ZIP Code 05032,Bethel,Windsor,Standard
+Vermont,ZIP Code 05033,Bradford,Orange,Standard
+Vermont,ZIP Code 05034,Bridgewater,Windsor,Standard
+Vermont,ZIP Code 05035,Bridgewater Corners,Windsor,Standard
+Vermont,ZIP Code 05036,Brookfield,Orange,Standard
+Vermont,ZIP Code 05037,Brownsville,Windsor,Standard
+Vermont,ZIP Code 05038,Chelsea,Orange,Standard
+Vermont,ZIP Code 05039,Corinth,Orange,Standard
+Vermont,ZIP Code 05040,East Corinth,Orange,Standard
+Vermont,ZIP Code 05041,East Randolph,Orange,Standard
+Vermont,ZIP Code 05042,East Ryegate,Caledonia,Standard
+Vermont,ZIP Code 05043,East Thetford,Orange,Standard
+Vermont,ZIP Code 05045,Fairlee,Orange,Standard
+Vermont,ZIP Code 05046,Groton,Caledonia,Standard
+Vermont,ZIP Code 05047,Hartford,Windsor,P.O. Box
+Vermont,ZIP Code 05048,Hartland,Windsor,Standard
+Vermont,ZIP Code 05049,Hartland Four Corners,Windsor,P.O. Box
+Vermont,ZIP Code 05050,Mc Indoe Falls,Caledonia,P.O. Box
+Vermont,ZIP Code 05051,Newbury,Orange,Standard
+Vermont,ZIP Code 05052,North Hartland,Windsor,Standard
+Vermont,ZIP Code 05053,North Pomfret,Windsor,Standard
+Vermont,ZIP Code 05054,North Thetford,Orange,P.O. Box
+Vermont,ZIP Code 05055,Norwich,Windsor,Standard
+Vermont,ZIP Code 05056,Plymouth,Windsor,Standard
+Vermont,ZIP Code 05058,Post Mills,Orange,Standard
+Vermont,ZIP Code 05059,Quechee,Windsor,P.O. Box
+Vermont,ZIP Code 05060,Randolph,Orange,Standard
+Vermont,ZIP Code 05061,Randolph Center,Orange,Standard
+Vermont,ZIP Code 05062,Reading,Windsor,Standard
+Vermont,ZIP Code 05065,Sharon,Windsor,Standard
+Vermont,ZIP Code 05067,South Pomfret,Windsor,Standard
+Vermont,ZIP Code 05068,South Royalton,Windsor,Standard
+Vermont,ZIP Code 05069,South Ryegate,Caledonia,Standard
+Vermont,ZIP Code 05070,South Strafford,Orange,Standard
+Vermont,ZIP Code 05071,South Woodstock,Windsor,Standard
+Vermont,ZIP Code 05072,Strafford,Orange,Standard
+Vermont,ZIP Code 05073,Taftsville,Windsor,Standard
+Vermont,ZIP Code 05074,Thetford,Orange,P.O. Box
+Vermont,ZIP Code 05075,Thetford Center,Orange,Standard
+Vermont,ZIP Code 05076,Topsham,Orange,Standard
+Vermont,ZIP Code 05077,Tunbridge,Orange,Standard
+Vermont,ZIP Code 05079,Vershire,Orange,Standard
+Vermont,ZIP Code 05081,Wells River,Orange,Standard
+Vermont,ZIP Code 05083,West Fairlee,Orange,Standard
+Vermont,ZIP Code 05084,West Hartford,Windsor,Standard
+Vermont,ZIP Code 05085,West Newbury,Orange,P.O. Box
+Vermont,ZIP Code 05086,West Topsham,Orange,Standard
+Vermont,ZIP Code 05088,Wilder,Windsor,P.O. Box
+Vermont,ZIP Code 05089,Windsor,Windsor,Standard
+Vermont,ZIP Code 05091,Woodstock,Windsor,Standard
+Vermont,ZIP Code 05101,Bellows Falls,Windham,Standard
+Vermont,ZIP Code 05141,Cambridgeport,Windham,Standard
+Vermont,ZIP Code 05142,Cavendish,Windsor,Standard
+Vermont,ZIP Code 05143,Chester,Windsor,Standard
+Vermont,ZIP Code 05146,Grafton,Windham,Standard
+Vermont,ZIP Code 05148,Londonderry,Windham,Standard
+Vermont,ZIP Code 05149,Ludlow,Windsor,Standard
+Vermont,ZIP Code 05150,North Springfield,Windsor,Standard
+Vermont,ZIP Code 05151,Perkinsville,Windsor,Standard
+Vermont,ZIP Code 05152,Peru,Bennington,Standard
+Vermont,ZIP Code 05153,Proctorsville,Windsor,Standard
+Vermont,ZIP Code 05154,Saxtons River,Windham,Standard
+Vermont,ZIP Code 05155,South Londonderry,Windham,Standard
+Vermont,ZIP Code 05156,Springfield,Windsor,Standard
+Vermont,ZIP Code 05158,Westminster,Windham,Standard
+Vermont,ZIP Code 05159,Westminster Station,Windham,P.O. Box
+Vermont,ZIP Code 05161,Weston,Windsor,Standard
+Vermont,ZIP Code 05201,Bennington,Bennington,Standard
+Vermont,ZIP Code 05250,Arlington,Bennington,Standard
+Vermont,ZIP Code 05251,Dorset,Bennington,Standard
+Vermont,ZIP Code 05252,East Arlington,Bennington,Standard
+Vermont,ZIP Code 05253,East Dorset,Bennington,Standard
+Vermont,ZIP Code 05254,Manchester,Bennington,P.O. Box
+Vermont,ZIP Code 05255,Manchester Center,Bennington,Standard
+Vermont,ZIP Code 05257,North Bennington,Bennington,Standard
+Vermont,ZIP Code 05260,North Pownal,Bennington,Standard
+Vermont,ZIP Code 05261,Pownal,Bennington,Standard
+Vermont,ZIP Code 05262,Shaftsbury,Bennington,Standard
+Vermont,ZIP Code 05301,Brattleboro,Windham,Standard
+Vermont,ZIP Code 05302,Brattleboro,Windham,P.O. Box
+Vermont,ZIP Code 05303,Brattleboro,Windham,P.O. Box
+Vermont,ZIP Code 05304,Brattleboro,Windham,P.O. Box
+Vermont,ZIP Code 05340,Bondville,Bennington,Standard
+Vermont,ZIP Code 05341,East Dover,Windham,Standard
+Vermont,ZIP Code 05342,Jacksonville,Windham,Standard
+Vermont,ZIP Code 05343,Jamaica,Windham,Standard
+Vermont,ZIP Code 05344,Marlboro,Windham,P.O. Box
+Vermont,ZIP Code 05345,Newfane,Windham,Standard
+Vermont,ZIP Code 05346,Putney,Windham,Standard
+Vermont,ZIP Code 05350,Readsboro,Bennington,Standard
+Vermont,ZIP Code 05351,South Newfane,Windham,Standard
+Vermont,ZIP Code 05352,Stamford,Bennington,Standard
+Vermont,ZIP Code 05353,Townshend,Windham,Standard
+Vermont,ZIP Code 05354,Vernon,Windham,Standard
+Vermont,ZIP Code 05355,Wardsboro,Windham,Standard
+Vermont,ZIP Code 05356,West Dover,Windham,Standard
+Vermont,ZIP Code 05357,West Dummerston,Windham,P.O. Box
+Vermont,ZIP Code 05358,West Halifax,Windham,Standard
+Vermont,ZIP Code 05359,West Townshend,Windham,Standard
+Vermont,ZIP Code 05360,West Wardsboro,Windham,Standard
+Vermont,ZIP Code 05361,Whitingham,Windham,Standard
+Vermont,ZIP Code 05362,Williamsville,Windham,Standard
+Vermont,ZIP Code 05363,Wilmington,Windham,Standard
+Vermont,ZIP Code 05401,Burlington,Chittenden,Standard
+Vermont,ZIP Code 05402,Burlington,Chittenden,P.O. Box
+Vermont,ZIP Code 05403,South Burlington,Chittenden,Standard
+Vermont,ZIP Code 05404,Winooski,Chittenden,Standard
+Vermont,ZIP Code 05405,Burlington,Chittenden,Unique
+Vermont,ZIP Code 05406,Burlington,Chittenden,P.O. Box
+Vermont,ZIP Code 05407,South Burlington,Chittenden,P.O. Box
+Vermont,ZIP Code 05408,Burlington,Chittenden,Standard
+Vermont,ZIP Code 05439,Colchester,Chittenden,Unique
+Vermont,ZIP Code 05440,Alburgh,Grand Isle,Standard
+Vermont,ZIP Code 05441,Bakersfield,Franklin,Standard
+Vermont,ZIP Code 05442,Belvidere Center,Lamoille,Standard
+Vermont,ZIP Code 05443,Bristol,Addison,Standard
+Vermont,ZIP Code 05444,Cambridge,Lamoille,Standard
+Vermont,ZIP Code 05445,Charlotte,Chittenden,Standard
+Vermont,ZIP Code 05446,Colchester,Chittenden,Standard
+Vermont,ZIP Code 05447,East Berkshire,Franklin,Standard
+Vermont,ZIP Code 05448,East Fairfield,Franklin,Standard
+Vermont,ZIP Code 05449,Colchester,Chittenden,P.O. Box
+Vermont,ZIP Code 05450,Enosburg Falls,Franklin,Standard
+Vermont,ZIP Code 05451,Essex,Chittenden,P.O. Box
+Vermont,ZIP Code 05452,Essex Junction,Chittenden,Standard
+Vermont,ZIP Code 05453,Essex Junction,Chittenden,P.O. Box
+Vermont,ZIP Code 05454,Fairfax,Franklin,Standard
+Vermont,ZIP Code 05455,Fairfield,Franklin,Standard
+Vermont,ZIP Code 05456,Ferrisburgh,Addison,Standard
+Vermont,ZIP Code 05457,Franklin,Franklin,Standard
+Vermont,ZIP Code 05458,Grand Isle,Grand Isle,Standard
+Vermont,ZIP Code 05459,Highgate Center,Franklin,Standard
+Vermont,ZIP Code 05460,Highgate Springs,Franklin,P.O. Box
+Vermont,ZIP Code 05461,Hinesburg,Chittenden,Standard
+Vermont,ZIP Code 05462,Huntington,Chittenden,Standard
+Vermont,ZIP Code 05463,Isle La Motte,Grand Isle,Standard
+Vermont,ZIP Code 05464,Jeffersonville,Lamoille,Standard
+Vermont,ZIP Code 05465,Jericho,Chittenden,Standard
+Vermont,ZIP Code 05466,Jonesville,Chittenden,P.O. Box
+Vermont,ZIP Code 05468,Milton,Chittenden,Standard
+Vermont,ZIP Code 05469,Monkton,Addison,P.O. Box
+Vermont,ZIP Code 05470,Montgomery,Franklin,P.O. Box
+Vermont,ZIP Code 05471,Montgomery Center,Franklin,Standard
+Vermont,ZIP Code 05472,New Haven,Addison,Standard
+Vermont,ZIP Code 05473,North Ferrisburgh,Addison,Standard
+Vermont,ZIP Code 05474,North Hero,Grand Isle,Standard
+Vermont,ZIP Code 05476,Richford,Franklin,Standard
+Vermont,ZIP Code 05477,Richmond,Chittenden,Standard
+Vermont,ZIP Code 05478,Saint Albans,Franklin,Standard
+Vermont,ZIP Code 05479,Saint Albans,Franklin,Unique
+Vermont,ZIP Code 05481,Saint Albans Bay,Franklin,P.O. Box
+Vermont,ZIP Code 05482,Shelburne,Chittenden,Standard
+Vermont,ZIP Code 05483,Sheldon,Franklin,Standard
+Vermont,ZIP Code 05485,Sheldon Springs,Franklin,P.O. Box
+Vermont,ZIP Code 05486,South Hero,Grand Isle,Standard
+Vermont,ZIP Code 05487,Starksboro,Addison,Standard
+Vermont,ZIP Code 05488,Swanton,Franklin,Standard
+Vermont,ZIP Code 05489,Underhill,Chittenden,Standard
+Vermont,ZIP Code 05490,Underhill Center,Chittenden,P.O. Box
+Vermont,ZIP Code 05491,Vergennes,Addison,Standard
+Vermont,ZIP Code 05492,Waterville,Lamoille,Standard
+Vermont,ZIP Code 05494,Westford,Chittenden,Standard
+Vermont,ZIP Code 05495,Williston,Chittenden,Standard
+Vermont,ZIP Code 05601,Montpelier,Washington,P.O. Box
+Vermont,ZIP Code 05602,Montpelier,Washington,Standard
+Vermont,ZIP Code 05603,Montpelier,Washington,Unique
+Vermont,ZIP Code 05604,Montpelier,Washington,Unique
+Vermont,ZIP Code 05609,Montpelier,Washington,Unique
+Vermont,ZIP Code 05620,Montpelier,Washington,Unique
+Vermont,ZIP Code 05633,Montpelier,Washington,Unique
+Vermont,ZIP Code 05640,Adamant,Washington,Standard
+Vermont,ZIP Code 05641,Barre,Washington,Standard
+Vermont,ZIP Code 05647,Cabot,Washington,Standard
+Vermont,ZIP Code 05648,Calais,Washington,Standard
+Vermont,ZIP Code 05649,East Barre,Washington,Standard
+Vermont,ZIP Code 05650,East Calais,Washington,Standard
+Vermont,ZIP Code 05651,East Montpelier,Washington,Standard
+Vermont,ZIP Code 05652,Eden,Lamoille,Standard
+Vermont,ZIP Code 05653,Eden Mills,Lamoille,Standard
+Vermont,ZIP Code 05654,Graniteville,Washington,Standard
+Vermont,ZIP Code 05655,Hyde Park,Lamoille,Standard
+Vermont,ZIP Code 05656,Johnson,Lamoille,Standard
+Vermont,ZIP Code 05657,Lake Elmore,Lamoille,P.O. Box
+Vermont,ZIP Code 05658,Marshfield,Washington,Standard
+Vermont,ZIP Code 05660,Moretown,Washington,Standard
+Vermont,ZIP Code 05661,Morrisville,Lamoille,Standard
+Vermont,ZIP Code 05662,Moscow,Lamoille,P.O. Box
+Vermont,ZIP Code 05663,Northfield,Washington,Standard
+Vermont,ZIP Code 05664,Northfield Falls,Washington,P.O. Box
+Vermont,ZIP Code 05665,North Hyde Park,Lamoille,P.O. Box
+Vermont,ZIP Code 05666,North Montpelier,Washington,Standard
+Vermont,ZIP Code 05667,Plainfield,Washington,Standard
+Vermont,ZIP Code 05669,Roxbury,Washington,Standard
+Vermont,ZIP Code 05670,South Barre,Washington,P.O. Box
+Vermont,ZIP Code 05671,Waterbury,Washington,Unique
+Vermont,ZIP Code 05672,Stowe,Lamoille,Standard
+Vermont,ZIP Code 05673,Waitsfield,Washington,Standard
+Vermont,ZIP Code 05674,Warren,Washington,Standard
+Vermont,ZIP Code 05675,Washington,Orange,Standard
+Vermont,ZIP Code 05676,Waterbury,Washington,Standard
+Vermont,ZIP Code 05677,Waterbury Center,Washington,Standard
+Vermont,ZIP Code 05678,Websterville,Washington,P.O. Box
+Vermont,ZIP Code 05679,Williamstown,Orange,Standard
+Vermont,ZIP Code 05680,Wolcott,Lamoille,Standard
+Vermont,ZIP Code 05681,Woodbury,Washington,Standard
+Vermont,ZIP Code 05682,Worcester,Washington,Standard
+Vermont,ZIP Code 05701,Rutland,Rutland,Standard
+Vermont,ZIP Code 05702,Rutland,Rutland,P.O. Box
+Vermont,ZIP Code 05730,Belmont,Rutland,Standard
+Vermont,ZIP Code 05731,Benson,Rutland,P.O. Box
+Vermont,ZIP Code 05732,Bomoseen,Rutland,Standard
+Vermont,ZIP Code 05733,Brandon,Rutland,Standard
+Vermont,ZIP Code 05734,Bridport,Addison,Standard
+Vermont,ZIP Code 05735,Castleton,Rutland,Standard
+Vermont,ZIP Code 05736,Center Rutland,Rutland,Standard
+Vermont,ZIP Code 05737,Chittenden,Rutland,Standard
+Vermont,ZIP Code 05738,Cuttingsville,Rutland,Standard
+Vermont,ZIP Code 05739,Danby,Rutland,Standard
+Vermont,ZIP Code 05740,East Middlebury,Addison,P.O. Box
+Vermont,ZIP Code 05741,East Poultney,Rutland,P.O. Box
+Vermont,ZIP Code 05742,East Wallingford,Rutland,Standard
+Vermont,ZIP Code 05743,Fair Haven,Rutland,Standard
+Vermont,ZIP Code 05744,Florence,Rutland,Standard
+Vermont,ZIP Code 05745,Forest Dale,Rutland,P.O. Box
+Vermont,ZIP Code 05746,Gaysville,Windsor,P.O. Box
+Vermont,ZIP Code 05747,Granville,Addison,Standard
+Vermont,ZIP Code 05748,Hancock,Addison,Standard
+Vermont,ZIP Code 05750,Hydeville,Rutland,P.O. Box
+Vermont,ZIP Code 05751,Killington,Rutland,Standard
+Vermont,ZIP Code 05753,Middlebury,Addison,Standard
+Vermont,ZIP Code 05757,Middletown Springs,Rutland,Standard
+Vermont,ZIP Code 05758,Mount Holly,Rutland,Standard
+Vermont,ZIP Code 05759,North Clarendon,Rutland,Standard
+Vermont,ZIP Code 05760,Orwell,Addison,Standard
+Vermont,ZIP Code 05761,Pawlet,Rutland,Standard
+Vermont,ZIP Code 05762,Pittsfield,Rutland,Standard
+Vermont,ZIP Code 05763,Pittsford,Rutland,Standard
+Vermont,ZIP Code 05764,Poultney,Rutland,Standard
+Vermont,ZIP Code 05765,Proctor,Rutland,Standard
+Vermont,ZIP Code 05766,Ripton,Addison,Standard
+Vermont,ZIP Code 05767,Rochester,Windsor,Standard
+Vermont,ZIP Code 05768,Rupert,Bennington,P.O. Box
+Vermont,ZIP Code 05769,Salisbury,Addison,Standard
+Vermont,ZIP Code 05770,Shoreham,Addison,Standard
+Vermont,ZIP Code 05772,Stockbridge,Windsor,Standard
+Vermont,ZIP Code 05773,Wallingford,Rutland,Standard
+Vermont,ZIP Code 05774,Wells,Rutland,Standard
+Vermont,ZIP Code 05775,West Pawlet,Rutland,Standard
+Vermont,ZIP Code 05776,West Rupert,Bennington,Standard
+Vermont,ZIP Code 05777,West Rutland,Rutland,Standard
+Vermont,ZIP Code 05778,Whiting,Addison,Standard
+Vermont,ZIP Code 05819,Saint Johnsbury,Caledonia,Standard
+Vermont,ZIP Code 05820,Albany,Orleans,Standard
+Vermont,ZIP Code 05821,Barnet,Caledonia,Standard
+Vermont,ZIP Code 05822,Barton,Orleans,Standard
+Vermont,ZIP Code 05823,Beebe Plain,Orleans,P.O. Box
+Vermont,ZIP Code 05824,Concord,Essex,Standard
+Vermont,ZIP Code 05825,Coventry,Orleans,P.O. Box
+Vermont,ZIP Code 05826,Craftsbury,Orleans,Standard
+Vermont,ZIP Code 05827,Craftsbury Common,Orleans,Standard
+Vermont,ZIP Code 05828,Danville,Caledonia,Standard
+Vermont,ZIP Code 05829,Derby,Orleans,Standard
+Vermont,ZIP Code 05830,Derby Line,Orleans,Standard
+Vermont,ZIP Code 05832,East Burke,Caledonia,Standard
+Vermont,ZIP Code 05833,East Charleston,Orleans,Standard
+Vermont,ZIP Code 05836,East Hardwick,Caledonia,Standard
+Vermont,ZIP Code 05837,East Haven,Essex,Standard
+Vermont,ZIP Code 05838,East Saint Johnsbury,Caledonia,P.O. Box
+Vermont,ZIP Code 05839,Glover,Orleans,Standard
+Vermont,ZIP Code 05840,Granby,Essex,P.O. Box
+Vermont,ZIP Code 05841,Greensboro,Orleans,Standard
+Vermont,ZIP Code 05842,Greensboro Bend,Orleans,Standard
+Vermont,ZIP Code 05843,Hardwick,Caledonia,Standard
+Vermont,ZIP Code 05845,Irasburg,Orleans,Standard
+Vermont,ZIP Code 05846,Island Pond,Essex,Standard
+Vermont,ZIP Code 05847,Lowell,Orleans,Standard
+Vermont,ZIP Code 05848,Lower Waterford,Caledonia,P.O. Box
+Vermont,ZIP Code 05849,Lyndon,Caledonia,P.O. Box
+Vermont,ZIP Code 05850,Lyndon Center,Caledonia,Standard
+Vermont,ZIP Code 05851,Lyndonville,Caledonia,Standard
+Vermont,ZIP Code 05853,Morgan,Orleans,Standard
+Vermont,ZIP Code 05855,Newport,Orleans,Standard
+Vermont,ZIP Code 05857,Newport Center,Orleans,Standard
+Vermont,ZIP Code 05858,North Concord,Essex,Standard
+Vermont,ZIP Code 05859,North Troy,Orleans,Standard
+Vermont,ZIP Code 05860,Orleans,Orleans,Standard
+Vermont,ZIP Code 05861,Passumpsic,Caledonia,P.O. Box
+Vermont,ZIP Code 05862,Peacham,Caledonia,Standard
+Vermont,ZIP Code 05863,Saint Johnsbury Center,Caledonia,P.O. Box
+Vermont,ZIP Code 05866,Sheffield,Caledonia,Standard
+Vermont,ZIP Code 05867,Sutton,Caledonia,Standard
+Vermont,ZIP Code 05868,Troy,Orleans,Standard
+Vermont,ZIP Code 05871,West Burke,Caledonia,Standard
+Vermont,ZIP Code 05872,West Charleston,Orleans,Standard
+Vermont,ZIP Code 05873,West Danville,Caledonia,Standard
+Vermont,ZIP Code 05874,Westfield,Orleans,Standard
+Vermont,ZIP Code 05875,Barton,Orleans,Standard
+Vermont,ZIP Code 05901,Averill,Essex,P.O. Box
+Vermont,ZIP Code 05902,Beecher Falls,Essex,Standard
+Vermont,ZIP Code 05903,Canaan,Essex,Standard
+Vermont,ZIP Code 05904,Gilman,Essex,Standard
+Vermont,ZIP Code 05905,Guildhall,Essex,Standard
+Vermont,ZIP Code 05906,Lunenburg,Essex,Standard
+Vermont,ZIP Code 05907,Norton,Essex,Standard

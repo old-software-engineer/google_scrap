@@ -1,0 +1,960 @@
+State,ZIP Code,City,County,Type
+Indiana,ZIP Code 46001,Alexandria,Madison,Standard
+Indiana,ZIP Code 46011,Anderson,Madison,Standard
+Indiana,ZIP Code 46012,Anderson,Madison,Standard
+Indiana,ZIP Code 46013,Anderson,Madison,Standard
+Indiana,ZIP Code 46014,Anderson,Madison,P.O. Box
+Indiana,ZIP Code 46015,Anderson,Madison,P.O. Box
+Indiana,ZIP Code 46016,Anderson,Madison,Standard
+Indiana,ZIP Code 46017,Anderson,Madison,Standard
+Indiana,ZIP Code 46018,Anderson,Madison,P.O. Box
+Indiana,ZIP Code 46030,Arcadia,Hamilton,Standard
+Indiana,ZIP Code 46031,Atlanta,Hamilton,Standard
+Indiana,ZIP Code 46032,Carmel,Hamilton,Standard
+Indiana,ZIP Code 46033,Carmel,Hamilton,Standard
+Indiana,ZIP Code 46034,Cicero,Hamilton,Standard
+Indiana,ZIP Code 46035,Colfax,Clinton,Standard
+Indiana,ZIP Code 46036,Elwood,Madison,Standard
+Indiana,ZIP Code 46037,Fishers,Hamilton,Standard
+Indiana,ZIP Code 46038,Fishers,Hamilton,Standard
+Indiana,ZIP Code 46039,Forest,Clinton,Standard
+Indiana,ZIP Code 46040,Fortville,Hancock,Standard
+Indiana,ZIP Code 46041,Frankfort,Clinton,Standard
+Indiana,ZIP Code 46044,Frankton,Madison,Standard
+Indiana,ZIP Code 46045,Goldsmith,Tipton,P.O. Box
+Indiana,ZIP Code 46047,Hobbs,Tipton,P.O. Box
+Indiana,ZIP Code 46048,Ingalls,Madison,Standard
+Indiana,ZIP Code 46049,Kempton,Tipton,Standard
+Indiana,ZIP Code 46050,Kirklin,Clinton,Standard
+Indiana,ZIP Code 46051,Lapel,Madison,Standard
+Indiana,ZIP Code 46052,Lebanon,Boone,Standard
+Indiana,ZIP Code 46055,Mccordsville,Hancock,Standard
+Indiana,ZIP Code 46056,Markleville,Madison,Standard
+Indiana,ZIP Code 46057,Michigantown,Clinton,Standard
+Indiana,ZIP Code 46058,Mulberry,Clinton,Standard
+Indiana,ZIP Code 46060,Noblesville,Hamilton,Standard
+Indiana,ZIP Code 46061,Noblesville,Hamilton,P.O. Box
+Indiana,ZIP Code 46062,Noblesville,Hamilton,Standard
+Indiana,ZIP Code 46063,Orestes,Madison,P.O. Box
+Indiana,ZIP Code 46064,Pendleton,Madison,Standard
+Indiana,ZIP Code 46065,Rossville,Clinton,Standard
+Indiana,ZIP Code 46067,Sedalia,Clinton,P.O. Box
+Indiana,ZIP Code 46068,Sharpsville,Tipton,Standard
+Indiana,ZIP Code 46069,Sheridan,Hamilton,Standard
+Indiana,ZIP Code 46070,Summitville,Madison,Standard
+Indiana,ZIP Code 46071,Thorntown,Boone,Standard
+Indiana,ZIP Code 46072,Tipton,Tipton,Standard
+Indiana,ZIP Code 46074,Westfield,Hamilton,Standard
+Indiana,ZIP Code 46075,Whitestown,Boone,Standard
+Indiana,ZIP Code 46076,Windfall,Tipton,Standard
+Indiana,ZIP Code 46077,Zionsville,Boone,Standard
+Indiana,ZIP Code 46082,Carmel,Hamilton,P.O. Box
+Indiana,ZIP Code 46085,Fishers,Hamilton,Unique
+Indiana,ZIP Code 46102,Advance,Boone,P.O. Box
+Indiana,ZIP Code 46103,Amo,Hendricks,P.O. Box
+Indiana,ZIP Code 46104,Arlington,Rush,Standard
+Indiana,ZIP Code 46105,Bainbridge,Putnam,Standard
+Indiana,ZIP Code 46106,Bargersville,Johnson,Standard
+Indiana,ZIP Code 46107,Beech Grove,Marion,Standard
+Indiana,ZIP Code 46110,Boggstown,Shelby,Standard
+Indiana,ZIP Code 46111,Brooklyn,Morgan,P.O. Box
+Indiana,ZIP Code 46112,Brownsburg,Hendricks,Standard
+Indiana,ZIP Code 46113,Camby,Morgan,Standard
+Indiana,ZIP Code 46115,Carthage,Rush,Standard
+Indiana,ZIP Code 46117,Charlottesville,Hancock,Standard
+Indiana,ZIP Code 46118,Clayton,Hendricks,Standard
+Indiana,ZIP Code 46120,Cloverdale,Putnam,Standard
+Indiana,ZIP Code 46121,Coatesville,Putnam,Standard
+Indiana,ZIP Code 46122,Danville,Hendricks,Standard
+Indiana,ZIP Code 46123,Avon,Hendricks,Standard
+Indiana,ZIP Code 46124,Edinburgh,Johnson,Standard
+Indiana,ZIP Code 46125,Eminence,Morgan,P.O. Box
+Indiana,ZIP Code 46126,Fairland,Shelby,Standard
+Indiana,ZIP Code 46127,Falmouth,Rush,Standard
+Indiana,ZIP Code 46128,Fillmore,Putnam,Standard
+Indiana,ZIP Code 46129,Finly,Hancock,P.O. Box
+Indiana,ZIP Code 46130,Fountaintown,Shelby,Standard
+Indiana,ZIP Code 46131,Franklin,Johnson,Standard
+Indiana,ZIP Code 46133,Glenwood,Fayette,Standard
+Indiana,ZIP Code 46135,Greencastle,Putnam,Standard
+Indiana,ZIP Code 46140,Greenfield,Hancock,Standard
+Indiana,ZIP Code 46142,Greenwood,Johnson,Standard
+Indiana,ZIP Code 46143,Greenwood,Johnson,Standard
+Indiana,ZIP Code 46144,Gwynneville,Shelby,P.O. Box
+Indiana,ZIP Code 46146,Homer,Rush,Standard
+Indiana,ZIP Code 46147,Jamestown,Boone,Standard
+Indiana,ZIP Code 46148,Knightstown,Henry,Standard
+Indiana,ZIP Code 46149,Lizton,Hendricks,Standard
+Indiana,ZIP Code 46150,Manilla,Rush,Standard
+Indiana,ZIP Code 46151,Martinsville,Morgan,Standard
+Indiana,ZIP Code 46154,Maxwell,Hancock,P.O. Box
+Indiana,ZIP Code 46155,Mays,Rush,P.O. Box
+Indiana,ZIP Code 46156,Milroy,Rush,Standard
+Indiana,ZIP Code 46157,Monrovia,Morgan,Standard
+Indiana,ZIP Code 46158,Mooresville,Morgan,Standard
+Indiana,ZIP Code 46160,Morgantown,Morgan,Standard
+Indiana,ZIP Code 46161,Morristown,Shelby,Standard
+Indiana,ZIP Code 46162,Needham,Johnson,Standard
+Indiana,ZIP Code 46163,New Palestine,Hancock,Standard
+Indiana,ZIP Code 46164,Nineveh,Johnson,Standard
+Indiana,ZIP Code 46165,North Salem,Hendricks,Standard
+Indiana,ZIP Code 46166,Paragon,Morgan,Standard
+Indiana,ZIP Code 46167,Pittsboro,Hendricks,Standard
+Indiana,ZIP Code 46168,Plainfield,Hendricks,Standard
+Indiana,ZIP Code 46170,Putnamville,Putnam,Standard
+Indiana,ZIP Code 46171,Reelsville,Putnam,Standard
+Indiana,ZIP Code 46172,Roachdale,Putnam,Standard
+Indiana,ZIP Code 46173,Rushville,Rush,Standard
+Indiana,ZIP Code 46175,Russellville,Putnam,Standard
+Indiana,ZIP Code 46176,Shelbyville,Shelby,Standard
+Indiana,ZIP Code 46180,Stilesville,Hendricks,Standard
+Indiana,ZIP Code 46181,Trafalgar,Johnson,Standard
+Indiana,ZIP Code 46182,Waldron,Shelby,Standard
+Indiana,ZIP Code 46183,West Newton,Marion,P.O. Box
+Indiana,ZIP Code 46184,Whiteland,Johnson,Standard
+Indiana,ZIP Code 46186,Wilkinson,Hancock,Standard
+Indiana,ZIP Code 46201,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46202,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46203,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46204,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46205,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46206,Indianapolis,Marion,P.O. Box
+Indiana,ZIP Code 46207,Indianapolis,Marion,P.O. Box
+Indiana,ZIP Code 46208,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46209,Indianapolis,Marion,Unique
+Indiana,ZIP Code 46213,Indianapolis,Marion,Unique
+Indiana,ZIP Code 46214,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46216,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46217,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46218,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46219,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46220,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46221,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46222,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46224,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46224,Speedway,Marion,Standard
+Indiana,ZIP Code 46225,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46226,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46227,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46228,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46229,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46230,Indianapolis,Marion,P.O. Box
+Indiana,ZIP Code 46231,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46234,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46235,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46236,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46237,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46239,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46240,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46241,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46242,Indianapolis,Marion,P.O. Box
+Indiana,ZIP Code 46244,Indianapolis,Marion,P.O. Box
+Indiana,ZIP Code 46247,Indianapolis,Marion,P.O. Box
+Indiana,ZIP Code 46249,Indianapolis,Marion,Unique
+Indiana,ZIP Code 46250,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46251,Indianapolis,Marion,P.O. Box
+Indiana,ZIP Code 46253,Indianapolis,Marion,P.O. Box
+Indiana,ZIP Code 46254,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46255,Indianapolis,Marion,Unique
+Indiana,ZIP Code 46256,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46259,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46260,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46262,Indianapolis,Marion,Unique
+Indiana,ZIP Code 46268,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46277,Indianapolis,Marion,Unique
+Indiana,ZIP Code 46278,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46280,Indianapolis,Hamilton,Standard
+Indiana,ZIP Code 46282,Indianapolis,Marion,Standard
+Indiana,ZIP Code 46283,Indianapolis,Marion,Unique
+Indiana,ZIP Code 46285,Indianapolis,Marion,Unique
+Indiana,ZIP Code 46288,Indianapolis,Marion,Unique
+Indiana,ZIP Code 46290,Indianapolis,Hamilton,Standard
+Indiana,ZIP Code 46298,Indianapolis,Marion,Unique
+Indiana,ZIP Code 46301,Beverly Shores,Porter,P.O. Box
+Indiana,ZIP Code 46302,Boone Grove,Porter,P.O. Box
+Indiana,ZIP Code 46303,Cedar Lake,Lake,Standard
+Indiana,ZIP Code 46304,Chesterton,Porter,Standard
+Indiana,ZIP Code 46307,Crown Point,Lake,Standard
+Indiana,ZIP Code 46308,Crown Point,Lake,P.O. Box
+Indiana,ZIP Code 46310,Demotte,Jasper,Standard
+Indiana,ZIP Code 46311,Dyer,Lake,Standard
+Indiana,ZIP Code 46312,East Chicago,Lake,Standard
+Indiana,ZIP Code 46319,Griffith,Lake,Standard
+Indiana,ZIP Code 46320,Hammond,Lake,Standard
+Indiana,ZIP Code 46321,Munster,Lake,Standard
+Indiana,ZIP Code 46322,Highland,Lake,Standard
+Indiana,ZIP Code 46323,Hammond,Lake,Standard
+Indiana,ZIP Code 46324,Hammond,Lake,Standard
+Indiana,ZIP Code 46325,Hammond,Lake,P.O. Box
+Indiana,ZIP Code 46327,Hammond,Lake,Standard
+Indiana,ZIP Code 46340,Hanna,La Porte,Standard
+Indiana,ZIP Code 46341,Hebron,Porter,Standard
+Indiana,ZIP Code 46342,Hobart,Lake,Standard
+Indiana,ZIP Code 46345,Kingsbury,La Porte,P.O. Box
+Indiana,ZIP Code 46346,Kingsford Heights,La Porte,P.O. Box
+Indiana,ZIP Code 46347,Kouts,Porter,Standard
+Indiana,ZIP Code 46348,La Crosse,La Porte,Standard
+Indiana,ZIP Code 46349,Lake Village,Newton,Standard
+Indiana,ZIP Code 46350,La Porte,La Porte,Standard
+Indiana,ZIP Code 46352,La Porte,La Porte,P.O. Box
+Indiana,ZIP Code 46355,Leroy,Lake,P.O. Box
+Indiana,ZIP Code 46356,Lowell,Lake,Standard
+Indiana,ZIP Code 46360,Michigan City,La Porte,Standard
+Indiana,ZIP Code 46361,Michigan City,La Porte,P.O. Box
+Indiana,ZIP Code 46365,Mill Creek,La Porte,Standard
+Indiana,ZIP Code 46366,North Judson,Starke,Standard
+Indiana,ZIP Code 46368,Portage,Porter,Standard
+Indiana,ZIP Code 46371,Rolling Prairie,La Porte,Standard
+Indiana,ZIP Code 46372,Roselawn,Newton,P.O. Box
+Indiana,ZIP Code 46373,Saint John,Lake,Standard
+Indiana,ZIP Code 46374,San Pierre,Starke,Standard
+Indiana,ZIP Code 46375,Schererville,Lake,Standard
+Indiana,ZIP Code 46376,Schneider,Lake,P.O. Box
+Indiana,ZIP Code 46377,Shelby,Lake,P.O. Box
+Indiana,ZIP Code 46379,Sumava Resorts,Newton,P.O. Box
+Indiana,ZIP Code 46380,Tefft,Jasper,P.O. Box
+Indiana,ZIP Code 46381,Thayer,Newton,Standard
+Indiana,ZIP Code 46382,Union Mills,La Porte,Standard
+Indiana,ZIP Code 46383,Valparaiso,Porter,Standard
+Indiana,ZIP Code 46384,Valparaiso,Porter,P.O. Box
+Indiana,ZIP Code 46385,Valparaiso,Porter,Standard
+Indiana,ZIP Code 46390,Wanatah,La Porte,Standard
+Indiana,ZIP Code 46391,Westville,La Porte,Standard
+Indiana,ZIP Code 46392,Wheatfield,Jasper,Standard
+Indiana,ZIP Code 46393,Wheeler,Porter,P.O. Box
+Indiana,ZIP Code 46394,Whiting,Lake,Standard
+Indiana,ZIP Code 46401,Gary,Lake,P.O. Box
+Indiana,ZIP Code 46402,Gary,Lake,Standard
+Indiana,ZIP Code 46403,Gary,Lake,Standard
+Indiana,ZIP Code 46404,Gary,Lake,Standard
+Indiana,ZIP Code 46405,Lake Station,Lake,Standard
+Indiana,ZIP Code 46406,Gary,Lake,Standard
+Indiana,ZIP Code 46407,Gary,Lake,Standard
+Indiana,ZIP Code 46408,Gary,Lake,Standard
+Indiana,ZIP Code 46409,Gary,Lake,Standard
+Indiana,ZIP Code 46410,Merrillville,Lake,Standard
+Indiana,ZIP Code 46411,Merrillville,Lake,P.O. Box
+Indiana,ZIP Code 46501,Argos,Marshall,Standard
+Indiana,ZIP Code 46502,Atwood,Kosciusko,P.O. Box
+Indiana,ZIP Code 46504,Bourbon,Marshall,Standard
+Indiana,ZIP Code 46506,Bremen,Marshall,Standard
+Indiana,ZIP Code 46507,Bristol,Elkhart,Standard
+Indiana,ZIP Code 46508,Burket,Kosciusko,Standard
+Indiana,ZIP Code 46510,Claypool,Kosciusko,Standard
+Indiana,ZIP Code 46511,Culver,Marshall,Standard
+Indiana,ZIP Code 46513,Donaldson,Marshall,P.O. Box
+Indiana,ZIP Code 46514,Elkhart,Elkhart,Standard
+Indiana,ZIP Code 46515,Elkhart,Elkhart,P.O. Box
+Indiana,ZIP Code 46516,Elkhart,Elkhart,Standard
+Indiana,ZIP Code 46517,Elkhart,Elkhart,Standard
+Indiana,ZIP Code 46524,Etna Green,Kosciusko,Standard
+Indiana,ZIP Code 46526,Goshen,Elkhart,Standard
+Indiana,ZIP Code 46527,Goshen,Elkhart,P.O. Box
+Indiana,ZIP Code 46528,Goshen,Elkhart,Standard
+Indiana,ZIP Code 46530,Granger,St Joseph,Standard
+Indiana,ZIP Code 46531,Grovertown,Starke,Standard
+Indiana,ZIP Code 46532,Hamlet,Starke,Standard
+Indiana,ZIP Code 46534,Knox,Starke,Standard
+Indiana,ZIP Code 46536,Lakeville,St Joseph,Standard
+Indiana,ZIP Code 46537,Lapaz,Marshall,P.O. Box
+Indiana,ZIP Code 46538,Leesburg,Kosciusko,Standard
+Indiana,ZIP Code 46539,Mentone,Kosciusko,Standard
+Indiana,ZIP Code 46540,Middlebury,Elkhart,Standard
+Indiana,ZIP Code 46542,Milford,Kosciusko,Standard
+Indiana,ZIP Code 46543,Millersburg,Elkhart,Standard
+Indiana,ZIP Code 46544,Mishawaka,St Joseph,Standard
+Indiana,ZIP Code 46545,Mishawaka,St Joseph,Standard
+Indiana,ZIP Code 46546,Mishawaka,St Joseph,P.O. Box
+Indiana,ZIP Code 46550,Nappanee,Elkhart,Standard
+Indiana,ZIP Code 46552,New Carlisle,St Joseph,Standard
+Indiana,ZIP Code 46553,New Paris,Elkhart,Standard
+Indiana,ZIP Code 46554,North Liberty,St Joseph,Standard
+Indiana,ZIP Code 46555,North Webster,Kosciusko,Standard
+Indiana,ZIP Code 46556,Notre Dame,St Joseph,P.O. Box
+Indiana,ZIP Code 46561,Osceola,St Joseph,Standard
+Indiana,ZIP Code 46562,Pierceton,Kosciusko,Standard
+Indiana,ZIP Code 46563,Plymouth,Marshall,Standard
+Indiana,ZIP Code 46565,Shipshewana,Lagrange,Standard
+Indiana,ZIP Code 46567,Syracuse,Kosciusko,Standard
+Indiana,ZIP Code 46570,Tippecanoe,Marshall,Standard
+Indiana,ZIP Code 46571,Topeka,Lagrange,Standard
+Indiana,ZIP Code 46572,Tyner,Marshall,Standard
+Indiana,ZIP Code 46573,Wakarusa,Elkhart,Standard
+Indiana,ZIP Code 46574,Walkerton,St Joseph,Standard
+Indiana,ZIP Code 46580,Warsaw,Kosciusko,Standard
+Indiana,ZIP Code 46581,Warsaw,Kosciusko,P.O. Box
+Indiana,ZIP Code 46582,Warsaw,Kosciusko,Standard
+Indiana,ZIP Code 46590,Winona Lake,Kosciusko,Standard
+Indiana,ZIP Code 46595,Wyatt,St Joseph,P.O. Box
+Indiana,ZIP Code 46601,South Bend,St Joseph,Standard
+Indiana,ZIP Code 46613,South Bend,St Joseph,Standard
+Indiana,ZIP Code 46614,South Bend,St Joseph,Standard
+Indiana,ZIP Code 46615,South Bend,St Joseph,Standard
+Indiana,ZIP Code 46616,South Bend,St Joseph,Standard
+Indiana,ZIP Code 46617,South Bend,St Joseph,Standard
+Indiana,ZIP Code 46619,South Bend,St Joseph,Standard
+Indiana,ZIP Code 46624,South Bend,St Joseph,P.O. Box
+Indiana,ZIP Code 46626,South Bend,St Joseph,Unique
+Indiana,ZIP Code 46628,South Bend,St Joseph,Standard
+Indiana,ZIP Code 46634,South Bend,St Joseph,P.O. Box
+Indiana,ZIP Code 46635,South Bend,St Joseph,Standard
+Indiana,ZIP Code 46637,South Bend,St Joseph,Standard
+Indiana,ZIP Code 46660,South Bend,St Joseph,P.O. Box
+Indiana,ZIP Code 46680,South Bend,St Joseph,P.O. Box
+Indiana,ZIP Code 46699,South Bend,St Joseph,Unique
+Indiana,ZIP Code 46701,Albion,Noble,Standard
+Indiana,ZIP Code 46702,Andrews,Huntington,Standard
+Indiana,ZIP Code 46703,Angola,Steuben,Standard
+Indiana,ZIP Code 46704,Arcola,Allen,P.O. Box
+Indiana,ZIP Code 46705,Ashley,Dekalb,Standard
+Indiana,ZIP Code 46706,Auburn,Dekalb,Standard
+Indiana,ZIP Code 46710,Avilla,Noble,Standard
+Indiana,ZIP Code 46711,Berne,Adams,Standard
+Indiana,ZIP Code 46713,Bippus,Huntington,P.O. Box
+Indiana,ZIP Code 46714,Bluffton,Wells,Standard
+Indiana,ZIP Code 46721,Butler,Dekalb,Standard
+Indiana,ZIP Code 46723,Churubusco,Whitley,Standard
+Indiana,ZIP Code 46725,Columbia City,Whitley,Standard
+Indiana,ZIP Code 46730,Corunna,Dekalb,Standard
+Indiana,ZIP Code 46731,Craigville,Wells,Standard
+Indiana,ZIP Code 46732,Cromwell,Noble,Standard
+Indiana,ZIP Code 46733,Decatur,Adams,Standard
+Indiana,ZIP Code 46737,Fremont,Steuben,Standard
+Indiana,ZIP Code 46738,Garrett,Dekalb,Standard
+Indiana,ZIP Code 46740,Geneva,Adams,Standard
+Indiana,ZIP Code 46741,Grabill,Allen,Standard
+Indiana,ZIP Code 46742,Hamilton,Steuben,Standard
+Indiana,ZIP Code 46743,Harlan,Allen,Standard
+Indiana,ZIP Code 46745,Hoagland,Allen,Standard
+Indiana,ZIP Code 46746,Howe,Lagrange,Standard
+Indiana,ZIP Code 46747,Hudson,Steuben,Standard
+Indiana,ZIP Code 46748,Huntertown,Allen,Standard
+Indiana,ZIP Code 46750,Huntington,Huntington,Standard
+Indiana,ZIP Code 46755,Kendallville,Noble,Standard
+Indiana,ZIP Code 46759,Keystone,Wells,Standard
+Indiana,ZIP Code 46760,Kimmell,Noble,Standard
+Indiana,ZIP Code 46761,Lagrange,Lagrange,Standard
+Indiana,ZIP Code 46763,Laotto,Noble,Standard
+Indiana,ZIP Code 46764,Larwill,Whitley,Standard
+Indiana,ZIP Code 46765,Leo,Allen,Standard
+Indiana,ZIP Code 46766,Liberty Center,Wells,Standard
+Indiana,ZIP Code 46767,Ligonier,Noble,Standard
+Indiana,ZIP Code 46769,Berne,Adams,P.O. Box
+Indiana,ZIP Code 46769,Linn Grove,Adams,P.O. Box
+Indiana,ZIP Code 46770,Markle,Wells,Standard
+Indiana,ZIP Code 46771,Mongo,Lagrange,P.O. Box
+Indiana,ZIP Code 46772,Monroe,Adams,Standard
+Indiana,ZIP Code 46773,Monroeville,Allen,Standard
+Indiana,ZIP Code 46774,New Haven,Allen,Standard
+Indiana,ZIP Code 46776,Orland,Steuben,Standard
+Indiana,ZIP Code 46777,Ossian,Wells,Standard
+Indiana,ZIP Code 46778,Petroleum,Wells,P.O. Box
+Indiana,ZIP Code 46779,Pleasant Lake,Steuben,Standard
+Indiana,ZIP Code 46780,Pleasant Mills,Adams,P.O. Box
+Indiana,ZIP Code 46781,Poneto,Wells,Standard
+Indiana,ZIP Code 46782,Preble,Adams,P.O. Box
+Indiana,ZIP Code 46783,Roanoke,Huntington,Standard
+Indiana,ZIP Code 46784,Rome City,Noble,Standard
+Indiana,ZIP Code 46785,Saint Joe,Dekalb,Standard
+Indiana,ZIP Code 46786,South Milford,Lagrange,P.O. Box
+Indiana,ZIP Code 46787,South Whitley,Whitley,Standard
+Indiana,ZIP Code 46788,Spencerville,Allen,Standard
+Indiana,ZIP Code 46789,Stroh,Lagrange,P.O. Box
+Indiana,ZIP Code 46791,Uniondale,Wells,Standard
+Indiana,ZIP Code 46792,Warren,Huntington,Standard
+Indiana,ZIP Code 46793,Waterloo,Dekalb,Standard
+Indiana,ZIP Code 46794,Wawaka,Noble,Standard
+Indiana,ZIP Code 46795,Wolcottville,Lagrange,Standard
+Indiana,ZIP Code 46796,Wolflake,Noble,P.O. Box
+Indiana,ZIP Code 46797,Woodburn,Allen,Standard
+Indiana,ZIP Code 46798,Yoder,Allen,Standard
+Indiana,ZIP Code 46799,Zanesville,Allen,P.O. Box
+Indiana,ZIP Code 46801,Fort Wayne,Allen,P.O. Box
+Indiana,ZIP Code 46802,Fort Wayne,Allen,Standard
+Indiana,ZIP Code 46803,Fort Wayne,Allen,Standard
+Indiana,ZIP Code 46804,Fort Wayne,Allen,Standard
+Indiana,ZIP Code 46805,Fort Wayne,Allen,Standard
+Indiana,ZIP Code 46806,Fort Wayne,Allen,Standard
+Indiana,ZIP Code 46807,Fort Wayne,Allen,Standard
+Indiana,ZIP Code 46808,Fort Wayne,Allen,Standard
+Indiana,ZIP Code 46809,Fort Wayne,Allen,Standard
+Indiana,ZIP Code 46814,Fort Wayne,Allen,Standard
+Indiana,ZIP Code 46815,Fort Wayne,Allen,Standard
+Indiana,ZIP Code 46816,Fort Wayne,Allen,Standard
+Indiana,ZIP Code 46818,Fort Wayne,Allen,Standard
+Indiana,ZIP Code 46819,Fort Wayne,Allen,Standard
+Indiana,ZIP Code 46825,Fort Wayne,Allen,Standard
+Indiana,ZIP Code 46835,Fort Wayne,Allen,Standard
+Indiana,ZIP Code 46845,Fort Wayne,Allen,Standard
+Indiana,ZIP Code 46850,Fort Wayne,Allen,P.O. Box
+Indiana,ZIP Code 46851,Fort Wayne,Allen,P.O. Box
+Indiana,ZIP Code 46852,Fort Wayne,Allen,P.O. Box
+Indiana,ZIP Code 46853,Fort Wayne,Allen,P.O. Box
+Indiana,ZIP Code 46854,Fort Wayne,Allen,P.O. Box
+Indiana,ZIP Code 46855,Fort Wayne,Allen,P.O. Box
+Indiana,ZIP Code 46856,Fort Wayne,Allen,P.O. Box
+Indiana,ZIP Code 46857,Fort Wayne,Allen,P.O. Box
+Indiana,ZIP Code 46858,Fort Wayne,Allen,P.O. Box
+Indiana,ZIP Code 46859,Fort Wayne,Allen,P.O. Box
+Indiana,ZIP Code 46860,Fort Wayne,Allen,P.O. Box
+Indiana,ZIP Code 46861,Fort Wayne,Allen,P.O. Box
+Indiana,ZIP Code 46862,Fort Wayne,Allen,P.O. Box
+Indiana,ZIP Code 46863,Fort Wayne,Allen,P.O. Box
+Indiana,ZIP Code 46864,Fort Wayne,Allen,P.O. Box
+Indiana,ZIP Code 46865,Fort Wayne,Allen,P.O. Box
+Indiana,ZIP Code 46866,Fort Wayne,Allen,P.O. Box
+Indiana,ZIP Code 46867,Fort Wayne,Allen,P.O. Box
+Indiana,ZIP Code 46868,Fort Wayne,Allen,P.O. Box
+Indiana,ZIP Code 46869,Fort Wayne,Allen,P.O. Box
+Indiana,ZIP Code 46885,Fort Wayne,Allen,P.O. Box
+Indiana,ZIP Code 46895,Fort Wayne,Allen,P.O. Box
+Indiana,ZIP Code 46896,Fort Wayne,Allen,P.O. Box
+Indiana,ZIP Code 46897,Fort Wayne,Allen,Unique
+Indiana,ZIP Code 46898,Fort Wayne,Allen,P.O. Box
+Indiana,ZIP Code 46899,Fort Wayne,Allen,P.O. Box
+Indiana,ZIP Code 46901,Kokomo,Howard,Standard
+Indiana,ZIP Code 46902,Kokomo,Howard,Standard
+Indiana,ZIP Code 46903,Kokomo,Howard,P.O. Box
+Indiana,ZIP Code 46904,Kokomo,Howard,P.O. Box
+Indiana,ZIP Code 46910,Akron,Fulton,Standard
+Indiana,ZIP Code 46911,Amboy,Miami,Standard
+Indiana,ZIP Code 46912,Athens,Fulton,P.O. Box
+Indiana,ZIP Code 46913,Bringhurst,Carroll,Standard
+Indiana,ZIP Code 46914,Bunker Hill,Miami,Standard
+Indiana,ZIP Code 46915,Burlington,Carroll,Standard
+Indiana,ZIP Code 46916,Burrows,Carroll,P.O. Box
+Indiana,ZIP Code 46917,Camden,Carroll,Standard
+Indiana,ZIP Code 46919,Converse,Miami,Standard
+Indiana,ZIP Code 46920,Cutler,Carroll,Standard
+Indiana,ZIP Code 46921,Deedsville,Miami,P.O. Box
+Indiana,ZIP Code 46922,Delong,Fulton,P.O. Box
+Indiana,ZIP Code 46923,Delphi,Carroll,Standard
+Indiana,ZIP Code 46926,Denver,Miami,Standard
+Indiana,ZIP Code 46928,Fairmount,Grant,Standard
+Indiana,ZIP Code 46929,Flora,Carroll,Standard
+Indiana,ZIP Code 46930,Fowlerton,Grant,Standard
+Indiana,ZIP Code 46931,Fulton,Fulton,P.O. Box
+Indiana,ZIP Code 46932,Galveston,Cass,Standard
+Indiana,ZIP Code 46933,Gas City,Grant,Standard
+Indiana,ZIP Code 46935,Grass Creek,Fulton,P.O. Box
+Indiana,ZIP Code 46936,Greentown,Howard,Standard
+Indiana,ZIP Code 46937,Hemlock,Howard,P.O. Box
+Indiana,ZIP Code 46938,Jonesboro,Grant,Standard
+Indiana,ZIP Code 46939,Kewanna,Fulton,Standard
+Indiana,ZIP Code 46940,La Fontaine,Wabash,Standard
+Indiana,ZIP Code 46941,Lagro,Wabash,Standard
+Indiana,ZIP Code 46942,Lake Cicott,Cass,P.O. Box
+Indiana,ZIP Code 46943,Laketon,Wabash,Standard
+Indiana,ZIP Code 46945,Leiters Ford,Fulton,P.O. Box
+Indiana,ZIP Code 46946,Liberty Mills,Wabash,P.O. Box
+Indiana,ZIP Code 46947,Logansport,Cass,Standard
+Indiana,ZIP Code 46950,Lucerne,Cass,Standard
+Indiana,ZIP Code 46951,Macy,Miami,Standard
+Indiana,ZIP Code 46952,Marion,Grant,Standard
+Indiana,ZIP Code 46953,Marion,Grant,Standard
+Indiana,ZIP Code 46957,Matthews,Grant,P.O. Box
+Indiana,ZIP Code 46958,Mexico,Miami,P.O. Box
+Indiana,ZIP Code 46959,Miami,Miami,Standard
+Indiana,ZIP Code 46960,Monterey,Pulaski,Standard
+Indiana,ZIP Code 46961,New Waverly,Cass,Standard
+Indiana,ZIP Code 46962,North Manchester,Wabash,Standard
+Indiana,ZIP Code 46965,Oakford,Howard,P.O. Box
+Indiana,ZIP Code 46967,Onward,Cass,P.O. Box
+Indiana,ZIP Code 46968,Ora,Starke,Standard
+Indiana,ZIP Code 46970,Peru,Miami,Standard
+Indiana,ZIP Code 46971,Grissom ARB,Miami,Standard
+Indiana,ZIP Code 46974,Roann,Wabash,Standard
+Indiana,ZIP Code 46975,Rochester,Fulton,Standard
+Indiana,ZIP Code 46977,Rockfield,Carroll,Standard
+Indiana,ZIP Code 46978,Royal Center,Cass,Standard
+Indiana,ZIP Code 46979,Russiaville,Howard,Standard
+Indiana,ZIP Code 46980,Servia,Wabash,P.O. Box
+Indiana,ZIP Code 46982,Silver Lake,Kosciusko,Standard
+Indiana,ZIP Code 46984,Somerset,Wabash,P.O. Box
+Indiana,ZIP Code 46985,Star City,Pulaski,Standard
+Indiana,ZIP Code 46986,Swayzee,Grant,Standard
+Indiana,ZIP Code 46987,Sweetser,Grant,P.O. Box
+Indiana,ZIP Code 46988,Twelve Mile,Cass,Standard
+Indiana,ZIP Code 46989,Upland,Grant,Standard
+Indiana,ZIP Code 46990,Urbana,Wabash,Standard
+Indiana,ZIP Code 46991,Van Buren,Grant,Standard
+Indiana,ZIP Code 46992,Wabash,Wabash,Standard
+Indiana,ZIP Code 46994,Walton,Cass,Standard
+Indiana,ZIP Code 46995,West Middleton,Howard,P.O. Box
+Indiana,ZIP Code 46996,Winamac,Pulaski,Standard
+Indiana,ZIP Code 46998,Young America,Cass,Standard
+Indiana,ZIP Code 47001,Aurora,Dearborn,Standard
+Indiana,ZIP Code 47003,West College Corner,Union,Standard
+Indiana,ZIP Code 47006,Batesville,Ripley,Standard
+Indiana,ZIP Code 47010,Bath,Franklin,Standard
+Indiana,ZIP Code 47011,Bennington,Switzerland,Standard
+Indiana,ZIP Code 47012,Brookville,Franklin,Standard
+Indiana,ZIP Code 47016,Cedar Grove,Franklin,Standard
+Indiana,ZIP Code 47017,Cross Plains,Ripley,Standard
+Indiana,ZIP Code 47018,Dillsboro,Dearborn,Standard
+Indiana,ZIP Code 47019,East Enterprise,Switzerland,P.O. Box
+Indiana,ZIP Code 47020,Florence,Switzerland,Standard
+Indiana,ZIP Code 47021,Friendship,Ripley,P.O. Box
+Indiana,ZIP Code 47022,Guilford,Dearborn,Standard
+Indiana,ZIP Code 47023,Holton,Ripley,Standard
+Indiana,ZIP Code 47024,Laurel,Franklin,Standard
+Indiana,ZIP Code 47025,Lawrenceburg,Dearborn,Standard
+Indiana,ZIP Code 47030,Metamora,Franklin,Standard
+Indiana,ZIP Code 47031,Milan,Ripley,Standard
+Indiana,ZIP Code 47032,Moores Hill,Dearborn,Standard
+Indiana,ZIP Code 47033,Morris,Ripley,P.O. Box
+Indiana,ZIP Code 47034,Napoleon,Ripley,P.O. Box
+Indiana,ZIP Code 47035,New Trenton,Franklin,P.O. Box
+Indiana,ZIP Code 47036,Oldenburg,Franklin,Standard
+Indiana,ZIP Code 47037,Osgood,Ripley,Standard
+Indiana,ZIP Code 47038,Patriot,Switzerland,Standard
+Indiana,ZIP Code 47039,Pierceville,Ripley,P.O. Box
+Indiana,ZIP Code 47040,Rising Sun,Ohio,Standard
+Indiana,ZIP Code 47041,Sunman,Ripley,Standard
+Indiana,ZIP Code 47042,Versailles,Ripley,Standard
+Indiana,ZIP Code 47043,Vevay,Switzerland,Standard
+Indiana,ZIP Code 47060,West Harrison,Dearborn,Standard
+Indiana,ZIP Code 47102,Austin,Scott,Standard
+Indiana,ZIP Code 47104,Bethlehem,Clark,Standard
+Indiana,ZIP Code 47106,Borden,Clark,Standard
+Indiana,ZIP Code 47107,Bradford,Harrison,P.O. Box
+Indiana,ZIP Code 47108,Campbellsburg,Washington,Standard
+Indiana,ZIP Code 47110,Central,Harrison,Standard
+Indiana,ZIP Code 47111,Charlestown,Clark,Standard
+Indiana,ZIP Code 47112,Corydon,Harrison,Standard
+Indiana,ZIP Code 47114,Crandall,Harrison,Standard
+Indiana,ZIP Code 47115,Depauw,Harrison,Standard
+Indiana,ZIP Code 47116,Eckerty,Crawford,Standard
+Indiana,ZIP Code 47117,Elizabeth,Harrison,Standard
+Indiana,ZIP Code 47118,English,Crawford,Standard
+Indiana,ZIP Code 47119,Floyds Knobs,Floyd,Standard
+Indiana,ZIP Code 47120,Fredericksburg,Washington,Standard
+Indiana,ZIP Code 47122,Georgetown,Floyd,Standard
+Indiana,ZIP Code 47123,Grantsburg,Crawford,Standard
+Indiana,ZIP Code 47124,Greenville,Floyd,Standard
+Indiana,ZIP Code 47125,Hardinsburg,Washington,Standard
+Indiana,ZIP Code 47126,Henryville,Clark,Standard
+Indiana,ZIP Code 47129,Clarksville,Clark,Standard
+Indiana,ZIP Code 47130,Jeffersonville,Clark,Standard
+Indiana,ZIP Code 47131,Jeffersonville,Clark,P.O. Box
+Indiana,ZIP Code 47132,Jeffersonville,Clark,Unique
+Indiana,ZIP Code 47133,Jeffersonville,Clark,Unique
+Indiana,ZIP Code 47134,Jeffersonville,Clark,Unique
+Indiana,ZIP Code 47135,Laconia,Harrison,Standard
+Indiana,ZIP Code 47136,Lanesville,Harrison,Standard
+Indiana,ZIP Code 47137,Leavenworth,Crawford,Standard
+Indiana,ZIP Code 47138,Lexington,Scott,Standard
+Indiana,ZIP Code 47140,Marengo,Crawford,Standard
+Indiana,ZIP Code 47141,Marysville,Clark,Standard
+Indiana,ZIP Code 47142,Mauckport,Harrison,Standard
+Indiana,ZIP Code 47143,Memphis,Clark,Standard
+Indiana,ZIP Code 47144,Jeffersonville,Clark,Unique
+Indiana,ZIP Code 47145,Milltown,Crawford,Standard
+Indiana,ZIP Code 47146,Mount Saint Francis,Floyd,P.O. Box
+Indiana,ZIP Code 47147,Nabb,Clark,Standard
+Indiana,ZIP Code 47150,New Albany,Floyd,Standard
+Indiana,ZIP Code 47151,New Albany,Floyd,P.O. Box
+Indiana,ZIP Code 47160,New Middletown,Harrison,Standard
+Indiana,ZIP Code 47161,New Salisbury,Harrison,Standard
+Indiana,ZIP Code 47162,New Washington,Clark,Standard
+Indiana,ZIP Code 47163,Otisco,Clark,Standard
+Indiana,ZIP Code 47164,Palmyra,Harrison,Standard
+Indiana,ZIP Code 47165,Pekin,Washington,Standard
+Indiana,ZIP Code 47166,Ramsey,Harrison,Standard
+Indiana,ZIP Code 47167,Salem,Washington,Standard
+Indiana,ZIP Code 47170,Scottsburg,Scott,Standard
+Indiana,ZIP Code 47172,Sellersburg,Clark,Standard
+Indiana,ZIP Code 47174,Sulphur,Crawford,Standard
+Indiana,ZIP Code 47175,Taswell,Crawford,Standard
+Indiana,ZIP Code 47177,Underwood,Scott,Standard
+Indiana,ZIP Code 47190,Jeffersonville,Clark,P.O. Box
+Indiana,ZIP Code 47199,Jeffersonville,Clark,Unique
+Indiana,ZIP Code 47201,Columbus,Bartholomew,Standard
+Indiana,ZIP Code 47202,Columbus,Bartholomew,P.O. Box
+Indiana,ZIP Code 47203,Columbus,Bartholomew,Standard
+Indiana,ZIP Code 47220,Brownstown,Jackson,Standard
+Indiana,ZIP Code 47223,Butlerville,Jennings,Standard
+Indiana,ZIP Code 47224,Canaan,Jefferson,Standard
+Indiana,ZIP Code 47225,Clarksburg,Decatur,P.O. Box
+Indiana,ZIP Code 47226,Clifford,Bartholomew,P.O. Box
+Indiana,ZIP Code 47227,Commiskey,Jennings,Standard
+Indiana,ZIP Code 47228,Cortland,Jackson,P.O. Box
+Indiana,ZIP Code 47229,Crothersville,Jackson,Standard
+Indiana,ZIP Code 47230,Deputy,Jefferson,Standard
+Indiana,ZIP Code 47231,Dupont,Jefferson,Standard
+Indiana,ZIP Code 47232,Elizabethtown,Bartholomew,Standard
+Indiana,ZIP Code 47234,Flat Rock,Shelby,Standard
+Indiana,ZIP Code 47235,Freetown,Jackson,Standard
+Indiana,ZIP Code 47236,Grammer,Bartholomew,Standard
+Indiana,ZIP Code 47240,Greensburg,Decatur,Standard
+Indiana,ZIP Code 47243,Hanover,Jefferson,Standard
+Indiana,ZIP Code 47244,Hartsville,Bartholomew,Standard
+Indiana,ZIP Code 47245,Hayden,Jennings,P.O. Box
+Indiana,ZIP Code 47246,Hope,Bartholomew,Standard
+Indiana,ZIP Code 47247,Jonesville,Bartholomew,Standard
+Indiana,ZIP Code 47249,Kurtz,Jackson,P.O. Box
+Indiana,ZIP Code 47250,Madison,Jefferson,Standard
+Indiana,ZIP Code 47260,Medora,Jackson,Standard
+Indiana,ZIP Code 47263,New Point,Decatur,P.O. Box
+Indiana,ZIP Code 47264,Norman,Jackson,Standard
+Indiana,ZIP Code 47265,North Vernon,Jennings,Standard
+Indiana,ZIP Code 47270,Paris Crossing,Jennings,Standard
+Indiana,ZIP Code 47272,Saint Paul,Decatur,Standard
+Indiana,ZIP Code 47273,Scipio,Jennings,Standard
+Indiana,ZIP Code 47274,Seymour,Jackson,Standard
+Indiana,ZIP Code 47280,Taylorsville,Bartholomew,P.O. Box
+Indiana,ZIP Code 47281,Vallonia,Jackson,Standard
+Indiana,ZIP Code 47282,Vernon,Jennings,P.O. Box
+Indiana,ZIP Code 47283,Westport,Decatur,Standard
+Indiana,ZIP Code 47302,Muncie,Delaware,Standard
+Indiana,ZIP Code 47303,Muncie,Delaware,Standard
+Indiana,ZIP Code 47304,Muncie,Delaware,Standard
+Indiana,ZIP Code 47305,Muncie,Delaware,Standard
+Indiana,ZIP Code 47306,Muncie,Delaware,Unique
+Indiana,ZIP Code 47307,Muncie,Delaware,P.O. Box
+Indiana,ZIP Code 47308,Muncie,Delaware,P.O. Box
+Indiana,ZIP Code 47320,Albany,Delaware,Standard
+Indiana,ZIP Code 47322,Bentonville,Fayette,P.O. Box
+Indiana,ZIP Code 47324,Boston,Wayne,P.O. Box
+Indiana,ZIP Code 47325,Brownsville,Union,Standard
+Indiana,ZIP Code 47326,Bryant,Jay,Standard
+Indiana,ZIP Code 47327,Cambridge City,Wayne,Standard
+Indiana,ZIP Code 47330,Centerville,Wayne,Standard
+Indiana,ZIP Code 47331,Connersville,Fayette,Standard
+Indiana,ZIP Code 47334,Daleville,Delaware,Standard
+Indiana,ZIP Code 47335,Dublin,Wayne,P.O. Box
+Indiana,ZIP Code 47336,Dunkirk,Jay,Standard
+Indiana,ZIP Code 47337,Dunreith,Henry,P.O. Box
+Indiana,ZIP Code 47338,Eaton,Delaware,Standard
+Indiana,ZIP Code 47339,Economy,Wayne,Standard
+Indiana,ZIP Code 47340,Farmland,Randolph,Standard
+Indiana,ZIP Code 47341,Fountain City,Wayne,Standard
+Indiana,ZIP Code 47342,Gaston,Delaware,Standard
+Indiana,ZIP Code 47344,Greensboro,Henry,P.O. Box
+Indiana,ZIP Code 47345,Greens Fork,Wayne,Standard
+Indiana,ZIP Code 47346,Hagerstown,Wayne,Standard
+Indiana,ZIP Code 47348,Hartford City,Blackford,Standard
+Indiana,ZIP Code 47351,Kennard,Henry,P.O. Box
+Indiana,ZIP Code 47352,Lewisville,Henry,Standard
+Indiana,ZIP Code 47353,Liberty,Union,Standard
+Indiana,ZIP Code 47354,Losantville,Randolph,Standard
+Indiana,ZIP Code 47355,Lynn,Randolph,Standard
+Indiana,ZIP Code 47356,Middletown,Henry,Standard
+Indiana,ZIP Code 47357,Milton,Wayne,Standard
+Indiana,ZIP Code 47358,Modoc,Randolph,Standard
+Indiana,ZIP Code 47359,Montpelier,Blackford,Standard
+Indiana,ZIP Code 47360,Mooreland,Henry,Standard
+Indiana,ZIP Code 47361,Mount Summit,Henry,P.O. Box
+Indiana,ZIP Code 47362,New Castle,Henry,Standard
+Indiana,ZIP Code 47366,New Lisbon,Henry,P.O. Box
+Indiana,ZIP Code 47367,Oakville,Delaware,P.O. Box
+Indiana,ZIP Code 47368,Parker City,Randolph,Standard
+Indiana,ZIP Code 47369,Pennville,Jay,Standard
+Indiana,ZIP Code 47370,Pershing,Wayne,P.O. Box
+Indiana,ZIP Code 47371,Portland,Jay,Standard
+Indiana,ZIP Code 47373,Redkey,Jay,Standard
+Indiana,ZIP Code 47374,Richmond,Wayne,Standard
+Indiana,ZIP Code 47375,Richmond,Wayne,P.O. Box
+Indiana,ZIP Code 47380,Ridgeville,Randolph,Standard
+Indiana,ZIP Code 47381,Salamonia,Jay,Standard
+Indiana,ZIP Code 47382,Saratoga,Randolph,P.O. Box
+Indiana,ZIP Code 47383,Selma,Delaware,Standard
+Indiana,ZIP Code 47384,Shirley,Henry,Standard
+Indiana,ZIP Code 47385,Spiceland,Henry,Standard
+Indiana,ZIP Code 47386,Springport,Henry,Standard
+Indiana,ZIP Code 47387,Straughn,Henry,Standard
+Indiana,ZIP Code 47388,Sulphur Springs,Henry,P.O. Box
+Indiana,ZIP Code 47390,Union City,Randolph,Standard
+Indiana,ZIP Code 47392,Webster,Wayne,Standard
+Indiana,ZIP Code 47393,Williamsburg,Wayne,Standard
+Indiana,ZIP Code 47394,Winchester,Randolph,Standard
+Indiana,ZIP Code 47396,Yorktown,Delaware,Standard
+Indiana,ZIP Code 47401,Bloomington,Monroe,Standard
+Indiana,ZIP Code 47402,Bloomington,Monroe,P.O. Box
+Indiana,ZIP Code 47403,Bloomington,Monroe,Standard
+Indiana,ZIP Code 47404,Bloomington,Monroe,Standard
+Indiana,ZIP Code 47405,Bloomington,Monroe,Standard
+Indiana,ZIP Code 47406,Bloomington,Monroe,Standard
+Indiana,ZIP Code 47407,Bloomington,Monroe,P.O. Box
+Indiana,ZIP Code 47408,Bloomington,Monroe,Standard
+Indiana,ZIP Code 47420,Avoca,Lawrence,P.O. Box
+Indiana,ZIP Code 47421,Bedford,Lawrence,Standard
+Indiana,ZIP Code 47424,Bloomfield,Greene,Standard
+Indiana,ZIP Code 47426,Clear Creek,Monroe,P.O. Box
+Indiana,ZIP Code 47427,Coal City,Owen,Standard
+Indiana,ZIP Code 47429,Ellettsville,Monroe,Standard
+Indiana,ZIP Code 47431,Freedom,Owen,Standard
+Indiana,ZIP Code 47432,French Lick,Orange,Standard
+Indiana,ZIP Code 47433,Gosport,Owen,Standard
+Indiana,ZIP Code 47434,Harrodsburg,Monroe,P.O. Box
+Indiana,ZIP Code 47435,Helmsburg,Brown,P.O. Box
+Indiana,ZIP Code 47436,Heltonville,Lawrence,Standard
+Indiana,ZIP Code 47437,Huron,Lawrence,P.O. Box
+Indiana,ZIP Code 47438,Jasonville,Greene,Standard
+Indiana,ZIP Code 47441,Linton,Greene,Standard
+Indiana,ZIP Code 47443,Lyons,Greene,Standard
+Indiana,ZIP Code 47445,Midland,Greene,P.O. Box
+Indiana,ZIP Code 47446,Mitchell,Lawrence,Standard
+Indiana,ZIP Code 47448,Nashville,Brown,Standard
+Indiana,ZIP Code 47449,Newberry,Greene,Standard
+Indiana,ZIP Code 47451,Oolitic,Lawrence,Standard
+Indiana,ZIP Code 47452,Orleans,Orange,Standard
+Indiana,ZIP Code 47453,Owensburg,Greene,Standard
+Indiana,ZIP Code 47454,Paoli,Orange,Standard
+Indiana,ZIP Code 47455,Patricksburg,Owen,P.O. Box
+Indiana,ZIP Code 47456,Quincy,Owen,Standard
+Indiana,ZIP Code 47457,Scotland,Greene,Standard
+Indiana,ZIP Code 47458,Smithville,Monroe,P.O. Box
+Indiana,ZIP Code 47459,Solsberry,Greene,Standard
+Indiana,ZIP Code 47460,Spencer,Owen,Standard
+Indiana,ZIP Code 47462,Springville,Lawrence,Standard
+Indiana,ZIP Code 47463,Stanford,Monroe,P.O. Box
+Indiana,ZIP Code 47464,Stinesville,Monroe,P.O. Box
+Indiana,ZIP Code 47465,Switz City,Greene,Standard
+Indiana,ZIP Code 47467,Tunnelton,Lawrence,P.O. Box
+Indiana,ZIP Code 47468,Unionville,Monroe,Standard
+Indiana,ZIP Code 47469,West Baden Springs,Orange,Standard
+Indiana,ZIP Code 47470,Williams,Lawrence,Standard
+Indiana,ZIP Code 47471,Worthington,Greene,Standard
+Indiana,ZIP Code 47501,Washington,Daviess,Standard
+Indiana,ZIP Code 47512,Bicknell,Knox,Standard
+Indiana,ZIP Code 47513,Birdseye,Dubois,Standard
+Indiana,ZIP Code 47514,Branchville,Perry,Standard
+Indiana,ZIP Code 47515,Bristow,Perry,Standard
+Indiana,ZIP Code 47516,Bruceville,Knox,Standard
+Indiana,ZIP Code 47519,Cannelburg,Daviess,Standard
+Indiana,ZIP Code 47520,Cannelton,Perry,Standard
+Indiana,ZIP Code 47521,Celestine,Dubois,Standard
+Indiana,ZIP Code 47522,Crane,Martin,Standard
+Indiana,ZIP Code 47523,Dale,Spencer,Standard
+Indiana,ZIP Code 47524,Decker,Knox,Standard
+Indiana,ZIP Code 47525,Derby,Perry,Standard
+Indiana,ZIP Code 47527,Dubois,Dubois,Standard
+Indiana,ZIP Code 47528,Edwardsport,Knox,Standard
+Indiana,ZIP Code 47529,Elnora,Daviess,Standard
+Indiana,ZIP Code 47531,Evanston,Spencer,Standard
+Indiana,ZIP Code 47532,Ferdinand,Dubois,Standard
+Indiana,ZIP Code 47535,Freelandville,Knox,P.O. Box
+Indiana,ZIP Code 47536,Fulda,Spencer,P.O. Box
+Indiana,ZIP Code 47537,Gentryville,Spencer,Standard
+Indiana,ZIP Code 47541,Holland,Dubois,Standard
+Indiana,ZIP Code 47542,Huntingburg,Dubois,Standard
+Indiana,ZIP Code 47545,Ireland,Dubois,P.O. Box
+Indiana,ZIP Code 47546,Jasper,Dubois,Standard
+Indiana,ZIP Code 47547,Jasper,Dubois,P.O. Box
+Indiana,ZIP Code 47549,Jasper,Dubois,Unique
+Indiana,ZIP Code 47550,Lamar,Spencer,Standard
+Indiana,ZIP Code 47551,Leopold,Perry,Standard
+Indiana,ZIP Code 47552,Lincoln City,Spencer,Standard
+Indiana,ZIP Code 47553,Loogootee,Martin,Standard
+Indiana,ZIP Code 47556,Mariah Hill,Spencer,P.O. Box
+Indiana,ZIP Code 47557,Monroe City,Knox,Standard
+Indiana,ZIP Code 47558,Montgomery,Daviess,Standard
+Indiana,ZIP Code 47561,Oaktown,Knox,Standard
+Indiana,ZIP Code 47562,Odon,Daviess,Standard
+Indiana,ZIP Code 47564,Otwell,Pike,Standard
+Indiana,ZIP Code 47567,Petersburg,Pike,Standard
+Indiana,ZIP Code 47568,Plainville,Daviess,Standard
+Indiana,ZIP Code 47573,Ragsdale,Knox,Standard
+Indiana,ZIP Code 47574,Rome,Perry,Standard
+Indiana,ZIP Code 47575,Saint Anthony,Dubois,Standard
+Indiana,ZIP Code 47576,Saint Croix,Perry,Standard
+Indiana,ZIP Code 47577,Saint Meinrad,Spencer,Standard
+Indiana,ZIP Code 47578,Sandborn,Knox,Standard
+Indiana,ZIP Code 47579,Santa Claus,Spencer,Standard
+Indiana,ZIP Code 47580,Schnellville,Dubois,Standard
+Indiana,ZIP Code 47581,Shoals,Martin,Standard
+Indiana,ZIP Code 47584,Spurgeon,Pike,P.O. Box
+Indiana,ZIP Code 47585,Stendal,Pike,Standard
+Indiana,ZIP Code 47586,Tell City,Perry,Standard
+Indiana,ZIP Code 47588,Troy,Spencer,Standard
+Indiana,ZIP Code 47590,Velpen,Pike,Standard
+Indiana,ZIP Code 47591,Vincennes,Knox,Standard
+Indiana,ZIP Code 47596,Westphalia,Knox,P.O. Box
+Indiana,ZIP Code 47597,Wheatland,Knox,Standard
+Indiana,ZIP Code 47598,Winslow,Pike,Standard
+Indiana,ZIP Code 47601,Boonville,Warrick,Standard
+Indiana,ZIP Code 47610,Chandler,Warrick,Standard
+Indiana,ZIP Code 47611,Chrisney,Spencer,Standard
+Indiana,ZIP Code 47612,Cynthiana,Posey,Standard
+Indiana,ZIP Code 47613,Elberfeld,Warrick,Standard
+Indiana,ZIP Code 47615,Grandview,Spencer,Standard
+Indiana,ZIP Code 47616,Griffin,Posey,Standard
+Indiana,ZIP Code 47617,Hatfield,Spencer,P.O. Box
+Indiana,ZIP Code 47618,Inglefield,Vanderburgh,P.O. Box
+Indiana,ZIP Code 47619,Lynnville,Warrick,Standard
+Indiana,ZIP Code 47620,Mount Vernon,Posey,Standard
+Indiana,ZIP Code 47629,Newburgh,Warrick,P.O. Box
+Indiana,ZIP Code 47630,Newburgh,Warrick,Standard
+Indiana,ZIP Code 47631,New Harmony,Posey,Standard
+Indiana,ZIP Code 47633,Poseyville,Posey,Standard
+Indiana,ZIP Code 47634,Richland,Spencer,Standard
+Indiana,ZIP Code 47635,Rockport,Spencer,Standard
+Indiana,ZIP Code 47637,Tennyson,Warrick,Standard
+Indiana,ZIP Code 47638,Wadesville,Posey,Standard
+Indiana,ZIP Code 47639,Haubstadt,Gibson,Standard
+Indiana,ZIP Code 47640,Hazleton,Gibson,Standard
+Indiana,ZIP Code 47647,Buckskin,Gibson,Standard
+Indiana,ZIP Code 47648,Fort Branch,Gibson,Standard
+Indiana,ZIP Code 47649,Francisco,Gibson,Standard
+Indiana,ZIP Code 47654,Mackey,Gibson,P.O. Box
+Indiana,ZIP Code 47660,Oakland City,Gibson,Standard
+Indiana,ZIP Code 47665,Owensville,Gibson,Standard
+Indiana,ZIP Code 47666,Patoka,Gibson,Standard
+Indiana,ZIP Code 47670,Princeton,Gibson,Standard
+Indiana,ZIP Code 47683,Somerville,Gibson,P.O. Box
+Indiana,ZIP Code 47701,Evansville,Vanderburgh,P.O. Box
+Indiana,ZIP Code 47702,Evansville,Vanderburgh,P.O. Box
+Indiana,ZIP Code 47703,Evansville,Vanderburgh,P.O. Box
+Indiana,ZIP Code 47704,Evansville,Vanderburgh,P.O. Box
+Indiana,ZIP Code 47705,Evansville,Vanderburgh,P.O. Box
+Indiana,ZIP Code 47706,Evansville,Vanderburgh,P.O. Box
+Indiana,ZIP Code 47708,Evansville,Vanderburgh,Standard
+Indiana,ZIP Code 47710,Evansville,Vanderburgh,Standard
+Indiana,ZIP Code 47711,Evansville,Vanderburgh,Standard
+Indiana,ZIP Code 47712,Evansville,Vanderburgh,Standard
+Indiana,ZIP Code 47713,Evansville,Vanderburgh,Standard
+Indiana,ZIP Code 47714,Evansville,Vanderburgh,Standard
+Indiana,ZIP Code 47715,Evansville,Vanderburgh,Standard
+Indiana,ZIP Code 47716,Evansville,Vanderburgh,P.O. Box
+Indiana,ZIP Code 47719,Evansville,Vanderburgh,P.O. Box
+Indiana,ZIP Code 47720,Evansville,Vanderburgh,Standard
+Indiana,ZIP Code 47721,Evansville,Vanderburgh,Unique
+Indiana,ZIP Code 47722,Evansville,Vanderburgh,Unique
+Indiana,ZIP Code 47724,Evansville,Vanderburgh,P.O. Box
+Indiana,ZIP Code 47725,Evansville,Vanderburgh,Standard
+Indiana,ZIP Code 47728,Evansville,Vanderburgh,P.O. Box
+Indiana,ZIP Code 47730,Evansville,Vanderburgh,P.O. Box
+Indiana,ZIP Code 47731,Evansville,Vanderburgh,P.O. Box
+Indiana,ZIP Code 47732,Evansville,Vanderburgh,P.O. Box
+Indiana,ZIP Code 47733,Evansville,Vanderburgh,P.O. Box
+Indiana,ZIP Code 47734,Evansville,Vanderburgh,P.O. Box
+Indiana,ZIP Code 47735,Evansville,Vanderburgh,P.O. Box
+Indiana,ZIP Code 47736,Evansville,Vanderburgh,P.O. Box
+Indiana,ZIP Code 47737,Evansville,Vanderburgh,P.O. Box
+Indiana,ZIP Code 47740,Evansville,Vanderburgh,Unique
+Indiana,ZIP Code 47747,Evansville,Vanderburgh,Unique
+Indiana,ZIP Code 47750,Evansville,Vanderburgh,Unique
+Indiana,ZIP Code 47801,Terre Haute,Vigo,P.O. Box
+Indiana,ZIP Code 47802,Terre Haute,Vigo,Standard
+Indiana,ZIP Code 47803,Terre Haute,Vigo,Standard
+Indiana,ZIP Code 47804,Terre Haute,Vigo,Standard
+Indiana,ZIP Code 47805,Terre Haute,Vigo,Standard
+Indiana,ZIP Code 47807,Terre Haute,Vigo,Standard
+Indiana,ZIP Code 47808,Terre Haute,Vigo,P.O. Box
+Indiana,ZIP Code 47809,Terre Haute,Vigo,Unique
+Indiana,ZIP Code 47831,Blanford,Vermillion,P.O. Box
+Indiana,ZIP Code 47832,Bloomingdale,Parke,Standard
+Indiana,ZIP Code 47833,Bowling Green,Clay,Standard
+Indiana,ZIP Code 47834,Brazil,Clay,Standard
+Indiana,ZIP Code 47836,Bridgeton,Parke,P.O. Box
+Indiana,ZIP Code 47837,Carbon,Clay,Standard
+Indiana,ZIP Code 47838,Carlisle,Sullivan,Standard
+Indiana,ZIP Code 47840,Centerpoint,Clay,Standard
+Indiana,ZIP Code 47841,Clay City,Clay,Standard
+Indiana,ZIP Code 47842,Clinton,Vermillion,Standard
+Indiana,ZIP Code 47845,Coalmont,Clay,P.O. Box
+Indiana,ZIP Code 47846,Cory,Clay,Standard
+Indiana,ZIP Code 47847,Dana,Vermillion,Standard
+Indiana,ZIP Code 47848,Dugger,Sullivan,Standard
+Indiana,ZIP Code 47849,Fairbanks,Sullivan,Standard
+Indiana,ZIP Code 47850,Farmersburg,Sullivan,Standard
+Indiana,ZIP Code 47851,Fontanet,Vigo,P.O. Box
+Indiana,ZIP Code 47852,Graysville,Sullivan,P.O. Box
+Indiana,ZIP Code 47853,Harmony,Clay,P.O. Box
+Indiana,ZIP Code 47854,Hillsdale,Vermillion,Standard
+Indiana,ZIP Code 47855,Hymera,Sullivan,P.O. Box
+Indiana,ZIP Code 47857,Knightsville,Clay,P.O. Box
+Indiana,ZIP Code 47858,Lewis,Vigo,Standard
+Indiana,ZIP Code 47859,Marshall,Parke,Standard
+Indiana,ZIP Code 47860,Mecca,Parke,P.O. Box
+Indiana,ZIP Code 47861,Merom,Sullivan,Standard
+Indiana,ZIP Code 47862,Montezuma,Parke,Standard
+Indiana,ZIP Code 47863,New Goshen,Vigo,P.O. Box
+Indiana,ZIP Code 47865,Paxton,Sullivan,P.O. Box
+Indiana,ZIP Code 47866,Pimento,Vigo,Standard
+Indiana,ZIP Code 47868,Poland,Owen,Standard
+Indiana,ZIP Code 47869,Prairie Creek,Vigo,P.O. Box
+Indiana,ZIP Code 47870,Prairieton,Vigo,P.O. Box
+Indiana,ZIP Code 47871,Riley,Vigo,P.O. Box
+Indiana,ZIP Code 47872,Rockville,Parke,Standard
+Indiana,ZIP Code 47874,Rosedale,Parke,Standard
+Indiana,ZIP Code 47875,Saint Bernice,Vermillion,P.O. Box
+Indiana,ZIP Code 47876,Saint Mary Of The Woods,Vigo,P.O. Box
+Indiana,ZIP Code 47878,Seelyville,Vigo,P.O. Box
+Indiana,ZIP Code 47879,Shelburn,Sullivan,Standard
+Indiana,ZIP Code 47880,Shepardsville,Vigo,P.O. Box
+Indiana,ZIP Code 47881,Staunton,Clay,P.O. Box
+Indiana,ZIP Code 47882,Sullivan,Sullivan,Standard
+Indiana,ZIP Code 47884,Universal,Vermillion,P.O. Box
+Indiana,ZIP Code 47885,West Terre Haute,Vigo,Standard
+Indiana,ZIP Code 47901,Lafayette,Tippecanoe,Standard
+Indiana,ZIP Code 47902,Lafayette,Tippecanoe,P.O. Box
+Indiana,ZIP Code 47903,Lafayette,Tippecanoe,P.O. Box
+Indiana,ZIP Code 47904,Lafayette,Tippecanoe,Standard
+Indiana,ZIP Code 47905,Lafayette,Tippecanoe,Standard
+Indiana,ZIP Code 47906,West Lafayette,Tippecanoe,Standard
+Indiana,ZIP Code 47907,West Lafayette,Tippecanoe,Standard
+Indiana,ZIP Code 47909,Lafayette,Tippecanoe,Standard
+Indiana,ZIP Code 47916,Alamo,Montgomery,P.O. Box
+Indiana,ZIP Code 47917,Ambia,Benton,Standard
+Indiana,ZIP Code 47918,Attica,Fountain,Standard
+Indiana,ZIP Code 47920,Battle Ground,Tippecanoe,Standard
+Indiana,ZIP Code 47921,Boswell,Benton,Standard
+Indiana,ZIP Code 47922,Brook,Newton,Standard
+Indiana,ZIP Code 47923,Brookston,White,Standard
+Indiana,ZIP Code 47924,Buck Creek,Tippecanoe,P.O. Box
+Indiana,ZIP Code 47925,Buffalo,White,P.O. Box
+Indiana,ZIP Code 47926,Burnettsville,White,Standard
+Indiana,ZIP Code 47928,Cayuga,Vermillion,Standard
+Indiana,ZIP Code 47929,Chalmers,White,Standard
+Indiana,ZIP Code 47930,Clarks Hill,Tippecanoe,Standard
+Indiana,ZIP Code 47932,Covington,Fountain,Standard
+Indiana,ZIP Code 47933,Crawfordsville,Montgomery,Standard
+Indiana,ZIP Code 47940,Darlington,Montgomery,Standard
+Indiana,ZIP Code 47941,Dayton,Tippecanoe,P.O. Box
+Indiana,ZIP Code 47942,Earl Park,Benton,Standard
+Indiana,ZIP Code 47943,Fair Oaks,Jasper,Standard
+Indiana,ZIP Code 47944,Fowler,Benton,Standard
+Indiana,ZIP Code 47946,Francesville,Pulaski,Standard
+Indiana,ZIP Code 47948,Goodland,Newton,Standard
+Indiana,ZIP Code 47949,Hillsboro,Fountain,Standard
+Indiana,ZIP Code 47950,Idaville,White,Standard
+Indiana,ZIP Code 47951,Kentland,Newton,Standard
+Indiana,ZIP Code 47952,Kingman,Fountain,Standard
+Indiana,ZIP Code 47954,Ladoga,Montgomery,Standard
+Indiana,ZIP Code 47955,Linden,Montgomery,Standard
+Indiana,ZIP Code 47957,Medaryville,Pulaski,Standard
+Indiana,ZIP Code 47958,Mellott,Fountain,P.O. Box
+Indiana,ZIP Code 47959,Monon,White,Standard
+Indiana,ZIP Code 47960,Monticello,White,Standard
+Indiana,ZIP Code 47962,Montmorenci,Tippecanoe,P.O. Box
+Indiana,ZIP Code 47963,Morocco,Newton,Standard
+Indiana,ZIP Code 47964,Mount Ayr,Newton,P.O. Box
+Indiana,ZIP Code 47965,New Market,Montgomery,P.O. Box
+Indiana,ZIP Code 47966,Newport,Vermillion,P.O. Box
+Indiana,ZIP Code 47967,New Richmond,Montgomery,Standard
+Indiana,ZIP Code 47968,New Ross,Montgomery,Standard
+Indiana,ZIP Code 47969,Newtown,Fountain,P.O. Box
+Indiana,ZIP Code 47970,Otterbein,Benton,Standard
+Indiana,ZIP Code 47971,Oxford,Benton,Standard
+Indiana,ZIP Code 47974,Perrysville,Vermillion,Standard
+Indiana,ZIP Code 47975,Pine Village,Warren,Standard
+Indiana,ZIP Code 47977,Remington,Jasper,Standard
+Indiana,ZIP Code 47978,Rensselaer,Jasper,Standard
+Indiana,ZIP Code 47980,Reynolds,White,Standard
+Indiana,ZIP Code 47981,Romney,Tippecanoe,Standard
+Indiana,ZIP Code 47982,State Line,Warren,P.O. Box
+Indiana,ZIP Code 47983,Stockwell,Tippecanoe,P.O. Box
+Indiana,ZIP Code 47986,Templeton,Benton,P.O. Box
+Indiana,ZIP Code 47987,Veedersburg,Fountain,Standard
+Indiana,ZIP Code 47988,Wallace,Fountain,P.O. Box
+Indiana,ZIP Code 47989,Waveland,Montgomery,Standard
+Indiana,ZIP Code 47990,Waynetown,Montgomery,Standard
+Indiana,ZIP Code 47991,West Lebanon,Warren,Standard
+Indiana,ZIP Code 47992,Westpoint,Tippecanoe,Standard
+Indiana,ZIP Code 47993,Williamsport,Warren,Standard
+Indiana,ZIP Code 47994,Wingate,Montgomery,Standard
+Indiana,ZIP Code 47995,Wolcott,White,Standard
+Indiana,ZIP Code 47996,West Lafayette,Tippecanoe,P.O. Box
+Indiana,ZIP Code 47997,Yeoman,Carroll,Standard

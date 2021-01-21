@@ -1,0 +1,732 @@
+State,ZIP Code,City,County,Type
+New Jersey,ZIP Code 07001,Avenel,Middlesex,Standard
+New Jersey,ZIP Code 07002,Bayonne,Hudson,Standard
+New Jersey,ZIP Code 07003,Bloomfield,Essex,Standard
+New Jersey,ZIP Code 07004,Fairfield,Essex,Standard
+New Jersey,ZIP Code 07005,Boonton,Morris,Standard
+New Jersey,ZIP Code 07006,Caldwell,Essex,Standard
+New Jersey,ZIP Code 07007,Caldwell,Essex,P.O. Box
+New Jersey,ZIP Code 07008,Carteret,Middlesex,Standard
+New Jersey,ZIP Code 07009,Cedar Grove,Essex,Standard
+New Jersey,ZIP Code 07010,Cliffside Park,Bergen,Standard
+New Jersey,ZIP Code 07011,Clifton,Passaic,Standard
+New Jersey,ZIP Code 07012,Clifton,Passaic,Standard
+New Jersey,ZIP Code 07013,Clifton,Passaic,Standard
+New Jersey,ZIP Code 07014,Clifton,Passaic,Standard
+New Jersey,ZIP Code 07015,Clifton,Passaic,P.O. Box
+New Jersey,ZIP Code 07016,Cranford,Union,Standard
+New Jersey,ZIP Code 07017,East Orange,Essex,Standard
+New Jersey,ZIP Code 07018,East Orange,Essex,Standard
+New Jersey,ZIP Code 07019,East Orange,Essex,P.O. Box
+New Jersey,ZIP Code 07020,Edgewater,Bergen,Standard
+New Jersey,ZIP Code 07021,Essex Fells,Essex,Standard
+New Jersey,ZIP Code 07022,Fairview,Bergen,Standard
+New Jersey,ZIP Code 07023,Fanwood,Union,Standard
+New Jersey,ZIP Code 07024,Fort Lee,Bergen,Standard
+New Jersey,ZIP Code 07026,Garfield,Bergen,Standard
+New Jersey,ZIP Code 07027,Garwood,Union,Standard
+New Jersey,ZIP Code 07028,Glen Ridge,Essex,Standard
+New Jersey,ZIP Code 07029,Harrison,Hudson,Standard
+New Jersey,ZIP Code 07030,Hoboken,Hudson,Standard
+New Jersey,ZIP Code 07031,North Arlington,Bergen,Standard
+New Jersey,ZIP Code 07032,Kearny,Hudson,Standard
+New Jersey,ZIP Code 07033,Kenilworth,Union,Standard
+New Jersey,ZIP Code 07034,Lake Hiawatha,Morris,Standard
+New Jersey,ZIP Code 07035,Lincoln Park,Morris,Standard
+New Jersey,ZIP Code 07036,Linden,Union,Standard
+New Jersey,ZIP Code 07039,Livingston,Essex,Standard
+New Jersey,ZIP Code 07040,Maplewood,Essex,Standard
+New Jersey,ZIP Code 07041,Millburn,Essex,Standard
+New Jersey,ZIP Code 07042,Montclair,Essex,Standard
+New Jersey,ZIP Code 07043,Montclair,Essex,Standard
+New Jersey,ZIP Code 07044,Verona,Essex,Standard
+New Jersey,ZIP Code 07045,Montville,Morris,Standard
+New Jersey,ZIP Code 07046,Mountain Lakes,Morris,Standard
+New Jersey,ZIP Code 07047,North Bergen,Hudson,Standard
+New Jersey,ZIP Code 07050,Orange,Essex,Standard
+New Jersey,ZIP Code 07051,Orange,Essex,P.O. Box
+New Jersey,ZIP Code 07052,West Orange,Essex,Standard
+New Jersey,ZIP Code 07054,Parsippany,Morris,Standard
+New Jersey,ZIP Code 07055,Passaic,Passaic,Standard
+New Jersey,ZIP Code 07057,Wallington,Bergen,Standard
+New Jersey,ZIP Code 07058,Pine Brook,Morris,Standard
+New Jersey,ZIP Code 07059,Warren,Somerset,Standard
+New Jersey,ZIP Code 07060,Plainfield,Union,Standard
+New Jersey,ZIP Code 07061,Plainfield,Union,P.O. Box
+New Jersey,ZIP Code 07062,Plainfield,Union,Standard
+New Jersey,ZIP Code 07063,Plainfield,Union,Standard
+New Jersey,ZIP Code 07064,Port Reading,Middlesex,Standard
+New Jersey,ZIP Code 07065,Rahway,Union,Standard
+New Jersey,ZIP Code 07066,Clark,Union,Standard
+New Jersey,ZIP Code 07067,Colonia,Middlesex,Standard
+New Jersey,ZIP Code 07068,Roseland,Essex,Standard
+New Jersey,ZIP Code 07069,Watchung,Somerset,Standard
+New Jersey,ZIP Code 07070,Rutherford,Bergen,Standard
+New Jersey,ZIP Code 07071,Lyndhurst,Bergen,Standard
+New Jersey,ZIP Code 07072,Carlstadt,Bergen,Standard
+New Jersey,ZIP Code 07073,East Rutherford,Bergen,Standard
+New Jersey,ZIP Code 07074,Moonachie,Bergen,Standard
+New Jersey,ZIP Code 07075,Wood Ridge,Bergen,Standard
+New Jersey,ZIP Code 07076,Scotch Plains,Union,Standard
+New Jersey,ZIP Code 07077,Sewaren,Middlesex,Standard
+New Jersey,ZIP Code 07078,Short Hills,Essex,Standard
+New Jersey,ZIP Code 07079,South Orange,Essex,Standard
+New Jersey,ZIP Code 07080,South Plainfield,Middlesex,Standard
+New Jersey,ZIP Code 07081,Springfield,Union,Standard
+New Jersey,ZIP Code 07082,Towaco,Morris,Standard
+New Jersey,ZIP Code 07083,Union,Union,Standard
+New Jersey,ZIP Code 07086,Weehawken,Hudson,Standard
+New Jersey,ZIP Code 07087,Union City,Hudson,Standard
+New Jersey,ZIP Code 07088,Vauxhall,Union,Standard
+New Jersey,ZIP Code 07090,Westfield,Union,Standard
+New Jersey,ZIP Code 07091,Westfield,Union,P.O. Box
+New Jersey,ZIP Code 07092,Mountainside,Union,Standard
+New Jersey,ZIP Code 07093,West New York,Hudson,Standard
+New Jersey,ZIP Code 07094,Secaucus,Hudson,Standard
+New Jersey,ZIP Code 07095,Woodbridge,Middlesex,Standard
+New Jersey,ZIP Code 07096,Secaucus,Hudson,P.O. Box
+New Jersey,ZIP Code 07097,Jersey City,Hudson,Unique
+New Jersey,ZIP Code 07099,Kearny,Hudson,Unique
+New Jersey,ZIP Code 07101,Newark,Essex,P.O. Box
+New Jersey,ZIP Code 07102,Newark,Essex,Standard
+New Jersey,ZIP Code 07103,Newark,Essex,Standard
+New Jersey,ZIP Code 07104,Newark,Essex,Standard
+New Jersey,ZIP Code 07105,Newark,Essex,Standard
+New Jersey,ZIP Code 07106,Newark,Essex,Standard
+New Jersey,ZIP Code 07107,Newark,Essex,Standard
+New Jersey,ZIP Code 07108,Newark,Essex,Standard
+New Jersey,ZIP Code 07109,Belleville,Essex,Standard
+New Jersey,ZIP Code 07110,Nutley,Essex,Standard
+New Jersey,ZIP Code 07111,Irvington,Essex,Standard
+New Jersey,ZIP Code 07112,Newark,Essex,Standard
+New Jersey,ZIP Code 07114,Newark,Essex,Standard
+New Jersey,ZIP Code 07175,Newark,Essex,Unique
+New Jersey,ZIP Code 07184,Newark,Essex,Unique
+New Jersey,ZIP Code 07188,Newark,Essex,Unique
+New Jersey,ZIP Code 07189,Newark,Essex,Unique
+New Jersey,ZIP Code 07191,Newark,Essex,Unique
+New Jersey,ZIP Code 07192,Newark,Essex,Unique
+New Jersey,ZIP Code 07193,Newark,Essex,Unique
+New Jersey,ZIP Code 07195,Newark,Essex,Unique
+New Jersey,ZIP Code 07198,Newark,Essex,Unique
+New Jersey,ZIP Code 07199,Newark,Essex,Unique
+New Jersey,ZIP Code 07201,Elizabeth,Union,Standard
+New Jersey,ZIP Code 07202,Elizabeth,Union,Standard
+New Jersey,ZIP Code 07203,Roselle,Union,Standard
+New Jersey,ZIP Code 07204,Roselle Park,Union,Standard
+New Jersey,ZIP Code 07205,Hillside,Union,Standard
+New Jersey,ZIP Code 07206,Elizabethport,Union,Standard
+New Jersey,ZIP Code 07207,Elizabeth,Union,P.O. Box
+New Jersey,ZIP Code 07208,Elizabeth,Union,Standard
+New Jersey,ZIP Code 07302,Jersey City,Hudson,Standard
+New Jersey,ZIP Code 07303,Jersey City,Hudson,P.O. Box
+New Jersey,ZIP Code 07304,Jersey City,Hudson,Standard
+New Jersey,ZIP Code 07305,Jersey City,Hudson,Standard
+New Jersey,ZIP Code 07306,Jersey City,Hudson,Standard
+New Jersey,ZIP Code 07307,Jersey City,Hudson,Standard
+New Jersey,ZIP Code 07308,Jersey City,Hudson,P.O. Box
+New Jersey,ZIP Code 07310,Jersey City,Hudson,Standard
+New Jersey,ZIP Code 07311,Jersey City,Hudson,Standard
+New Jersey,ZIP Code 07395,Jersey City,Hudson,Unique
+New Jersey,ZIP Code 07399,Jersey City,Hudson,Unique
+New Jersey,ZIP Code 07401,Allendale,Bergen,Standard
+New Jersey,ZIP Code 07403,Bloomingdale,Passaic,Standard
+New Jersey,ZIP Code 07405,Butler,Morris,Standard
+New Jersey,ZIP Code 07407,Elmwood Park,Bergen,Standard
+New Jersey,ZIP Code 07410,Fair Lawn,Bergen,Standard
+New Jersey,ZIP Code 07416,Franklin,Sussex,Standard
+New Jersey,ZIP Code 07417,Franklin Lakes,Bergen,Standard
+New Jersey,ZIP Code 07418,Glenwood,Sussex,Standard
+New Jersey,ZIP Code 07419,Hamburg,Sussex,Standard
+New Jersey,ZIP Code 07420,Haskell,Passaic,Standard
+New Jersey,ZIP Code 07421,Hewitt,Passaic,Standard
+New Jersey,ZIP Code 07422,Highland Lakes,Sussex,Standard
+New Jersey,ZIP Code 07423,Ho Ho Kus,Bergen,Standard
+New Jersey,ZIP Code 07424,Little Falls,Passaic,Standard
+New Jersey,ZIP Code 07428,Mc Afee,Sussex,P.O. Box
+New Jersey,ZIP Code 07430,Mahwah,Bergen,Standard
+New Jersey,ZIP Code 07432,Midland Park,Bergen,Standard
+New Jersey,ZIP Code 07435,Newfoundland,Passaic,Standard
+New Jersey,ZIP Code 07436,Oakland,Bergen,Standard
+New Jersey,ZIP Code 07438,Oak Ridge,Passaic,Standard
+New Jersey,ZIP Code 07439,Ogdensburg,Sussex,Standard
+New Jersey,ZIP Code 07440,Pequannock,Morris,Standard
+New Jersey,ZIP Code 07442,Pompton Lakes,Passaic,Standard
+New Jersey,ZIP Code 07444,Pompton Plains,Morris,Standard
+New Jersey,ZIP Code 07446,Ramsey,Bergen,Standard
+New Jersey,ZIP Code 07450,Ridgewood,Bergen,Standard
+New Jersey,ZIP Code 07451,Ridgewood,Bergen,P.O. Box
+New Jersey,ZIP Code 07452,Glen Rock,Bergen,Standard
+New Jersey,ZIP Code 07456,Ringwood,Passaic,Standard
+New Jersey,ZIP Code 07457,Riverdale,Morris,Standard
+New Jersey,ZIP Code 07458,Saddle River,Bergen,Standard
+New Jersey,ZIP Code 07460,Stockholm,Sussex,Standard
+New Jersey,ZIP Code 07461,Sussex,Sussex,Standard
+New Jersey,ZIP Code 07462,Vernon,Sussex,Standard
+New Jersey,ZIP Code 07463,Waldwick,Bergen,Standard
+New Jersey,ZIP Code 07465,Wanaque,Passaic,Standard
+New Jersey,ZIP Code 07470,Wayne,Passaic,Standard
+New Jersey,ZIP Code 07474,Wayne,Passaic,P.O. Box
+New Jersey,ZIP Code 07480,West Milford,Passaic,Standard
+New Jersey,ZIP Code 07481,Wyckoff,Bergen,Standard
+New Jersey,ZIP Code 07495,Mahwah,Bergen,Standard
+New Jersey,ZIP Code 07501,Paterson,Passaic,Standard
+New Jersey,ZIP Code 07502,Paterson,Passaic,Standard
+New Jersey,ZIP Code 07503,Paterson,Passaic,Standard
+New Jersey,ZIP Code 07504,Paterson,Passaic,Standard
+New Jersey,ZIP Code 07505,Paterson,Passaic,Standard
+New Jersey,ZIP Code 07506,Hawthorne,Passaic,Standard
+New Jersey,ZIP Code 07507,Hawthorne,Passaic,P.O. Box
+New Jersey,ZIP Code 07508,Haledon,Passaic,Standard
+New Jersey,ZIP Code 07509,Paterson,Passaic,P.O. Box
+New Jersey,ZIP Code 07510,Paterson,Passaic,Standard
+New Jersey,ZIP Code 07511,Totowa,Passaic,P.O. Box
+New Jersey,ZIP Code 07512,Totowa,Passaic,Standard
+New Jersey,ZIP Code 07513,Paterson,Passaic,Standard
+New Jersey,ZIP Code 07514,Paterson,Passaic,Standard
+New Jersey,ZIP Code 07522,Paterson,Passaic,Standard
+New Jersey,ZIP Code 07524,Paterson,Passaic,Standard
+New Jersey,ZIP Code 07533,Paterson,Passaic,P.O. Box
+New Jersey,ZIP Code 07538,Haledon,Passaic,P.O. Box
+New Jersey,ZIP Code 07543,Paterson,Passaic,P.O. Box
+New Jersey,ZIP Code 07544,Paterson,Passaic,P.O. Box
+New Jersey,ZIP Code 07601,Hackensack,Bergen,Standard
+New Jersey,ZIP Code 07602,Hackensack,Bergen,P.O. Box
+New Jersey,ZIP Code 07603,Bogota,Bergen,Standard
+New Jersey,ZIP Code 07604,Hasbrouck Heights,Bergen,Standard
+New Jersey,ZIP Code 07605,Leonia,Bergen,Standard
+New Jersey,ZIP Code 07606,South Hackensack,Bergen,Standard
+New Jersey,ZIP Code 07607,Maywood,Bergen,Standard
+New Jersey,ZIP Code 07608,Teterboro,Bergen,Standard
+New Jersey,ZIP Code 07620,Alpine,Bergen,P.O. Box
+New Jersey,ZIP Code 07621,Bergenfield,Bergen,Standard
+New Jersey,ZIP Code 07624,Closter,Bergen,Standard
+New Jersey,ZIP Code 07626,Cresskill,Bergen,Standard
+New Jersey,ZIP Code 07627,Demarest,Bergen,Standard
+New Jersey,ZIP Code 07628,Dumont,Bergen,Standard
+New Jersey,ZIP Code 07630,Emerson,Bergen,Standard
+New Jersey,ZIP Code 07631,Englewood,Bergen,Standard
+New Jersey,ZIP Code 07632,Englewood Cliffs,Bergen,Standard
+New Jersey,ZIP Code 07640,Harrington Park,Bergen,Standard
+New Jersey,ZIP Code 07641,Haworth,Bergen,Standard
+New Jersey,ZIP Code 07642,Hillsdale,Bergen,Standard
+New Jersey,ZIP Code 07643,Little Ferry,Bergen,Standard
+New Jersey,ZIP Code 07644,Lodi,Bergen,Standard
+New Jersey,ZIP Code 07645,Montvale,Bergen,Standard
+New Jersey,ZIP Code 07646,New Milford,Bergen,Standard
+New Jersey,ZIP Code 07647,Northvale,Bergen,Standard
+New Jersey,ZIP Code 07648,Norwood,Bergen,Standard
+New Jersey,ZIP Code 07649,Oradell,Bergen,Standard
+New Jersey,ZIP Code 07650,Palisades Park,Bergen,Standard
+New Jersey,ZIP Code 07652,Paramus,Bergen,Standard
+New Jersey,ZIP Code 07653,Paramus,Bergen,P.O. Box
+New Jersey,ZIP Code 07656,Park Ridge,Bergen,Standard
+New Jersey,ZIP Code 07657,Ridgefield,Bergen,Standard
+New Jersey,ZIP Code 07660,Ridgefield Park,Bergen,Standard
+New Jersey,ZIP Code 07661,River Edge,Bergen,Standard
+New Jersey,ZIP Code 07662,Rochelle Park,Bergen,Standard
+New Jersey,ZIP Code 07663,Saddle Brook,Bergen,Standard
+New Jersey,ZIP Code 07666,Teaneck,Bergen,Standard
+New Jersey,ZIP Code 07670,Tenafly,Bergen,Standard
+New Jersey,ZIP Code 07675,Westwood,Bergen,Standard
+New Jersey,ZIP Code 07676,Township Of Washington,Bergen,Standard
+New Jersey,ZIP Code 07677,Woodcliff Lake,Bergen,Standard
+New Jersey,ZIP Code 07699,Teterboro,Bergen,Unique
+New Jersey,ZIP Code 07701,Red Bank,Monmouth,Standard
+New Jersey,ZIP Code 07702,Shrewsbury,Monmouth,Standard
+New Jersey,ZIP Code 07703,Fort Monmouth,Monmouth,Standard
+New Jersey,ZIP Code 07704,Fair Haven,Monmouth,Standard
+New Jersey,ZIP Code 07710,Adelphia,Monmouth,P.O. Box
+New Jersey,ZIP Code 07711,Allenhurst,Monmouth,Standard
+New Jersey,ZIP Code 07712,Asbury Park,Monmouth,Standard
+New Jersey,ZIP Code 07715,Belmar,Monmouth,Unique
+New Jersey,ZIP Code 07716,Atlantic Highlands,Monmouth,Standard
+New Jersey,ZIP Code 07717,Avon By The Sea,Monmouth,Standard
+New Jersey,ZIP Code 07718,Belford,Monmouth,Standard
+New Jersey,ZIP Code 07719,Belmar,Monmouth,Standard
+New Jersey,ZIP Code 07720,Bradley Beach,Monmouth,Standard
+New Jersey,ZIP Code 07721,Cliffwood,Monmouth,Standard
+New Jersey,ZIP Code 07722,Colts Neck,Monmouth,Standard
+New Jersey,ZIP Code 07723,Deal,Monmouth,Standard
+New Jersey,ZIP Code 07724,Eatontown,Monmouth,Standard
+New Jersey,ZIP Code 07726,Englishtown,Monmouth,Standard
+New Jersey,ZIP Code 07727,Farmingdale,Monmouth,Standard
+New Jersey,ZIP Code 07728,Freehold,Monmouth,Standard
+New Jersey,ZIP Code 07730,Hazlet,Monmouth,Standard
+New Jersey,ZIP Code 07731,Howell,Monmouth,Standard
+New Jersey,ZIP Code 07732,Highlands,Monmouth,Standard
+New Jersey,ZIP Code 07733,Holmdel,Monmouth,Standard
+New Jersey,ZIP Code 07734,Keansburg,Monmouth,Standard
+New Jersey,ZIP Code 07735,Keyport,Monmouth,Standard
+New Jersey,ZIP Code 07737,Leonardo,Monmouth,Standard
+New Jersey,ZIP Code 07738,Lincroft,Monmouth,Standard
+New Jersey,ZIP Code 07739,Little Silver,Monmouth,Standard
+New Jersey,ZIP Code 07740,Long Branch,Monmouth,Standard
+New Jersey,ZIP Code 07746,Marlboro,Monmouth,Standard
+New Jersey,ZIP Code 07747,Matawan,Monmouth,Standard
+New Jersey,ZIP Code 07748,Middletown,Monmouth,Standard
+New Jersey,ZIP Code 07750,Monmouth Beach,Monmouth,Standard
+New Jersey,ZIP Code 07751,Morganville,Monmouth,Standard
+New Jersey,ZIP Code 07752,Navesink,Monmouth,P.O. Box
+New Jersey,ZIP Code 07753,Neptune,Monmouth,Standard
+New Jersey,ZIP Code 07754,Neptune,Monmouth,P.O. Box
+New Jersey,ZIP Code 07755,Oakhurst,Monmouth,Standard
+New Jersey,ZIP Code 07756,Ocean Grove,Monmouth,Standard
+New Jersey,ZIP Code 07757,Oceanport,Monmouth,Standard
+New Jersey,ZIP Code 07758,Port Monmouth,Monmouth,Standard
+New Jersey,ZIP Code 07760,Rumson,Monmouth,Standard
+New Jersey,ZIP Code 07762,Spring Lake,Monmouth,Standard
+New Jersey,ZIP Code 07763,Tennent,Monmouth,P.O. Box
+New Jersey,ZIP Code 07764,West Long Branch,Monmouth,Standard
+New Jersey,ZIP Code 07765,Wickatunk,Monmouth,P.O. Box
+New Jersey,ZIP Code 07799,Eatontown,Monmouth,Standard
+New Jersey,ZIP Code 07801,Dover,Morris,Standard
+New Jersey,ZIP Code 07802,Dover,Morris,P.O. Box
+New Jersey,ZIP Code 07803,Mine Hill,Morris,Standard
+New Jersey,ZIP Code 07806,Picatinny Arsenal,Morris,Standard
+New Jersey,ZIP Code 07820,Allamuchy,Warren,P.O. Box
+New Jersey,ZIP Code 07821,Andover,Sussex,Standard
+New Jersey,ZIP Code 07822,Augusta,Sussex,Standard
+New Jersey,ZIP Code 07823,Belvidere,Warren,Standard
+New Jersey,ZIP Code 07825,Blairstown,Warren,Standard
+New Jersey,ZIP Code 07826,Branchville,Sussex,Standard
+New Jersey,ZIP Code 07827,Montague,Sussex,Standard
+New Jersey,ZIP Code 07828,Budd Lake,Morris,Standard
+New Jersey,ZIP Code 07829,Buttzville,Warren,P.O. Box
+New Jersey,ZIP Code 07830,Califon,Hunterdon,Standard
+New Jersey,ZIP Code 07831,Changewater,Warren,Standard
+New Jersey,ZIP Code 07832,Columbia,Warren,Standard
+New Jersey,ZIP Code 07833,Delaware,Warren,P.O. Box
+New Jersey,ZIP Code 07834,Denville,Morris,Standard
+New Jersey,ZIP Code 07836,Flanders,Morris,Standard
+New Jersey,ZIP Code 07837,Glasser,Sussex,P.O. Box
+New Jersey,ZIP Code 07838,Great Meadows,Warren,Standard
+New Jersey,ZIP Code 07839,Greendell,Sussex,P.O. Box
+New Jersey,ZIP Code 07840,Hackettstown,Warren,Standard
+New Jersey,ZIP Code 07842,Hibernia,Morris,P.O. Box
+New Jersey,ZIP Code 07843,Hopatcong,Sussex,Standard
+New Jersey,ZIP Code 07844,Hope,Warren,P.O. Box
+New Jersey,ZIP Code 07845,Ironia,Morris,P.O. Box
+New Jersey,ZIP Code 07846,Johnsonburg,Warren,P.O. Box
+New Jersey,ZIP Code 07847,Kenvil,Morris,Standard
+New Jersey,ZIP Code 07848,Lafayette,Sussex,Standard
+New Jersey,ZIP Code 07849,Lake Hopatcong,Morris,Standard
+New Jersey,ZIP Code 07850,Landing,Morris,Standard
+New Jersey,ZIP Code 07851,Layton,Sussex,Standard
+New Jersey,ZIP Code 07852,Ledgewood,Morris,Standard
+New Jersey,ZIP Code 07853,Long Valley,Morris,Standard
+New Jersey,ZIP Code 07855,Middleville,Sussex,P.O. Box
+New Jersey,ZIP Code 07856,Mount Arlington,Morris,Standard
+New Jersey,ZIP Code 07857,Netcong,Morris,Standard
+New Jersey,ZIP Code 07860,Newton,Sussex,Standard
+New Jersey,ZIP Code 07863,Oxford,Warren,Standard
+New Jersey,ZIP Code 07865,Port Murray,Warren,Standard
+New Jersey,ZIP Code 07866,Rockaway,Morris,Standard
+New Jersey,ZIP Code 07869,Randolph,Morris,Standard
+New Jersey,ZIP Code 07870,Schooleys Mountain,Morris,P.O. Box
+New Jersey,ZIP Code 07871,Sparta,Sussex,Standard
+New Jersey,ZIP Code 07874,Stanhope,Sussex,Standard
+New Jersey,ZIP Code 07875,Stillwater,Sussex,P.O. Box
+New Jersey,ZIP Code 07876,Succasunna,Morris,Standard
+New Jersey,ZIP Code 07877,Swartswood,Sussex,P.O. Box
+New Jersey,ZIP Code 07878,Mount Tabor,Morris,P.O. Box
+New Jersey,ZIP Code 07879,Tranquility,Sussex,P.O. Box
+New Jersey,ZIP Code 07880,Vienna,Warren,P.O. Box
+New Jersey,ZIP Code 07881,Wallpack Center,Sussex,Standard
+New Jersey,ZIP Code 07882,Washington,Warren,Standard
+New Jersey,ZIP Code 07885,Wharton,Morris,Standard
+New Jersey,ZIP Code 07890,Branchville,Sussex,Unique
+New Jersey,ZIP Code 07901,Summit,Union,Standard
+New Jersey,ZIP Code 07902,Summit,Union,P.O. Box
+New Jersey,ZIP Code 07920,Basking Ridge,Somerset,Standard
+New Jersey,ZIP Code 07921,Bedminster,Somerset,Standard
+New Jersey,ZIP Code 07922,Berkeley Heights,Union,Standard
+New Jersey,ZIP Code 07924,Bernardsville,Somerset,Standard
+New Jersey,ZIP Code 07926,Brookside,Morris,P.O. Box
+New Jersey,ZIP Code 07927,Cedar Knolls,Morris,Standard
+New Jersey,ZIP Code 07928,Chatham,Morris,Standard
+New Jersey,ZIP Code 07930,Chester,Morris,Standard
+New Jersey,ZIP Code 07931,Far Hills,Somerset,Standard
+New Jersey,ZIP Code 07932,Florham Park,Morris,Standard
+New Jersey,ZIP Code 07933,Gillette,Morris,Standard
+New Jersey,ZIP Code 07934,Gladstone,Somerset,Standard
+New Jersey,ZIP Code 07935,Green Village,Morris,Standard
+New Jersey,ZIP Code 07936,East Hanover,Morris,Standard
+New Jersey,ZIP Code 07938,Liberty Corner,Somerset,P.O. Box
+New Jersey,ZIP Code 07939,Lyons,Somerset,Standard
+New Jersey,ZIP Code 07940,Madison,Morris,Standard
+New Jersey,ZIP Code 07945,Mendham,Morris,Standard
+New Jersey,ZIP Code 07946,Millington,Morris,Standard
+New Jersey,ZIP Code 07950,Morris Plains,Morris,Standard
+New Jersey,ZIP Code 07960,Morristown,Morris,Standard
+New Jersey,ZIP Code 07961,Convent Station,Morris,P.O. Box
+New Jersey,ZIP Code 07962,Morristown,Morris,P.O. Box
+New Jersey,ZIP Code 07963,Morristown,Morris,P.O. Box
+New Jersey,ZIP Code 07970,Mount Freedom,Morris,P.O. Box
+New Jersey,ZIP Code 07974,New Providence,Union,Standard
+New Jersey,ZIP Code 07976,New Vernon,Morris,Standard
+New Jersey,ZIP Code 07977,Peapack,Somerset,P.O. Box
+New Jersey,ZIP Code 07978,Pluckemin,Somerset,P.O. Box
+New Jersey,ZIP Code 07979,Pottersville,Hunterdon,P.O. Box
+New Jersey,ZIP Code 07980,Stirling,Morris,Standard
+New Jersey,ZIP Code 07981,Whippany,Morris,Standard
+New Jersey,ZIP Code 07999,Whippany,Morris,Standard
+New Jersey,ZIP Code 08001,Alloway,Salem,P.O. Box
+New Jersey,ZIP Code 08002,Cherry Hill,Camden,Standard
+New Jersey,ZIP Code 08003,Cherry Hill,Camden,Standard
+New Jersey,ZIP Code 08004,Atco,Camden,Standard
+New Jersey,ZIP Code 08005,Barnegat,Ocean,Standard
+New Jersey,ZIP Code 08006,Barnegat Light,Ocean,P.O. Box
+New Jersey,ZIP Code 08007,Barrington,Camden,Standard
+New Jersey,ZIP Code 08008,Beach Haven,Ocean,Standard
+New Jersey,ZIP Code 08009,Berlin,Camden,Standard
+New Jersey,ZIP Code 08010,Beverly,Burlington,Standard
+New Jersey,ZIP Code 08011,Birmingham,Burlington,P.O. Box
+New Jersey,ZIP Code 08012,Blackwood,Camden,Standard
+New Jersey,ZIP Code 08014,Bridgeport,Gloucester,Standard
+New Jersey,ZIP Code 08015,Browns Mills,Burlington,Standard
+New Jersey,ZIP Code 08016,Burlington,Burlington,Standard
+New Jersey,ZIP Code 08018,Cedar Brook,Camden,P.O. Box
+New Jersey,ZIP Code 08019,Chatsworth,Burlington,Standard
+New Jersey,ZIP Code 08020,Clarksboro,Gloucester,Standard
+New Jersey,ZIP Code 08021,Clementon,Camden,Standard
+New Jersey,ZIP Code 08022,Columbus,Burlington,Standard
+New Jersey,ZIP Code 08023,Deepwater,Salem,P.O. Box
+New Jersey,ZIP Code 08025,Ewan,Gloucester,P.O. Box
+New Jersey,ZIP Code 08026,Gibbsboro,Camden,Standard
+New Jersey,ZIP Code 08027,Gibbstown,Gloucester,Standard
+New Jersey,ZIP Code 08028,Glassboro,Gloucester,Standard
+New Jersey,ZIP Code 08029,Glendora,Camden,Standard
+New Jersey,ZIP Code 08030,Gloucester City,Camden,Standard
+New Jersey,ZIP Code 08031,Bellmawr,Camden,Standard
+New Jersey,ZIP Code 08032,Grenloch,Gloucester,Standard
+New Jersey,ZIP Code 08033,Haddonfield,Camden,Standard
+New Jersey,ZIP Code 08034,Cherry Hill,Camden,Standard
+New Jersey,ZIP Code 08035,Haddon Heights,Camden,Standard
+New Jersey,ZIP Code 08036,Hainesport,Burlington,Standard
+New Jersey,ZIP Code 08037,Hammonton,Atlantic,Standard
+New Jersey,ZIP Code 08038,Hancocks Bridge,Salem,P.O. Box
+New Jersey,ZIP Code 08039,Harrisonville,Gloucester,P.O. Box
+New Jersey,ZIP Code 08041,Jobstown,Burlington,Standard
+New Jersey,ZIP Code 08042,Juliustown,Burlington,P.O. Box
+New Jersey,ZIP Code 08043,Voorhees,Camden,Standard
+New Jersey,ZIP Code 08045,Lawnside,Camden,Standard
+New Jersey,ZIP Code 08046,Willingboro,Burlington,Standard
+New Jersey,ZIP Code 08048,Lumberton,Burlington,Standard
+New Jersey,ZIP Code 08049,Magnolia,Camden,Standard
+New Jersey,ZIP Code 08050,Manahawkin,Ocean,Standard
+New Jersey,ZIP Code 08051,Mantua,Gloucester,Standard
+New Jersey,ZIP Code 08052,Maple Shade,Burlington,Standard
+New Jersey,ZIP Code 08053,Marlton,Burlington,Standard
+New Jersey,ZIP Code 08054,Mount Laurel,Burlington,Standard
+New Jersey,ZIP Code 08055,Medford,Burlington,Standard
+New Jersey,ZIP Code 08055,Medford Lakes,Burlington,Standard
+New Jersey,ZIP Code 08056,Mickleton,Gloucester,Standard
+New Jersey,ZIP Code 08057,Moorestown,Burlington,Standard
+New Jersey,ZIP Code 08059,Mount Ephraim,Camden,Standard
+New Jersey,ZIP Code 08060,Mount Holly,Burlington,Standard
+New Jersey,ZIP Code 08061,Mount Royal,Gloucester,Standard
+New Jersey,ZIP Code 08062,Mullica Hill,Gloucester,Standard
+New Jersey,ZIP Code 08062,South Harrison Township,Gloucester,Standard
+New Jersey,ZIP Code 08063,National Park,Gloucester,Standard
+New Jersey,ZIP Code 08064,New Lisbon,Burlington,P.O. Box
+New Jersey,ZIP Code 08065,Palmyra,Burlington,Standard
+New Jersey,ZIP Code 08066,Paulsboro,Gloucester,Standard
+New Jersey,ZIP Code 08067,Pedricktown,Salem,Standard
+New Jersey,ZIP Code 08068,Pemberton,Burlington,Standard
+New Jersey,ZIP Code 08069,Penns Grove,Salem,Standard
+New Jersey,ZIP Code 08070,Pennsville,Salem,Standard
+New Jersey,ZIP Code 08071,Pitman,Gloucester,Standard
+New Jersey,ZIP Code 08072,Quinton,Salem,P.O. Box
+New Jersey,ZIP Code 08073,Rancocas,Burlington,P.O. Box
+New Jersey,ZIP Code 08074,Richwood,Gloucester,P.O. Box
+New Jersey,ZIP Code 08075,Delanco,Burlington,Standard
+New Jersey,ZIP Code 08075,Delran,Burlington,Standard
+New Jersey,ZIP Code 08075,Riverside,Burlington,Standard
+New Jersey,ZIP Code 08076,Riverton,Burlington,P.O. Box
+New Jersey,ZIP Code 08077,Riverton,Burlington,Standard
+New Jersey,ZIP Code 08078,Runnemede,Camden,Standard
+New Jersey,ZIP Code 08079,Salem,Salem,Standard
+New Jersey,ZIP Code 08080,Sewell,Gloucester,Standard
+New Jersey,ZIP Code 08081,Sicklerville,Camden,Standard
+New Jersey,ZIP Code 08083,Somerdale,Camden,Standard
+New Jersey,ZIP Code 08084,Stratford,Camden,Standard
+New Jersey,ZIP Code 08085,Swedesboro,Gloucester,Standard
+New Jersey,ZIP Code 08086,Thorofare,Gloucester,Standard
+New Jersey,ZIP Code 08087,Little Egg Harbor Twp,Ocean,Standard
+New Jersey,ZIP Code 08087,Tuckerton,Ocean,Standard
+New Jersey,ZIP Code 08088,Shamong,Burlington,Standard
+New Jersey,ZIP Code 08088,Southampton,Burlington,Standard
+New Jersey,ZIP Code 08088,Tabernacle,Burlington,Standard
+New Jersey,ZIP Code 08088,Vincentown,Burlington,Standard
+New Jersey,ZIP Code 08089,Waterford Works,Camden,Standard
+New Jersey,ZIP Code 08090,Wenonah,Gloucester,Standard
+New Jersey,ZIP Code 08091,West Berlin,Camden,Standard
+New Jersey,ZIP Code 08092,West Creek,Ocean,Standard
+New Jersey,ZIP Code 08093,Westville,Gloucester,Standard
+New Jersey,ZIP Code 08094,Williamstown,Gloucester,Standard
+New Jersey,ZIP Code 08095,Winslow,Camden,P.O. Box
+New Jersey,ZIP Code 08096,Deptford,Gloucester,Standard
+New Jersey,ZIP Code 08096,Woodbury,Gloucester,Standard
+New Jersey,ZIP Code 08097,Woodbury Heights,Gloucester,Standard
+New Jersey,ZIP Code 08098,Woodstown,Salem,Standard
+New Jersey,ZIP Code 08099,Bellmawr,Camden,P.O. Box
+New Jersey,ZIP Code 08101,Camden,Camden,P.O. Box
+New Jersey,ZIP Code 08102,Camden,Camden,Standard
+New Jersey,ZIP Code 08103,Camden,Camden,Standard
+New Jersey,ZIP Code 08104,Camden,Camden,Standard
+New Jersey,ZIP Code 08105,Camden,Camden,Standard
+New Jersey,ZIP Code 08106,Audubon,Camden,Standard
+New Jersey,ZIP Code 08107,Oaklyn,Camden,Standard
+New Jersey,ZIP Code 08108,Collingswood,Camden,Standard
+New Jersey,ZIP Code 08109,Merchantville,Camden,Standard
+New Jersey,ZIP Code 08110,Pennsauken,Camden,Standard
+New Jersey,ZIP Code 08201,Absecon,Atlantic,Standard
+New Jersey,ZIP Code 08202,Avalon,Cape May,Standard
+New Jersey,ZIP Code 08203,Brigantine,Atlantic,Standard
+New Jersey,ZIP Code 08204,Cape May,Cape May,Standard
+New Jersey,ZIP Code 08205,Absecon,Atlantic,Standard
+New Jersey,ZIP Code 08210,Cape May Court House,Cape May,Standard
+New Jersey,ZIP Code 08212,Cape May Point,Cape May,P.O. Box
+New Jersey,ZIP Code 08213,Cologne,Atlantic,P.O. Box
+New Jersey,ZIP Code 08214,Dennisville,Cape May,P.O. Box
+New Jersey,ZIP Code 08215,Egg Harbor City,Atlantic,Standard
+New Jersey,ZIP Code 08217,Elwood,Atlantic,P.O. Box
+New Jersey,ZIP Code 08218,Goshen,Cape May,P.O. Box
+New Jersey,ZIP Code 08219,Green Creek,Cape May,P.O. Box
+New Jersey,ZIP Code 08220,Leeds Point,Atlantic,P.O. Box
+New Jersey,ZIP Code 08221,Linwood,Atlantic,Standard
+New Jersey,ZIP Code 08223,Marmora,Cape May,Standard
+New Jersey,ZIP Code 08224,New Gretna,Burlington,P.O. Box
+New Jersey,ZIP Code 08225,Northfield,Atlantic,Standard
+New Jersey,ZIP Code 08226,Ocean City,Cape May,Standard
+New Jersey,ZIP Code 08230,Ocean View,Cape May,Standard
+New Jersey,ZIP Code 08231,Oceanville,Atlantic,P.O. Box
+New Jersey,ZIP Code 08232,Pleasantville,Atlantic,Standard
+New Jersey,ZIP Code 08234,Egg Harbor Township,Atlantic,Standard
+New Jersey,ZIP Code 08240,Pomona,Atlantic,P.O. Box
+New Jersey,ZIP Code 08241,Port Republic,Atlantic,Standard
+New Jersey,ZIP Code 08242,Rio Grande,Cape May,Standard
+New Jersey,ZIP Code 08243,Sea Isle City,Cape May,Standard
+New Jersey,ZIP Code 08244,Somers Point,Atlantic,Standard
+New Jersey,ZIP Code 08245,South Dennis,Cape May,P.O. Box
+New Jersey,ZIP Code 08246,South Seaville,Cape May,P.O. Box
+New Jersey,ZIP Code 08247,Stone Harbor,Cape May,Standard
+New Jersey,ZIP Code 08248,Strathmere,Cape May,P.O. Box
+New Jersey,ZIP Code 08250,Tuckahoe,Cape May,P.O. Box
+New Jersey,ZIP Code 08251,Villas,Cape May,Standard
+New Jersey,ZIP Code 08252,Whitesboro,Cape May,P.O. Box
+New Jersey,ZIP Code 08260,Wildwood,Cape May,Standard
+New Jersey,ZIP Code 08270,Woodbine,Cape May,Standard
+New Jersey,ZIP Code 08302,Bridgeton,Cumberland,Standard
+New Jersey,ZIP Code 08310,Buena,Atlantic,Standard
+New Jersey,ZIP Code 08311,Cedarville,Cumberland,Standard
+New Jersey,ZIP Code 08312,Clayton,Gloucester,Standard
+New Jersey,ZIP Code 08313,Deerfield Street,Cumberland,P.O. Box
+New Jersey,ZIP Code 08314,Delmont,Cumberland,Standard
+New Jersey,ZIP Code 08315,Dividing Creek,Cumberland,P.O. Box
+New Jersey,ZIP Code 08316,Dorchester,Cumberland,P.O. Box
+New Jersey,ZIP Code 08317,Dorothy,Atlantic,Standard
+New Jersey,ZIP Code 08318,Elmer,Salem,Standard
+New Jersey,ZIP Code 08319,Estell Manor,Atlantic,Standard
+New Jersey,ZIP Code 08320,Fairton,Cumberland,P.O. Box
+New Jersey,ZIP Code 08321,Fortescue,Cumberland,P.O. Box
+New Jersey,ZIP Code 08322,Franklinville,Gloucester,Standard
+New Jersey,ZIP Code 08323,Greenwich,Cumberland,Standard
+New Jersey,ZIP Code 08324,Heislerville,Cumberland,Standard
+New Jersey,ZIP Code 08326,Landisville,Atlantic,Standard
+New Jersey,ZIP Code 08327,Leesburg,Cumberland,Standard
+New Jersey,ZIP Code 08328,Malaga,Gloucester,Standard
+New Jersey,ZIP Code 08329,Mauricetown,Cumberland,P.O. Box
+New Jersey,ZIP Code 08330,Mays Landing,Atlantic,Standard
+New Jersey,ZIP Code 08332,Millville,Cumberland,Standard
+New Jersey,ZIP Code 08340,Milmay,Atlantic,Standard
+New Jersey,ZIP Code 08341,Minotola,Atlantic,Standard
+New Jersey,ZIP Code 08342,Mizpah,Atlantic,P.O. Box
+New Jersey,ZIP Code 08343,Monroeville,Salem,Standard
+New Jersey,ZIP Code 08344,Newfield,Gloucester,Standard
+New Jersey,ZIP Code 08345,Newport,Cumberland,Standard
+New Jersey,ZIP Code 08346,Newtonville,Atlantic,Standard
+New Jersey,ZIP Code 08347,Norma,Salem,P.O. Box
+New Jersey,ZIP Code 08348,Port Elizabeth,Cumberland,Standard
+New Jersey,ZIP Code 08349,Port Norris,Cumberland,Standard
+New Jersey,ZIP Code 08350,Richland,Atlantic,Standard
+New Jersey,ZIP Code 08352,Rosenhayn,Cumberland,P.O. Box
+New Jersey,ZIP Code 08353,Shiloh,Cumberland,Standard
+New Jersey,ZIP Code 08360,Vineland,Cumberland,Standard
+New Jersey,ZIP Code 08361,Vineland,Cumberland,Standard
+New Jersey,ZIP Code 08362,Vineland,Cumberland,P.O. Box
+New Jersey,ZIP Code 08401,Atlantic City,Atlantic,Standard
+New Jersey,ZIP Code 08402,Margate City,Atlantic,Standard
+New Jersey,ZIP Code 08403,Longport,Atlantic,Standard
+New Jersey,ZIP Code 08404,Atlantic City,Atlantic,P.O. Box
+New Jersey,ZIP Code 08405,Atlantic City,Atlantic,Unique
+New Jersey,ZIP Code 08406,Ventnor City,Atlantic,Standard
+New Jersey,ZIP Code 08501,Allentown,Monmouth,Standard
+New Jersey,ZIP Code 08502,Belle Mead,Somerset,Standard
+New Jersey,ZIP Code 08504,Blawenburg,Somerset,P.O. Box
+New Jersey,ZIP Code 08505,Bordentown,Burlington,Standard
+New Jersey,ZIP Code 08510,Millstone Township,Monmouth,Standard
+New Jersey,ZIP Code 08511,Cookstown,Burlington,Standard
+New Jersey,ZIP Code 08512,Cranbury,Middlesex,Standard
+New Jersey,ZIP Code 08514,Cream Ridge,Monmouth,Standard
+New Jersey,ZIP Code 08515,Chesterfield,Burlington,Standard
+New Jersey,ZIP Code 08518,Florence,Burlington,Standard
+New Jersey,ZIP Code 08520,Hightstown,Mercer,Standard
+New Jersey,ZIP Code 08525,Hopewell,Mercer,Standard
+New Jersey,ZIP Code 08526,Imlaystown,Monmouth,P.O. Box
+New Jersey,ZIP Code 08527,Jackson,Ocean,Standard
+New Jersey,ZIP Code 08528,Kingston,Somerset,Standard
+New Jersey,ZIP Code 08530,Lambertville,Hunterdon,Standard
+New Jersey,ZIP Code 08533,New Egypt,Ocean,Standard
+New Jersey,ZIP Code 08534,Pennington,Mercer,Standard
+New Jersey,ZIP Code 08535,Millstone Township,Monmouth,Standard
+New Jersey,ZIP Code 08536,Plainsboro,Middlesex,Standard
+New Jersey,ZIP Code 08540,Princeton,Mercer,Standard
+New Jersey,ZIP Code 08541,Princeton,Mercer,Unique
+New Jersey,ZIP Code 08542,Princeton,Mercer,Standard
+New Jersey,ZIP Code 08543,Princeton,Mercer,P.O. Box
+New Jersey,ZIP Code 08544,Princeton,Mercer,Unique
+New Jersey,ZIP Code 08550,Princeton Junction,Mercer,Standard
+New Jersey,ZIP Code 08551,Ringoes,Hunterdon,Standard
+New Jersey,ZIP Code 08553,Rocky Hill,Somerset,Standard
+New Jersey,ZIP Code 08554,Roebling,Burlington,Standard
+New Jersey,ZIP Code 08555,Roosevelt,Monmouth,P.O. Box
+New Jersey,ZIP Code 08556,Rosemont,Hunterdon,Standard
+New Jersey,ZIP Code 08557,Sergeantsville,Hunterdon,P.O. Box
+New Jersey,ZIP Code 08558,Skillman,Somerset,Standard
+New Jersey,ZIP Code 08559,Stockton,Hunterdon,Standard
+New Jersey,ZIP Code 08560,Titusville,Mercer,Standard
+New Jersey,ZIP Code 08561,Windsor,Mercer,P.O. Box
+New Jersey,ZIP Code 08562,Wrightstown,Burlington,Standard
+New Jersey,ZIP Code 08601,Trenton,Mercer,P.O. Box
+New Jersey,ZIP Code 08602,Trenton,Mercer,P.O. Box
+New Jersey,ZIP Code 08603,Trenton,Mercer,P.O. Box
+New Jersey,ZIP Code 08604,Trenton,Mercer,P.O. Box
+New Jersey,ZIP Code 08605,Trenton,Mercer,P.O. Box
+New Jersey,ZIP Code 08606,Trenton,Mercer,P.O. Box
+New Jersey,ZIP Code 08607,Trenton,Mercer,P.O. Box
+New Jersey,ZIP Code 08608,Trenton,Mercer,Standard
+New Jersey,ZIP Code 08609,Trenton,Mercer,Standard
+New Jersey,ZIP Code 08610,Trenton,Mercer,Standard
+New Jersey,ZIP Code 08611,Trenton,Mercer,Standard
+New Jersey,ZIP Code 08618,Trenton,Mercer,Standard
+New Jersey,ZIP Code 08619,Trenton,Mercer,Standard
+New Jersey,ZIP Code 08620,Trenton,Mercer,Standard
+New Jersey,ZIP Code 08625,Trenton,Mercer,P.O. Box
+New Jersey,ZIP Code 08628,Trenton,Mercer,Standard
+New Jersey,ZIP Code 08629,Trenton,Mercer,Standard
+New Jersey,ZIP Code 08638,Trenton,Mercer,Standard
+New Jersey,ZIP Code 08640,Joint Base Mdl,Burlington,Standard
+New Jersey,ZIP Code 08641,Joint Base Mdl,Burlington,Standard
+New Jersey,ZIP Code 08645,Trenton,Mercer,Unique
+New Jersey,ZIP Code 08646,Trenton,Mercer,Unique
+New Jersey,ZIP Code 08647,Trenton,Mercer,Unique
+New Jersey,ZIP Code 08648,Lawrence Township,Mercer,Standard
+New Jersey,ZIP Code 08650,Trenton,Mercer,P.O. Box
+New Jersey,ZIP Code 08666,Trenton,Mercer,Unique
+New Jersey,ZIP Code 08690,Trenton,Mercer,Standard
+New Jersey,ZIP Code 08691,Robbinsville,Mercer,Standard
+New Jersey,ZIP Code 08695,Trenton,Mercer,Unique
+New Jersey,ZIP Code 08701,Lakewood,Ocean,Standard
+New Jersey,ZIP Code 08720,Allenwood,Monmouth,P.O. Box
+New Jersey,ZIP Code 08721,Bayville,Ocean,Standard
+New Jersey,ZIP Code 08722,Beachwood,Ocean,Standard
+New Jersey,ZIP Code 08723,Brick,Ocean,Standard
+New Jersey,ZIP Code 08724,Brick,Ocean,Standard
+New Jersey,ZIP Code 08730,Brielle,Monmouth,Standard
+New Jersey,ZIP Code 08731,Forked River,Ocean,Standard
+New Jersey,ZIP Code 08732,Island Heights,Ocean,P.O. Box
+New Jersey,ZIP Code 08733,Lakehurst,Ocean,Standard
+New Jersey,ZIP Code 08734,Lanoka Harbor,Ocean,Standard
+New Jersey,ZIP Code 08735,Lavallette,Ocean,Standard
+New Jersey,ZIP Code 08736,Manasquan,Monmouth,Standard
+New Jersey,ZIP Code 08738,Mantoloking,Ocean,Standard
+New Jersey,ZIP Code 08739,Normandy Beach,Ocean,P.O. Box
+New Jersey,ZIP Code 08740,Ocean Gate,Ocean,P.O. Box
+New Jersey,ZIP Code 08741,Pine Beach,Ocean,Standard
+New Jersey,ZIP Code 08742,Point Pleasant Beach,Ocean,Standard
+New Jersey,ZIP Code 08750,Sea Girt,Monmouth,Standard
+New Jersey,ZIP Code 08751,Seaside Heights,Ocean,Standard
+New Jersey,ZIP Code 08752,Seaside Park,Ocean,Standard
+New Jersey,ZIP Code 08753,Toms River,Ocean,Standard
+New Jersey,ZIP Code 08754,Toms River,Ocean,P.O. Box
+New Jersey,ZIP Code 08755,Toms River,Ocean,Standard
+New Jersey,ZIP Code 08756,Toms River,Ocean,P.O. Box
+New Jersey,ZIP Code 08757,Toms River,Ocean,Standard
+New Jersey,ZIP Code 08758,Waretown,Ocean,Standard
+New Jersey,ZIP Code 08759,Manchester Township,Ocean,Standard
+New Jersey,ZIP Code 08801,Annandale,Hunterdon,Standard
+New Jersey,ZIP Code 08802,Asbury,Hunterdon,Standard
+New Jersey,ZIP Code 08803,Baptistown,Hunterdon,P.O. Box
+New Jersey,ZIP Code 08804,Bloomsbury,Hunterdon,Standard
+New Jersey,ZIP Code 08805,Bound Brook,Somerset,Standard
+New Jersey,ZIP Code 08807,Bridgewater,Somerset,Standard
+New Jersey,ZIP Code 08808,Broadway,Warren,P.O. Box
+New Jersey,ZIP Code 08809,Clinton,Hunterdon,Standard
+New Jersey,ZIP Code 08810,Dayton,Middlesex,Standard
+New Jersey,ZIP Code 08812,Dunellen,Middlesex,Standard
+New Jersey,ZIP Code 08816,East Brunswick,Middlesex,Standard
+New Jersey,ZIP Code 08817,Edison,Middlesex,Standard
+New Jersey,ZIP Code 08818,Edison,Middlesex,P.O. Box
+New Jersey,ZIP Code 08820,Edison,Middlesex,Standard
+New Jersey,ZIP Code 08821,Flagtown,Somerset,P.O. Box
+New Jersey,ZIP Code 08822,Flemington,Hunterdon,Standard
+New Jersey,ZIP Code 08823,Franklin Park,Somerset,Standard
+New Jersey,ZIP Code 08824,Kendall Park,Middlesex,Standard
+New Jersey,ZIP Code 08825,Frenchtown,Hunterdon,Standard
+New Jersey,ZIP Code 08826,Glen Gardner,Hunterdon,Standard
+New Jersey,ZIP Code 08827,Hampton,Hunterdon,Standard
+New Jersey,ZIP Code 08828,Helmetta,Middlesex,Standard
+New Jersey,ZIP Code 08829,High Bridge,Hunterdon,Standard
+New Jersey,ZIP Code 08830,Iselin,Middlesex,Standard
+New Jersey,ZIP Code 08831,Monroe Township,Middlesex,Standard
+New Jersey,ZIP Code 08832,Keasbey,Middlesex,Standard
+New Jersey,ZIP Code 08833,Lebanon,Hunterdon,Standard
+New Jersey,ZIP Code 08834,Little York,Hunterdon,P.O. Box
+New Jersey,ZIP Code 08835,Manville,Somerset,Standard
+New Jersey,ZIP Code 08836,Martinsville,Somerset,Standard
+New Jersey,ZIP Code 08837,Edison,Middlesex,Standard
+New Jersey,ZIP Code 08840,Metuchen,Middlesex,Standard
+New Jersey,ZIP Code 08844,Hillsborough,Somerset,Standard
+New Jersey,ZIP Code 08846,Middlesex,Middlesex,Standard
+New Jersey,ZIP Code 08848,Milford,Hunterdon,Standard
+New Jersey,ZIP Code 08850,Milltown,Middlesex,Standard
+New Jersey,ZIP Code 08852,Monmouth Junction,Middlesex,Standard
+New Jersey,ZIP Code 08853,Neshanic Station,Somerset,Standard
+New Jersey,ZIP Code 08854,Piscataway,Middlesex,Standard
+New Jersey,ZIP Code 08855,Piscataway,Middlesex,P.O. Box
+New Jersey,ZIP Code 08857,Old Bridge,Middlesex,Standard
+New Jersey,ZIP Code 08858,Oldwick,Hunterdon,P.O. Box
+New Jersey,ZIP Code 08859,Parlin,Middlesex,Standard
+New Jersey,ZIP Code 08861,Perth Amboy,Middlesex,Standard
+New Jersey,ZIP Code 08862,Perth Amboy,Middlesex,P.O. Box
+New Jersey,ZIP Code 08863,Fords,Middlesex,Standard
+New Jersey,ZIP Code 08865,Phillipsburg,Warren,Standard
+New Jersey,ZIP Code 08867,Pittstown,Hunterdon,Standard
+New Jersey,ZIP Code 08868,Quakertown,Hunterdon,P.O. Box
+New Jersey,ZIP Code 08869,Raritan,Somerset,Standard
+New Jersey,ZIP Code 08870,Readington,Hunterdon,P.O. Box
+New Jersey,ZIP Code 08871,Sayreville,Middlesex,P.O. Box
+New Jersey,ZIP Code 08872,Sayreville,Middlesex,Standard
+New Jersey,ZIP Code 08873,Somerset,Somerset,Standard
+New Jersey,ZIP Code 08875,Somerset,Somerset,P.O. Box
+New Jersey,ZIP Code 08876,Somerville,Somerset,Standard
+New Jersey,ZIP Code 08879,South Amboy,Middlesex,Standard
+New Jersey,ZIP Code 08880,South Bound Brook,Somerset,Standard
+New Jersey,ZIP Code 08882,South River,Middlesex,Standard
+New Jersey,ZIP Code 08884,Spotswood,Middlesex,Standard
+New Jersey,ZIP Code 08885,Stanton,Hunterdon,P.O. Box
+New Jersey,ZIP Code 08886,Stewartsville,Warren,Standard
+New Jersey,ZIP Code 08887,Three Bridges,Hunterdon,Standard
+New Jersey,ZIP Code 08888,Whitehouse,Hunterdon,P.O. Box
+New Jersey,ZIP Code 08889,Whitehouse Station,Hunterdon,Standard
+New Jersey,ZIP Code 08890,Zarephath,Somerset,P.O. Box
+New Jersey,ZIP Code 08899,Edison,Middlesex,Standard
+New Jersey,ZIP Code 08901,New Brunswick,Middlesex,Standard
+New Jersey,ZIP Code 08902,North Brunswick,Middlesex,Standard
+New Jersey,ZIP Code 08903,New Brunswick,Middlesex,P.O. Box
+New Jersey,ZIP Code 08904,Highland Park,Middlesex,Standard
+New Jersey,ZIP Code 08906,New Brunswick,Middlesex,P.O. Box
+New Jersey,ZIP Code 08933,New Brunswick,Middlesex,Unique
+New Jersey,ZIP Code 08989,New Brunswick,Middlesex,Unique

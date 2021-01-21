@@ -1,0 +1,951 @@
+State,ZIP Code,City,County,Type
+Georgia,ZIP Code 30002,Avondale Estates,Dekalb,Standard
+Georgia,ZIP Code 30003,Norcross,Gwinnett,P.O. Box
+Georgia,ZIP Code 30004,Alpharetta,Fulton,Standard
+Georgia,ZIP Code 30005,Alpharetta,Fulton,Standard
+Georgia,ZIP Code 30006,Marietta,Cobb,P.O. Box
+Georgia,ZIP Code 30007,Marietta,Cobb,P.O. Box
+Georgia,ZIP Code 30008,Marietta,Cobb,Standard
+Georgia,ZIP Code 30009,Alpharetta,Fulton,Standard
+Georgia,ZIP Code 30010,Norcross,Gwinnett,P.O. Box
+Georgia,ZIP Code 30011,Auburn,Barrow,Standard
+Georgia,ZIP Code 30012,Conyers,Rockdale,Standard
+Georgia,ZIP Code 30013,Conyers,Rockdale,Standard
+Georgia,ZIP Code 30014,Covington,Newton,Standard
+Georgia,ZIP Code 30015,Covington,Newton,P.O. Box
+Georgia,ZIP Code 30016,Covington,Newton,Standard
+Georgia,ZIP Code 30017,Grayson,Gwinnett,Standard
+Georgia,ZIP Code 30018,Jersey,Walton,P.O. Box
+Georgia,ZIP Code 30019,Dacula,Gwinnett,Standard
+Georgia,ZIP Code 30021,Clarkston,Dekalb,Standard
+Georgia,ZIP Code 30022,Alpharetta,Fulton,Standard
+Georgia,ZIP Code 30023,Alpharetta,Fulton,P.O. Box
+Georgia,ZIP Code 30024,Suwanee,Gwinnett,Standard
+Georgia,ZIP Code 30025,Social Circle,Walton,Standard
+Georgia,ZIP Code 30026,North Metro,Gwinnett,P.O. Box
+Georgia,ZIP Code 30028,Cumming,Forsyth,Standard
+Georgia,ZIP Code 30029,North Metro,Gwinnett,P.O. Box
+Georgia,ZIP Code 30030,Decatur,Dekalb,Standard
+Georgia,ZIP Code 30031,Decatur,Dekalb,P.O. Box
+Georgia,ZIP Code 30032,Decatur,Dekalb,Standard
+Georgia,ZIP Code 30033,Decatur,Dekalb,Standard
+Georgia,ZIP Code 30034,Decatur,Dekalb,Standard
+Georgia,ZIP Code 30035,Decatur,Dekalb,Standard
+Georgia,ZIP Code 30036,Decatur,Dekalb,P.O. Box
+Georgia,ZIP Code 30037,Decatur,Dekalb,P.O. Box
+Georgia,ZIP Code 30038,Lithonia,Dekalb,Standard
+Georgia,ZIP Code 30039,Snellville,Gwinnett,Standard
+Georgia,ZIP Code 30040,Cumming,Forsyth,Standard
+Georgia,ZIP Code 30041,Cumming,Forsyth,Standard
+Georgia,ZIP Code 30042,Lawrenceville,Gwinnett,P.O. Box
+Georgia,ZIP Code 30043,Lawrenceville,Gwinnett,Standard
+Georgia,ZIP Code 30044,Lawrenceville,Gwinnett,Standard
+Georgia,ZIP Code 30045,Lawrenceville,Gwinnett,Standard
+Georgia,ZIP Code 30046,Lawrenceville,Gwinnett,Standard
+Georgia,ZIP Code 30047,Lilburn,Gwinnett,Standard
+Georgia,ZIP Code 30048,Lilburn,Gwinnett,P.O. Box
+Georgia,ZIP Code 30049,Lawrenceville,Gwinnett,P.O. Box
+Georgia,ZIP Code 30052,Loganville,Walton,Standard
+Georgia,ZIP Code 30054,Oxford,Newton,Standard
+Georgia,ZIP Code 30055,Mansfield,Newton,Standard
+Georgia,ZIP Code 30056,Newborn,Newton,Standard
+Georgia,ZIP Code 30058,Lithonia,Dekalb,Standard
+Georgia,ZIP Code 30060,Marietta,Cobb,Standard
+Georgia,ZIP Code 30061,Marietta,Cobb,P.O. Box
+Georgia,ZIP Code 30062,Marietta,Cobb,Standard
+Georgia,ZIP Code 30063,Marietta,Cobb,Unique
+Georgia,ZIP Code 30064,Marietta,Cobb,Standard
+Georgia,ZIP Code 30065,Marietta,Cobb,P.O. Box
+Georgia,ZIP Code 30066,Marietta,Cobb,Standard
+Georgia,ZIP Code 30067,Marietta,Cobb,Standard
+Georgia,ZIP Code 30068,Marietta,Cobb,Standard
+Georgia,ZIP Code 30069,Marietta,Cobb,Unique
+Georgia,ZIP Code 30070,Porterdale,Newton,P.O. Box
+Georgia,ZIP Code 30071,Norcross,Gwinnett,Standard
+Georgia,ZIP Code 30072,Pine Lake,Dekalb,P.O. Box
+Georgia,ZIP Code 30074,Redan,Dekalb,P.O. Box
+Georgia,ZIP Code 30075,Roswell,Fulton,Standard
+Georgia,ZIP Code 30076,Roswell,Fulton,Standard
+Georgia,ZIP Code 30077,Roswell,Fulton,P.O. Box
+Georgia,ZIP Code 30078,Snellville,Gwinnett,Standard
+Georgia,ZIP Code 30079,Scottdale,Dekalb,Standard
+Georgia,ZIP Code 30080,Smyrna,Cobb,Standard
+Georgia,ZIP Code 30081,Smyrna,Cobb,P.O. Box
+Georgia,ZIP Code 30082,Smyrna,Cobb,Standard
+Georgia,ZIP Code 30083,Stone Mountain,Dekalb,Standard
+Georgia,ZIP Code 30084,Tucker,Dekalb,Standard
+Georgia,ZIP Code 30085,Tucker,Dekalb,P.O. Box
+Georgia,ZIP Code 30086,Stone Mountain,Dekalb,P.O. Box
+Georgia,ZIP Code 30087,Stone Mountain,Dekalb,Standard
+Georgia,ZIP Code 30088,Stone Mountain,Dekalb,Standard
+Georgia,ZIP Code 30090,Marietta,Cobb,Standard
+Georgia,ZIP Code 30091,Norcross,Gwinnett,P.O. Box
+Georgia,ZIP Code 30092,Peachtree Corners,Gwinnett,Standard
+Georgia,ZIP Code 30093,Norcross,Gwinnett,Standard
+Georgia,ZIP Code 30094,Conyers,Rockdale,Standard
+Georgia,ZIP Code 30095,Duluth,Gwinnett,P.O. Box
+Georgia,ZIP Code 30096,Duluth,Gwinnett,Standard
+Georgia,ZIP Code 30097,Duluth,Fulton,Standard
+Georgia,ZIP Code 30098,Duluth,Fulton,Unique
+Georgia,ZIP Code 30099,Duluth,Gwinnett,Unique
+Georgia,ZIP Code 30101,Acworth,Cobb,Standard
+Georgia,ZIP Code 30102,Acworth,Cherokee,Standard
+Georgia,ZIP Code 30103,Adairsville,Bartow,Standard
+Georgia,ZIP Code 30104,Aragon,Polk,Standard
+Georgia,ZIP Code 30105,Armuchee,Floyd,Standard
+Georgia,ZIP Code 30106,Austell,Cobb,Standard
+Georgia,ZIP Code 30107,Ball Ground,Cherokee,Standard
+Georgia,ZIP Code 30108,Bowdon,Carroll,Standard
+Georgia,ZIP Code 30109,Bowdon Junction,Carroll,P.O. Box
+Georgia,ZIP Code 30110,Bremen,Haralson,Standard
+Georgia,ZIP Code 30111,Clarkdale,Cobb,P.O. Box
+Georgia,ZIP Code 30112,Carrollton,Carroll,P.O. Box
+Georgia,ZIP Code 30113,Buchanan,Haralson,Standard
+Georgia,ZIP Code 30114,Canton,Cherokee,Standard
+Georgia,ZIP Code 30115,Canton,Cherokee,Standard
+Georgia,ZIP Code 30116,Carrollton,Carroll,Standard
+Georgia,ZIP Code 30117,Carrollton,Carroll,Standard
+Georgia,ZIP Code 30118,Carrollton,Carroll,Unique
+Georgia,ZIP Code 30119,Carrollton,Carroll,Unique
+Georgia,ZIP Code 30120,Cartersville,Bartow,Standard
+Georgia,ZIP Code 30121,Cartersville,Bartow,Standard
+Georgia,ZIP Code 30122,Lithia Springs,Douglas,Standard
+Georgia,ZIP Code 30123,Cassville,Bartow,P.O. Box
+Georgia,ZIP Code 30124,Cave Spring,Floyd,Standard
+Georgia,ZIP Code 30125,Cedartown,Polk,Standard
+Georgia,ZIP Code 30126,Mableton,Cobb,Standard
+Georgia,ZIP Code 30127,Powder Springs,Cobb,Standard
+Georgia,ZIP Code 30129,Coosa,Floyd,P.O. Box
+Georgia,ZIP Code 30132,Dallas,Paulding,Standard
+Georgia,ZIP Code 30133,Douglasville,Douglas,P.O. Box
+Georgia,ZIP Code 30134,Douglasville,Douglas,Standard
+Georgia,ZIP Code 30135,Douglasville,Douglas,Standard
+Georgia,ZIP Code 30137,Emerson,Bartow,Standard
+Georgia,ZIP Code 30138,Esom Hill,Polk,P.O. Box
+Georgia,ZIP Code 30139,Fairmount,Gordon,Standard
+Georgia,ZIP Code 30140,Felton,Haralson,P.O. Box
+Georgia,ZIP Code 30141,Hiram,Paulding,Standard
+Georgia,ZIP Code 30142,Holly Springs,Cherokee,P.O. Box
+Georgia,ZIP Code 30143,Jasper,Pickens,Standard
+Georgia,ZIP Code 30144,Kennesaw,Cobb,Standard
+Georgia,ZIP Code 30145,Kingston,Bartow,Standard
+Georgia,ZIP Code 30146,Lebanon,Cherokee,P.O. Box
+Georgia,ZIP Code 30147,Lindale,Floyd,Standard
+Georgia,ZIP Code 30148,Marble Hill,Pickens,Standard
+Georgia,ZIP Code 30149,Mount Berry,Floyd,P.O. Box
+Georgia,ZIP Code 30150,Mount Zion,Carroll,P.O. Box
+Georgia,ZIP Code 30151,Nelson,Cherokee,P.O. Box
+Georgia,ZIP Code 30152,Kennesaw,Cobb,Standard
+Georgia,ZIP Code 30153,Rockmart,Polk,Standard
+Georgia,ZIP Code 30154,Douglasville,Douglas,P.O. Box
+Georgia,ZIP Code 30156,Kennesaw,Cobb,P.O. Box
+Georgia,ZIP Code 30157,Dallas,Paulding,Standard
+Georgia,ZIP Code 30160,Kennesaw,Cobb,P.O. Box
+Georgia,ZIP Code 30161,Rome,Floyd,Standard
+Georgia,ZIP Code 30162,Rome,Floyd,P.O. Box
+Georgia,ZIP Code 30164,Rome,Floyd,P.O. Box
+Georgia,ZIP Code 30165,Rome,Floyd,Standard
+Georgia,ZIP Code 30168,Austell,Cobb,Standard
+Georgia,ZIP Code 30169,Canton,Cherokee,P.O. Box
+Georgia,ZIP Code 30170,Roopville,Carroll,Standard
+Georgia,ZIP Code 30171,Rydal,Bartow,Standard
+Georgia,ZIP Code 30172,Shannon,Floyd,P.O. Box
+Georgia,ZIP Code 30173,Silver Creek,Floyd,Standard
+Georgia,ZIP Code 30175,Talking Rock,Pickens,Standard
+Georgia,ZIP Code 30176,Tallapoosa,Haralson,Standard
+Georgia,ZIP Code 30177,Tate,Pickens,Standard
+Georgia,ZIP Code 30178,Taylorsville,Bartow,Standard
+Georgia,ZIP Code 30179,Temple,Carroll,Standard
+Georgia,ZIP Code 30180,Villa Rica,Carroll,Standard
+Georgia,ZIP Code 30182,Waco,Haralson,Standard
+Georgia,ZIP Code 30183,Waleska,Cherokee,Standard
+Georgia,ZIP Code 30184,White,Bartow,Standard
+Georgia,ZIP Code 30185,Whitesburg,Carroll,Standard
+Georgia,ZIP Code 30187,Winston,Douglas,Standard
+Georgia,ZIP Code 30188,Woodstock,Cherokee,Standard
+Georgia,ZIP Code 30189,Woodstock,Cherokee,Standard
+Georgia,ZIP Code 30204,Barnesville,Lamar,Standard
+Georgia,ZIP Code 30205,Brooks,Fayette,Standard
+Georgia,ZIP Code 30206,Concord,Pike,Standard
+Georgia,ZIP Code 30212,Experiment,Spalding,P.O. Box
+Georgia,ZIP Code 30213,Fairburn,Fulton,Standard
+Georgia,ZIP Code 30214,Fayetteville,Fayette,Standard
+Georgia,ZIP Code 30215,Fayetteville,Fayette,Standard
+Georgia,ZIP Code 30216,Flovilla,Butts,Standard
+Georgia,ZIP Code 30217,Franklin,Heard,Standard
+Georgia,ZIP Code 30218,Gay,Meriwether,Standard
+Georgia,ZIP Code 30220,Grantville,Coweta,Standard
+Georgia,ZIP Code 30222,Greenville,Meriwether,Standard
+Georgia,ZIP Code 30223,Griffin,Spalding,Standard
+Georgia,ZIP Code 30224,Griffin,Spalding,Standard
+Georgia,ZIP Code 30228,Hampton,Henry,Standard
+Georgia,ZIP Code 30229,Haralson,Coweta,P.O. Box
+Georgia,ZIP Code 30230,Hogansville,Troup,Standard
+Georgia,ZIP Code 30233,Jackson,Butts,Standard
+Georgia,ZIP Code 30234,Jenkinsburg,Butts,Standard
+Georgia,ZIP Code 30236,Jonesboro,Clayton,Standard
+Georgia,ZIP Code 30237,Jonesboro,Clayton,P.O. Box
+Georgia,ZIP Code 30238,Jonesboro,Clayton,Standard
+Georgia,ZIP Code 30240,Lagrange,Troup,Standard
+Georgia,ZIP Code 30241,Lagrange,Troup,Standard
+Georgia,ZIP Code 30248,Locust Grove,Henry,Standard
+Georgia,ZIP Code 30250,Lovejoy,Clayton,P.O. Box
+Georgia,ZIP Code 30251,Luthersville,Meriwether,Standard
+Georgia,ZIP Code 30252,Mcdonough,Henry,Standard
+Georgia,ZIP Code 30253,Mcdonough,Henry,Standard
+Georgia,ZIP Code 30256,Meansville,Pike,Standard
+Georgia,ZIP Code 30257,Milner,Lamar,Standard
+Georgia,ZIP Code 30258,Molena,Pike,Standard
+Georgia,ZIP Code 30259,Moreland,Coweta,Standard
+Georgia,ZIP Code 30260,Morrow,Clayton,Standard
+Georgia,ZIP Code 30261,Lagrange,Troup,P.O. Box
+Georgia,ZIP Code 30263,Newnan,Coweta,Standard
+Georgia,ZIP Code 30264,Newnan,Coweta,P.O. Box
+Georgia,ZIP Code 30265,Newnan,Coweta,Standard
+Georgia,ZIP Code 30266,Orchard Hill,Spalding,P.O. Box
+Georgia,ZIP Code 30268,Palmetto,Fulton,Standard
+Georgia,ZIP Code 30269,Peachtree City,Fayette,Standard
+Georgia,ZIP Code 30270,Peachtree City,Fayette,Unique
+Georgia,ZIP Code 30271,Newnan,Coweta,P.O. Box
+Georgia,ZIP Code 30272,Red Oak,Fulton,P.O. Box
+Georgia,ZIP Code 30273,Rex,Clayton,Standard
+Georgia,ZIP Code 30274,Riverdale,Clayton,Standard
+Georgia,ZIP Code 30275,Sargent,Coweta,P.O. Box
+Georgia,ZIP Code 30276,Senoia,Coweta,Standard
+Georgia,ZIP Code 30277,Sharpsburg,Coweta,Standard
+Georgia,ZIP Code 30281,Stockbridge,Henry,Standard
+Georgia,ZIP Code 30284,Sunny Side,Spalding,P.O. Box
+Georgia,ZIP Code 30285,The Rock,Upson,Standard
+Georgia,ZIP Code 30286,Thomaston,Upson,Standard
+Georgia,ZIP Code 30287,Morrow,Clayton,P.O. Box
+Georgia,ZIP Code 30288,Conley,Clayton,Standard
+Georgia,ZIP Code 30289,Turin,Coweta,P.O. Box
+Georgia,ZIP Code 30290,Tyrone,Fayette,Standard
+Georgia,ZIP Code 30291,Union City,Fulton,Standard
+Georgia,ZIP Code 30292,Williamson,Pike,Standard
+Georgia,ZIP Code 30293,Woodbury,Meriwether,Standard
+Georgia,ZIP Code 30294,Ellenwood,Dekalb,Standard
+Georgia,ZIP Code 30295,Zebulon,Pike,Standard
+Georgia,ZIP Code 30296,Riverdale,Clayton,Standard
+Georgia,ZIP Code 30297,Forest Park,Clayton,Standard
+Georgia,ZIP Code 30298,Forest Park,Clayton,P.O. Box
+Georgia,ZIP Code 30301,Atlanta,Fulton,P.O. Box
+Georgia,ZIP Code 30302,Atlanta,Fulton,P.O. Box
+Georgia,ZIP Code 30303,Atlanta,Fulton,Standard
+Georgia,ZIP Code 30304,Atlanta,Fulton,Standard
+Georgia,ZIP Code 30305,Atlanta,Fulton,Standard
+Georgia,ZIP Code 30306,Atlanta,Fulton,Standard
+Georgia,ZIP Code 30307,Atlanta,Fulton,Standard
+Georgia,ZIP Code 30308,Atlanta,Fulton,Standard
+Georgia,ZIP Code 30309,Atlanta,Fulton,Standard
+Georgia,ZIP Code 30310,Atlanta,Fulton,Standard
+Georgia,ZIP Code 30311,Atlanta,Fulton,Standard
+Georgia,ZIP Code 30312,Atlanta,Fulton,Standard
+Georgia,ZIP Code 30313,Atlanta,Fulton,Standard
+Georgia,ZIP Code 30314,Atlanta,Fulton,Standard
+Georgia,ZIP Code 30315,Atlanta,Fulton,Standard
+Georgia,ZIP Code 30316,Atlanta,Fulton,Standard
+Georgia,ZIP Code 30317,Atlanta,Dekalb,Standard
+Georgia,ZIP Code 30318,Atlanta,Fulton,Standard
+Georgia,ZIP Code 30319,Atlanta,Dekalb,Standard
+Georgia,ZIP Code 30320,Atlanta,Fulton,P.O. Box
+Georgia,ZIP Code 30321,Atlanta,Fulton,P.O. Box
+Georgia,ZIP Code 30322,Atlanta,Dekalb,Unique
+Georgia,ZIP Code 30324,Atlanta,Fulton,Standard
+Georgia,ZIP Code 30325,Atlanta,Fulton,P.O. Box
+Georgia,ZIP Code 30326,Atlanta,Fulton,Standard
+Georgia,ZIP Code 30327,Atlanta,Fulton,Standard
+Georgia,ZIP Code 30328,Atlanta,Fulton,Standard
+Georgia,ZIP Code 30329,Atlanta,Dekalb,Standard
+Georgia,ZIP Code 30331,Atlanta,Fulton,Standard
+Georgia,ZIP Code 30332,Atlanta,Fulton,Unique
+Georgia,ZIP Code 30333,Atlanta,Dekalb,P.O. Box
+Georgia,ZIP Code 30334,Atlanta,Fulton,Standard
+Georgia,ZIP Code 30336,Atlanta,Fulton,Standard
+Georgia,ZIP Code 30337,Atlanta,Fulton,Standard
+Georgia,ZIP Code 30338,Atlanta,Dekalb,Standard
+Georgia,ZIP Code 30339,Atlanta,Cobb,Standard
+Georgia,ZIP Code 30340,Atlanta,Dekalb,Standard
+Georgia,ZIP Code 30341,Atlanta,Dekalb,Standard
+Georgia,ZIP Code 30342,Atlanta,Fulton,Standard
+Georgia,ZIP Code 30343,Atlanta,Fulton,P.O. Box
+Georgia,ZIP Code 30344,Atlanta,Fulton,Standard
+Georgia,ZIP Code 30345,Atlanta,Dekalb,Standard
+Georgia,ZIP Code 30346,Atlanta,Dekalb,Standard
+Georgia,ZIP Code 30348,Atlanta,Fulton,P.O. Box
+Georgia,ZIP Code 30349,Atlanta,Fulton,Standard
+Georgia,ZIP Code 30350,Atlanta,Fulton,Standard
+Georgia,ZIP Code 30353,Atlanta,Fulton,P.O. Box
+Georgia,ZIP Code 30354,Atlanta,Fulton,Standard
+Georgia,ZIP Code 30355,Atlanta,Fulton,P.O. Box
+Georgia,ZIP Code 30356,Atlanta,Dekalb,P.O. Box
+Georgia,ZIP Code 30357,Atlanta,Fulton,P.O. Box
+Georgia,ZIP Code 30358,Atlanta,Fulton,P.O. Box
+Georgia,ZIP Code 30359,Atlanta,Dekalb,P.O. Box
+Georgia,ZIP Code 30360,Atlanta,Dekalb,Standard
+Georgia,ZIP Code 30361,Atlanta,Fulton,Standard
+Georgia,ZIP Code 30362,Atlanta,Dekalb,P.O. Box
+Georgia,ZIP Code 30363,Atlanta,Fulton,Standard
+Georgia,ZIP Code 30364,Atlanta,Fulton,P.O. Box
+Georgia,ZIP Code 30366,Atlanta,Dekalb,P.O. Box
+Georgia,ZIP Code 30368,Atlanta,Fulton,Unique
+Georgia,ZIP Code 30369,Atlanta,Fulton,Standard
+Georgia,ZIP Code 30370,Atlanta,Fulton,P.O. Box
+Georgia,ZIP Code 30371,Atlanta,Fulton,P.O. Box
+Georgia,ZIP Code 30374,Atlanta,Fulton,P.O. Box
+Georgia,ZIP Code 30375,Atlanta,Fulton,Unique
+Georgia,ZIP Code 30377,Atlanta,Fulton,P.O. Box
+Georgia,ZIP Code 30378,Atlanta,Fulton,P.O. Box
+Georgia,ZIP Code 30380,Atlanta,Fulton,Unique
+Georgia,ZIP Code 30384,Atlanta,Fulton,Unique
+Georgia,ZIP Code 30385,Atlanta,Fulton,Unique
+Georgia,ZIP Code 30388,Atlanta,Fulton,Unique
+Georgia,ZIP Code 30392,Atlanta,Fulton,P.O. Box
+Georgia,ZIP Code 30394,Atlanta,Fulton,P.O. Box
+Georgia,ZIP Code 30396,Atlanta,Fulton,Unique
+Georgia,ZIP Code 30398,Atlanta,Fulton,Unique
+Georgia,ZIP Code 30401,Swainsboro,Emanuel,Standard
+Georgia,ZIP Code 30410,Ailey,Montgomery,Standard
+Georgia,ZIP Code 30411,Alamo,Wheeler,Standard
+Georgia,ZIP Code 30412,Alston,Montgomery,P.O. Box
+Georgia,ZIP Code 30413,Bartow,Jefferson,Standard
+Georgia,ZIP Code 30414,Bellville,Evans,P.O. Box
+Georgia,ZIP Code 30415,Brooklet,Bulloch,Standard
+Georgia,ZIP Code 30417,Claxton,Evans,Standard
+Georgia,ZIP Code 30420,Cobbtown,Tattnall,Standard
+Georgia,ZIP Code 30421,Collins,Tattnall,Standard
+Georgia,ZIP Code 30423,Daisy,Evans,P.O. Box
+Georgia,ZIP Code 30424,Dover,Screven,P.O. Box
+Georgia,ZIP Code 30425,Garfield,Emanuel,Standard
+Georgia,ZIP Code 30426,Girard,Burke,Standard
+Georgia,ZIP Code 30427,Glennville,Tattnall,Standard
+Georgia,ZIP Code 30428,Glenwood,Wheeler,Standard
+Georgia,ZIP Code 30429,Hagan,Evans,P.O. Box
+Georgia,ZIP Code 30434,Louisville,Jefferson,Standard
+Georgia,ZIP Code 30436,Lyons,Toombs,Standard
+Georgia,ZIP Code 30438,Manassas,Tattnall,P.O. Box
+Georgia,ZIP Code 30439,Metter,Candler,Standard
+Georgia,ZIP Code 30441,Midville,Burke,Standard
+Georgia,ZIP Code 30442,Millen,Jenkins,Standard
+Georgia,ZIP Code 30445,Mount Vernon,Montgomery,Standard
+Georgia,ZIP Code 30446,Newington,Screven,Standard
+Georgia,ZIP Code 30447,Norristown,Emanuel,P.O. Box
+Georgia,ZIP Code 30448,Nunez,Emanuel,P.O. Box
+Georgia,ZIP Code 30449,Oliver,Screven,P.O. Box
+Georgia,ZIP Code 30450,Portal,Bulloch,Standard
+Georgia,ZIP Code 30451,Pulaski,Candler,P.O. Box
+Georgia,ZIP Code 30452,Register,Bulloch,Standard
+Georgia,ZIP Code 30453,Reidsville,Tattnall,Standard
+Georgia,ZIP Code 30454,Rockledge,Laurens,Standard
+Georgia,ZIP Code 30455,Rocky Ford,Screven,Standard
+Georgia,ZIP Code 30456,Sardis,Burke,Standard
+Georgia,ZIP Code 30457,Soperton,Treutlen,Standard
+Georgia,ZIP Code 30458,Statesboro,Bulloch,Standard
+Georgia,ZIP Code 30459,Statesboro,Bulloch,P.O. Box
+Georgia,ZIP Code 30460,Statesboro,Bulloch,Unique
+Georgia,ZIP Code 30461,Statesboro,Bulloch,Standard
+Georgia,ZIP Code 30464,Stillmore,Emanuel,P.O. Box
+Georgia,ZIP Code 30467,Sylvania,Screven,Standard
+Georgia,ZIP Code 30470,Tarrytown,Montgomery,Standard
+Georgia,ZIP Code 30471,Twin City,Emanuel,Standard
+Georgia,ZIP Code 30473,Uvalda,Montgomery,Standard
+Georgia,ZIP Code 30474,Vidalia,Toombs,Standard
+Georgia,ZIP Code 30475,Vidalia,Toombs,P.O. Box
+Georgia,ZIP Code 30477,Wadley,Jefferson,Standard
+Georgia,ZIP Code 30499,Reidsville,Tattnall,Unique
+Georgia,ZIP Code 30501,Gainesville,Hall,Standard
+Georgia,ZIP Code 30502,Chestnut Mountain,Hall,P.O. Box
+Georgia,ZIP Code 30503,Gainesville,Hall,P.O. Box
+Georgia,ZIP Code 30504,Gainesville,Hall,Standard
+Georgia,ZIP Code 30506,Gainesville,Hall,Standard
+Georgia,ZIP Code 30507,Gainesville,Hall,Standard
+Georgia,ZIP Code 30510,Alto,Habersham,Standard
+Georgia,ZIP Code 30511,Baldwin,Banks,Standard
+Georgia,ZIP Code 30512,Blairsville,Union,Standard
+Georgia,ZIP Code 30513,Blue Ridge,Fannin,Standard
+Georgia,ZIP Code 30514,Blairsville,Union,P.O. Box
+Georgia,ZIP Code 30515,Buford,Gwinnett,P.O. Box
+Georgia,ZIP Code 30516,Bowersville,Hart,Standard
+Georgia,ZIP Code 30517,Braselton,Jackson,Standard
+Georgia,ZIP Code 30518,Buford,Gwinnett,Standard
+Georgia,ZIP Code 30519,Buford,Gwinnett,Standard
+Georgia,ZIP Code 30520,Canon,Franklin,Standard
+Georgia,ZIP Code 30521,Carnesville,Franklin,Standard
+Georgia,ZIP Code 30522,Cherry Log,Gilmer,Standard
+Georgia,ZIP Code 30523,Clarkesville,Habersham,Standard
+Georgia,ZIP Code 30525,Clayton,Rabun,Standard
+Georgia,ZIP Code 30527,Clermont,Hall,Standard
+Georgia,ZIP Code 30528,Cleveland,White,Standard
+Georgia,ZIP Code 30529,Commerce,Jackson,Standard
+Georgia,ZIP Code 30530,Commerce,Banks,Standard
+Georgia,ZIP Code 30531,Cornelia,Habersham,Standard
+Georgia,ZIP Code 30533,Dahlonega,Lumpkin,Standard
+Georgia,ZIP Code 30534,Dawsonville,Dawson,Standard
+Georgia,ZIP Code 30535,Demorest,Habersham,Standard
+Georgia,ZIP Code 30536,Ellijay,Gilmer,Standard
+Georgia,ZIP Code 30537,Dillard,Rabun,Standard
+Georgia,ZIP Code 30538,Eastanollee,Stephens,Standard
+Georgia,ZIP Code 30539,East Ellijay,Gilmer,P.O. Box
+Georgia,ZIP Code 30540,Ellijay,Gilmer,Standard
+Georgia,ZIP Code 30541,Epworth,Fannin,Standard
+Georgia,ZIP Code 30542,Flowery Branch,Hall,Standard
+Georgia,ZIP Code 30543,Gillsville,Hall,Standard
+Georgia,ZIP Code 30545,Helen,White,Standard
+Georgia,ZIP Code 30546,Hiawassee,Towns,Standard
+Georgia,ZIP Code 30547,Homer,Banks,Standard
+Georgia,ZIP Code 30548,Hoschton,Jackson,Standard
+Georgia,ZIP Code 30549,Jefferson,Jackson,Standard
+Georgia,ZIP Code 30552,Lakemont,Rabun,Standard
+Georgia,ZIP Code 30553,Lavonia,Franklin,Standard
+Georgia,ZIP Code 30554,Lula,Hall,Standard
+Georgia,ZIP Code 30555,Mc Caysville,Fannin,Standard
+Georgia,ZIP Code 30557,Martin,Stephens,Standard
+Georgia,ZIP Code 30558,Maysville,Banks,Standard
+Georgia,ZIP Code 30559,Mineral Bluff,Fannin,Standard
+Georgia,ZIP Code 30560,Morganton,Fannin,Standard
+Georgia,ZIP Code 30562,Mountain City,Rabun,P.O. Box
+Georgia,ZIP Code 30563,Mount Airy,Habersham,Standard
+Georgia,ZIP Code 30564,Murrayville,Hall,Standard
+Georgia,ZIP Code 30565,Nicholson,Jackson,Standard
+Georgia,ZIP Code 30566,Oakwood,Hall,Standard
+Georgia,ZIP Code 30567,Pendergrass,Jackson,Standard
+Georgia,ZIP Code 30568,Rabun Gap,Rabun,Standard
+Georgia,ZIP Code 30571,Sautee Nacoochee,White,Standard
+Georgia,ZIP Code 30572,Suches,Union,Standard
+Georgia,ZIP Code 30573,Tallulah Falls,Rabun,P.O. Box
+Georgia,ZIP Code 30575,Talmo,Jackson,Standard
+Georgia,ZIP Code 30576,Tiger,Rabun,Standard
+Georgia,ZIP Code 30577,Toccoa,Stephens,Standard
+Georgia,ZIP Code 30580,Turnerville,Habersham,P.O. Box
+Georgia,ZIP Code 30581,Wiley,Rabun,P.O. Box
+Georgia,ZIP Code 30582,Young Harris,Towns,Standard
+Georgia,ZIP Code 30597,Dahlonega,Lumpkin,Unique
+Georgia,ZIP Code 30598,Toccoa Falls,Stephens,P.O. Box
+Georgia,ZIP Code 30599,Commerce,Jackson,Unique
+Georgia,ZIP Code 30601,Athens,Clarke,Standard
+Georgia,ZIP Code 30602,Athens,Clarke,Unique
+Georgia,ZIP Code 30603,Athens,Clarke,P.O. Box
+Georgia,ZIP Code 30604,Athens,Clarke,P.O. Box
+Georgia,ZIP Code 30605,Athens,Clarke,Standard
+Georgia,ZIP Code 30606,Athens,Clarke,Standard
+Georgia,ZIP Code 30607,Athens,Clarke,Standard
+Georgia,ZIP Code 30608,Athens,Clarke,P.O. Box
+Georgia,ZIP Code 30609,Athens,Clarke,Unique
+Georgia,ZIP Code 30612,Athens,Clarke,P.O. Box
+Georgia,ZIP Code 30619,Arnoldsville,Oglethorpe,Standard
+Georgia,ZIP Code 30620,Bethlehem,Barrow,Standard
+Georgia,ZIP Code 30621,Bishop,Oconee,Standard
+Georgia,ZIP Code 30622,Bogart,Oconee,Standard
+Georgia,ZIP Code 30623,Bostwick,Morgan,P.O. Box
+Georgia,ZIP Code 30624,Bowman,Elbert,Standard
+Georgia,ZIP Code 30625,Buckhead,Morgan,Standard
+Georgia,ZIP Code 30627,Carlton,Madison,Standard
+Georgia,ZIP Code 30628,Colbert,Madison,Standard
+Georgia,ZIP Code 30629,Comer,Madison,Standard
+Georgia,ZIP Code 30630,Crawford,Oglethorpe,Standard
+Georgia,ZIP Code 30631,Crawfordville,Taliaferro,Standard
+Georgia,ZIP Code 30633,Danielsville,Madison,Standard
+Georgia,ZIP Code 30634,Dewy Rose,Elbert,Standard
+Georgia,ZIP Code 30635,Elberton,Elbert,Standard
+Georgia,ZIP Code 30638,Farmington,Oconee,P.O. Box
+Georgia,ZIP Code 30639,Franklin Springs,Franklin,P.O. Box
+Georgia,ZIP Code 30641,Good Hope,Walton,Standard
+Georgia,ZIP Code 30642,Greensboro,Greene,Standard
+Georgia,ZIP Code 30643,Hartwell,Hart,Standard
+Georgia,ZIP Code 30645,High Shoals,Oconee,P.O. Box
+Georgia,ZIP Code 30646,Hull,Madison,Standard
+Georgia,ZIP Code 30647,Ila,Madison,P.O. Box
+Georgia,ZIP Code 30648,Lexington,Oglethorpe,Standard
+Georgia,ZIP Code 30650,Madison,Morgan,Standard
+Georgia,ZIP Code 30655,Monroe,Walton,Standard
+Georgia,ZIP Code 30656,Monroe,Walton,Standard
+Georgia,ZIP Code 30660,Rayle,Wilkes,Standard
+Georgia,ZIP Code 30662,Royston,Franklin,Standard
+Georgia,ZIP Code 30663,Rutledge,Morgan,Standard
+Georgia,ZIP Code 30664,Sharon,Taliaferro,P.O. Box
+Georgia,ZIP Code 30665,Siloam,Greene,P.O. Box
+Georgia,ZIP Code 30666,Statham,Barrow,Standard
+Georgia,ZIP Code 30667,Stephens,Oglethorpe,Standard
+Georgia,ZIP Code 30668,Tignall,Wilkes,Standard
+Georgia,ZIP Code 30669,Union Point,Greene,Standard
+Georgia,ZIP Code 30671,Maxeys,Oglethorpe,P.O. Box
+Georgia,ZIP Code 30673,Washington,Wilkes,Standard
+Georgia,ZIP Code 30677,Watkinsville,Oconee,Standard
+Georgia,ZIP Code 30678,White Plains,Greene,Standard
+Georgia,ZIP Code 30680,Winder,Barrow,Standard
+Georgia,ZIP Code 30683,Winterville,Clarke,Standard
+Georgia,ZIP Code 30701,Calhoun,Gordon,Standard
+Georgia,ZIP Code 30703,Calhoun,Gordon,P.O. Box
+Georgia,ZIP Code 30705,Chatsworth,Murray,Standard
+Georgia,ZIP Code 30707,Chickamauga,Walker,Standard
+Georgia,ZIP Code 30708,Cisco,Murray,Standard
+Georgia,ZIP Code 30710,Cohutta,Whitfield,Standard
+Georgia,ZIP Code 30711,Crandall,Murray,Standard
+Georgia,ZIP Code 30719,Dalton,Whitfield,P.O. Box
+Georgia,ZIP Code 30720,Dalton,Whitfield,Standard
+Georgia,ZIP Code 30721,Dalton,Whitfield,Standard
+Georgia,ZIP Code 30722,Dalton,Whitfield,P.O. Box
+Georgia,ZIP Code 30724,Eton,Murray,P.O. Box
+Georgia,ZIP Code 30725,Flintstone,Walker,Standard
+Georgia,ZIP Code 30726,Graysville,Catoosa,P.O. Box
+Georgia,ZIP Code 30728,La Fayette,Walker,Standard
+Georgia,ZIP Code 30730,Lyerly,Chattooga,Standard
+Georgia,ZIP Code 30731,Menlo,Chattooga,Standard
+Georgia,ZIP Code 30732,Oakman,Gordon,P.O. Box
+Georgia,ZIP Code 30733,Plainville,Gordon,Standard
+Georgia,ZIP Code 30734,Ranger,Gordon,Standard
+Georgia,ZIP Code 30735,Resaca,Gordon,Standard
+Georgia,ZIP Code 30736,Ringgold,Catoosa,Standard
+Georgia,ZIP Code 30738,Rising Fawn,Dade,Standard
+Georgia,ZIP Code 30739,Rock Spring,Walker,Standard
+Georgia,ZIP Code 30740,Rocky Face,Whitfield,Standard
+Georgia,ZIP Code 30741,Rossville,Walker,Standard
+Georgia,ZIP Code 30742,Fort Oglethorpe,Catoosa,Standard
+Georgia,ZIP Code 30746,Sugar Valley,Gordon,Standard
+Georgia,ZIP Code 30747,Summerville,Chattooga,Standard
+Georgia,ZIP Code 30750,Lookout Mountain,Walker,Standard
+Georgia,ZIP Code 30751,Tennga,Murray,P.O. Box
+Georgia,ZIP Code 30752,Trenton,Dade,Standard
+Georgia,ZIP Code 30753,Trion,Chattooga,Standard
+Georgia,ZIP Code 30755,Tunnel Hill,Whitfield,Standard
+Georgia,ZIP Code 30756,Varnell,Whitfield,P.O. Box
+Georgia,ZIP Code 30757,Wildwood,Dade,Standard
+Georgia,ZIP Code 30802,Appling,Columbia,Standard
+Georgia,ZIP Code 30803,Avera,Jefferson,Standard
+Georgia,ZIP Code 30805,Blythe,Richmond,Standard
+Georgia,ZIP Code 30806,Boneville,Mcduffie,P.O. Box
+Georgia,ZIP Code 30807,Camak,Warren,P.O. Box
+Georgia,ZIP Code 30808,Dearing,Mcduffie,Standard
+Georgia,ZIP Code 30809,Evans,Columbia,Standard
+Georgia,ZIP Code 30810,Gibson,Glascock,Standard
+Georgia,ZIP Code 30811,Gough,Burke,P.O. Box
+Georgia,ZIP Code 30812,Gracewood,Richmond,P.O. Box
+Georgia,ZIP Code 30813,Grovetown,Columbia,Standard
+Georgia,ZIP Code 30814,Harlem,Columbia,Standard
+Georgia,ZIP Code 30815,Hephzibah,Richmond,Standard
+Georgia,ZIP Code 30816,Keysville,Burke,Standard
+Georgia,ZIP Code 30817,Lincolnton,Lincoln,Standard
+Georgia,ZIP Code 30818,Matthews,Jefferson,Standard
+Georgia,ZIP Code 30819,Mesena,Warren,P.O. Box
+Georgia,ZIP Code 30820,Mitchell,Glascock,Standard
+Georgia,ZIP Code 30821,Norwood,Warren,Standard
+Georgia,ZIP Code 30822,Perkins,Jenkins,P.O. Box
+Georgia,ZIP Code 30823,Stapleton,Jefferson,Standard
+Georgia,ZIP Code 30824,Thomson,Mcduffie,Standard
+Georgia,ZIP Code 30828,Warrenton,Warren,Standard
+Georgia,ZIP Code 30830,Waynesboro,Burke,Standard
+Georgia,ZIP Code 30833,Wrens,Jefferson,Standard
+Georgia,ZIP Code 30901,Augusta,Richmond,Standard
+Georgia,ZIP Code 30903,Augusta,Richmond,P.O. Box
+Georgia,ZIP Code 30904,Augusta,Richmond,Standard
+Georgia,ZIP Code 30905,Augusta,Richmond,Standard
+Georgia,ZIP Code 30906,Augusta,Richmond,Standard
+Georgia,ZIP Code 30907,Augusta,Columbia,Standard
+Georgia,ZIP Code 30909,Augusta,Richmond,Standard
+Georgia,ZIP Code 30912,Augusta,Richmond,Unique
+Georgia,ZIP Code 30914,Augusta,Richmond,P.O. Box
+Georgia,ZIP Code 30916,Augusta,Richmond,P.O. Box
+Georgia,ZIP Code 30917,Augusta,Columbia,P.O. Box
+Georgia,ZIP Code 30919,Augusta,Richmond,P.O. Box
+Georgia,ZIP Code 30999,Augusta,Richmond,Unique
+Georgia,ZIP Code 31001,Abbeville,Wilcox,Standard
+Georgia,ZIP Code 31002,Adrian,Emanuel,Standard
+Georgia,ZIP Code 31003,Allentown,Wilkinson,P.O. Box
+Georgia,ZIP Code 31004,Bolingbroke,Monroe,P.O. Box
+Georgia,ZIP Code 31005,Bonaire,Houston,Standard
+Georgia,ZIP Code 31006,Butler,Taylor,Standard
+Georgia,ZIP Code 31007,Byromville,Dooly,Standard
+Georgia,ZIP Code 31008,Byron,Peach,Standard
+Georgia,ZIP Code 31009,Cadwell,Laurens,Standard
+Georgia,ZIP Code 31010,Cordele,Crisp,P.O. Box
+Georgia,ZIP Code 31011,Chauncey,Dodge,Standard
+Georgia,ZIP Code 31012,Chester,Dodge,Standard
+Georgia,ZIP Code 31013,Clinchfield,Houston,P.O. Box
+Georgia,ZIP Code 31014,Cochran,Bleckley,Standard
+Georgia,ZIP Code 31015,Cordele,Crisp,Standard
+Georgia,ZIP Code 31016,Culloden,Monroe,Standard
+Georgia,ZIP Code 31017,Danville,Twiggs,Standard
+Georgia,ZIP Code 31018,Davisboro,Washington,Standard
+Georgia,ZIP Code 31019,Dexter,Laurens,Standard
+Georgia,ZIP Code 31020,Dry Branch,Twiggs,Standard
+Georgia,ZIP Code 31021,Dublin,Laurens,Standard
+Georgia,ZIP Code 31022,Dudley,Laurens,Standard
+Georgia,ZIP Code 31023,Eastman,Dodge,Standard
+Georgia,ZIP Code 31024,Eatonton,Putnam,Standard
+Georgia,ZIP Code 31025,Elko,Houston,Standard
+Georgia,ZIP Code 31026,Eatonton,Putnam,Unique
+Georgia,ZIP Code 31027,East Dublin,Laurens,Standard
+Georgia,ZIP Code 31028,Centerville,Houston,Standard
+Georgia,ZIP Code 31029,Forsyth,Monroe,Standard
+Georgia,ZIP Code 31030,Fort Valley,Peach,Standard
+Georgia,ZIP Code 31031,Gordon,Wilkinson,Standard
+Georgia,ZIP Code 31032,Gray,Jones,Standard
+Georgia,ZIP Code 31033,Haddock,Jones,Standard
+Georgia,ZIP Code 31034,Hardwick,Baldwin,P.O. Box
+Georgia,ZIP Code 31035,Harrison,Washington,Standard
+Georgia,ZIP Code 31036,Hawkinsville,Pulaski,Standard
+Georgia,ZIP Code 31037,Mc Rae Helena,Telfair,Standard
+Georgia,ZIP Code 31038,Hillsboro,Jasper,Standard
+Georgia,ZIP Code 31039,Howard,Taylor,P.O. Box
+Georgia,ZIP Code 31040,Dublin,Laurens,P.O. Box
+Georgia,ZIP Code 31041,Ideal,Macon,Standard
+Georgia,ZIP Code 31042,Irwinton,Wilkinson,Standard
+Georgia,ZIP Code 31044,Jeffersonville,Twiggs,Standard
+Georgia,ZIP Code 31045,Jewell,Warren,Standard
+Georgia,ZIP Code 31046,Juliette,Monroe,Standard
+Georgia,ZIP Code 31047,Kathleen,Houston,Standard
+Georgia,ZIP Code 31049,Kite,Johnson,Standard
+Georgia,ZIP Code 31050,Knoxville,Crawford,Standard
+Georgia,ZIP Code 31051,Lilly,Dooly,P.O. Box
+Georgia,ZIP Code 31052,Lizella,Bibb,Standard
+Georgia,ZIP Code 31054,Mc Intyre,Wilkinson,Standard
+Georgia,ZIP Code 31055,Mc Rae Helena,Telfair,Standard
+Georgia,ZIP Code 31057,Marshallville,Macon,Standard
+Georgia,ZIP Code 31058,Mauk,Marion,Standard
+Georgia,ZIP Code 31059,Milledgeville,Baldwin,P.O. Box
+Georgia,ZIP Code 31060,Milan,Dodge,Standard
+Georgia,ZIP Code 31061,Milledgeville,Baldwin,Standard
+Georgia,ZIP Code 31062,Milledgeville,Baldwin,Unique
+Georgia,ZIP Code 31063,Montezuma,Macon,Standard
+Georgia,ZIP Code 31064,Monticello,Jasper,Standard
+Georgia,ZIP Code 31065,Montrose,Laurens,Standard
+Georgia,ZIP Code 31066,Musella,Crawford,Standard
+Georgia,ZIP Code 31067,Oconee,Washington,P.O. Box
+Georgia,ZIP Code 31068,Oglethorpe,Macon,Standard
+Georgia,ZIP Code 31069,Perry,Houston,Standard
+Georgia,ZIP Code 31070,Pinehurst,Dooly,Standard
+Georgia,ZIP Code 31071,Pineview,Wilcox,Standard
+Georgia,ZIP Code 31072,Pitts,Wilcox,Standard
+Georgia,ZIP Code 31075,Rentz,Laurens,Standard
+Georgia,ZIP Code 31076,Reynolds,Taylor,Standard
+Georgia,ZIP Code 31077,Rhine,Dodge,Standard
+Georgia,ZIP Code 31078,Roberta,Crawford,Standard
+Georgia,ZIP Code 31079,Rochelle,Wilcox,Standard
+Georgia,ZIP Code 31081,Rupert,Taylor,Standard
+Georgia,ZIP Code 31082,Sandersville,Washington,Standard
+Georgia,ZIP Code 31083,Scotland,Telfair,P.O. Box
+Georgia,ZIP Code 31084,Seville,Wilcox,P.O. Box
+Georgia,ZIP Code 31085,Shady Dale,Jasper,Standard
+Georgia,ZIP Code 31086,Smarr,Monroe,P.O. Box
+Georgia,ZIP Code 31087,Sparta,Hancock,Standard
+Georgia,ZIP Code 31088,Warner Robins,Houston,Standard
+Georgia,ZIP Code 31089,Tennille,Washington,Standard
+Georgia,ZIP Code 31090,Toomsboro,Wilkinson,Standard
+Georgia,ZIP Code 31091,Unadilla,Dooly,Standard
+Georgia,ZIP Code 31092,Vienna,Dooly,Standard
+Georgia,ZIP Code 31093,Warner Robins,Houston,Standard
+Georgia,ZIP Code 31094,Warthen,Washington,Standard
+Georgia,ZIP Code 31095,Warner Robins,Houston,P.O. Box
+Georgia,ZIP Code 31096,Wrightsville,Johnson,Standard
+Georgia,ZIP Code 31097,Yatesville,Upson,Standard
+Georgia,ZIP Code 31098,Warner Robins,Houston,Standard
+Georgia,ZIP Code 31099,Warner Robins,Houston,P.O. Box
+Georgia,ZIP Code 31106,Atlanta,Fulton,P.O. Box
+Georgia,ZIP Code 31107,Atlanta,Dekalb,P.O. Box
+Georgia,ZIP Code 31119,Atlanta,Dekalb,P.O. Box
+Georgia,ZIP Code 31126,Atlanta,Fulton,P.O. Box
+Georgia,ZIP Code 31131,Atlanta,Fulton,P.O. Box
+Georgia,ZIP Code 31136,Atlanta,Fulton,Unique
+Georgia,ZIP Code 31139,Atlanta,Fulton,P.O. Box
+Georgia,ZIP Code 31141,Atlanta,Dekalb,P.O. Box
+Georgia,ZIP Code 31145,Atlanta,Dekalb,P.O. Box
+Georgia,ZIP Code 31146,Atlanta,Dekalb,P.O. Box
+Georgia,ZIP Code 31150,Atlanta,Fulton,P.O. Box
+Georgia,ZIP Code 31156,Atlanta,Fulton,P.O. Box
+Georgia,ZIP Code 31169,Peachtree City,Fayette,Unique
+Georgia,ZIP Code 31192,Atlanta,Fulton,Unique
+Georgia,ZIP Code 31193,Atlanta,Fulton,Unique
+Georgia,ZIP Code 31195,Atlanta,Fulton,Unique
+Georgia,ZIP Code 31196,Atlanta,Fulton,Unique
+Georgia,ZIP Code 31201,Macon,Bibb,Standard
+Georgia,ZIP Code 31202,Macon,Bibb,P.O. Box
+Georgia,ZIP Code 31203,Macon,Bibb,P.O. Box
+Georgia,ZIP Code 31204,Macon,Bibb,Standard
+Georgia,ZIP Code 31205,Macon,Bibb,P.O. Box
+Georgia,ZIP Code 31206,Macon,Bibb,Standard
+Georgia,ZIP Code 31207,Macon,Bibb,Unique
+Georgia,ZIP Code 31208,Macon,Bibb,P.O. Box
+Georgia,ZIP Code 31209,Macon,Bibb,P.O. Box
+Georgia,ZIP Code 31210,Macon,Bibb,Standard
+Georgia,ZIP Code 31211,Macon,Bibb,Standard
+Georgia,ZIP Code 31213,Macon,Bibb,Unique
+Georgia,ZIP Code 31216,Macon,Bibb,Standard
+Georgia,ZIP Code 31217,Macon,Bibb,Standard
+Georgia,ZIP Code 31220,Macon,Bibb,Standard
+Georgia,ZIP Code 31221,Macon,Bibb,P.O. Box
+Georgia,ZIP Code 31294,Macon,Bibb,Unique
+Georgia,ZIP Code 31295,Macon,Bibb,Unique
+Georgia,ZIP Code 31296,Macon,Bibb,Unique
+Georgia,ZIP Code 31297,Macon,Bibb,P.O. Box
+Georgia,ZIP Code 31301,Allenhurst,Liberty,Standard
+Georgia,ZIP Code 31302,Bloomingdale,Chatham,Standard
+Georgia,ZIP Code 31303,Clyo,Effingham,Standard
+Georgia,ZIP Code 31304,Crescent,Mcintosh,P.O. Box
+Georgia,ZIP Code 31305,Darien,Mcintosh,Standard
+Georgia,ZIP Code 31307,Eden,Effingham,P.O. Box
+Georgia,ZIP Code 31308,Ellabell,Bryan,Standard
+Georgia,ZIP Code 31309,Fleming,Liberty,Standard
+Georgia,ZIP Code 31310,Hinesville,Liberty,P.O. Box
+Georgia,ZIP Code 31312,Guyton,Effingham,Standard
+Georgia,ZIP Code 31313,Hinesville,Liberty,Standard
+Georgia,ZIP Code 31314,Fort Stewart,Liberty,Standard
+Georgia,ZIP Code 31315,Fort Stewart,Liberty,Standard
+Georgia,ZIP Code 31316,Ludowici,Long,Standard
+Georgia,ZIP Code 31318,Meldrim,Effingham,P.O. Box
+Georgia,ZIP Code 31319,Meridian,Mcintosh,P.O. Box
+Georgia,ZIP Code 31320,Midway,Liberty,Standard
+Georgia,ZIP Code 31321,Pembroke,Bryan,Standard
+Georgia,ZIP Code 31322,Pooler,Chatham,Standard
+Georgia,ZIP Code 31323,Riceboro,Liberty,Standard
+Georgia,ZIP Code 31324,Richmond Hill,Bryan,Standard
+Georgia,ZIP Code 31326,Rincon,Effingham,Standard
+Georgia,ZIP Code 31327,Sapelo Island,Mcintosh,P.O. Box
+Georgia,ZIP Code 31328,Tybee Island,Chatham,Standard
+Georgia,ZIP Code 31329,Springfield,Effingham,Standard
+Georgia,ZIP Code 31331,Townsend,Mcintosh,Standard
+Georgia,ZIP Code 31333,Walthourville,Liberty,P.O. Box
+Georgia,ZIP Code 31401,Savannah,Chatham,Standard
+Georgia,ZIP Code 31402,Savannah,Chatham,P.O. Box
+Georgia,ZIP Code 31403,Savannah,Chatham,P.O. Box
+Georgia,ZIP Code 31404,Savannah,Chatham,Standard
+Georgia,ZIP Code 31405,Savannah,Chatham,Standard
+Georgia,ZIP Code 31406,Savannah,Chatham,Standard
+Georgia,ZIP Code 31407,Port Wentworth,Chatham,Standard
+Georgia,ZIP Code 31408,Savannah,Chatham,Standard
+Georgia,ZIP Code 31409,Savannah,Chatham,P.O. Box
+Georgia,ZIP Code 31410,Savannah,Chatham,Standard
+Georgia,ZIP Code 31411,Savannah,Chatham,Standard
+Georgia,ZIP Code 31412,Savannah,Chatham,P.O. Box
+Georgia,ZIP Code 31414,Savannah,Chatham,P.O. Box
+Georgia,ZIP Code 31415,Savannah,Chatham,Standard
+Georgia,ZIP Code 31416,Savannah,Chatham,P.O. Box
+Georgia,ZIP Code 31418,Savannah,Chatham,P.O. Box
+Georgia,ZIP Code 31419,Savannah,Chatham,Standard
+Georgia,ZIP Code 31420,Savannah,Chatham,P.O. Box
+Georgia,ZIP Code 31421,Savannah,Chatham,Standard
+Georgia,ZIP Code 31501,Waycross,Ware,Standard
+Georgia,ZIP Code 31502,Waycross,Ware,P.O. Box
+Georgia,ZIP Code 31503,Waycross,Ware,Standard
+Georgia,ZIP Code 31510,Alma,Bacon,Standard
+Georgia,ZIP Code 31512,Ambrose,Coffee,Standard
+Georgia,ZIP Code 31513,Baxley,Appling,Standard
+Georgia,ZIP Code 31515,Baxley,Appling,P.O. Box
+Georgia,ZIP Code 31516,Blackshear,Pierce,Standard
+Georgia,ZIP Code 31518,Bristol,Pierce,Standard
+Georgia,ZIP Code 31519,Broxton,Coffee,Standard
+Georgia,ZIP Code 31520,Brunswick,Glynn,Standard
+Georgia,ZIP Code 31521,Brunswick,Glynn,P.O. Box
+Georgia,ZIP Code 31522,Saint Simons Island,Glynn,Standard
+Georgia,ZIP Code 31523,Brunswick,Glynn,Standard
+Georgia,ZIP Code 31524,Brunswick,Glynn,Unique
+Georgia,ZIP Code 31525,Brunswick,Glynn,Standard
+Georgia,ZIP Code 31527,Jekyll Island,Glynn,Standard
+Georgia,ZIP Code 31532,Denton,Jeff Davis,Standard
+Georgia,ZIP Code 31533,Douglas,Coffee,Standard
+Georgia,ZIP Code 31534,Douglas,Coffee,P.O. Box
+Georgia,ZIP Code 31535,Douglas,Coffee,Standard
+Georgia,ZIP Code 31537,Folkston,Charlton,Standard
+Georgia,ZIP Code 31539,Hazlehurst,Jeff Davis,Standard
+Georgia,ZIP Code 31542,Hoboken,Brantley,Standard
+Georgia,ZIP Code 31543,Hortense,Brantley,Standard
+Georgia,ZIP Code 31544,Jacksonville,Telfair,Standard
+Georgia,ZIP Code 31545,Jesup,Wayne,Standard
+Georgia,ZIP Code 31546,Jesup,Wayne,Standard
+Georgia,ZIP Code 31547,Kings Bay,Camden,Standard
+Georgia,ZIP Code 31548,Kingsland,Camden,Standard
+Georgia,ZIP Code 31549,Lumber City,Telfair,Standard
+Georgia,ZIP Code 31550,Manor,Ware,Standard
+Georgia,ZIP Code 31551,Mershon,Pierce,Standard
+Georgia,ZIP Code 31552,Millwood,Ware,Standard
+Georgia,ZIP Code 31553,Nahunta,Brantley,Standard
+Georgia,ZIP Code 31554,Nicholls,Coffee,Standard
+Georgia,ZIP Code 31555,Odum,Wayne,Standard
+Georgia,ZIP Code 31556,Offerman,Pierce,P.O. Box
+Georgia,ZIP Code 31557,Patterson,Pierce,Standard
+Georgia,ZIP Code 31558,Saint Marys,Camden,Standard
+Georgia,ZIP Code 31560,Screven,Wayne,Standard
+Georgia,ZIP Code 31561,Sea Island,Glynn,P.O. Box
+Georgia,ZIP Code 31562,Saint George,Charlton,Standard
+Georgia,ZIP Code 31563,Surrency,Appling,Standard
+Georgia,ZIP Code 31564,Waresboro,Ware,P.O. Box
+Georgia,ZIP Code 31565,Waverly,Camden,Standard
+Georgia,ZIP Code 31566,Waynesville,Brantley,Standard
+Georgia,ZIP Code 31567,West Green,Coffee,Standard
+Georgia,ZIP Code 31568,White Oak,Camden,Standard
+Georgia,ZIP Code 31569,Woodbine,Camden,Standard
+Georgia,ZIP Code 31598,Jesup,Wayne,P.O. Box
+Georgia,ZIP Code 31599,Jesup,Wayne,Unique
+Georgia,ZIP Code 31601,Valdosta,Lowndes,Standard
+Georgia,ZIP Code 31602,Valdosta,Lowndes,Standard
+Georgia,ZIP Code 31603,Valdosta,Lowndes,P.O. Box
+Georgia,ZIP Code 31604,Valdosta,Lowndes,P.O. Box
+Georgia,ZIP Code 31605,Valdosta,Lowndes,Standard
+Georgia,ZIP Code 31606,Valdosta,Lowndes,Standard
+Georgia,ZIP Code 31620,Adel,Cook,Standard
+Georgia,ZIP Code 31622,Alapaha,Berrien,Standard
+Georgia,ZIP Code 31623,Argyle,Clinch,P.O. Box
+Georgia,ZIP Code 31624,Axson,Atkinson,Standard
+Georgia,ZIP Code 31625,Barney,Brooks,Standard
+Georgia,ZIP Code 31626,Boston,Thomas,Standard
+Georgia,ZIP Code 31627,Cecil,Cook,P.O. Box
+Georgia,ZIP Code 31629,Dixie,Brooks,Standard
+Georgia,ZIP Code 31630,Du Pont,Clinch,Standard
+Georgia,ZIP Code 31631,Fargo,Clinch,Standard
+Georgia,ZIP Code 31632,Hahira,Lowndes,Standard
+Georgia,ZIP Code 31634,Homerville,Clinch,Standard
+Georgia,ZIP Code 31635,Lakeland,Lanier,Standard
+Georgia,ZIP Code 31636,Lake Park,Lowndes,Standard
+Georgia,ZIP Code 31637,Lenox,Cook,Standard
+Georgia,ZIP Code 31638,Morven,Brooks,Standard
+Georgia,ZIP Code 31639,Nashville,Berrien,Standard
+Georgia,ZIP Code 31641,Naylor,Lowndes,Standard
+Georgia,ZIP Code 31642,Pearson,Atkinson,Standard
+Georgia,ZIP Code 31643,Quitman,Brooks,Standard
+Georgia,ZIP Code 31645,Ray City,Berrien,Standard
+Georgia,ZIP Code 31647,Sparks,Cook,Standard
+Georgia,ZIP Code 31648,Statenville,Echols,Standard
+Georgia,ZIP Code 31649,Stockton,Lanier,Standard
+Georgia,ZIP Code 31650,Willacoochee,Atkinson,Standard
+Georgia,ZIP Code 31698,Valdosta,Lowndes,Unique
+Georgia,ZIP Code 31699,Moody AFB,Lowndes,Unique
+Georgia,ZIP Code 31701,Albany,Dougherty,Standard
+Georgia,ZIP Code 31702,Albany,Dougherty,P.O. Box
+Georgia,ZIP Code 31703,Albany,Dougherty,P.O. Box
+Georgia,ZIP Code 31704,Albany,Dougherty,Unique
+Georgia,ZIP Code 31705,Albany,Dougherty,Standard
+Georgia,ZIP Code 31706,Albany,Dougherty,P.O. Box
+Georgia,ZIP Code 31707,Albany,Dougherty,Standard
+Georgia,ZIP Code 31708,Albany,Dougherty,P.O. Box
+Georgia,ZIP Code 31709,Americus,Sumter,Standard
+Georgia,ZIP Code 31711,Andersonville,Sumter,Standard
+Georgia,ZIP Code 31712,Arabi,Crisp,Standard
+Georgia,ZIP Code 31714,Ashburn,Turner,Standard
+Georgia,ZIP Code 31716,Baconton,Mitchell,Standard
+Georgia,ZIP Code 31719,Americus,Sumter,Standard
+Georgia,ZIP Code 31720,Barwick,Brooks,P.O. Box
+Georgia,ZIP Code 31721,Albany,Dougherty,Standard
+Georgia,ZIP Code 31722,Berlin,Colquitt,P.O. Box
+Georgia,ZIP Code 31727,Brookfield,Tift,P.O. Box
+Georgia,ZIP Code 31730,Camilla,Mitchell,Standard
+Georgia,ZIP Code 31733,Chula,Tift,Standard
+Georgia,ZIP Code 31735,Cobb,Sumter,Standard
+Georgia,ZIP Code 31738,Coolidge,Thomas,Standard
+Georgia,ZIP Code 31739,Cotton,Mitchell,P.O. Box
+Georgia,ZIP Code 31743,De Soto,Sumter,Standard
+Georgia,ZIP Code 31744,Doerun,Colquitt,Standard
+Georgia,ZIP Code 31747,Ellenton,Colquitt,P.O. Box
+Georgia,ZIP Code 31749,Enigma,Berrien,Standard
+Georgia,ZIP Code 31750,Fitzgerald,Ben Hill,Standard
+Georgia,ZIP Code 31753,Funston,Colquitt,P.O. Box
+Georgia,ZIP Code 31756,Hartsfield,Colquitt,Standard
+Georgia,ZIP Code 31757,Thomasville,Thomas,Standard
+Georgia,ZIP Code 31758,Thomasville,Thomas,P.O. Box
+Georgia,ZIP Code 31760,Irwinville,Irwin,P.O. Box
+Georgia,ZIP Code 31763,Leesburg,Lee,Standard
+Georgia,ZIP Code 31764,Leslie,Sumter,Standard
+Georgia,ZIP Code 31765,Meigs,Thomas,Standard
+Georgia,ZIP Code 31768,Moultrie,Colquitt,Standard
+Georgia,ZIP Code 31769,Mystic,Irwin,P.O. Box
+Georgia,ZIP Code 31771,Norman Park,Colquitt,Standard
+Georgia,ZIP Code 31772,Oakfield,Worth,Standard
+Georgia,ZIP Code 31773,Ochlocknee,Thomas,Standard
+Georgia,ZIP Code 31774,Ocilla,Irwin,Standard
+Georgia,ZIP Code 31775,Omega,Tift,Standard
+Georgia,ZIP Code 31776,Moultrie,Colquitt,P.O. Box
+Georgia,ZIP Code 31778,Pavo,Thomas,Standard
+Georgia,ZIP Code 31779,Pelham,Mitchell,Standard
+Georgia,ZIP Code 31780,Plains,Sumter,Standard
+Georgia,ZIP Code 31781,Poulan,Worth,Standard
+Georgia,ZIP Code 31782,Putney,Dougherty,P.O. Box
+Georgia,ZIP Code 31783,Rebecca,Turner,Standard
+Georgia,ZIP Code 31784,Sale City,Mitchell,Standard
+Georgia,ZIP Code 31787,Smithville,Lee,Standard
+Georgia,ZIP Code 31788,Moultrie,Colquitt,Standard
+Georgia,ZIP Code 31789,Sumner,Worth,Standard
+Georgia,ZIP Code 31790,Sycamore,Turner,Standard
+Georgia,ZIP Code 31791,Sylvester,Worth,Standard
+Georgia,ZIP Code 31792,Thomasville,Thomas,Standard
+Georgia,ZIP Code 31793,Tifton,Tift,Standard
+Georgia,ZIP Code 31794,Tifton,Tift,Standard
+Georgia,ZIP Code 31795,Ty Ty,Tift,Standard
+Georgia,ZIP Code 31796,Warwick,Worth,Standard
+Georgia,ZIP Code 31798,Wray,Irwin,Standard
+Georgia,ZIP Code 31799,Thomasville,Thomas,P.O. Box
+Georgia,ZIP Code 31801,Box Springs,Talbot,Standard
+Georgia,ZIP Code 31803,Buena Vista,Marion,Standard
+Georgia,ZIP Code 31804,Cataula,Harris,Standard
+Georgia,ZIP Code 31805,Cusseta,Chattahoochee,Standard
+Georgia,ZIP Code 31806,Ellaville,Schley,Standard
+Georgia,ZIP Code 31807,Ellerslie,Harris,Standard
+Georgia,ZIP Code 31808,Fortson,Muscogee,Standard
+Georgia,ZIP Code 31810,Geneva,Talbot,P.O. Box
+Georgia,ZIP Code 31811,Hamilton,Harris,Standard
+Georgia,ZIP Code 31812,Junction City,Talbot,Standard
+Georgia,ZIP Code 31814,Louvale,Stewart,P.O. Box
+Georgia,ZIP Code 31815,Lumpkin,Stewart,Standard
+Georgia,ZIP Code 31816,Manchester,Meriwether,Standard
+Georgia,ZIP Code 31820,Midland,Muscogee,Standard
+Georgia,ZIP Code 31821,Omaha,Stewart,Standard
+Georgia,ZIP Code 31822,Pine Mountain,Harris,Standard
+Georgia,ZIP Code 31823,Pine Mountain Valley,Harris,Standard
+Georgia,ZIP Code 31824,Preston,Webster,Standard
+Georgia,ZIP Code 31825,Richland,Stewart,Standard
+Georgia,ZIP Code 31826,Shiloh,Harris,Standard
+Georgia,ZIP Code 31827,Talbotton,Talbot,Standard
+Georgia,ZIP Code 31829,Upatoi,Muscogee,Standard
+Georgia,ZIP Code 31830,Warm Springs,Meriwether,Standard
+Georgia,ZIP Code 31831,Waverly Hall,Harris,Standard
+Georgia,ZIP Code 31832,Weston,Webster,Standard
+Georgia,ZIP Code 31833,West Point,Troup,Standard
+Georgia,ZIP Code 31836,Woodland,Talbot,Standard
+Georgia,ZIP Code 31901,Columbus,Muscogee,Standard
+Georgia,ZIP Code 31902,Columbus,Muscogee,P.O. Box
+Georgia,ZIP Code 31903,Columbus,Muscogee,Standard
+Georgia,ZIP Code 31904,Columbus,Muscogee,Standard
+Georgia,ZIP Code 31905,Fort Benning,Muscogee,Standard
+Georgia,ZIP Code 31906,Columbus,Muscogee,Standard
+Georgia,ZIP Code 31907,Columbus,Muscogee,Standard
+Georgia,ZIP Code 31908,Columbus,Muscogee,P.O. Box
+Georgia,ZIP Code 31909,Columbus,Muscogee,Standard
+Georgia,ZIP Code 31914,Columbus,Muscogee,P.O. Box
+Georgia,ZIP Code 31917,Columbus,Muscogee,P.O. Box
+Georgia,ZIP Code 31993,Columbus,Muscogee,Unique
+Georgia,ZIP Code 31995,Fort Benning,Muscogee,P.O. Box
+Georgia,ZIP Code 31997,Columbus,Muscogee,Unique
+Georgia,ZIP Code 31998,Columbus,Muscogee,Unique
+Georgia,ZIP Code 31999,Columbus,Muscogee,Unique
+Georgia,ZIP Code 39813,Arlington,Calhoun,Standard
+Georgia,ZIP Code 39815,Attapulgus,Decatur,Standard
+Georgia,ZIP Code 39817,Bainbridge,Decatur,Standard
+Georgia,ZIP Code 39818,Bainbridge,Decatur,P.O. Box
+Georgia,ZIP Code 39819,Bainbridge,Decatur,Standard
+Georgia,ZIP Code 39823,Blakely,Early,Standard
+Georgia,ZIP Code 39824,Bluffton,Clay,Standard
+Georgia,ZIP Code 39825,Brinson,Decatur,Standard
+Georgia,ZIP Code 39826,Bronwood,Terrell,Standard
+Georgia,ZIP Code 39827,Cairo,Grady,Standard
+Georgia,ZIP Code 39828,Cairo,Grady,Standard
+Georgia,ZIP Code 39829,Calvary,Grady,P.O. Box
+Georgia,ZIP Code 39832,Cedar Springs,Early,P.O. Box
+Georgia,ZIP Code 39834,Climax,Decatur,Standard
+Georgia,ZIP Code 39836,Coleman,Randolph,Standard
+Georgia,ZIP Code 39837,Colquitt,Miller,Standard
+Georgia,ZIP Code 39840,Cuthbert,Randolph,Standard
+Georgia,ZIP Code 39841,Damascus,Early,Standard
+Georgia,ZIP Code 39842,Dawson,Terrell,Standard
+Georgia,ZIP Code 39845,Donalsonville,Seminole,Standard
+Georgia,ZIP Code 39846,Edison,Calhoun,Standard
+Georgia,ZIP Code 39851,Fort Gaines,Clay,Standard
+Georgia,ZIP Code 39852,Fowlstown,Decatur,P.O. Box
+Georgia,ZIP Code 39854,Georgetown,Quitman,Standard
+Georgia,ZIP Code 39859,Iron City,Seminole,Standard
+Georgia,ZIP Code 39861,Jakin,Early,Standard
+Georgia,ZIP Code 39862,Leary,Calhoun,Standard
+Georgia,ZIP Code 39866,Morgan,Calhoun,Standard
+Georgia,ZIP Code 39867,Morris,Quitman,Standard
+Georgia,ZIP Code 39870,Newton,Baker,Standard
+Georgia,ZIP Code 39877,Parrott,Terrell,Standard
+Georgia,ZIP Code 39885,Sasser,Terrell,P.O. Box
+Georgia,ZIP Code 39886,Shellman,Randolph,Standard
+Georgia,ZIP Code 39897,Whigham,Grady,Standard
+Georgia,ZIP Code 39901,Atlanta,Dekalb,Unique
