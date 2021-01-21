@@ -4,6 +4,7 @@ import datetime
 from time import sleep
 from parsel import Selector
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -13,14 +14,42 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
 from email import encoders
-
 import mysql.connector
-mysql_user = 'av'
-mysql_pass = 'azad'
-mysql_db = 'test'
+
+# ***************  For developer use only  **************
+# chrome_options = Options()
+# # chrome_options.add_argument("--headless")
+# chrome_options.add_argument('--no-sandbox')
+# chrome_options.add_argument('--disable-dev-shm-usage')
+# chrome_options.add_argument("--window-size=1920,1080")
+# chrome_options.add_argument("--start-maximised")
+# chrome_options.add_argument("--disable-gpu")
+# chrome_options.add_argument("--disable-extensions")
+#
+# mysql_user = 'av'
+# mysql_pass = 'azad'
+# mysql_db = 'test'
+# mysql_host = 'localhost'
+
+# ***************   for developer use ends   ***************
+
+# ***************  For server use only  **************
+
+chrome_options = Options()
+chrome_options.add_argument("--headless")
+chrome_options.add_argument('--no-sandbox')
+chrome_options.add_argument('--disable-dev-shm-usage')
+chrome_options.add_argument("--window-size=1920,1080")
+chrome_options.add_argument("--start-maximised")
+
+mysql_user = ''
+mysql_pass = ''
+mysql_db = ''
+mysql_host = ''
+# ***************   for server use ends   ***************
 
 mydb = mysql.connector.connect(
-    host="localhost",
+    host= mysql_host ,
     user=mysql_user,
     password=mysql_pass,
     database=mysql_db
@@ -76,7 +105,7 @@ def send_mail(_mail, currentSubject,currentMsg):
 def scrape_data(driver):
     page_data=[]
     unknown_pin = open('unknown.log', 'a')
-    global scraping_zip,div_count,page_number,div_number,elementClick
+    global scraping_zip,div_count,page_number,div_number,elementClick,input_state
     wait = WebDriverWait(driver,10)
     print('Page No.',page_number)
 
@@ -87,7 +116,7 @@ def scrape_data(driver):
     except Exception as e:
         skip_log = open('skip_log.log', 'a')
         skip_log.write(f'\n++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n\n'
-                       f'ZIP Code {scraping_zip}, Exception in Span Class of Page No. count Skipping Zip  , {e}')
+                       f'ZIP Code {scraping_zip}, State -> {input_state} , Exception in Span Class of Page No. count Skipping Zip  , {e}')
         skip_log.close()
         return "scrap_data_exception"
 
@@ -114,7 +143,7 @@ def scrape_data(driver):
             except Exception as e:
                 skip_log = open('skip_log.log', 'a')
                 skip_log.write(f'\n++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n\n'
-                          f'ZIP Code {scraping_zip}, Exception Of listing loop Record Skipped , page no : {page_number}  {e}')
+                          f'ZIP Code {scraping_zip}, State -> {input_state} , Exception Of listing loop Record Skipped , page no : {page_number}  {e}')
                 skip_log.close()
                 continue
 
@@ -128,7 +157,7 @@ def scrape_data(driver):
         except Exception as e:
             skip_log = open('skip_log.log', 'a')
             skip_log.write(f'\n++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n\n'
-                          f'ZIP Code {scraping_zip}, Exception of Selector Modeule Skipping Record  , page no : {page_number}  {e}')
+                          f'ZIP Code {scraping_zip}, State -> {input_state} , Exception of Selector Modeule Skipping Record  , page no : {page_number}  {e}')
             skip_log.close()
             continue
         ################ AGENCY NAME #################
@@ -141,8 +170,14 @@ def scrape_data(driver):
             else:
                 agency_name=agency_name.strip()
             print('\tSaving data for ' + agency_name)
-            ################ Phone NUMBER #################
+            ################ GOOGLE REFERENCE  #################
+            reference = driver.current_url
+            print("Reference : ", reference)
+            latitude = reference.split('@')[1].split(',')[0]
+            longitude = reference.split('@')[1].split(',')[1]
+            print(f'latitude :{latitude} and longitude :{longitude}')
 
+            ################ Phone NUMBER #################
             phone_number = sel.xpath('//button[@data-tooltip="Copy phone number"]/@aria-label').extract_first()
 
             if phone_number is None:
@@ -162,22 +197,11 @@ def scrape_data(driver):
                 print(url , "this is url ")
 
             ################ EMAIL #################
-
             email = ''
             ################ Facebook link #################
-
             facebook_link=''
             ################ LinkedIn Link #################
-
             linkdin_link=''
-            ################ GOOGLE REFERENCE  #################
-
-            reference = driver.current_url
-            print("Reference : ", reference)
-            latitude = reference.split('@')[1].split(',')[0]
-            longitude = reference.split('@')[1].split(',')[1]
-            print(f'latitude :{latitude} and longitude :{longitude}')
-
             ################ ADDRESS #################
 
             address = sel.xpath('//button[@data-item-id="address"]/@aria-label').extract_first()
@@ -220,8 +244,6 @@ def scrape_data(driver):
                     address_zip_code = int(address_zip)
                     address_country = address.split(',')[5].strip()
                 else:
-                    # address_as=address.split(',')
-                    # print(address_as)
                     driver.find_element_by_xpath('//span[text()="Back to results"]').click()
                     continue
             else:
@@ -251,28 +273,6 @@ def scrape_data(driver):
 
             print('logo url',logo)
 
-            #################### Working days #########
-            # days=sel.xpath("//div[contains(@class,'section-open-hours-container')]//@aria-label").extract_first()
-            # mon = tue = wed = thu = fri = sat = sun = ''
-            # if days is not None:
-            #     list_of_days = days.lower().replace('hide open hours for the week','').replace('.','').split(';')
-            #     for i in list_of_days:
-            #         if 'monday' in i :
-            #             mon = week_check(i)
-            #         elif 'tuesday' in i:
-            #             tue=week_check(i)
-            #         elif 'wednesday' in i :
-            #             wed=week_check(i)
-            #         elif 'thursday' in i:
-            #             thu=week_check(i)
-            #         elif 'friday' in i :
-            #             fri=week_check(i)
-            #         elif 'saturday' in i:
-            #             sat=week_check(i)
-            #         elif 'sunday' in i:
-            #             sun=week_check(i)
-            #
-            # print(f'Monday : {mon} , Tuesday : {tue} , wednesday : {wed} , thursday : {thu} , friday : {fri} , saturday : {sat} , sunday : {sun} ' )
             ################ CATEGORY  #################
             category = sel.xpath('''//div[contains(@class,'gm2-body-2')][2]//text()''').extract_first()
 
@@ -328,25 +328,12 @@ def scrape_data(driver):
             driver.find_element_by_xpath('//span[text()="Back to results"]').click()
             skip_log = open('skip_log.log', 'a')
             skip_log.write(f'\n++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n\n'
-                      f' ZIP Code {scraping_zip} Exception While Scraping Record Skipped  ,Page No. {page_number}, {e}')
+                      f' ZIP Code {scraping_zip}, State -> {input_state} , Exception While Scraping Record Skipped  , Page No. {page_number}, url -> {reference} {e}')
             skip_log.close()
             continue
     unknown_pin.close()
     sleep(2)
     return page_data
-
-def week_check(string):
-    split_day_text = string.split(',')[0].strip().split(' ')
-    if len(split_day_text) > 1:
-        reason =''
-        if 'closed' in string:
-            for i in range(1,len(split_day_text)):
-                reason=reason+split_day_text[i]
-            return string.split(',')[1]+' '+reason.strip()
-        else:
-            return string.split(',')[1].strip()
-    else:
-        return string.split(',')[1].strip()
 
 def click_fun(execString,waitingCount):
     try:
@@ -375,7 +362,7 @@ def waitAndExecute(execString,waitingCount):
             return waitAndExecute(execString,waitingCount+1)
 
 def insert_into_db(data):
-    global scraping_zip,page_number
+    global scraping_zip,page_number,input_state
     count = 0
     if len(data) > 0:
         try:
@@ -389,12 +376,11 @@ def insert_into_db(data):
         except Exception as e:
             skip_log = open('skip_log.log', 'a')
             skip_log.write(f'\n++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n\n'
-                           f'ZIP Code {scraping_zip} Error while record saving in db Google Page Ref : {i[4]} ,{e}')
+                           f'ZIP Code {scraping_zip} , State -> {input_state} , Error while record saving in db Google Page Ref : {i[4]} ,{e}')
             skip_log.close()
             del data[:count]
             insert_into_db(data)
 
-# ,monday,tuesday,wednesday,thursday,friday,saturday,sunday    ,%s,%s,%s,%s,%s,%s,%s
 
 def make_new_log(filename):
     new = open(filename, "w")
@@ -448,7 +434,8 @@ def scraper(driver):
             break
 
 ############### Update your ChromeDriver Location #############
-driver = webdriver.Chrome('/usr/bin/chromedriver')
+chromedriver = '/usr/bin/chromedriver'
+driver = webdriver.Chrome(chromedriver, chrome_options=chrome_options)
 driver.get('https://www.google.com/maps/?hl=en')
 done_zip = open('done_zip.log','a')
 wait = WebDriverWait(driver, 10)
@@ -458,14 +445,13 @@ div_count = 0
 scraping_zip = ''
 div_number = 0
 error = ''
-elementClick='a'
+elementClick='div'
 try:
     line = checkErrorLogs()
     make_new_log("Error_Check.log")
     log = open('Error_Check.log', 'a')
 ################# Update InPut CSV Here ######################
-    #/workspace/USA STATES CSV/California.csv
-    df=pd.read_csv('/home/code/input.csv',sep=',')
+    df=pd.read_csv('/home/code/workspace/USA STATES CSV/CSV WITH TYPE/Colorado.csv',sep=',')
     if line != 'normal':
         start_line = line.split(',')
         starting_zip = start_line[1].strip()
@@ -476,11 +462,10 @@ try:
         starting_page =0
     reader=df.values
     for row in reader:
-        scraping_zip = row[0].replace('ZIP Code ','')
-        input_city = row[1].strip()
-        ########################################## Enter state manually ###############
-        input_state = "Arkanas"
-        input_type = row[3]
+        input_state = row[0]
+        scraping_zip = row[1].replace('ZIP Code ','')
+        input_city = row[2].strip()
+        input_type = row[4]
         page_number = 0
         if 'P.O. Box' in input_type:
             print('Skipping ' + scraping_zip + ' P.0. Box')
@@ -540,20 +525,3 @@ except Exception as e:
     send_mail('msingh@anviam.com', 'Google Map Scraper Custom: Error', msg)
     print("Final Exception>>> ", e)
     driver.quit()
-
-
-# import re
-#
-# text = u'This is a smiley face \U0001f602'
-# print(text) # with emoji
-#
-# def deEmojify(text):
-#     regrex_pattern = re.compile(pattern = "["
-#         u"\U0001F600-\U0001F64F"  # emoticons
-#         u"\U0001F300-\U0001F5FF"  # symbols & pictographs
-#         u"\U0001F680-\U0001F6FF"  # transport & map symbols
-#         u"\U0001F1E0-\U0001F1FF"  # flags (iOS)
-#                            "]+", flags = re.UNICODE)
-#     return regrex_pattern.sub(r'',text)
-#
-# print(deEmojify(text))
