@@ -42,10 +42,10 @@ chrome_options.add_argument('--disable-dev-shm-usage')
 chrome_options.add_argument("--window-size=1920,1080")
 chrome_options.add_argument("--start-maximised")
 
-mysql_user = ''
-mysql_pass = ''
-mysql_db = ''
-mysql_host = ''
+mysql_user = 'av'
+mysql_pass = 'codegaragetech'
+mysql_db = 'google_map'
+mysql_host = 'localhost'
 # ***************   for server use ends   ***************
 
 mydb = mysql.connector.connect(
@@ -55,7 +55,7 @@ mydb = mysql.connector.connect(
     database=mysql_db
 )
 cursor = mydb.cursor()
-
+print("DB Connection Pass ")
 def send_mail(_mail, currentSubject,currentMsg):
     try:
         msg = MIMEMultipart()
@@ -434,7 +434,7 @@ def scraper(driver):
             break
 
 ############### Update your ChromeDriver Location #############
-chromedriver = '/usr/bin/chromedriver'
+chromedriver = '/usr/bin/chromedriver' # For local
 driver = webdriver.Chrome(chromedriver, chrome_options=chrome_options)
 driver.get('https://www.google.com/maps/?hl=en')
 done_zip = open('done_zip.log','a')
