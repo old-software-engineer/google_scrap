@@ -37,10 +37,6 @@ import mysql.connector
 
 chrome_options = Options()
 chrome_options.add_argument("--headless")
-chrome_options.add_argument('--no-sandbox')
-chrome_options.add_argument('--disable-dev-shm-usage')
-chrome_options.add_argument("--window-size=1920,1080")
-chrome_options.add_argument("--start-maximised")
 
 mysql_user = 'av'
 mysql_pass = 'codegaragetech'
@@ -104,16 +100,15 @@ def send_mail(_mail, currentSubject,currentMsg):
 
 def scrape_data(driver):
     page_data=[]
-    unknown_pin = open('unknown.log', 'a')
     global scraping_zip,div_count,page_number,div_number,elementClick,input_state
     wait = WebDriverWait(driver,10)
     print('Page No.',page_number)
-
     div_count=0
     sleep(3)
     try:
         wait.until(EC.visibility_of_element_located((By.XPATH,'//span[contains(@class, "n7lv7yjyC35__left")]')))
     except Exception as e:
+        print(f"ZIP Code {scraping_zip}, State -> {input_state} , Exception in Span Class of Page No. count")
         skip_log = open('skip_log.log', 'a')
         skip_log.write(f'\n++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n\n'
                        f'ZIP Code {scraping_zip}, State -> {input_state} , Exception in Span Class of Page No. count Skipping Zip  , {e}')
@@ -141,6 +136,8 @@ def scrape_data(driver):
                 click_fun('''//{}[contains(@data-result-index, "{}")]'''.format(temp, listing), 0)
                 elementClick = temp
             except Exception as e:
+                print(f'\n++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n\n'
+                          f'ZIP Code {scraping_zip}, State -> {input_state} , Exception Of listing loop Record Skipped , ')
                 skip_log = open('skip_log.log', 'a')
                 skip_log.write(f'\n++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n\n'
                           f'ZIP Code {scraping_zip}, State -> {input_state} , Exception Of listing loop Record Skipped , page no : {page_number}  {e}')
@@ -155,6 +152,8 @@ def scrape_data(driver):
                 raise TimeoutError
             sel = Selector(text=driver.page_source)
         except Exception as e:
+            print(f'\n++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n\n'
+                          f'ZIP Code {scraping_zip}, State -> {input_state} , Exception of Selector Modeule Skipping Record ')
             skip_log = open('skip_log.log', 'a')
             skip_log.write(f'\n++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n\n'
                           f'ZIP Code {scraping_zip}, State -> {input_state} , Exception of Selector Modeule Skipping Record  , page no : {page_number}  {e}')
@@ -192,6 +191,7 @@ def scrape_data(driver):
             url = sel.xpath('//*[@data-tooltip="Open website"]/@aria-label').extract_first()
             if url is None:
                 url=''
+                print("Empty Url")
             else:
                 url = url.replace('Website: ', '').strip()
                 print(url , "this is url ")
@@ -205,7 +205,7 @@ def scrape_data(driver):
             ################ ADDRESS #################
 
             address = sel.xpath('//button[@data-item-id="address"]/@aria-label').extract_first()
-
+            print(address)
             if address:
                 address = address.replace('Address: ', '')
                 if len(address.split(",")) == 2:
@@ -245,6 +245,7 @@ def scrape_data(driver):
                     address_country = address.split(',')[5].strip()
                 else:
                     driver.find_element_by_xpath('//span[text()="Back to results"]').click()
+                    print("Address Not match conditions ")
                     continue
             else:
                 address = ''
@@ -319,19 +320,17 @@ def scrape_data(driver):
                 # mon.strip(),tue.strip(),wed.strip(),
                 #                       thu.strip(),fri.strip(),sat.strip(),sun.strip()
                 page_data.append(zipdata)
-            else:
-                unknown_pin.write(f'{address_zip_code} ,')
-
             driver.find_element_by_xpath('//span[text()="Back to results"]').click()
         except Exception as e:
             wait.until(EC.element_to_be_clickable((By.XPATH, '//span[text()="Back to results"]')))
             driver.find_element_by_xpath('//span[text()="Back to results"]').click()
+            print(f'\n++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n\n'
+                      f' ZIP Code {scraping_zip}, State -> {input_state} , Exception While Scraping Record Skipped  ')
             skip_log = open('skip_log.log', 'a')
             skip_log.write(f'\n++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n\n'
                       f' ZIP Code {scraping_zip}, State -> {input_state} , Exception While Scraping Record Skipped  , Page No. {page_number}, url -> {reference} {e}')
             skip_log.close()
             continue
-    unknown_pin.close()
     sleep(2)
     return page_data
 
@@ -435,9 +434,8 @@ def scraper(driver):
 
 ############### Update your ChromeDriver Location #############
 chromedriver = '/usr/bin/chromedriver' # For local
-driver = webdriver.Chrome(chromedriver, chrome_options=chrome_options)
+driver = webdriver.Chrome(chromedriver, options=chrome_options)
 driver.get('https://www.google.com/maps/?hl=en')
-done_zip = open('done_zip.log','a')
 wait = WebDriverWait(driver, 10)
 data = []
 page_number = 0
@@ -449,9 +447,8 @@ elementClick='div'
 try:
     line = checkErrorLogs()
     make_new_log("Error_Check.log")
-    log = open('Error_Check.log', 'a')
 ################# Update InPut CSV Here ######################
-    df=pd.read_csv('/home/code/workspace/USA STATES CSV/CSV WITH TYPE/Colorado.csv',sep=',')
+    df=pd.read_csv('Master_Csv_Virginia_to_Wisconsin+Florida.csv',sep=',')
     if line != 'normal':
         start_line = line.split(',')
         starting_zip = start_line[1].strip()
@@ -506,9 +503,10 @@ try:
             div_count=0
             insert_into_db(data)
             data =[]
+            done_zip = open('done_zip.log', 'a')
             done_zip.write(f'{scraping_zip} \n')
-    log.close()
-    done_zip.close()
+            done_zip.close()
+
     msg ='Scraping script has been completed'
 ############# Update mail address Here ##################
     send_mail('msingh@anviam.com', 'Google Map Scraper Daily: Success', msg)
@@ -517,7 +515,7 @@ try:
 except Exception as e:
     insert_into_db(data)
     error =traceback.format_exc()
-    done_zip.close()
+    log = open('Error_Check.log', 'a')
     log.write(f"Zipecode , {scraping_zip} , Page-No. , {page_number} ,Div-count., {div_count} ,Div-No. ,{div_number}  \n Error :  {error} ")
     log.close()
     msg = 'Please rerun the script to continue scraping.'
