@@ -15,6 +15,7 @@ from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
 from email import encoders
 import mysql.connector
+# from geopy.geocoders import Nominatim
 
 # ***************  For developer use only  **************
 # chrome_options = Options()
@@ -205,44 +206,44 @@ def scrape_data(driver):
             ################ ADDRESS #################
 
             address = sel.xpath('//button[@data-item-id="address"]/@aria-label').extract_first()
-            print(address)
-            if address:
-                address = address.replace('Address: ', '')
-                if len(address.split(",")) == 2:
+            if address is not None:
+                address = address.replace('Address: ', '').replace(', United States','')
+                print("if condition --> ",address)
+                if len(address.split(",")) == 1:
                     address_street = ''
                     address_city = ''
                     address_state = address.split(',')[0].strip().split()[0].strip()
                     address_zip = address.split(',')[0].strip().split()[1].strip()
                     address_zip_code = int(address_zip)
-                    address_country = address.split(',')[1].strip()
-                elif len(address.split(',')) == 3:
+                    address_country = "United States"
+                elif len(address.split(',')) == 2:
                     address_street = ''
                     address_city = address.split(',')[0].strip()
                     address_state = address.split(',')[1].strip().split()[0].strip()
                     address_zip = address.split(',')[1].strip().split()[1].strip()
                     address_zip_code = int(address_zip)
-                    address_country = address.split(',')[2].strip()
-                elif len(address.split(',')) == 5:
+                    address_country = "United States"
+                elif len(address.split(',')) == 4:
                     address_street = address.split(',')[0]+address.split(',')[1].strip()
                     address_city = address.split(',')[2].strip()
                     address_state = address.split(',')[3].strip().split()[0].strip()
                     address_zip = address.split(',')[3].strip().split()[1].strip()
                     address_zip_code = int(address_zip)
-                    address_country = address.split(',')[4].strip()
-                elif len(address.split(',')) == 4:
+                    address_country = "United States"
+                elif len(address.split(',')) == 3:
                     address_street = address.split(',')[0].strip()
                     address_city = address.split(',')[1].strip()
                     address_state = address.split(',')[2].strip().split()[0].strip()
                     address_zip = address.split(',')[2].strip().split()[1].strip()
                     address_zip_code = int(address_zip)
-                    address_country = address.split(',')[3].strip()
-                elif len(address.split(',')) == 6:
+                    address_country = "United States"
+                elif len(address.split(',')) == 5:
                     address_street = address.split(',')[0] + address.split(',')[1] + address.split(',')[2]
                     address_city = address.split(',')[3].strip()
                     address_state = address.split(',')[4].strip().split()[0].strip()
                     address_zip = address.split(',')[4].strip().split()[1].strip()
                     address_zip_code = int(address_zip)
-                    address_country = address.split(',')[5].strip()
+                    address_country = "United States"
                 else:
                     driver.find_element_by_xpath('//span[text()="Back to results"]').click()
                     print("Address Not match conditions ")
@@ -261,7 +262,17 @@ def scrape_data(driver):
             print('state:',address_state)
             print('zip_code',address_zip_code)
             print('Country :',address_country)
-
+           ################## geopy   ######
+            # geolocator = Nominatim(user_agent="Google_map")
+            # location = geolocator.geocode(address+', United States')
+            # if location is None:
+            #     latitude =''
+            #     longitude = ''
+            # else:
+            #     latitude = location.latitude
+            #     longitude = location.longitude
+            #
+            # print(f'latitude :{latitude} and longitude :{longitude}')
             ################ LOGO #################
 
             logo = sel.xpath('//button[@jsaction="pane.heroHeaderImage.click"]/img/@src').extract_first()
