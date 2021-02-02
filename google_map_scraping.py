@@ -103,9 +103,9 @@ def send_mail(_mail, currentSubject,currentMsg):
         server.quit()
 
 
-def scrape_data(driver):
+def scrape_data():
     page_data=[]
-    global scraping_zip,div_count,page_number,div_number,elementClick,input_state
+    global scraping_zip,div_count,page_number,div_number,elementClick,input_state,driver
     wait = WebDriverWait(driver,10)
     print('Page No.',page_number)
     div_count=0
@@ -416,13 +416,13 @@ def checkErrorLogs():
 
 
 
-def scraper(driver):
-    global page_number,data,div_count
+def scraper():
+    global page_number,data,div_count,driver
     wait = WebDriverWait(driver, 10)
     while True:
         if page_number == 0:
             page_number +=1
-            temp_data = scrape_data(driver)
+            temp_data = scrape_data()
             if temp_data == "scrap_data_exception":
                 break
             else:
@@ -439,7 +439,7 @@ def scraper(driver):
             wait.until(EC.element_to_be_clickable((By.XPATH, "//button[contains(@aria-label,'Next page')]")))
             driver.find_element_by_xpath("//button[contains(@aria-label,'Next page')]").click()
             page_number += 1
-            temp_data = scrape_data(driver)
+            temp_data = scrape_data()
             if temp_data == "scrap_data_exception":
                 break
             else:
@@ -529,7 +529,7 @@ try:
                 driver.find_element_by_class_name('section-partial-interpretation')
                 continue
             except:
-                scraper(driver)
+                scraper()
             div_count=0
             insert_into_db(data)
             data =[]
