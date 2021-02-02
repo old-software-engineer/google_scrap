@@ -38,7 +38,11 @@ import mysql.connector
 
 chrome_options = Options()
 chrome_options.add_argument("--headless")
-
+chrome_options.add_argument('--no-sandbox')
+chrome_options.add_argument('--disable-dev-shm-usage')
+chrome_options.add_argument("--window-size=1920,1080")
+chrome_options.add_argument("--start-maximised")
+#
 mysql_user = 'av'
 mysql_pass = 'codegaragetech'
 mysql_db = 'google_map'
@@ -442,6 +446,19 @@ def scraper(driver):
                 data = data + temp_data
         else:
             break
+def chromedriver_fun():
+    global chromedriver_count,driver,wait
+    print(chromedriver_count)
+    if chromedriver_count > 10:
+        driver.quit()
+        driver = webdriver.Chrome(chromedriver, options=chrome_options)
+        driver.get('https://www.google.com/maps/?hl=en')
+        sleep(2)
+        wait = WebDriverWait(driver, 10)
+        chromedriver_count = 1
+    else:
+        chromedriver_count = chromedriver_count +1
+
 
 ############### Update your ChromeDriver Location #############
 chromedriver = '/usr/bin/chromedriver' # For local
@@ -454,7 +471,8 @@ div_count = 0
 scraping_zip = ''
 div_number = 0
 error = ''
-elementClick='div'
+elementClick = 'div'
+chromedriver_count = 1
 try:
     line = checkErrorLogs()
     make_new_log("Error_Check.log")
@@ -478,6 +496,7 @@ try:
         if 'P.O. Box' in input_type:
             print('Skipping ' + scraping_zip + ' P.0. Box')
         else:
+            chromedriver_fun()
             search_input =driver.find_element_by_xpath('//*[@id="searchboxinput"]')
             print('\n')
             print('Scraping insurance agency near ' + scraping_zip)
