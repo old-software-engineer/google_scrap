@@ -107,6 +107,7 @@ def scrape_data():
     page_data=[]
     global scraping_zip,div_count,page_number,div_number,elementClick,input_state,driver
     wait = WebDriverWait(driver,10)
+    wait_elem = WebDriverWait(driver,4)
     print('Page No.',page_number)
     div_count=0
     sleep(3)
@@ -129,7 +130,7 @@ def scrape_data():
         try:
             if listing == 1:
                 sleep(2)
-            wait.until(EC.element_to_be_clickable((By.XPATH,f'//{elementClick}[contains(@data-result-index, "{listing}")]')))
+            wait_elem.until(EC.element_to_be_clickable((By.XPATH,f'//{elementClick}[contains(@data-result-index, "{listing}")]')))
             click_fun('''//{}[contains(@data-result-index, "{}")]'''.format(elementClick,listing),0)
         except :
             temp=''
@@ -138,7 +139,7 @@ def scrape_data():
             elif 'div' in elementClick:
                 temp = 'a'
             try:
-                wait.until(EC.element_to_be_clickable(
+                wait_elem.until(EC.element_to_be_clickable(
                     (By.XPATH, f'//{temp}[contains(@data-result-index, "{listing}")]')))
                 click_fun('''//{}[contains(@data-result-index, "{}")]'''.format(temp, listing), 0)
                 elementClick = temp
