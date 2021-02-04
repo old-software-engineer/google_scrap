@@ -127,6 +127,8 @@ def scrape_data():
     for listing in range(1,div_count):
         div_number = listing
         try:
+            if listing == 1:
+                sleep(2)
             wait.until(EC.element_to_be_clickable((By.XPATH,f'//{elementClick}[contains(@data-result-index, "{listing}")]')))
             click_fun('''//{}[contains(@data-result-index, "{}")]'''.format(elementClick,listing),0)
         except :
