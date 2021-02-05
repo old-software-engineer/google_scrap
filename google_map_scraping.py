@@ -105,8 +105,8 @@ def send_mail(_mail, currentSubject,currentMsg):
 
 def scrape_data():
     page_data=[]
-    global scraping_zip,div_count,page_number,div_number,elementClick,input_state,driver
-    wait = WebDriverWait(driver,10)
+    global scraping_zip,div_count,page_number,div_number,elementClick,input_state,driver,div_exception,wait
+    wait = WebDriverWait(driver, 5)
     wait_elem = WebDriverWait(driver,4)
     print('Page No.',page_number)
     div_count=0
@@ -150,7 +150,8 @@ def scrape_data():
                 skip_log.write(f'\n++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n\n'
                           f'ZIP Code {scraping_zip}, State -> {input_state} , Exception Of listing loop Record Skipped , page no : {page_number}  {e}')
                 skip_log.close()
-                continue
+                div_exception = True
+                break
 
         try:
             check = waitAndExecute("Selector(text=driver.page_source).xpath('//h1/span/text()')[0]",0)
@@ -420,10 +421,28 @@ def checkErrorLogs():
 
 
 def scraper():
-    global page_number,data,div_count,driver
-    wait = WebDriverWait(driver, 10)
+    global page_number,data,div_count,driver,div_exception,scraping_zip,input_state,wait,div_exception_count
     while True:
-        if page_number == 0:
+        if div_exception == True :
+            if div_exception_count < 5:
+                driver.quit()
+                driver = webdriver.Chrome(chromedriver, options=chrome_options)
+                driver.get('https://www.google.com/maps/?hl=en')
+                sleep(1)
+                wait = WebDriverWait(driver, 5)
+                search()
+                div_exception = False
+                page_number = 1
+                div_exception_count =div_exception_count + 1
+                temp_data = scrape_data()
+                if temp_data == "scrap_data_exception":
+                    break
+                else:
+                    data = data + temp_data
+            else:
+                div_exception = False
+                break
+        elif page_number == 0:
             page_number +=1
             temp_data = scrape_data()
             if temp_data == "scrap_data_exception":
@@ -457,17 +476,26 @@ def chromedriver_fun():
         driver = webdriver.Chrome(chromedriver, options=chrome_options)
         driver.get('https://www.google.com/maps/?hl=en')
         sleep(2)
-        wait = WebDriverWait(driver, 10)
         chromedriver_count = 1
+        wait = WebDriverWait(driver, 5)
     else:
         chromedriver_count = chromedriver_count +1
 
+def search():
+    global scraping_zip,input_state,driver,wait
+    search_input = driver.find_element_by_xpath('//*[@id="searchboxinput"]')
+    print('\n')
+    print('Scraping insurance agency near ' + scraping_zip)
+    search_input.clear()
+    search_input.send_keys('insurance agency near ' + scraping_zip + ' ' + input_state + ' USA')
+    search_input.send_keys(Keys.ENTER)
+    wait.until(EC.url_contains(input_state))
 
 ############### Update your ChromeDriver Location #############
 chromedriver = '/usr/bin/chromedriver' # For local
 driver = webdriver.Chrome(chromedriver, options=chrome_options)
 driver.get('https://www.google.com/maps/?hl=en')
-wait = WebDriverWait(driver, 10)
+wait = WebDriverWait(driver,5)
 data = []
 page_number = 0
 div_count = 0
@@ -476,6 +504,7 @@ div_number = 0
 error = ''
 elementClick = 'div'
 chromedriver_count = 1
+div_exception = False
 try:
     line = checkErrorLogs()
     make_new_log("Error_Check.log")
@@ -500,13 +529,8 @@ try:
             print('Skipping ' + scraping_zip + ' P.0. Box')
         else:
             chromedriver_fun()
-            search_input =driver.find_element_by_xpath('//*[@id="searchboxinput"]')
-            print('\n')
-            print('Scraping insurance agency near ' + scraping_zip)
-            search_input.clear()
-            search_input.send_keys('insurance agency near ' +scraping_zip+' '+input_state+' USA')
-            search_input.send_keys(Keys.ENTER)
-            wait.until(EC.url_contains(input_state))
+            search()
+            div_exception_count = 0
             if line != 'normal':
                 line = 'normal'
                 if starting_page == 2:
