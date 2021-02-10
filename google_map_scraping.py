@@ -112,7 +112,7 @@ def scrape_data():
     wait_elem = WebDriverWait(driver,4)
     print('Page No.',page_number)
     div_count=0
-    sleep(3)
+    sleep(2)
     try:
         wait.until(EC.visibility_of_element_located((By.XPATH,'//span[contains(@class, "n7lv7yjyC35__left")]')))
     except Exception as e:
@@ -131,7 +131,7 @@ def scrape_data():
         div_number = listing
         try:
             if listing == 1:
-                sleep(2)
+                sleep(1)
             wait_elem.until(EC.element_to_be_clickable((By.XPATH,f'//{elementClick}[contains(@data-result-index, "{listing}")]')))
             click_fun('''//{}[contains(@data-result-index, "{}")]'''.format(elementClick,listing),0)
         except :
@@ -356,7 +356,7 @@ def scrape_data():
                       f' ZIP Code {scraping_zip}, State -> {input_state} , Exception While Scraping Record Skipped  , Page No. {page_number}, url -> {reference} {e}')
             skip_log.close()
             continue
-    sleep(2)
+    sleep(1)
     return page_data
 
 def click_fun(execString,waitingCount):
@@ -488,7 +488,7 @@ def chromedriver_fun():
         driver.quit()
         driver = webdriver.Chrome(chromedriver, options=chrome_options)
         driver.get('https://www.google.com/maps/?hl=en')
-        sleep(2)
+        sleep(1)
         chromedriver_count = 1
         wait = WebDriverWait(driver, 5)
     else:
