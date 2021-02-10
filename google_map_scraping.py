@@ -15,6 +15,8 @@ from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
 from email import encoders
 import mysql.connector
+from selenium.webdriver.remote.command import Command
+import pdb
 # from geopy.geocoders import Nominatim
 
 # ***************  For developer use only  **************
@@ -150,8 +152,12 @@ def scrape_data():
                 skip_log.write(f'\n++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n\n'
                           f'ZIP Code {scraping_zip}, State -> {input_state} , Exception Of listing loop Record Skipped , page no : {page_number}  {e}')
                 skip_log.close()
-                div_exception = True
-                break
+                status = get_status()
+                if status is 'Dead':
+                    continue
+                else:
+                    div_exception = True
+                    break
 
         try:
             check = waitAndExecute("Selector(text=driver.page_source).xpath('//h1/span/text()')[0]",0)
@@ -419,6 +425,13 @@ def checkErrorLogs():
         return 'normal'
 
 
+def get_status():
+    global driver
+    try:
+        driver.execute(Command.STATUS)
+        return "Alive"
+    except :
+        return "Dead"
 
 def scraper():
     global page_number,data,div_count,driver,div_exception,scraping_zip,input_state,wait,div_exception_count
@@ -489,7 +502,7 @@ def search():
     search_input.clear()
     search_input.send_keys('insurance agency near ' + scraping_zip + ' ' + input_state + ' USA')
     search_input.send_keys(Keys.ENTER)
-    wait.until(EC.url_contains(input_state))
+    wait.until(EC.url_contains(input_state.replace(' ','+')))
 
 ############### Update your ChromeDriver Location #############
 chromedriver = '/usr/bin/chromedriver' # For local
