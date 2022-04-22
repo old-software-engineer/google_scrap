@@ -18,6 +18,7 @@ import mysql.connector
 from selenium.webdriver.remote.command import Command
 import pdb
 import csv
+import re
 
 # from geopy.geocoders import Nominatim
 
@@ -116,6 +117,10 @@ def scrape_data():
     wait_elem = WebDriverWait(driver,4)
     print('Page No.',page_number)
     div_count=0
+    print("search done")
+    for i in range(0,page_number):
+        driver.find_elements_by_xpath("//button[contains(@aria-label,'Next page')]")[1].click()
+
     sleep(2)
     try:
         wait.until(EC.visibility_of_element_located((By.XPATH,'//div[contains(@class, "Nv2PK")]')))
@@ -230,10 +235,10 @@ def scrape_data():
                 except Exception as e:
                     print(f'\n++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n\n'
                                   f'ZIP Code {scraping_zip}, State -> {input_state} , Exception of Selector Modeule Skipping Record ')
-                    skip_log = open('skip_log.log', 'a')
-                    skip_log.write(f'\n++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n\n'
-                                  f'ZIP Code {scraping_zip}, State -> {input_state} , Exception of Selector Modeule Skipping Record  , page no : {page_number}  {e}')
-                    skip_log.close()
+                    # skip_log = open('skip_log.log', 'a')
+                    # skip_log.write(f'\n++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n\n'
+                    #               f'ZIP Code {scraping_zip}, State -> {input_state} , Exception of Selector Modeule Skipping Record  , page no : {page_number}  {e}')
+                    # skip_log.close()
                     continue
                 ################ AGENCY NAME #################
                 try:
@@ -272,8 +277,10 @@ def scrape_data():
                         url = url.replace('Website: ', '').strip()
                         print(url , "this is url ")
 
+                    ################ Get EMAIL FROM FACEBOOK ################
+
                     ################ EMAIL #################
-                    email = ''
+                    # email = ''
                     ################ Facebook link #################
                     facebook_link=''
                     ################ LinkedIn Link #################
@@ -281,6 +288,9 @@ def scrape_data():
                     ################ ADDRESS #################
 
                     address = sel.xpath('//button[@data-item-id="address"]/@aria-label').extract_first()
+
+                    email = facebook_scrap(agency_name,url,address)
+
                     if address is not None:
                         address = address.replace('Address: ', '').replace(', United States','')
                         print("if condition --> ",address)
@@ -405,8 +415,10 @@ def scrape_data():
                               latitude,longitude,str(datetime.datetime.now()),str(datetime.datetime.now())]
                     # mon.strip(),tue.strip(),wed.strip(),
                     #                       thu.strip(),fri.strip(),sat.strip(),sun.strip()
-                    page_data.append(zipdata)
-
+                    if email != "Email not found": 
+                        page_data.append(zipdata)
+                        print("write records into file ------------->")
+                        csvwriter.writerows([zipdata])
                     # writing the data rows
                     # driver.find_element_by_xpath('//span[text()="Back to results"]').click()
                     driver.find_element_by_xpath('//button[@aria-label="Back"]').click()
@@ -426,8 +438,7 @@ def scrape_data():
                     continue
                 print("Fetch records ---> ",listing)
                 if listing == (div_list_count-1):
-                    csvwriter.writerows(page_data)
-                    print("write into file ------->")
+                    # csvwriter.writerows(page_data)
                     page_data=[]
                     driver.find_elements_by_xpath("//button[contains(@aria-label,'Next page')]")[1].click()
                     break
@@ -435,6 +446,33 @@ def scrape_data():
                 break
     sleep(1)
     return page_data
+
+def facebook_scrap(agency_name, url, address):
+    print("Facebook Scrapping");
+    global driver,div_exception,wait,user_category
+
+    driver.execute_script("window.open('');")
+    sleep(2)
+    driver.switch_to.window(driver.window_handles[1])
+    driver.get("https://google.com")
+    google_input = driver.find_element_by_xpath("//input[contains(@title,'Search')]")
+    google_input.send_keys(agency_name +" facebook")
+    google_input.send_keys(Keys.ENTER)
+
+    facebook_click = driver.find_element_by_xpath("//div[contains(@class,'yuRUbf')]")
+    facebook_click.click()
+    sleep(1)
+    facebook_text = driver.find_element_by_tag_name('body').text
+    match = re.findall(r'[\w.+-]+@[\w-]+\.[\w.-]+',facebook_text)
+
+    driver.close()
+    driver.switch_to.window(driver.window_handles[0])
+
+    if len(match) > 0:
+        return match[0]
+    else:
+        return "Email not found"
+
 
 def click_fun(execString,waitingCount):
     print("click_fun kar reha")
@@ -620,8 +658,8 @@ try:
     sleep(2)
     line = checkErrorLogs()
     make_new_log("Error_Check.log")
-    ################# Update InPut CSV Here ######################
-    df = pd.read_csv('Master_Csv_Virginia_to_Wisconsin+Florida.csv',sep=',')
+################# Update InPut CSV Here ######################
+    df=pd.read_csv('Master_Csv_Virginia_to_Wisconsin+Florida.csv',sep=',')
     if line != 'normal':
         start_line = line.split(',')
         starting_zip = start_line[1].strip()
@@ -642,27 +680,29 @@ try:
         else:
             chromedriver_fun()
             search()
+            pdb.set_trace()
             div_exception_count = 0
-            if line != 'normal':
-                line = 'normal'
-                if starting_page == 2:
-                    page_number = 1
-                    div_count= 21
-                else:
-                    div_count = 21
-                    click_count = 10
-                    page_number = 1
-                    for x in range(0,click_count):
-                        sleep(2)
-                        try:
-                            wait.until(EC.presence_of_element_located((By.XPATH,"//button[contains(@aria-label,'Next page')]")))
-                        except:
-                            continue
-                        wait.until(EC.element_to_be_clickable((By.XPATH, "//button[contains(@aria-label,'Next page')]"))).click()
-                        page_number=page_number+1
-                        sleep(3)
-###### If No records on searched Zip Code ########
             try:
+                if line != 'normal':
+                    line = 'normal'
+                    if starting_page == 2:
+                        page_number = 1
+                        div_count= 21
+                    else:
+                        div_count = 21
+                        click_count = 10
+                        page_number = 1
+                        for x in range(0,click_count):
+                            pdb.set_trace()
+                            sleep(2)
+                            try:
+                                wait.until(EC.presence_of_element_located((By.XPATH,"//button[contains(@aria-label,'Next page')]")))
+                            except:
+                                continue
+                            wait.until(EC.element_to_be_clickable((By.XPATH, "//button[contains(@aria-label,'Next page')]"))).click()
+                            page_number=page_number+1
+                            sleep(3)
+###### If No records on searched Zip Code ########
                 # driver.find_element_by_id('pane');
                 driver.find_element_by_class_name('section-partial-interpretation')
                 continue
@@ -670,7 +710,7 @@ try:
                 scraper()
             div_count=0
             print(" Insert Into DB -> ",data)
-            insert_into_db(data)
+            # insert_into_db(data)
             data =[]
             done_zip = open('done_zip.log', 'a')
             done_zip.write(f'{scraping_zip} \n')
@@ -682,14 +722,14 @@ try:
     print('All done!')
     driver.quit()
 except Exception as e:
-    print("Error handle --------",e)
-    insert_into_db(data)
+    print("Error handle --------", e)
+    # insert_into_db(data)
     error =traceback.format_exc()
     log = open('Error_Check.log', 'a')
     log.write(f"Zipecode , {scraping_zip} , Page-No. , {page_number} ,Div-count., {div_count} ,Div-No. ,{div_number}  \n Error :  {error} ")
     log.close()
     msg = 'Please rerun the script to continue scraping.'
 ############# Update mail address Here ##################
-    send_mail('narinder@codegaragetech.com', 'Google Map Scraper Custom: Error', msg)
+    # send_mail('narinder@codegaragetech.com', 'Google Map Scraper Custom: Error', msg)
     print("Final Exception>>> ", e)
     driver.quit()
