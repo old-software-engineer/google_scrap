@@ -1,0 +1,2120 @@
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 72901, Exception in line 129 of Selector Modeule  , page no : 1  Message: no such element: Unable to locate element: {"method":"class name","selector":"section-partial-interpretation"}
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-128-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 72901 Error while record saving in db Google Page Ref : https://www.google.com/maps/place/Business+Insurance+Consultants+%E2%AD%90/@35.3569497,-94.4840663,11z/data=!4m8!1m2!2m1!1sinsurance+agency+near+72901+Arkanas+USA!3m4!1s0x87ca4cbd9822d8ff:0x9395279fadeb3b13!8m2!3d35.383718!4d-94.417069?hl=en ,1366 (HY000): Incorrect string value: '\xE2\xAD\x90' for column 'name' at row 1
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 80002, State -> Colorado , Exception Of listing loop Record Skipped , page no : 1  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 80002, State -> Colorado , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=43147): Max retries exceeded with url: /session/e87d86cfbecf505277e338768ed34f0c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9b4a6d2f60>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 80002, State -> Colorado , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=43147): Max retries exceeded with url: /session/e87d86cfbecf505277e338768ed34f0c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9b4a694550>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 80002, State -> Colorado , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=43147): Max retries exceeded with url: /session/e87d86cfbecf505277e338768ed34f0c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9b4a6762e8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 80002, State -> Colorado , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=43147): Max retries exceeded with url: /session/e87d86cfbecf505277e338768ed34f0c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9b4a694f98>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 80002, State -> Colorado , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=43147): Max retries exceeded with url: /session/e87d86cfbecf505277e338768ed34f0c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9b4a694320>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 80002, State -> Colorado , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=43147): Max retries exceeded with url: /session/e87d86cfbecf505277e338768ed34f0c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9b4a62e128>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 80002, State -> Colorado , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=43147): Max retries exceeded with url: /session/e87d86cfbecf505277e338768ed34f0c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9b4a676240>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 80002, State -> Colorado , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=43147): Max retries exceeded with url: /session/e87d86cfbecf505277e338768ed34f0c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9b4a62e668>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 80002, State -> Colorado , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=43147): Max retries exceeded with url: /session/e87d86cfbecf505277e338768ed34f0c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9b4a694d68>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 80002, State -> Colorado , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=43147): Max retries exceeded with url: /session/e87d86cfbecf505277e338768ed34f0c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9b4a676d30>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 80002, State -> Colorado , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=43147): Max retries exceeded with url: /session/e87d86cfbecf505277e338768ed34f0c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9b4a62ebe0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 80002, State -> Colorado , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=43147): Max retries exceeded with url: /session/e87d86cfbecf505277e338768ed34f0c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9b4a62e278>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 80002, State -> Colorado , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=43147): Max retries exceeded with url: /session/e87d86cfbecf505277e338768ed34f0c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9b4a6949b0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 80002, State -> Colorado , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=43147): Max retries exceeded with url: /session/e87d86cfbecf505277e338768ed34f0c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9b4a62ec18>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 80002, State -> Colorado , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=43147): Max retries exceeded with url: /session/e87d86cfbecf505277e338768ed34f0c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9b4a676e48>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 80002, State -> Colorado , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=43147): Max retries exceeded with url: /session/e87d86cfbecf505277e338768ed34f0c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9b4a6d2c88>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50953): Max retries exceeded with url: /session/ceaa0deef16a40e3db48f0e83d131b5c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8917c08dd8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50953): Max retries exceeded with url: /session/ceaa0deef16a40e3db48f0e83d131b5c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8917ba97f0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50953): Max retries exceeded with url: /session/ceaa0deef16a40e3db48f0e83d131b5c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8917ba97b8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50953): Max retries exceeded with url: /session/ceaa0deef16a40e3db48f0e83d131b5c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8917bbf4a8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50953): Max retries exceeded with url: /session/ceaa0deef16a40e3db48f0e83d131b5c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8917ba9588>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50953): Max retries exceeded with url: /session/ceaa0deef16a40e3db48f0e83d131b5c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8917bbf0b8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50953): Max retries exceeded with url: /session/ceaa0deef16a40e3db48f0e83d131b5c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8917bbf4e0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50953): Max retries exceeded with url: /session/ceaa0deef16a40e3db48f0e83d131b5c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8917ba9128>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50953): Max retries exceeded with url: /session/ceaa0deef16a40e3db48f0e83d131b5c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8917ba9438>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50953): Max retries exceeded with url: /session/ceaa0deef16a40e3db48f0e83d131b5c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8917bbf320>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50953): Max retries exceeded with url: /session/ceaa0deef16a40e3db48f0e83d131b5c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8917bd6400>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50953): Max retries exceeded with url: /session/ceaa0deef16a40e3db48f0e83d131b5c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8917bbf588>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50953): Max retries exceeded with url: /session/ceaa0deef16a40e3db48f0e83d131b5c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8917ba9438>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50953): Max retries exceeded with url: /session/ceaa0deef16a40e3db48f0e83d131b5c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8917bd6630>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50953): Max retries exceeded with url: /session/ceaa0deef16a40e3db48f0e83d131b5c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8917ba9d68>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50953): Max retries exceeded with url: /session/ceaa0deef16a40e3db48f0e83d131b5c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8917bbfd68>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50953): Max retries exceeded with url: /session/ceaa0deef16a40e3db48f0e83d131b5c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8917c08da0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50457): Max retries exceeded with url: /session/190024555da3a4e592d6c4e6d9e38f2b/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f22093bae10>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50457): Max retries exceeded with url: /session/190024555da3a4e592d6c4e6d9e38f2b/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f22093babe0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50457): Max retries exceeded with url: /session/190024555da3a4e592d6c4e6d9e38f2b/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f22093f2f28>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50457): Max retries exceeded with url: /session/190024555da3a4e592d6c4e6d9e38f2b/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f22093f2898>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50457): Max retries exceeded with url: /session/190024555da3a4e592d6c4e6d9e38f2b/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f22093f27b8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50457): Max retries exceeded with url: /session/190024555da3a4e592d6c4e6d9e38f2b/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f220939eb38>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50457): Max retries exceeded with url: /session/190024555da3a4e592d6c4e6d9e38f2b/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f22093f2dd8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50457): Max retries exceeded with url: /session/190024555da3a4e592d6c4e6d9e38f2b/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f220933d710>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50457): Max retries exceeded with url: /session/190024555da3a4e592d6c4e6d9e38f2b/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f220933dc18>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50457): Max retries exceeded with url: /session/190024555da3a4e592d6c4e6d9e38f2b/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f220933d240>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50457): Max retries exceeded with url: /session/190024555da3a4e592d6c4e6d9e38f2b/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f220939ee10>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50457): Max retries exceeded with url: /session/190024555da3a4e592d6c4e6d9e38f2b/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f220933d9b0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50457): Max retries exceeded with url: /session/190024555da3a4e592d6c4e6d9e38f2b/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f220939e470>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50457): Max retries exceeded with url: /session/190024555da3a4e592d6c4e6d9e38f2b/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f220939e0f0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50457): Max retries exceeded with url: /session/190024555da3a4e592d6c4e6d9e38f2b/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f220933d7f0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50457): Max retries exceeded with url: /session/190024555da3a4e592d6c4e6d9e38f2b/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f22093f2828>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50457): Max retries exceeded with url: /session/190024555da3a4e592d6c4e6d9e38f2b/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f220939e8d0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=50457): Max retries exceeded with url: /session/190024555da3a4e592d6c4e6d9e38f2b/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f220939e8d0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=53769): Max retries exceeded with url: /session/b90b04a112795a8667e8ccfa5fe3f64c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb059121c50>: Failed to establish a new connection: [Errno 111] Connection refused'))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=53769): Max retries exceeded with url: /session/b90b04a112795a8667e8ccfa5fe3f64c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb0591210d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=53769): Max retries exceeded with url: /session/b90b04a112795a8667e8ccfa5fe3f64c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb0590bf650>: Failed to establish a new connection: [Errno 111] Connection refused'))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=53769): Max retries exceeded with url: /session/b90b04a112795a8667e8ccfa5fe3f64c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb059110b50>: Failed to establish a new connection: [Errno 111] Connection refused'))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=53769): Max retries exceeded with url: /session/b90b04a112795a8667e8ccfa5fe3f64c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb0590cd290>: Failed to establish a new connection: [Errno 111] Connection refused'))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=53769): Max retries exceeded with url: /session/b90b04a112795a8667e8ccfa5fe3f64c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb059121710>: Failed to establish a new connection: [Errno 111] Connection refused'))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 1  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-132-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33760, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=37873): Max retries exceeded with url: /session/aa43e9d6e64ecd829ead8288480c77da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f68e683e710>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33760, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=37873): Max retries exceeded with url: /session/aa43e9d6e64ecd829ead8288480c77da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f68e683e588>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33760, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=37873): Max retries exceeded with url: /session/aa43e9d6e64ecd829ead8288480c77da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f68e683e978>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33760, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=37873): Max retries exceeded with url: /session/aa43e9d6e64ecd829ead8288480c77da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f68e67e9cc0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33760, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=37873): Max retries exceeded with url: /session/aa43e9d6e64ecd829ead8288480c77da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f68e683e160>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33760, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=37873): Max retries exceeded with url: /session/aa43e9d6e64ecd829ead8288480c77da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f68e683e710>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33760, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=37873): Max retries exceeded with url: /session/aa43e9d6e64ecd829ead8288480c77da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f68e680cb00>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33760, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=37873): Max retries exceeded with url: /session/aa43e9d6e64ecd829ead8288480c77da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f68e680c160>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33760, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=37873): Max retries exceeded with url: /session/aa43e9d6e64ecd829ead8288480c77da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f68e67e9e80>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33760, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=37873): Max retries exceeded with url: /session/aa43e9d6e64ecd829ead8288480c77da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f68e680c978>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33760, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=37873): Max retries exceeded with url: /session/aa43e9d6e64ecd829ead8288480c77da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f68e680c390>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33760, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=37873): Max retries exceeded with url: /session/aa43e9d6e64ecd829ead8288480c77da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f68e67e92e8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33760, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=37873): Max retries exceeded with url: /session/aa43e9d6e64ecd829ead8288480c77da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f68e680c320>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33760, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=37873): Max retries exceeded with url: /session/aa43e9d6e64ecd829ead8288480c77da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f68e683ef28>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33760, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=37873): Max retries exceeded with url: /session/aa43e9d6e64ecd829ead8288480c77da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f68e67e91d0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33760, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=37873): Max retries exceeded with url: /session/aa43e9d6e64ecd829ead8288480c77da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f68e67e9518>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33760, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=37873): Max retries exceeded with url: /session/aa43e9d6e64ecd829ead8288480c77da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f68e67ad390>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33760, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=37873): Max retries exceeded with url: /session/aa43e9d6e64ecd829ead8288480c77da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f68e680c208>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33760, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=37873): Max retries exceeded with url: /session/aa43e9d6e64ecd829ead8288480c77da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f68e67addd8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33760, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=37873): Max retries exceeded with url: /session/aa43e9d6e64ecd829ead8288480c77da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f68e67c4320>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33760, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33760, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=53339): Max retries exceeded with url: /session/7c86246804634b2f7b5e8afb2fad23da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7efc21f34b00>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=53339): Max retries exceeded with url: /session/7c86246804634b2f7b5e8afb2fad23da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7efc21f4a5c0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=53339): Max retries exceeded with url: /session/7c86246804634b2f7b5e8afb2fad23da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7efc21f34240>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=53339): Max retries exceeded with url: /session/7c86246804634b2f7b5e8afb2fad23da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7efc21f4aba8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=53339): Max retries exceeded with url: /session/7c86246804634b2f7b5e8afb2fad23da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7efc21f34da0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=53339): Max retries exceeded with url: /session/7c86246804634b2f7b5e8afb2fad23da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7efc21f4a550>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=53339): Max retries exceeded with url: /session/7c86246804634b2f7b5e8afb2fad23da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7efc21f4a710>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=53339): Max retries exceeded with url: /session/7c86246804634b2f7b5e8afb2fad23da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7efc21f34a90>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=53339): Max retries exceeded with url: /session/7c86246804634b2f7b5e8afb2fad23da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7efc21f34588>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=53339): Max retries exceeded with url: /session/7c86246804634b2f7b5e8afb2fad23da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7efc21f4a128>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=53339): Max retries exceeded with url: /session/7c86246804634b2f7b5e8afb2fad23da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7efc21ee4710>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=53339): Max retries exceeded with url: /session/7c86246804634b2f7b5e8afb2fad23da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7efc21f4a320>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=53339): Max retries exceeded with url: /session/7c86246804634b2f7b5e8afb2fad23da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7efc21f34c88>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=53339): Max retries exceeded with url: /session/7c86246804634b2f7b5e8afb2fad23da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7efc21ee4ac8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=53339): Max retries exceeded with url: /session/7c86246804634b2f7b5e8afb2fad23da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7efc21f344e0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=53339): Max retries exceeded with url: /session/7c86246804634b2f7b5e8afb2fad23da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7efc21f4a4e0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  HTTPConnectionPool(host='127.0.0.1', port=53339): Max retries exceeded with url: /session/7c86246804634b2f7b5e8afb2fad23da/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7efc21ef7978>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33715, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33715, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33715, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33715, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33715, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33715, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33715, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33715, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33715, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33715, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=33513): Max retries exceeded with url: /session/114edbdcab88cc4c2db75d4dffee32f7/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f588a0c69e8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=33513): Max retries exceeded with url: /session/114edbdcab88cc4c2db75d4dffee32f7/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f58887a6278>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=33513): Max retries exceeded with url: /session/114edbdcab88cc4c2db75d4dffee32f7/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f58887d1dd8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=33513): Max retries exceeded with url: /session/114edbdcab88cc4c2db75d4dffee32f7/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f58887d1a20>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=33513): Max retries exceeded with url: /session/114edbdcab88cc4c2db75d4dffee32f7/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f58887be208>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=33513): Max retries exceeded with url: /session/114edbdcab88cc4c2db75d4dffee32f7/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f58887f59e8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=33513): Max retries exceeded with url: /session/114edbdcab88cc4c2db75d4dffee32f7/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f58887a6cc0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=33513): Max retries exceeded with url: /session/114edbdcab88cc4c2db75d4dffee32f7/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f58887a6438>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=33513): Max retries exceeded with url: /session/114edbdcab88cc4c2db75d4dffee32f7/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f58887a6550>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=33513): Max retries exceeded with url: /session/114edbdcab88cc4c2db75d4dffee32f7/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f58887f5208>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=33513): Max retries exceeded with url: /session/114edbdcab88cc4c2db75d4dffee32f7/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f58887a6f60>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=33513): Max retries exceeded with url: /session/114edbdcab88cc4c2db75d4dffee32f7/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f58887f5780>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=33513): Max retries exceeded with url: /session/114edbdcab88cc4c2db75d4dffee32f7/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f58887bec50>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=33513): Max retries exceeded with url: /session/114edbdcab88cc4c2db75d4dffee32f7/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f58887a6e10>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=33513): Max retries exceeded with url: /session/114edbdcab88cc4c2db75d4dffee32f7/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5888758908>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=33513): Max retries exceeded with url: /session/114edbdcab88cc4c2db75d4dffee32f7/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5888758ef0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33771 , State -> Florida , Error while record saving in db Google Page Ref : https://www.google.com/maps/place/O.E.+Wilson+Insurance+Inc.+Largo+%F0%9F%91%8D/@27.897243,-82.8358543,10z/data=!4m8!1m2!2m1!1sinsurance+agency+near+33771+Florida+USA!3m4!1s0x88c2fab7548a514d:0xccb121caab10386d!8m2!3d27.9036826!4d-82.745292?hl=en ,1366 (HY000): Incorrect string value: '\xF0\x9F\x91\x8D' for column 'name' at row 1
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33772, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 3  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33904, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33904, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33904, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33904, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33904, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33904, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33904, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33904, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33904, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33904, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33904, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33904, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33904, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33904, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33904, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33904, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33904, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33904, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33904, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33904, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ ZIP Code 33759, State -> Florida , Exception While Scraping Record Skipped  , Page No. 1, url -> https://www.google.com/maps/place/PNB+Metlife+India+Insurance+Company+Limited/@30.6479256,76.2749999,9z/data=!4m8!1m2!2m1!1sinsurance+agency+near+33759+Florida+USA!3m4!1s0x390fedafcbe6858f:0x485f5af1439ac806!8m2!3d30.7400577!4d76.786909?hl=en list index out of range
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ ZIP Code 33759, State -> Florida , Exception While Scraping Record Skipped  , Page No. 1, url -> https://www.google.com/maps/place/PNB+MetLife+India+Insurance+Co.+Ltd./@30.6479256,76.2749999,9z/data=!4m8!1m2!2m1!1sinsurance+agency+near+33759+Florida+USA!3m4!1s0x3905827584075ecf:0x45ee8166ceaed787!8m2!3d31.103581!4d77.1949109?hl=en invalid literal for int() with base 10: 'Pradesh'
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=56369): Max retries exceeded with url: /session/cef1abe3aec12962f976a77d88fa2543/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f40c258bc50>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33714, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33715, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33716, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ ZIP Code 33759, State -> Florida , Exception While Scraping Record Skipped  , Page No. 1, url -> https://www.google.com/maps/place/PNB+Metlife+India+Insurance+Company+Limited/@30.6479256,76.2749999,9z/data=!4m8!1m2!2m1!1sinsurance+agency+near+33759+Florida+USA!3m4!1s0x390fedafcbe6858f:0x485f5af1439ac806!8m2!3d30.7400674!4d76.7869251?hl=en list index out of range
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ ZIP Code 33759, State -> Florida , Exception While Scraping Record Skipped  , Page No. 1, url -> https://www.google.com/maps/place/PNB+MetLife+India+Insurance+Co.+Ltd./@30.6479256,76.2749999,9z/data=!4m8!1m2!2m1!1sinsurance+agency+near+33759+Florida+USA!3m4!1s0x3905827584075ecf:0x45ee8166ceaed787!8m2!3d31.103581!4d77.1949109?hl=en invalid literal for int() with base 10: 'Pradesh'
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33771 , State -> Florida , Error while record saving in db Google Page Ref : https://www.google.com/maps/place/O.E.+Wilson+Insurance+Inc.+Largo+%F0%9F%91%8D/@27.9036826,-83.0254434,10z/data=!4m8!1m2!2m1!1sinsurance+agency+near+33771+Florida+USA!3m4!1s0x88c2fab7548a514d:0xccb121caab10386d!8m2!3d27.9036167!4d-82.7453746?hl=en ,1366 (HY000): Incorrect string value: '\xF0\x9F\x91\x8D' for column 'name' at row 1
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33868, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 3  
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33904, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33935, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 3  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33935, State -> Florida , Exception Of listing loop Record Skipped , page no : 3  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ ZIP Code 33935, State -> Florida , Exception While Scraping Record Skipped  , Page No. 1, url -> https://www.google.com/maps/place/PNB+Metlife+India+Insurance+Company+Limited/@30.7197719,76.2336665,9z/data=!4m8!1m2!2m1!1sinsurance+agency+near+33935+Florida+USA!3m4!1s0x390fedafcbe6858f:0x485f5af1439ac806!8m2!3d30.7400577!4d76.786909?hl=en list index out of range
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 1  Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 25550, State -> West Virginia , Exception in Span Class of Page No. count Skipping Zip  , 'NoneType' object has no attribute 'is_displayed'
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 26763, State -> West Virginia , Exception of Selector Modeule Skipping Record  , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 26763, State -> West Virginia , Exception Of listing loop Record Skipped , page no : 1  Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+  (Driver info: chromedriver=2.41.578700 (2f1ed5f9343c13f73144538f15c00b370eda6706),platform=Linux 4.15.0-135-generic x86_64)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 26763, State -> West Virginia , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=53469): Max retries exceeded with url: /session/7b80067d1031565224b6659f68524c73/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc6b505ba20>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 26763, State -> West Virginia , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=53469): Max retries exceeded with url: /session/7b80067d1031565224b6659f68524c73/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc6b4ff6e48>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 26763, State -> West Virginia , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=53469): Max retries exceeded with url: /session/7b80067d1031565224b6659f68524c73/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc6b504c7f0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 26763, State -> West Virginia , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=53469): Max retries exceeded with url: /session/7b80067d1031565224b6659f68524c73/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc6b500e470>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 26763, State -> West Virginia , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33714, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33715, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33716, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33729, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33730, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33755, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33756, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33759, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33760, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33761, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33762, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33763, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33764, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33714, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33715, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33714, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33715, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33714, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33715, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33716, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33729, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33730, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33755, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33756, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33759, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33760, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33761, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33762, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33763, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33764, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , HTTPConnectionPool(host='127.0.0.1', port=40101): Max retries exceeded with url: /session/1e5735d0d77ef488c161189634957d30/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd848715748>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception in Span Class of Page No. count Skipping Zip  , Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=33599): Max retries exceeded with url: /session/e58b5154174aad84bd5c536ee04d423b/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4092fc9710>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=33599): Max retries exceeded with url: /session/e58b5154174aad84bd5c536ee04d423b/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4092fc9748>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=33599): Max retries exceeded with url: /session/e58b5154174aad84bd5c536ee04d423b/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4092fc9e48>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=33599): Max retries exceeded with url: /session/e58b5154174aad84bd5c536ee04d423b/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4092f70208>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  HTTPConnectionPool(host='127.0.0.1', port=33599): Max retries exceeded with url: /session/e58b5154174aad84bd5c536ee04d423b/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4092f70c50>: Failed to establish a new connection: [Errno 111] Connection refused',))
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711 , State -> Florida , Error while record saving in db Google Page Ref : https://www.google.com/maps/place/ONYX+INSURANCE/@27.7419452,-82.7262194,13z/data=!4m9!1m2!2m1!1sinsurance+agency+near+33711+Florida+USA!3m5!1s0x88c2e268d28926fb:0x9de85b429c983d1a!8m2!3d27.7489209!4d-82.6787981!15sCidpbnN1cmFuY2UgYWdlbmN5IG5lYXIgMzM3MTEgRmxvcmlkYSBVU0GSARBpbnN1cmFuY2VfYWdlbmN5?hl=en ,1054 (42S22): Unknown column 'business_category' in 'field list'
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711 , State -> Florida , Error while record saving in db Google Page Ref : https://www.google.com/maps/place/ONYX+INSURANCE/@27.7419452,-82.7262194,13z/data=!4m9!1m2!2m1!1sinsurance+agency+near+33711+Florida+USA!3m5!1s0x88c2e268d28926fb:0x9de85b429c983d1a!8m2!3d27.7489209!4d-82.6787981!15sCidpbnN1cmFuY2UgYWdlbmN5IG5lYXIgMzM3MTEgRmxvcmlkYSBVU0GSARBpbnN1cmFuY2VfYWdlbmN5?hl=en ,1054 (42S22): Unknown column 'business_category' in 'field list'
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711 , State -> Florida , Error while record saving in db Google Page Ref : https://www.google.com/maps/place/ONYX+INSURANCE/@27.7419452,-82.7262194,13z/data=!4m9!1m2!2m1!1sinsurance+agency+near+33711+Florida+USA!3m5!1s0x88c2e268d28926fb:0x9de85b429c983d1a!8m2!3d27.7489209!4d-82.6787981!15sCidpbnN1cmFuY2UgYWdlbmN5IG5lYXIgMzM3MTEgRmxvcmlkYSBVU0GSARBpbnN1cmFuY2VfYWdlbmN5?hl=en ,1054 (42S22): Unknown column 'business_category' in 'field list'
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711 , State -> Florida , Error while record saving in db Google Page Ref : https://www.google.com/maps/place/ONYX+INSURANCE/@27.7419452,-82.7262194,13z/data=!4m9!1m2!2m1!1sinsurance+agency+near+33711+Florida+USA!3m5!1s0x88c2e268d28926fb:0x9de85b429c983d1a!8m2!3d27.7489209!4d-82.6787981!15sCidpbnN1cmFuY2UgYWdlbmN5IG5lYXIgMzM3MTEgRmxvcmlkYSBVU0GSARBpbnN1cmFuY2VfYWdlbmN5?hl=en ,1054 (42S22): Unknown column 'business_category' in 'field list'
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711 , State -> Florida , Error while record saving in db Google Page Ref : https://www.google.com/maps/place/ONYX+INSURANCE/@27.7419452,-82.7262194,13z/data=!4m9!1m2!2m1!1sinsurance+agency+near+33711+Florida+USA!3m5!1s0x88c2e268d28926fb:0x9de85b429c983d1a!8m2!3d27.7489209!4d-82.6787981!15sCidpbnN1cmFuY2UgYWdlbmN5IG5lYXIgMzM3MTEgRmxvcmlkYSBVU0GSARBpbnN1cmFuY2VfYWdlbmN5?hl=en ,1054 (42S22): Unknown column 'business_category' in 'field list'
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711 , State -> Florida , Error while record saving in db Google Page Ref : https://www.google.com/maps/place/ONYX+INSURANCE/@27.7419452,-82.7262194,13z/data=!4m9!1m2!2m1!1sinsurance+agency+near+33711+Florida+USA!3m5!1s0x88c2e268d28926fb:0x9de85b429c983d1a!8m2!3d27.7489209!4d-82.6787981!15sCidpbnN1cmFuY2UgYWdlbmN5IG5lYXIgMzM3MTEgRmxvcmlkYSBVU0GSARBpbnN1cmFuY2VfYWdlbmN5?hl=en ,1054 (42S22): Unknown column 'business_category' in 'field list'
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712 , State -> Florida , Error while record saving in db Google Page Ref : https://www.google.com/maps/place/Helen+Wade:+Allstate+Insurance/@27.7446415,-82.7323761,12z/data=!4m9!1m2!2m1!1sinsurance+agency+near+33712+Florida+USA!3m5!1s0x88c2e271b62d4b97:0x87b348159f3fa7f4!8m2!3d27.7412855!4d-82.6775457!15sCidpbnN1cmFuY2UgYWdlbmN5IG5lYXIgMzM3MTIgRmxvcmlkYSBVU0FaKSInaW5zdXJhbmNlIGFnZW5jeSBuZWFyIDMzNzEyIGZsb3JpZGEgdXNhkgEQaW5zdXJhbmNlX2FnZW5jeZoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOaE5uTkhjRWgzRUFF?hl=en ,1054 (42S22): Unknown column 'business_category' in 'field list'
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711 , State -> Florida , Error while record saving in db Google Page Ref : https://www.google.com/maps/place/ONYX+INSURANCE/@27.7420883,-82.7262195,13z/data=!4m9!1m2!2m1!1sinsurance+agency+near+33711+Florida+USA!3m5!1s0x88c2e268d28926fb:0x9de85b429c983d1a!8m2!3d27.7489209!4d-82.6787981!15sCidpbnN1cmFuY2UgYWdlbmN5IG5lYXIgMzM3MTEgRmxvcmlkYSBVU0GSARBpbnN1cmFuY2VfYWdlbmN5?hl=en ,1054 (42S22): Unknown column 'business_category' in 'field list'
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711 , State -> Florida , Error while record saving in db Google Page Ref : https://www.google.com/maps/place/Direct+Auto+Insurance/@27.7420883,-82.7262195,13z/data=!4m9!1m2!2m1!1sinsurance+agency+near+33711+Florida+USA!3m5!1s0x88c2e2434070f4e9:0xbb64ad1448c42d5e!8m2!3d27.7589143!4d-82.6800969!15sCidpbnN1cmFuY2UgYWdlbmN5IG5lYXIgMzM3MTEgRmxvcmlkYSBVU0FaKSInaW5zdXJhbmNlIGFnZW5jeSBuZWFyIDMzNzExIGZsb3JpZGEgdXNhkgEVYXV0b19pbnN1cmFuY2VfYWdlbmN5?hl=en ,1054 (42S22): Unknown column 'business_category' in 'field list'
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711 , State -> Florida , Error while record saving in db Google Page Ref : https://www.google.com/maps/place/Scott+Nelms+-+State+Farm+Insurance+Agent/@27.724175,-82.7149709,13z/data=!4m9!1m2!2m1!1sinsurance+agency+near+33711+Florida+USA!3m5!1s0x88c31d8f6aa51563:0x652baa839df7451f!8m2!3d27.724175!4d-82.679952!15sCidpbnN1cmFuY2UgYWdlbmN5IG5lYXIgMzM3MTEgRmxvcmlkYSBVU0GSARBpbnN1cmFuY2VfYWdlbmN5?hl=en ,1054 (42S22): Unknown column 'business_category' in 'field list'
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711 , State -> Florida , Error while record saving in db Google Page Ref : https://www.google.com/maps/place/Coast+Insurance/@27.7420883,-82.7262195,13z/data=!4m9!1m2!2m1!1sinsurance+agency+near+33711+Florida+USA!3m5!1s0x88c2e27e43c15799:0x88cca04a3f629742!8m2!3d27.7358447!4d-82.6896887!15sCidpbnN1cmFuY2UgYWdlbmN5IG5lYXIgMzM3MTEgRmxvcmlkYSBVU0GSARBpbnN1cmFuY2VfYWdlbmN5?hl=en ,1054 (42S22): Unknown column 'business_category' in 'field list'
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711 , State -> Florida , Error while record saving in db Google Page Ref : https://www.google.com/maps/place/Direct+Auto+Insurance/@27.7420883,-82.7262195,13z/data=!4m9!1m2!2m1!1sinsurance+agency+near+33711+Florida+USA!3m5!1s0x88c2e2702325dce7:0x206672baeb6c664d!8m2!3d27.742362!4d-82.6782829!15sCidpbnN1cmFuY2UgYWdlbmN5IG5lYXIgMzM3MTEgRmxvcmlkYSBVU0FaKSInaW5zdXJhbmNlIGFnZW5jeSBuZWFyIDMzNzExIGZsb3JpZGEgdXNhkgEVYXV0b19pbnN1cmFuY2VfYWdlbmN5?hl=en ,1054 (42S22): Unknown column 'business_category' in 'field list'
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712 , State -> Florida , Error while record saving in db Google Page Ref : https://www.google.com/maps/place/United+One+Insurance/@27.7422314,-82.7262196,13z/data=!4m9!1m2!2m1!1sinsurance+agency+near+33712+Florida+USA!3m5!1s0x88c2e249546bdcd3:0x7800fcfef4eb9ac5!8m2!3d27.7715263!4d-82.6750867!15sCidpbnN1cmFuY2UgYWdlbmN5IG5lYXIgMzM3MTIgRmxvcmlkYSBVU0GSARBpbnN1cmFuY2VfYWdlbmN5?hl=en ,1054 (42S22): Unknown column 'business_category' in 'field list'
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712 , State -> Florida , Error while record saving in db Google Page Ref : https://www.google.com/maps/place/St.+Petersburg+Specialty+Insurance,+LLC/@27.7422314,-82.7262196,13z/data=!4m9!1m2!2m1!1sinsurance+agency+near+33712+Florida+USA!3m5!1s0x88c2e3af46a93591:0xb900a488c766c41d!8m2!3d27.7699437!4d-82.6628804!15sCidpbnN1cmFuY2UgYWdlbmN5IG5lYXIgMzM3MTIgRmxvcmlkYSBVU0GSARBpbnN1cmFuY2VfYnJva2Vy?hl=en ,1054 (42S22): Unknown column 'business_category' in 'field list'
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33712 , State -> Florida , Error while record saving in db Google Page Ref : https://www.google.com/maps/place/2Muha+Affordable+Home+Insurance/@27.7422314,-82.7262196,13z/data=!4m9!1m2!2m1!1sinsurance+agency+near+33712+Florida+USA!3m5!1s0x88c2e32b2604a321:0x459673708ae676d1!8m2!3d27.7690563!4d-82.6636419!15sCidpbnN1cmFuY2UgYWdlbmN5IG5lYXIgMzM3MTIgRmxvcmlkYSBVU0GSARVob21lX2luc3VyYW5jZV9hZ2VuY3k?hl=en ,1054 (42S22): Unknown column 'business_category' in 'field list'
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713 , State -> Florida , Error while record saving in db Google Page Ref : https://www.google.com/maps/place/Secure+Insurance+Agency/@27.7976795,-82.7154661,13z/data=!4m9!1m2!2m1!1sinsurance+agency+near+33713+Florida+USA!3m5!1s0x88c2e3bcd207f129:0xbacd930e927b734d!8m2!3d27.7976796!4d-82.6804456!15sCidpbnN1cmFuY2UgYWdlbmN5IG5lYXIgMzM3MTMgRmxvcmlkYSBVU0GSARBpbnN1cmFuY2VfYWdlbmN5?hl=en ,1054 (42S22): Unknown column 'business_category' in 'field list'
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713 , State -> Florida , Error while record saving in db Google Page Ref : https://www.google.com/maps/place/The+Starboard+Insurance+Group/@27.7423746,-82.7262197,13z/data=!4m9!1m2!2m1!1sinsurance+agency+near+33713+Florida+USA!3m5!1s0x88c2e19d9529ea3f:0x4d4d422462464b89!8m2!3d27.7711404!4d-82.6982856!15sCidpbnN1cmFuY2UgYWdlbmN5IG5lYXIgMzM3MTMgRmxvcmlkYSBVU0GSARBpbnN1cmFuY2VfYWdlbmN5?hl=en ,1054 (42S22): Unknown column 'business_category' in 'field list'
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713 , State -> Florida , Error while record saving in db Google Page Ref : https://www.google.com/maps/place/HH+Insurance+Group,+LLC/@27.7423746,-82.7262197,13z/data=!4m9!1m2!2m1!1sinsurance+agency+near+33713+Florida+USA!3m5!1s0x88c2e3327dfda32f:0xc2e0f46834324e56!8m2!3d27.7721719!4d-82.6805268!15sCidpbnN1cmFuY2UgYWdlbmN5IG5lYXIgMzM3MTMgRmxvcmlkYSBVU0GSARBpbnN1cmFuY2VfYWdlbmN5?hl=en ,1054 (42S22): Unknown column 'business_category' in 'field list'
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33713 , State -> Florida , Error while record saving in db Google Page Ref : https://www.google.com/maps/place/Moore+Resources+Insurance+Agency/@27.7423746,-82.7262197,13z/data=!4m9!1m2!2m1!1sinsurance+agency+near+33713+Florida+USA!3m5!1s0x88c2e2fbc75e5829:0xfb645bc8ff76e94!8m2!3d27.771147!4d-82.6955067!15sCidpbnN1cmFuY2UgYWdlbmN5IG5lYXIgMzM3MTMgRmxvcmlkYSBVU0GSARBpbnN1cmFuY2VfYWdlbmN5?hl=en ,1054 (42S22): Unknown column 'business_category' in 'field list'
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33715 , State -> Florida , Error while record saving in db Google Page Ref : https://www.google.com/maps/place/Cabbage+Key+Consulting+Inc/@27.7431461,-82.8312933,11z/data=!3m1!5s0x88c31ccfd326f145:0x9ffd02abc0ae1950!4m9!1m2!2m1!1sinsurance+agency+near+33715+Florida+USA!3m5!1s0x88c31ccfd08341cd:0x2c9595791ed8fdcd!8m2!3d27.6749249!4d-82.7266886!15sCidpbnN1cmFuY2UgYWdlbmN5IG5lYXIgMzM3MTUgRmxvcmlkYSBVU0GSARBpbnN1cmFuY2VfYWdlbmN5?hl=en ,1054 (42S22): Unknown column 'business_category' in 'field list'
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33715 , State -> Florida , Error while record saving in db Google Page Ref : https://www.google.com/maps/place/US+Integrity+Insurance+%26+Financial/@27.7431461,-82.8312933,11z/data=!4m9!1m2!2m1!1sinsurance+agency+near+33715+Florida+USA!3m5!1s0x88c31d7488fb9c43:0xad380502bcaae4ee!8m2!3d27.7115564!4d-82.6962634!15sCidpbnN1cmFuY2UgYWdlbmN5IG5lYXIgMzM3MTUgRmxvcmlkYSBVU0GSARBpbnN1cmFuY2VfYWdlbmN5?hl=en ,1054 (42S22): Unknown column 'business_category' in 'field list'
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33715 , State -> Florida , Error while record saving in db Google Page Ref : https://www.google.com/maps/place/Four+Point+Insurance+Inspctn/@27.7431461,-82.8312933,11z/data=!4m9!1m2!2m1!1sinsurance+agency+near+33715+Florida+USA!3m5!1s0x88c31d6a19b8d8ef:0x1a7ead77630e4e79!8m2!3d27.7154753!4d-82.7109351!15sCidpbnN1cmFuY2UgYWdlbmN5IG5lYXIgMzM3MTUgRmxvcmlkYSBVU0GSARBpbnN1cmFuY2VfYWdlbmN5?hl=en ,1054 (42S22): Unknown column 'business_category' in 'field list'
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33715 , State -> Florida , Error while record saving in db Google Page Ref : https://www.google.com/maps/place/Boyd+John/@27.7431461,-82.8312933,11z/data=!4m9!1m2!2m1!1sinsurance+agency+near+33715+Florida+USA!3m5!1s0x88c31cd9d633e489:0x987e3402d8e83c69!8m2!3d27.6835413!4d-82.7237437!15sCidpbnN1cmFuY2UgYWdlbmN5IG5lYXIgMzM3MTUgRmxvcmlkYSBVU0GSARBpbnN1cmFuY2VfYWdlbmN5?hl=en ,1054 (42S22): Unknown column 'business_category' in 'field list'
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33716 , State -> Florida , Error while record saving in db Google Page Ref : https://www.google.com/maps/place/One+Insurance/@27.8735439,-82.6896876,13z/data=!4m9!1m2!2m1!1sinsurance+agency+near+33716+Florida+USA!3m5!1s0x88c2e5c55d7a9a85:0xd36a8f3901b49f64!8m2!3d27.8832788!4d-82.6598859!15sCidpbnN1cmFuY2UgYWdlbmN5IG5lYXIgMzM3MTYgRmxvcmlkYSBVU0GSARBpbnN1cmFuY2VfYWdlbmN5?hl=en ,1054 (42S22): Unknown column 'business_category' in 'field list'
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33716 , State -> Florida , Error while record saving in db Google Page Ref : https://www.google.com/maps/place/Bankers+Insurance+Group/@27.8735439,-82.6896876,13z/data=!4m9!1m2!2m1!1sinsurance+agency+near+33716+Florida+USA!3m5!1s0x88c2e1834dc5a68f:0xe8294e269a30bc80!8m2!3d27.8746118!4d-82.6509759!15sCidpbnN1cmFuY2UgYWdlbmN5IG5lYXIgMzM3MTYgRmxvcmlkYSBVU0FaKSInaW5zdXJhbmNlIGFnZW5jeSBuZWFyIDMzNzE2IGZsb3JpZGEgdXNhkgERaW5zdXJhbmNlX2NvbXBhbnmaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUkRPVGxRVmxOM0VBRQ?hl=en ,1054 (42S22): Unknown column 'business_category' in 'field list'
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33716 , State -> Florida , Error while record saving in db Google Page Ref : https://www.google.com/maps/place/McGriff+Insurance+Services/@27.8735439,-82.6896876,13z/data=!3m1!5s0x88c2e5c79d592015:0xf10cab1e14e9b7a0!4m9!1m2!2m1!1sinsurance+agency+near+33716+Florida+USA!3m5!1s0x88c2e5223c9b9803:0xb83441be0683608c!8m2!3d27.8851179!4d-82.6691294!15sCidpbnN1cmFuY2UgYWdlbmN5IG5lYXIgMzM3MTYgRmxvcmlkYSBVU0FaKSInaW5zdXJhbmNlIGFnZW5jeSBuZWFyIDMzNzE2IGZsb3JpZGEgdXNhkgEQaW5zdXJhbmNlX2Jyb2tlcpoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOeExWQnlhbkIzUlJBQg?hl=en ,1054 (42S22): Unknown column 'business_category' in 'field list'
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33716 , State -> Florida , Error while record saving in db Google Page Ref : https://www.google.com/maps/place/Cincinnati+Insurance+Co/@27.8735439,-82.6896876,13z/data=!3m1!5s0x88c2e8776d47c533:0xa400ad2ec50bdb00!4m9!1m2!2m1!1sinsurance+agency+near+33716+Florida+USA!3m5!1s0x88c2e5c4931e8101:0x276191168e9a010e!8m2!3d27.8858953!4d-82.6608037!15sCidpbnN1cmFuY2UgYWdlbmN5IG5lYXIgMzM3MTYgRmxvcmlkYSBVU0GSARBpbnN1cmFuY2VfYWdlbmN5?hl=en ,1054 (42S22): Unknown column 'business_category' in 'field list'
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33716 , State -> Florida , Error while record saving in db Google Page Ref : https://www.google.com/maps/place/Stahl+%26+Associates+Insurance/@27.8735439,-82.6896876,13z/data=!4m9!1m2!2m1!1sinsurance+agency+near+33716+Florida+USA!3m5!1s0x88c2e5c18afee07d:0xa0a686f3a019f0cb!8m2!3d27.8927355!4d-82.6632032!15sCidpbnN1cmFuY2UgYWdlbmN5IG5lYXIgMzM3MTYgRmxvcmlkYSBVU0GSARBpbnN1cmFuY2VfYWdlbmN5?hl=en ,1054 (42S22): Unknown column 'business_category' in 'field list'
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 2  Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=100.0.4896.75)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=100.0.4896.75)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=100.0.4896.75)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=100.0.4896.75)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=100.0.4896.75)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: element click intercepted: Element <a aria-label="Holder Plumbing LLC" jsaction="pane.wfvdle6070;focus:pane.wfvdle6070;blur:pane.wfvdle6070;auxclick:pane.wfvdle6070;contextmenu:pane.wfvdle6070;keydown:pane.wfvdle6070;clickmod:pane.wfvdle6070" jstcache="820" href="https://www.google.com/maps/place/Holder+Plumbing+LLC/data=!4m6!3m5!1s0x88c2e3311743b41b:0xcde54c61c1450187!8m2!3d27.846862!4d-82.6934036!16s%2Fg%2F1tff_8wg?authuser=0&amp;hl=en&amp;rclk=1" class="hfpxzc" jsan="7.hfpxzc,0.aria-label,8.href,0.jsaction"></a> is not clickable at point (201, 403). Other element would receive the click: <span jstcache="711" class="uEubGf fontTitleSmall" jsan="7.uEubGf,7.fontTitleSmall">...</span>
+  (Session info: chrome=100.0.4896.75)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(@aria-label, "Advanced Plumbing Services St Petersburg")]"}
+  (Session info: chrome=100.0.4896.75)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(@aria-label, "Vail Plumbing Inc")]"}
+  (Session info: chrome=100.0.4896.75)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(@aria-label, "KURT MACINTYRE PLUMBING LLC")]"}
+  (Session info: chrome=100.0.4896.75)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(@aria-label, "Johnnie Jones Plumbing Co Inc")]"}
+  (Session info: chrome=100.0.4896.75)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(@aria-label, "Pasadena Plumbing Inc")]"}
+  (Session info: chrome=100.0.4896.75)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception Of listing loop Record Skipped , page no : 1  Message: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(@aria-label, "Inman Plumbing")]"}
+  (Session info: chrome=100.0.4896.75)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 1  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZIP Code 33711, State -> Florida , Exception of Selector Modeule Skipping Record  , page no : 2  Message: 
