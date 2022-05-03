@@ -19,6 +19,7 @@ from selenium.webdriver.remote.command import Command
 import pdb
 import csv
 import re
+import validators
 
 # from geopy.geocoders import Nominatim
 
@@ -42,7 +43,7 @@ import re
 # ***************  For server use only  **************
 
 chrome_options = Options()
-# chrome_options.add_argument("--headless")
+chrome_options.add_argument("--headless")
 # chrome_options.add_argument('--no-sandbox')
 # chrome_options.add_argument('--disable-dev-shm-usage')
 # chrome_options.add_argument("--window-size=1920,1080")
@@ -112,16 +113,19 @@ def scrape_data():
     print("scrape_data ------------->")
     page_data=[]
 
-    global search_content,scraping_zip,div_count,page_number,div_number,elementClick,input_state,driver,div_exception,wait,user_category
+    global search_content,scraping_zip,div_count,page_number,div_number,elementClick,input_state,driver,div_exception,wait,user_category, facebook_link
     wait = WebDriverWait(driver, 5)
     wait_elem = WebDriverWait(driver,4)
+    page_number = 0
     print('Page No.',page_number)
     div_count=0
     print("search done")
     for i in range(0,page_number):
-        driver.find_elements_by_xpath("//button[contains(@aria-label,'Next page')]")[1].click()
+        sleep(1)
+        driver.find_elements_by_xpath("//button[contains(@aria-label,' Next page ')]")[0].click()
 
     sleep(2)
+    print("Scrapping start")
     try:
         wait.until(EC.visibility_of_element_located((By.XPATH,'//div[contains(@class, "Nv2PK")]')))
         # wait.until(EC.visibility_of_element_located((By.XPATH,'//span[contains(@class, "n7lv7yjyC35__left")]')))
@@ -141,6 +145,7 @@ def scrape_data():
         for pg_no in range(1,11):
             for i in range(0,6):
                 scroll_down = 1
+                wait.until(EC.visibility_of_element_located((By.XPATH, '//div[contains(@aria-label, "Results for '+search_content+'")]')))
                 driver.find_element_by_xpath('//div[contains(@aria-label, "Results for '+search_content+'")]').send_keys(Keys.END)
                 sleep(1)
 
@@ -263,7 +268,7 @@ def scrape_data():
                     if phone_number is None:
                         phone_number=''
                     else:
-                        phone_number = phone_number.replace('Phone: ', '').strip()
+                        phone_number = phone_number.replace('Phone: +', '').strip().replace(' ','-')
 
                     print("Phone No.",phone_number)
 
@@ -276,15 +281,16 @@ def scrape_data():
                     else:
                         url = url.replace('Website: ', '').strip()
                         print(url , "this is url ")
+                        url = validate_website_url("https://"+url)
 
                     ################ Get EMAIL FROM FACEBOOK ################
 
                     ################ EMAIL #################
                     # email = ''
                     ################ Facebook link #################
-                    facebook_link=''
+                    facebook_link = ''
                     ################ LinkedIn Link #################
-                    linkdin_link=''
+                    linkdin_link = ''
                     ################ ADDRESS #################
 
                     address = sel.xpath('//button[@data-item-id="address"]/@aria-label').extract_first()
@@ -410,12 +416,15 @@ def scrape_data():
                     print("Number Of Reviews : ",number_of_reviews)
                     input_zip = scraping_zip
                     # if address_zip_code == int(input_zip):
-                    zipdata =[user_category,agency_name,agency_name,phone_number,phone_number,email,address,category,reference,float(review_score),int(number_of_reviews),url,
-                              logo,facebook_link,linkdin_link,address_zip_code,address_street.strip(),address_city,address_state,address_country,
-                              latitude,longitude,str(datetime.datetime.now()),str(datetime.datetime.now())]
+                    # zipdata = [user_category,agency_name,agency_name,phone_number,email,address,url]
+                    zipdata = [user_category, agency_name, agency_name, phone_number, email, address, reference, url, logo, facebook_link ]
+                    # zipdata =[user_category,agency_name,agency_name,phone_number,phone_number,email,address,category,reference,float(review_score),int(number_of_reviews),url,
+                    #           logo,facebook_link,linkdin_link,address_zip_code,address_street.strip(),address_city,address_state,address_country,
+                    #           latitude,longitude,str(datetime.datetime.now()),str(datetime.datetime.now())]
+
                     # mon.strip(),tue.strip(),wed.strip(),
                     #                       thu.strip(),fri.strip(),sat.strip(),sun.strip()
-                    if email != "Email not found": 
+                    if email != "Email not found" and address != '' and phone_number != '': 
                         page_data.append(zipdata)
                         print("write records into file ------------->")
                         csvwriter.writerows([zipdata])
@@ -434,22 +443,26 @@ def scrape_data():
                     # skip_log.write(f'\n++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n\n'
                     #           f' ZIP Code {scraping_zip}, State -> {input_state} , Exception While Scraping Record Skipped  , Page No. {page_number}, url -> {reference} {e}')
                     # skip_log.close()
-                    csvwriter.writerows(page_data)
+                    csvwriter.writerows([zipdata])
                     continue
                 print("Fetch records ---> ",listing)
                 if listing == (div_list_count-1):
                     # csvwriter.writerows(page_data)
                     page_data=[]
-                    driver.find_elements_by_xpath("//button[contains(@aria-label,'Next page')]")[1].click()
+                    try:
+                        wait.until(EC.element_to_be_clickable((By.XPATH, "//button[contains(@aria-label,' Next page ')]")))
+                        driver.find_element_by_xpath("//button[contains(@aria-label,' Next page ')]").click()
+                    except:
+                        wait.until(EC.element_to_be_clickable((By.XPATH, "//button[contains(@aria-label,' Next page ')]")))
+                        driver.find_element_by_xpath("//button[contains(@aria-label,' Next page ')]").click()
                     break
-            if pg_no*20 > 100:
-                break
+                print("Fetch records Page-No ---> ",pg_no)
     sleep(1)
     return page_data
 
 def facebook_scrap(agency_name, url, address):
     print("Facebook Scrapping");
-    global driver,div_exception,wait,user_category
+    global driver,div_exception,wait,user_category, facebook_link
 
     driver.execute_script("window.open('');")
     sleep(2)
@@ -462,6 +475,7 @@ def facebook_scrap(agency_name, url, address):
     facebook_click = driver.find_element_by_xpath("//div[contains(@class,'yuRUbf')]")
     facebook_click.click()
     sleep(1)
+    facebook_link = driver.current_url
     facebook_text = driver.find_element_by_tag_name('body').text
     match = re.findall(r'[\w.+-]+@[\w-]+\.[\w.-]+',facebook_text)
 
@@ -473,6 +487,17 @@ def facebook_scrap(agency_name, url, address):
     else:
         return "Email not found"
 
+def validate_website_url(url):
+    print('validate website url')
+
+    social_links = ["google.com","facebook.com","fb.com","twitter.com","business.site"]
+    if any(s in url for s in social_links):
+        return ''
+
+    if validators.url(url):
+        return url
+    else:
+        return ''
 
 def click_fun(execString,waitingCount):
     print("click_fun kar reha")
@@ -594,8 +619,12 @@ def scraper():
                 break
             except:
                 pass
-            wait.until(EC.element_to_be_clickable((By.XPATH, "//button[contains(@aria-label,'Next page')]")))
-            driver.find_element_by_xpath("//button[contains(@aria-label,'Next page')]").click()
+
+            try:
+                # wait.until(EC.element_to_be_clickable((By.XPATH, "//button[contains(@aria-label,' Next page ')]")))
+                driver.find_element_by_xpath("//button[contains(@aria-label,' Next page ')]")
+            except:
+                continue
             page_number += 1
             temp_data = scrape_data()
             if temp_data == "scrap_data_exception":
@@ -625,7 +654,7 @@ def search():
     print('\n')
     print('Scraping '+user_category+' agency near ' + scraping_zip)
     search_input.clear()
-    search_content = user_category+' near ' + scraping_zip + ' ' + input_state + ' USA'
+    search_content = user_category+' service near ' + scraping_zip + ' ' + input_state + ' USA'
     search_input.send_keys(search_content)
     search_input.send_keys(Keys.ENTER)
     wait.until(EC.url_contains(input_state.replace(' ','+')))
@@ -645,9 +674,12 @@ error = ''
 elementClick = 'div'
 chromedriver_count = 1
 div_exception = False
-user_category = "Plumbers"
-fields = ['Category','Name','Business', 'Phone number','Business number', 'Email','Address', 'Business_category', 'Maps_reference', 'Review_score', 'Number_of_reviews', 'Url', 'Logo', 'Facebook_page', 'Linkedin_page', 'Zip_code', 'Street', 'City', 'State', 'Country', 'Latitude', 'Longitude', 'Created_at', 'Updated_at']
-filename = user_category+"_records.csv"
+all_categories = ["Appliances", "Plumbers", "HVACs", "Landscapers", "Electricians", "Mechanics", "Handyman"]
+user_category = all_categories[1]
+# fields = ['Category','Name','Business', 'Phone number','Business number', 'Email','Address', 'Business_category', 'Maps_reference', 'Review_score', 'Number_of_reviews', 'Business website', 'Logo', 'Facebook_page', 'Linkedin_page', 'Zip_code', 'Street', 'City', 'State', 'Country', 'Latitude', 'Longitude', 'Created_at', 'Updated_at']
+fields = ['Category','Name','Business','Business number', 'Email','Address', 'Map Reference', 'Business website', 'Logo', 'Facebook']
+# fields = ['Category','Name','Business','Business number', 'Email','Address', 'Business website']
+filename = user_category+"_Massachusetts_records.csv"
 # writing to csv file
 with open(filename, 'w') as csvfile:
     # creating a csv writer
@@ -659,12 +691,13 @@ try:
     line = checkErrorLogs()
     make_new_log("Error_Check.log")
 ################# Update InPut CSV Here ######################
-    df=pd.read_csv('Master_Csv_Virginia_to_Wisconsin+Florida.csv',sep=',')
+    # df=pd.read_csv('Master_Csv_Virginia_to_Wisconsin+Florida.csv',sep=',')
+    df = pd.read_csv('Master_Csv_Colorado_to_Massachusetts.csv',sep=',')
     if line != 'normal':
         start_line = line.split(',')
         starting_zip = start_line[1].strip()
         starting_page = int(start_line[3].strip())
-        df=df.loc[(df['ZIP Code'] == 'ZIP Code ' +starting_zip).idxmax():]
+        df=df.loc[(df['ZIP Code'] == 'ZIP Code ' + starting_zip).idxmax():]
     else:
         starting_zip=''
         starting_page =0
@@ -680,28 +713,23 @@ try:
         else:
             chromedriver_fun()
             search()
-            pdb.set_trace()
             div_exception_count = 0
             try:
                 if line != 'normal':
                     line = 'normal'
                     if starting_page == 2:
-                        page_number = 1
                         div_count= 21
                     else:
                         div_count = 21
-                        click_count = 10
-                        page_number = 1
+                        click_count = 0
                         for x in range(0,click_count):
-                            pdb.set_trace()
                             sleep(2)
                             try:
-                                wait.until(EC.presence_of_element_located((By.XPATH,"//button[contains(@aria-label,'Next page')]")))
-                            except:
-                                continue
-                            wait.until(EC.element_to_be_clickable((By.XPATH, "//button[contains(@aria-label,'Next page')]"))).click()
-                            page_number=page_number+1
-                            sleep(3)
+                                wait.until(EC.presence_of_element_located((By.XPATH,"//button[contains(@aria-label,' Next page ')]")))
+                                wait.until(EC.element_to_be_clickable((By.XPATH, "//button[contains(@aria-label,' Next page ')]"))).click()
+                            except Exception as e:
+                                print("Error -> ",e)
+                            sleep(2)
 ###### If No records on searched Zip Code ########
                 # driver.find_element_by_id('pane');
                 driver.find_element_by_class_name('section-partial-interpretation')
