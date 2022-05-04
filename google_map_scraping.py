@@ -124,7 +124,6 @@ def scrape_data():
         sleep(1)
         driver.find_elements_by_xpath("//button[contains(@aria-label,' Next page ')]")[0].click()
 
-    sleep(2)
     print("Scrapping start")
     try:
         wait.until(EC.visibility_of_element_located((By.XPATH,'//div[contains(@class, "Nv2PK")]')))
@@ -154,10 +153,10 @@ def scrape_data():
 
             div_list_count = len(div_list)
 
-            for i in range(0,div_list_count):
+            for i in range(0, div_list_count):
                 comp_name.append( div_list[i].get_attribute("aria-label") )
 
-            for listing in range(0,div_list_count):
+            for listing in range(0, div_list_count):
                 if scroll_down != 1:
                     for i in range(0,6):
                         sleep(1)
@@ -168,7 +167,6 @@ def scrape_data():
                 try:
                     # if listing == 1:
                     #     sleep(1)
-
 
                     # left_content = div_list[listing].find_element_by_class_name("y7PRA")
                     # print(left_content.text)
@@ -648,13 +646,21 @@ def chromedriver_fun():
 
 def search():
     print("Start Searching -------------> ")
-    global scraping_zip,input_state,driver,wait,search_content
+    global scraping_zip,input_state,driver,wait,search_content,filename,fields
     search_input = driver.find_element_by_xpath('//*[@id="searchboxinput"]')
     print(search_input);
     print('\n')
+    filename = user_category+"_"+input_state+"_records.csv"
+    # writing to csv file
+    with open(filename, 'w') as csvfile:
+        # creating a csv writer
+        csvwriter = csv.writer(csvfile)
+        # writing the fields
+        csvwriter.writerow(fields)
+
     print('Scraping '+user_category+' agency near ' + scraping_zip)
     search_input.clear()
-    search_content = user_category+' service near ' + scraping_zip + ' ' + input_state + ' USA'
+    search_content = user_category+' service in ' + scraping_zip + ' ' + input_state + ' USA'
     search_input.send_keys(search_content)
     search_input.send_keys(Keys.ENTER)
     wait.until(EC.url_contains(input_state.replace(' ','+')))
@@ -675,24 +681,18 @@ elementClick = 'div'
 chromedriver_count = 1
 div_exception = False
 all_categories = ["Appliances", "Plumbers", "HVACs", "Landscapers", "Electricians", "Mechanics", "Handyman"]
-user_category = all_categories[1]
+user_category = all_categories[0]
 # fields = ['Category','Name','Business', 'Phone number','Business number', 'Email','Address', 'Business_category', 'Maps_reference', 'Review_score', 'Number_of_reviews', 'Business website', 'Logo', 'Facebook_page', 'Linkedin_page', 'Zip_code', 'Street', 'City', 'State', 'Country', 'Latitude', 'Longitude', 'Created_at', 'Updated_at']
 fields = ['Category','Name','Business','Business number', 'Email','Address', 'Map Reference', 'Business website', 'Logo', 'Facebook']
 # fields = ['Category','Name','Business','Business number', 'Email','Address', 'Business website']
-filename = user_category+"_Massachusetts_records.csv"
-# writing to csv file
-with open(filename, 'w') as csvfile:
-    # creating a csv writer
-    csvwriter = csv.writer(csvfile)
-    # writing the fields
-    csvwriter.writerow(fields)
+
 try:
     sleep(2)
     line = checkErrorLogs()
     make_new_log("Error_Check.log")
 ################# Update InPut CSV Here ######################
     # df=pd.read_csv('Master_Csv_Virginia_to_Wisconsin+Florida.csv',sep=',')
-    df = pd.read_csv('Master_Csv_Colorado_to_Massachusetts.csv',sep=',')
+    df = pd.read_csv('USA_States_list.csv',sep=',')
     if line != 'normal':
         start_line = line.split(',')
         starting_zip = start_line[1].strip()

@@ -1,0 +1,51 @@
+State,ZIP Code,City,County,Type
+Alabama,35004 – 36925,Montgomery,Jefferson,P.O. Box
+Alaska,99501 – 99950,Juneau,Jefferson,Standard
+Arizona,85001 – 86556,Phoenix,Jefferson,Standard
+Arkansas,71601 – 72959,Little Rock,Jefferson,Standard
+California,90001 – 96162,Sacramento,Jefferson,Standard
+Colorado,80001 – 81658,Denver,Jefferson,P.O. Box
+Connecticut,06001 – 06928,Hartford,Jefferson,Standard
+Delaware,19701 – 19980,Dover,Arapahoe,Standard
+Florida,32003 – 34997,Tallahassee,Arapahoe,Standard
+Georgia,30002 – 39901,Atlanta,Arapahoe,Standard
+Hawaii,96701 – 96898,Honolulu,Arapahoe,Standard
+Idaho,83201 – 83877,Boise,Arapahoe,Standard
+Illinois,60001 – 62999,Springfield,Arapahoe,Standard
+Indiana,46001 – 47997,Indianapolis,Arapahoe,Standard
+Iowa,50001 – 52809,Des Moines,Arapahoe,Standard
+Kansas,66002 – 67954,Topeka,Arapahoe,Standard
+Kentucky,40003 – 42788,Frankfort,Adams,Standard
+Louisiana,70001 – 71497,Baton Rouge,Broomfield,Standard
+Maine,03901 – 04992,Augusta,Jefferson,Standard
+Maryland,20588 – 21930,Annapolis,Adams,Standard
+Massachusetts,01001 – 05544,Boston,Broomfield,Standard
+Michigan,48001 – 49971,Lansing,Adams,P.O. Box
+Minnesota,55001 – 56763,Saint Paul,Boulder,P.O. Box
+Mississippi,38601 – 39776,Jackson,Boulder,Standard
+Missouri,63001 – 65899,Jefferson City,Boulder,Standard
+Montana,59001 – 59937,Helena,Adams,Standard
+Nebraska,68001 – 69367,Lincoln,Adams,Standard
+Nevada,88901 – 89883,Carson City,Jefferson,Standard
+New Hampshire,03031 – 03897,Concord,Jefferson,P.O. Box
+New Jersey,07001 – 08989,Trenton,Adams,P.O. Box
+New Mexico,87001 – 88439,Santa Fe,Adams,P.O. Box
+New York,00501 – 14925,Albany,Adams,P.O. Box
+North Carolina,27006 – 28909,Raleigh,Broomfield,P.O. Box
+North Dakota,58001 – 58856,Bismarck,Adams,P.O. Box
+Ohio,43001 – 45999,Columbus,Arapahoe,P.O. Box
+Oklahoma,73001 – 74966,Oklahoma City,Adams,P.O. Box
+Oregon,97001 – 97920,Salem,Arapahoe,P.O. Box
+Pennsylvania,15001 – 19640,Harrisburg,Adams,Standard
+Rhode Island,02801 – 02940,Providence,Arapahoe,P.O. Box
+South Carolina,29001 – 29945,Columbia,Arapahoe,P.O. Box
+South Dakota,57001 – 57799,Pierre,Elbert,Standard
+Tennessee,37010 – 38589,Nashville,Adams,Standard
+Texas,73301 – 88595,Austin,Arapahoe,Standard
+Utah,84001 – 84791,Salt Lake City,Douglas,Standard
+Vermont,05001 – 05907,Montpelier,Arapahoe,Standard
+Virginia,20101 – 24658,Richmond,El Paso,Standard
+Washington,98001 – 99403,Olympia,Elbert,Standard
+West Virginia,24701 – 26886,Charleston,Douglas,Standard
+Wisconsin,53001 – 54990,Madison,Douglas,Standard
+Wyoming,82001 – 83414,Cheyenne,Arapahoe,Standard
